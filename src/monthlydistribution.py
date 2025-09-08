@@ -7,14 +7,17 @@ def monthly_distribution_counts():
     total_weight, total_quantity, total_value) in a separate summary file. 
     """
     input_dirs = [
-        "../data/FH 2024 Split by County",
-        "../data/FH 2025 Split by County",
         "../data/FY 2023 Split by County", 
         "../data/FY 2024 Split by County", 
         "../data/FY 2025 Split by County", 
     ]
 
     output_file = "../data/total_monthly_distributions.csv"
+
+    # clear old output file if it exists
+    if os.path.exists(output_file):
+        os.remove(output_file)
+
     summary_rows = []
 
     for input_dir in input_dirs:
@@ -43,7 +46,12 @@ def monthly_distribution_counts():
                 print("No 'Pickup Delivery Date' in {filename}, skipping.")
                 continue
 
-            df["Pickup Delivery Date"] = pd.to_datetime(df["Pickup Delivery Date"], errors='coerce')
+            df["Pickup Delivery Date"] = pd.to_datetime(
+                df["Pickup Delivery Date"], 
+                format="%m/%d/%Y %I:%M:%S %p", 
+                errors='coerce'
+                )
+
             df["Month"] = df["Pickup Delivery Date"].dt.to_period("M").astype(str)
 
             # Group by month
@@ -63,6 +71,8 @@ def monthly_distribution_counts():
 
     if summary_rows:
         result_df = pd.concat(summary_rows, ignore_index=True)
+        # sorts by county and month
+        result_df = result_df.sort_values(by=["County", "Month"])
         result_df.to_csv(output_file, index=False)
         print(f"Monthly totals written to: {output_file}")
     else:
