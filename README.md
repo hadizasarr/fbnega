@@ -2,7 +2,7 @@ Goal: Background of FBNEGA and gain understanding of project.
 Organization purpose: Gather donated and purchased food from a variety of different sources to distribute amongst those individuals in need residing in their service region. 
 Problem: FBNEGA needs to understand the change in distribution patterns over time, specifically the changes from the first half (FH) of 2024 to FH 2025, and among fiscal year (FY) 2023, 2024, and 2025, so that they can determine what volume of food they need to distribute among their service region. 
 
-*** To run code: python3 [name of script] *** 
+*** To run code: python3 [name of script] in src *** 
 
 Questions to explore:
 1) What are the distribution trends for each county?
