@@ -31,26 +31,37 @@ def plot_all_counties():
     # we want to plot from Jul of one year to Jun of the next year
     month_pos = {7:0,8:1,9:2,10:3,11:4,12:5,1:6,2:7,3:8,4:9,5:10,6:11}
     month_labels = ['Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun']
+    bar_width = 0.20
+    x_base = list(range(12))
 
     for county in unique_counties:
         county_df = df[df["County"] == county].copy()
 
-        plt.figure(figsize=(10,6))
+        plt.figure(figsize=(12,6))
 
-        for fy in ['FY 2023', 'FY 2024', 'FY 2025']:
+        for i, fy in enumerate (['FY 2023', 'FY 2024', 'FY 2025']):
             fy_data = county_df[county_df['Fiscal Year'] == fy]
-            x = fy_data["Fiscal Month"].map(month_pos)
-            # here, each element of x is paired with each element of fy_data["Weight"],
-            # internally, i ranges from 0 to length of fy_data - 1, and
-            # this plots a point at x[i], fy_data["Weight"][i]
-            plt.plot(x, fy_data['Weight'], marker='o', label=fy)
 
-        plt.xticks(ticks=list(month_pos.values()), labels=month_labels)
+            # initialize y values for all months to 0, so missing data values are taken care of
+            y_values = [0] * 12
+            for index, row in fy_data.iterrows():
+                month_index = month_pos[row["Fiscal Month"]]
+                y_values[month_index] = row["Weight"]
+
+            # for each year, calculate list of all x positions where we want to plot a bar,
+            # positions are offset by (i - 1) * bar_width to group bars for year side-by-side 
+            # ex. positions for 2023 are shifted left by bar_width,
+            # Jul 2023, Aug 2023, . . . would be 0 - bar_width, 1 - bar_width, . . . 
+            x_positions = [x + (i - 1) * bar_width for x in x_base]
+            # here, each element of x positions is paired with each element of y values
+            plt.bar(x_positions, y_values, width=bar_width, label=fy)
+
+        plt.xticks(ticks = x_base, labels = month_labels)
         plt.xlabel("Month")
         plt.ylabel("Food distribution weight")
         plt.title(f"Year-Over-Year Food Distribution by Month - {county}")
         plt.legend(title = "Fiscal Year")
-        plt.grid(True)
+        plt.grid(True, axis = 'y')
         plt.tight_layout()
 
         # Save plot to file
