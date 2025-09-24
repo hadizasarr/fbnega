@@ -7,7 +7,7 @@ def fh2024_sortedbycounty():
     Prints a row count summary to confirm integrity.
     """
     file_path = "../data/data csv/Sorted_FH2024.csv"
-    output_dir = "../data/Sorted Food/Sorted_FH2024"
+    output_dir = "../data/Sorted Food/Sorted_FH2024 Split By County"
 
     print(file_path)
 
