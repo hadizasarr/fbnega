@@ -6,12 +6,12 @@ Problem: FBNEGA needs to understand the change in distribution patterns over tim
 
 Questions to explore:
 1) What are the distribution trends for each county?
-a) Plot overall food distributed by month for each county.
+> a) Plot overall food distributed by month for each county.
+> b) Compare year-over-year distribution by month (e.g., January 2024 compared to January 2025) for each county.
+> c) Calculate all-time food distributed by county over each time period:
+>> i) Compare FY 2023, 2024, and 2025 totals.
+>> ii) Compare FH 2024 total to FH 2025 total. <br \>
 
-b) Compare year-over-year distribution by month (e.g., January 2024 compared to January 2025) for each county.
-c) Calculate all-time food distributed by county over each time period:
-i) Compare FY 2023, 2024, and 2025 totals.
-ii) Compare FH 2024 total to FH 2025 total.
 2) Do a “deep dive” on each county where significant changes in output are noted, either year-over-year by month, or over FHs or FYs:
-a) Was there a drastic change in distribution for a specific product category?
-b) Was there a drastic change in distribution for a specific partner agency?
+> a) Was there a drastic change in distribution for a specific product category?
+> b) Was there a drastic change in distribution for a specific partner agency?
