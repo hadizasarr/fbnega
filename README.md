@@ -10,7 +10,7 @@ Questions to explore:
 > b) Compare year-over-year distribution by month (e.g., January 2024 compared to January 2025) for each county.
 > c) Calculate all-time food distributed by county over each time period:
 >> i) Compare FY 2023, 2024, and 2025 totals.
->> ii) Compare FH 2024 total to FH 2025 total. <br \>
+>> ii) Compare FH 2024 total to FH 2025 total. 
 
 2) Do a “deep dive” on each county where significant changes in output are noted, either year-over-year by month, or over FHs or FYs:
 > a) Was there a drastic change in distribution for a specific product category?
