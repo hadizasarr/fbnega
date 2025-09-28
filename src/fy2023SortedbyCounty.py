@@ -1,12 +1,12 @@
 import pandas as pd
 import os
 
-def fh2024_sortedbycounty():
+def fy2023_by_county():
 
-    file_path = "../data/data csv/Sorted_FH2024.csv"
-    output_dir = "../data/Sorted Food/Sorted_FH2024 Split By County"
+    file_path = "../data/data csv/FY 2023 by County Totals.csv"
+    output_dir = "../data/Sorted Food/Sorted_FY2023 Split By County"
     dict_path = "../data/data csv/FBNEGA Dictionary.csv"
-    sorted_whole_output_dir = "../data/data csv/Sorted_FH2024.csv"
+    sorted_whole_output_dir = "../data/data csv/Sorted_FY2023.csv"
 
     print(file_path)
 
@@ -17,27 +17,19 @@ def fh2024_sortedbycounty():
         print(f"Could not load the CSV file: {e}")
         return
 
-    # Basic preview
-    print("File loaded successfully!")
-    print("Columns:", list(df.columns))
-    print("Number of rows:", len(df))
-    print("Counties found:", df["County"].unique())
+    # update Sorted_FY2023.csv file
+    sorted_fy2023 = pd.merge(df, dict_data, how='left', on='Product Name')
+    sorted_fy2023.to_csv(sorted_whole_output_dir, index=False)
 
-    # update Sorted_FH2025.csv file
-    sorted_fh2024 = pd.merge(df, dict_data, how='left', on=['Product Name', 'Food Category'])
-    sorted_fh2024.to_csv(sorted_whole_output_dir, index=False)
-
-    # Ensure output directory exists
+    # ensure output directory exists
     os.makedirs(output_dir, exist_ok=True)
 
-    # Dictionary to store row counts per county
     row_summary = {}
-
     # Split and write files
-    for county in df["County"].unique():
-        county_df = df[df["County"] == county]
+    for county in sorted_fy2023["County"].unique():
+        county_df = sorted_fy2023[sorted_fy2023["County"] == county]
         safe_name = county.replace(" ", "_").replace("/", "-")
-        output_path = os.path.join(output_dir, f"{safe_name}_Sorted_FH2024.csv")
+        output_path = os.path.join(output_dir, f"{safe_name}_Sorted_FY2023.csv")
 
         county_df.to_csv(output_path, index=False)
 
@@ -60,4 +52,5 @@ def fh2024_sortedbycounty():
     else:
         print("Row count mismatch. Check for filtering errors.")
 
-fh2024_sortedbycounty()
+
+fy2023_by_county()
