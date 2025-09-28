@@ -23,7 +23,7 @@ def fh2024_sortedbycounty():
     print("Number of rows:", len(df))
     print("Counties found:", df["County"].unique())
 
-    # update Sorted_FH2025.csv file
+    # sort dataframe
     sorted_fh2024 = pd.merge(df, dict_data, how='left', on=['Product Name', 'Food Category'])
     sorted_fh2024.to_csv(sorted_whole_output_dir, index=False)
 
@@ -34,8 +34,8 @@ def fh2024_sortedbycounty():
     row_summary = {}
 
     # Split and write files
-    for county in df["County"].unique():
-        county_df = df[df["County"] == county]
+    for county in sorted_fh2024["County"].unique():
+        county_df = sorted_fh2024[sorted_fh2024["County"] == county]
         safe_name = county.replace(" ", "_").replace("/", "-")
         output_path = os.path.join(output_dir, f"{safe_name}_Sorted_FH2024.csv")
 

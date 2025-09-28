@@ -17,7 +17,7 @@ def fy2024_by_county():
         print(f"Could not load the CSV file: {e}")
         return
 
-    # update Sorted_FY2024.csv file
+    # sort dataframe
     sorted_fy2024 = pd.merge(df, dict_data, how='left', on='Product Name')
     sorted_fy2024.to_csv(sorted_whole_output_dir, index=False)
 

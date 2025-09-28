@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import os
 
@@ -18,7 +17,7 @@ def fy2025_by_county():
         print(f"Could not load the CSV file: {e}")
         return
 
-    # update Sorted_FY2025.csv file
+    # sort dataframe
     sorted_fy2025 = pd.merge(df, dict_data, how='left', on='Product Name')
     sorted_fy2025.to_csv(sorted_whole_output_dir, index=False)
 

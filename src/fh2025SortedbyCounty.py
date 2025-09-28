@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-def fy2025_by_county():
+def fh2025_by_county():
 
     file_path = "../data/data csv/FH 2025 by County Totals.csv"
     output_dir = "../data/Sorted Food/Sorted_FH2025 Split By County"
@@ -17,7 +17,7 @@ def fy2025_by_county():
         print(f"Could not load the CSV file: {e}")
         return
 
-    # update Sorted_FH2025.csv file
+    # sort data frame
     sorted_fh2025 = pd.merge(df, dict_data, how='left', on='Product Name')
     sorted_fh2025.to_csv(sorted_whole_output_dir, index=False)
 
@@ -53,4 +53,4 @@ def fy2025_by_county():
         print("Row count mismatch. Check for filtering errors.")
 
 
-fy2025_by_county()
+fh2025_by_county()
