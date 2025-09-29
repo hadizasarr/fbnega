@@ -1,9 +1,10 @@
 import pandas as pd
 import os
+import re
 
 def fh2024_sortedbycounty():
 
-    file_path = "../data/data csv/Sorted_FH2024.csv"
+    file_path = "../data/data csv/FH 2024 by County Totals.csv"
     output_dir = "../data/Sorted Food/Sorted_FH2024 Split By County"
     dict_path = "../data/data csv/FBNEGA Dictionary.csv"
     sorted_whole_output_dir = "../data/data csv/Sorted_FH2024.csv"
@@ -29,12 +30,13 @@ def fh2024_sortedbycounty():
     print("Counties found:", df["County"].unique())
 
     # sort dataframe
-    sorted_fh2024 = pd.merge(df, dict_data, how='left', on=['Product Name', 'Food Category'])
+    sorted_fh2024 = pd.merge(df, dict_data, how='left', on=['Product Name'])
     
     # prepend shelf life type to Food Category
     def prepend_shelf_life(product_ref, category):
         if pd.isna(product_ref) or pd.isna(category):
             return category
+        
         if str(product_ref).startswith("C-"):
             return f"Cooled {category}"
         elif str(product_ref).startswith("F-"):
@@ -42,11 +44,12 @@ def fh2024_sortedbycounty():
         else:
             return f"Dry {category}"
 
+    # overwrite Food Category only from the Base Category
     sorted_fh2024["Food Category"] = sorted_fh2024.apply(
         lambda row: prepend_shelf_life(row["Product Ref"], row["Food Category"]),
         axis=1
     )
-    
+
     sorted_fh2024.to_csv(sorted_whole_output_dir, index=False)
 
     # Ensure output directory exists
