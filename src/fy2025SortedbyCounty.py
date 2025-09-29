@@ -8,6 +8,12 @@ def fy2025_by_county():
     dict_path = "../data/data csv/FBNEGA Dictionary.csv"
     sorted_whole_output_dir = "../data/data csv/Sorted_FY2025.csv"
 
+     # delete old files in output folder
+    for file in os.listdir(output_dir):
+        if file.endswith(".csv"):
+            os.remove(os.path.join(output_dir, file))
+
+
     print(file_path)
 
     try:
@@ -19,6 +25,22 @@ def fy2025_by_county():
 
     # sort dataframe
     sorted_fy2025 = pd.merge(df, dict_data, how='left', on='Product Name')
+
+    # prepend shelf life type to Food Category
+    def prepend_shelf_life(product_ref, category):
+        if pd.isna(product_ref) or pd.isna(category):
+            return category
+        if str(product_ref).startswith("C-"):
+            return f"Cooled {category}"
+        elif str(product_ref).startswith("F-"):
+            return f"Frozen {category}"
+        else:
+            return f"Dry {category}"
+
+    sorted_fy2025["Food Category"] = sorted_fy2025.apply(
+        lambda row: prepend_shelf_life(row["Product Ref"], row["Food Category"]),
+        axis=1
+    )
     sorted_fy2025.to_csv(sorted_whole_output_dir, index=False)
 
     # ensure output directory exists
