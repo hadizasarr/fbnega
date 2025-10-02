@@ -35,6 +35,16 @@ def plot_all_counties():
         plt.figure(figsize=(10, 6))
         plt.plot(county_df["Month"], county_df["Weight"], marker="o", label="Weight")
 
+        # display the number of unique partner agencies involved in the pickup / deliveries 
+        # for each month next to the weight value for each month
+        for month, weight, unique_agency_count in zip(
+            county_df["Month"], 
+            county_df["Weight"], 
+            county_df["Num. of Unique Agencies"]
+        ):
+            
+            plt.text(month, weight + 200, f"{unique_agency_count}", ha='right', va='bottom')
+
         plt.title(f"{county.title()} - Monthly Weight Distribution")
         plt.xlabel("Month")
         plt.ylabel("Total Weight")

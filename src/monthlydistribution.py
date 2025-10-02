@@ -3,7 +3,7 @@ import os
 
 def monthly_distribution_counts():
     """
-    Reads all county csv files in  and writes aggregate info (county, month, 
+    Reads all county csv files in and writes aggregate info (county, month, 
     total_weight, total_quantity, total_value) in a separate summary file. 
     """
     input_dirs = [
@@ -33,6 +33,9 @@ def monthly_distribution_counts():
             county_name = filename.split("_")[0]  # Get county from filename
             year_tag = input_dir.split("/")[-1]  # e.g., FH 2024 Split by County
 
+            if (county_name == "FBSHARE" or county_name == "OTHER"):
+                continue
+
             try:
                 df = pd.read_csv(file_path)
             except Exception as e:
@@ -54,18 +57,63 @@ def monthly_distribution_counts():
 
             df["Month"] = df["Pickup Delivery Date"].dt.to_period("M").astype(str)
 
+            # if (county_name == "BANKS" and year_tag == "FY 2024 Split by County"):
+                # print("\n========df========\n", df)
+
+            # Group by partner agency and month and sum weight 
+            # to find the top 2 partner agencies for each month and their weights
+            group_by_agency = df.groupby(["Month", "Agency Name"]).agg({
+                "Weight": "sum",
+            }).reset_index()
+
+            group_by_agency = group_by_agency.sort_values(["Month", "Weight"], ascending=[True, False])
+
+            top_2_rows_month = group_by_agency.groupby("Month").head(2).reset_index(drop=True)
+
+            # if (county_name == "BANKS" and year_tag == "FY 2024 Split by County"):
+                # print("\n========top_2_rows_month========\n", top_2_rows_month)
+
+            # Extract top 1 agency and top 2 agency information in 2 data frames
+            top1 = (top_2_rows_month.groupby("Month").first()
+                .reset_index()
+                .rename(columns={
+                    "Agency Name": "TopAgency1Name",
+                    "Weight": "TopAgency1Weight"
+                })
+            )
+
+            # if (county_name == "BANKS" and year_tag == "FY 2024 Split by County"):
+                # print("\n========top1========\n", top1)
+
+            top2 = (top_2_rows_month.groupby("Month").nth(1)
+                .reset_index()
+                .rename(columns={
+                    "Agency Name": "TopAgency2Name",
+                    "Weight": "TopAgency2Weight"
+                })
+            )
+
+            # if (county_name == "BANKS" and year_tag == "FY 2024 Split by County"):
+                # print("\n========top2========\n", top2)
+
+
             # Group by month
             grouped = df.groupby("Month").agg({
                 "Weight": "sum",
-                "Quantity": "sum", 
-                "Total Value": "sum"
+                "Agency Name": "nunique"
             }).reset_index()
+
+            grouped = grouped.rename(columns={"Agency Name": "Num. of Unique Agencies"})
+
+            # merge columns from top1 and top2 to grouped where the month is the same in both data frames
+            grouped = grouped.merge(top1, on="Month", how="left").merge(top2, on="Month", how="left")
 
             grouped["County"] = county_name
             grouped["Source"] = year_tag  # Optional: show FH/FY source
 
             # Reorder columns
-            grouped = grouped[["County", "Month", "Weight", "Quantity", "Source"]]
+            grouped = grouped[["County", "Month", "Weight", "TopAgency1Name", "TopAgency1Weight", 
+                               "TopAgency2Name", "TopAgency2Weight", "Num. of Unique Agencies", "Source"]]
 
             summary_rows.append(grouped)
 
