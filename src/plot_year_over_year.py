@@ -59,23 +59,6 @@ def plot_all_counties():
             plt.bar(x_positions, y_values, width=bar_width, label=fy, alpha=0.91)
             fy_y_values[fy] = y_values
 
-        # after plotting all bars, print ratios of 2024 values / 2023 values and
-        # 2025 values / 2024 values
-        for i in range(0, 2):
-            # use default values to account for missing years
-            prev_fy_values = fy_y_values.get(fiscal_years[i], [0] * 12)
-            current_fy_values = fy_y_values.get(fiscal_years[i + 1], [0] * 12)
-
-            for j in range(0, 12):
-                prev_month_val = prev_fy_values[j]
-                curr_month_val = current_fy_values[j]
-                if (prev_month_val != 0):
-                    ratio = curr_month_val / prev_month_val
-                    ratio_display = f"{ratio:.1f}"
-                    x_pos = j + (i) * bar_width
-                    y_pos = curr_month_val + 200
-                    plt.text(x_pos, y_pos, ratio_display, ha='center', va='bottom', fontsize=10, color='black', rotation=45, fontweight='semibold')
-
         plt.xticks(ticks = x_base, labels = month_labels)
         plt.xlabel("Month")
         plt.ylabel("Food distribution weight")

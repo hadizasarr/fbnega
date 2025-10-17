@@ -7,12 +7,11 @@ def monthly_distribution_counts():
     total_weight, total_quantity, total_value) in a separate summary file. 
     """
     input_dirs = [
-        "../data/FY 2023 Split by County", 
-        "../data/FY 2024 Split by County", 
-        "../data/FY 2025 Split by County", 
+        "../data/FH 2024 Split by County", 
+        "../data/FH 2025 Split by County", 
     ]
 
-    output_file = "../data/total_monthly_distributions.csv"
+    output_file = "../data/total_first_half_monthly_distributions.csv"
 
     # clear old output file if it exists
     if os.path.exists(output_file):
