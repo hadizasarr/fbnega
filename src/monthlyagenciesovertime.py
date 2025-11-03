@@ -17,7 +17,9 @@ def monthly_agencies_time():
 
     out_dir = Path("../data/Agency Distribution Over Time")
     out_dir.mkdir(parents=True, exist_ok=True)
-
+    for p in out_dir.glob("*.csv"):
+        p.unlink()
+        
     # collect per-county long tables here
     by_county_parts = defaultdict(list)
 
