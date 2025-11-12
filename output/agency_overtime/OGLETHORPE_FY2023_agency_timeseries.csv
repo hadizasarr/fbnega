@@ -1,0 +1,116 @@
+County,Agency,Time,dist_volume,delta,pct_change
+OGLETHORPE_FY2023,Burt's United Methodist Church,2022-07,1809.0,0.0,0.0
+OGLETHORPE_FY2023,Burt's United Methodist Church,2022-08,1077.0,-732.0,-40.464
+OGLETHORPE_FY2023,Burt's United Methodist Church,2022-09,2000.0,923.0,85.701
+OGLETHORPE_FY2023,Burt's United Methodist Church,2022-10,969.0,-1031.0,-51.55
+OGLETHORPE_FY2023,Burt's United Methodist Church,2022-11,1576.0,607.0,62.642
+OGLETHORPE_FY2023,Burt's United Methodist Church,2022-12,768.0,-808.0,-51.269
+OGLETHORPE_FY2023,Burt's United Methodist Church,2023-01,2111.0,1343.0,174.87
+OGLETHORPE_FY2023,Burt's United Methodist Church,2023-02,889.0,-1222.0,-57.887
+OGLETHORPE_FY2023,Burt's United Methodist Church,2023-03,1634.0,745.0,83.802
+OGLETHORPE_FY2023,Burt's United Methodist Church,2023-04,1482.0,-152.0,-9.302
+OGLETHORPE_FY2023,Burt's United Methodist Church,2023-05,1381.0,-101.0,-6.815
+OGLETHORPE_FY2023,Burt's United Methodist Church,2023-06,746.0,-635.0,-45.981
+OGLETHORPE_FY2023,Crawford Pentecostal Church,2022-07 to 2023-05,0.0,0.0,0.0
+OGLETHORPE_FY2023,Crawford Pentecostal Church,2023-06,892.0,892.0,inf
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2022-07,0.0,0.0,0.0
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2022-08,1350.0,1350.0,inf
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2022-09,892.0,-458.0,-33.926
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2022-10,4329.0,3437.0,385.314
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2022-11,3608.0,-721.0,-16.655
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2022-12,4570.0,962.0,26.663
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2023-01,923.0,-3647.0,-79.803
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2023-02,3692.0,2769.0,300.0
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2023-03,3692.0,0.0,0.0
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2023-04,5538.0,1846.0,50.0
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2023-05,2769.0,-2769.0,-50.0
+OGLETHORPE_FY2023,Food 2 Kids Oglethorpe County,2023-06,4340.0,1571.0,56.735
+OGLETHORPE_FY2023,Food Bank of NEGA Oglethorpe Community Partner,2022-07,0.0,0.0,0.0
+OGLETHORPE_FY2023,Food Bank of NEGA Oglethorpe Community Partner,2022-08,10517.0,10517.0,inf
+OGLETHORPE_FY2023,Food Bank of NEGA Oglethorpe Community Partner,2022-09,0.0,-10517.0,-100.0
+OGLETHORPE_FY2023,Food Bank of NEGA Oglethorpe Community Partner,2022-10 to 2023-02,0.0,0.0,0.0
+OGLETHORPE_FY2023,Food Bank of NEGA Oglethorpe Community Partner,2023-03,10264.0,10264.0,inf
+OGLETHORPE_FY2023,Food Bank of NEGA Oglethorpe Community Partner,2023-04,0.0,-10264.0,-100.0
+OGLETHORPE_FY2023,Food Bank of NEGA Oglethorpe Community Partner,2023-05 to 2023-06,0.0,0.0,0.0
+OGLETHORPE_FY2023,Lexington Baptist Church,2022-07,13566.0,0.0,0.0
+OGLETHORPE_FY2023,Lexington Baptist Church,2022-08,12230.0,-1336.0,-9.848
+OGLETHORPE_FY2023,Lexington Baptist Church,2022-09,13863.0,1633.0,13.352
+OGLETHORPE_FY2023,Lexington Baptist Church,2022-10,15097.0,1234.0,8.901
+OGLETHORPE_FY2023,Lexington Baptist Church,2022-11,14102.0,-995.0,-6.591
+OGLETHORPE_FY2023,Lexington Baptist Church,2022-12,10723.0,-3379.0,-23.961
+OGLETHORPE_FY2023,Lexington Baptist Church,2023-01,14603.0,3880.0,36.184
+OGLETHORPE_FY2023,Lexington Baptist Church,2023-02,12204.0,-2399.0,-16.428
+OGLETHORPE_FY2023,Lexington Baptist Church,2023-03,12999.0,795.0,6.514
+OGLETHORPE_FY2023,Lexington Baptist Church,2023-04,10288.0,-2711.0,-20.855
+OGLETHORPE_FY2023,Lexington Baptist Church,2023-05,15155.0,4867.0,47.308
+OGLETHORPE_FY2023,Lexington Baptist Church,2023-06,14821.0,-334.0,-2.204
+OGLETHORPE_FY2023,Oconee Baptist Church ,2022-07,1592.0,0.0,0.0
+OGLETHORPE_FY2023,Oconee Baptist Church ,2022-08,784.0,-808.0,-50.754
+OGLETHORPE_FY2023,Oconee Baptist Church ,2022-09,4341.0,3557.0,453.699
+OGLETHORPE_FY2023,Oconee Baptist Church ,2022-10,3139.0,-1202.0,-27.689
+OGLETHORPE_FY2023,Oconee Baptist Church ,2022-11,2655.0,-484.0,-15.419
+OGLETHORPE_FY2023,Oconee Baptist Church ,2022-12,2370.0,-285.0,-10.734
+OGLETHORPE_FY2023,Oconee Baptist Church ,2023-01,2177.0,-193.0,-8.143
+OGLETHORPE_FY2023,Oconee Baptist Church ,2023-02,3317.0,1140.0,52.366
+OGLETHORPE_FY2023,Oconee Baptist Church ,2023-03,4593.0,1276.0,38.468
+OGLETHORPE_FY2023,Oconee Baptist Church ,2023-04,2254.0,-2339.0,-50.925
+OGLETHORPE_FY2023,Oconee Baptist Church ,2023-05,2293.0,39.0,1.73
+OGLETHORPE_FY2023,Oconee Baptist Church ,2023-06,2274.0,-19.0,-0.829
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2022-07,1994.0,0.0,0.0
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2022-08,2305.0,311.0,15.597
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2022-09,0.0,-2305.0,-100.0
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2022-10,420.0,420.0,inf
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2022-11,0.0,-420.0,-100.0
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2022-12,0.0,0.0,0.0
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2023-01,1965.0,1965.0,inf
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2023-02,548.0,-1417.0,-72.112
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2023-03,0.0,-548.0,-100.0
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2023-04,192.0,192.0,inf
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2023-05,0.0,-192.0,-100.0
+OGLETHORPE_FY2023,Oglethorpe County Senior Center,2023-06,653.0,653.0,inf
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2022-07,0.0,0.0,0.0
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2022-08,2573.0,2573.0,inf
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2022-09,4971.0,2398.0,93.199
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2022-10,736.0,-4235.0,-85.194
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2022-11,3693.0,2957.0,401.766
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2022-12,1811.0,-1882.0,-50.961
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2023-01,2389.0,578.0,31.916
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2023-02,3046.0,657.0,27.501
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2023-03,920.0,-2126.0,-69.796
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2023-04,2078.0,1158.0,125.87
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2023-05,1845.0,-233.0,-11.213
+OGLETHORPE_FY2023,Oglethorpe School Food Pantry,2023-06,3664.0,1819.0,98.591
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2022-07,583.0,0.0,0.0
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2022-08,0.0,-583.0,-100.0
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2022-09,548.0,548.0,inf
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2022-10,607.0,59.0,10.766
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2022-11,2244.0,1637.0,269.687
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2022-12,0.0,-2244.0,-100.0
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2023-01,1452.0,1452.0,inf
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2023-02,1092.0,-360.0,-24.793
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2023-03,1431.0,339.0,31.044
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2023-04,0.0,-1431.0,-100.0
+OGLETHORPE_FY2023,Oglethorpe: Oglethorpe County Senior Staples Program,2023-05 to 2023-06,0.0,0.0,0.0
+OGLETHORPE_FY2023,Sonlight Baptist Church,2022-07,0.0,0.0,0.0
+OGLETHORPE_FY2023,Sonlight Baptist Church,2022-08,392.0,392.0,inf
+OGLETHORPE_FY2023,Sonlight Baptist Church,2022-09,339.0,-53.0,-13.52
+OGLETHORPE_FY2023,Sonlight Baptist Church,2022-10,381.0,42.0,12.389
+OGLETHORPE_FY2023,Sonlight Baptist Church,2022-11,0.0,-381.0,-100.0
+OGLETHORPE_FY2023,Sonlight Baptist Church,2022-12 to 2023-01,0.0,0.0,0.0
+OGLETHORPE_FY2023,Sonlight Baptist Church,2023-02,48.0,48.0,inf
+OGLETHORPE_FY2023,Sonlight Baptist Church,2023-03,0.0,-48.0,-100.0
+OGLETHORPE_FY2023,Sonlight Baptist Church,2023-04,106.0,106.0,inf
+OGLETHORPE_FY2023,Sonlight Baptist Church,2023-05,0.0,-106.0,-100.0
+OGLETHORPE_FY2023,Sonlight Baptist Church,2023-06,0.0,0.0,0.0
+OGLETHORPE_FY2023,Thankful Baptist Church,2022-07,250.0,0.0,0.0
+OGLETHORPE_FY2023,Thankful Baptist Church,2022-08,12799.0,12549.0,5019.6
+OGLETHORPE_FY2023,Thankful Baptist Church,2022-09,343.0,-12456.0,-97.32
+OGLETHORPE_FY2023,Thankful Baptist Church,2022-10,12075.0,11732.0,3420.408
+OGLETHORPE_FY2023,Thankful Baptist Church,2022-11,1685.0,-10390.0,-86.046
+OGLETHORPE_FY2023,Thankful Baptist Church,2022-12,14035.0,12350.0,732.938
+OGLETHORPE_FY2023,Thankful Baptist Church,2023-01,1206.0,-12829.0,-91.407
+OGLETHORPE_FY2023,Thankful Baptist Church,2023-02,10115.0,8909.0,738.723
+OGLETHORPE_FY2023,Thankful Baptist Church,2023-03,998.0,-9117.0,-90.133
+OGLETHORPE_FY2023,Thankful Baptist Church,2023-04,14830.0,13832.0,1385.972
+OGLETHORPE_FY2023,Thankful Baptist Church,2023-05,1175.0,-13655.0,-92.077
+OGLETHORPE_FY2023,Thankful Baptist Church,2023-06,14376.0,13201.0,1123.489

@@ -1,0 +1,261 @@
+County,Agency,Time,dist_volume,delta,pct_change
+HABERSHAM_FY2024,Ballew House Outreach,2023-07,283.0,0.0,0.0
+HABERSHAM_FY2024,Ballew House Outreach,2023-08,177.0,-106.0,-37.456
+HABERSHAM_FY2024,Ballew House Outreach,2023-09,275.0,98.0,55.367
+HABERSHAM_FY2024,Ballew House Outreach,2023-10,209.0,-66.0,-24.0
+HABERSHAM_FY2024,Ballew House Outreach,2023-11,193.0,-16.0,-7.656
+HABERSHAM_FY2024,Ballew House Outreach,2023-12,202.0,9.0,4.663
+HABERSHAM_FY2024,Ballew House Outreach,2024-01,152.0,-50.0,-24.752
+HABERSHAM_FY2024,Ballew House Outreach,2024-02,423.0,271.0,178.289
+HABERSHAM_FY2024,Ballew House Outreach,2024-03,242.0,-181.0,-42.79
+HABERSHAM_FY2024,Ballew House Outreach,2024-04,391.0,149.0,61.57
+HABERSHAM_FY2024,Ballew House Outreach,2024-05,307.0,-84.0,-21.483
+HABERSHAM_FY2024,Ballew House Outreach,2024-06,314.0,7.0,2.28
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2023-07,1377.0,0.0,0.0
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2023-08,3635.0,2258.0,163.98
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2023-09,814.0,-2821.0,-77.607
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2023-10,0.0,-814.0,-100.0
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2023-11,0.0,0.0,0.0
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2023-12,961.0,961.0,inf
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2024-01,943.0,-18.0,-1.873
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2024-02,0.0,-943.0,-100.0
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2024-03,321.0,321.0,inf
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2024-04,0.0,-321.0,-100.0
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2024-05,555.0,555.0,inf
+HABERSHAM_FY2024,Breaking Chains Ministries d.b.a Freedom Hill,2024-06,930.0,375.0,67.568
+HABERSHAM_FY2024,Circle of Hope,2023-07,548.0,0.0,0.0
+HABERSHAM_FY2024,Circle of Hope,2023-08,655.0,107.0,19.526
+HABERSHAM_FY2024,Circle of Hope,2023-09,79.0,-576.0,-87.939
+HABERSHAM_FY2024,Circle of Hope,2023-10,472.0,393.0,497.468
+HABERSHAM_FY2024,Circle of Hope,2023-11,59.0,-413.0,-87.5
+HABERSHAM_FY2024,Circle of Hope,2023-12,115.0,56.0,94.915
+HABERSHAM_FY2024,Circle of Hope,2024-01,488.0,373.0,324.348
+HABERSHAM_FY2024,Circle of Hope,2024-02,395.0,-93.0,-19.057
+HABERSHAM_FY2024,Circle of Hope,2024-03,306.0,-89.0,-22.532
+HABERSHAM_FY2024,Circle of Hope,2024-04,352.0,46.0,15.033
+HABERSHAM_FY2024,Circle of Hope,2024-05,896.0,544.0,154.545
+HABERSHAM_FY2024,Circle of Hope,2024-06,128.0,-768.0,-85.714
+HABERSHAM_FY2024,Clarkesville Church of God,2023-07,4283.0,0.0,0.0
+HABERSHAM_FY2024,Clarkesville Church of God,2023-08,5864.0,1581.0,36.913
+HABERSHAM_FY2024,Clarkesville Church of God,2023-09,3961.0,-1903.0,-32.452
+HABERSHAM_FY2024,Clarkesville Church of God,2023-10,3295.0,-666.0,-16.814
+HABERSHAM_FY2024,Clarkesville Church of God,2023-11,3991.0,696.0,21.123
+HABERSHAM_FY2024,Clarkesville Church of God,2023-12,3618.0,-373.0,-9.346
+HABERSHAM_FY2024,Clarkesville Church of God,2024-01,4745.0,1127.0,31.15
+HABERSHAM_FY2024,Clarkesville Church of God,2024-02,4293.0,-452.0,-9.526
+HABERSHAM_FY2024,Clarkesville Church of God,2024-03,4087.0,-206.0,-4.799
+HABERSHAM_FY2024,Clarkesville Church of God,2024-04,3698.0,-389.0,-9.518
+HABERSHAM_FY2024,Clarkesville Church of God,2024-05,5982.0,2284.0,61.763
+HABERSHAM_FY2024,Clarkesville Church of God,2024-06,4157.0,-1825.0,-30.508
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2023-07,657.0,0.0,0.0
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2023-08,2083.0,1426.0,217.047
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2023-09,1032.0,-1051.0,-50.456
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2023-10,2114.0,1082.0,104.845
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2023-11,1326.0,-788.0,-37.275
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2023-12,783.0,-543.0,-40.95
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2024-01,1058.0,275.0,35.121
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2024-02,1409.0,351.0,33.176
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2024-03,939.0,-470.0,-33.357
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2024-04,1315.0,376.0,40.043
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2024-05,1174.0,-141.0,-10.722
+HABERSHAM_FY2024,Clarkesville Soup Kitchen,2024-06,849.0,-325.0,-27.683
+HABERSHAM_FY2024,Cornelia United Methodist Church,2023-07,892.0,0.0,0.0
+HABERSHAM_FY2024,Cornelia United Methodist Church,2023-08,2919.0,2027.0,227.242
+HABERSHAM_FY2024,Cornelia United Methodist Church,2023-09,856.0,-2063.0,-70.675
+HABERSHAM_FY2024,Cornelia United Methodist Church,2023-10,1924.0,1068.0,124.766
+HABERSHAM_FY2024,Cornelia United Methodist Church,2023-11,2085.0,161.0,8.368
+HABERSHAM_FY2024,Cornelia United Methodist Church,2023-12,1492.0,-593.0,-28.441
+HABERSHAM_FY2024,Cornelia United Methodist Church,2024-01,2836.0,1344.0,90.08
+HABERSHAM_FY2024,Cornelia United Methodist Church,2024-02,1607.0,-1229.0,-43.336
+HABERSHAM_FY2024,Cornelia United Methodist Church,2024-03,1791.0,184.0,11.45
+HABERSHAM_FY2024,Cornelia United Methodist Church,2024-04,2472.0,681.0,38.023
+HABERSHAM_FY2024,Cornelia United Methodist Church,2024-05,2139.0,-333.0,-13.471
+HABERSHAM_FY2024,Cornelia United Methodist Church,2024-06,347.0,-1792.0,-83.777
+HABERSHAM_FY2024,Demorest Baptist Church,2023-07 to 2023-09,0.0,0.0,0.0
+HABERSHAM_FY2024,Demorest Baptist Church,2023-10,7600.0,7600.0,inf
+HABERSHAM_FY2024,Demorest Baptist Church,2023-11,0.0,-7600.0,-100.0
+HABERSHAM_FY2024,Demorest Baptist Church,2023-12 to 2024-03,0.0,0.0,0.0
+HABERSHAM_FY2024,Demorest Baptist Church,2024-04,27960.0,27960.0,inf
+HABERSHAM_FY2024,Demorest Baptist Church,2024-05,0.0,-27960.0,-100.0
+HABERSHAM_FY2024,Demorest Baptist Church,2024-06,0.0,0.0,0.0
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2023-07,8172.0,0.0,0.0
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2023-08,9000.0,828.0,10.132
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2023-09,8000.0,-1000.0,-11.111
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2023-10,6500.0,-1500.0,-18.75
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2023-11,9300.0,2800.0,43.077
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2023-12,8410.0,-890.0,-9.57
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2024-01,16765.0,8355.0,99.346
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2024-02,7707.0,-9058.0,-54.029
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2024-03,0.0,-7707.0,-100.0
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2024-04,8418.0,8418.0,inf
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2024-05,15697.0,7279.0,86.469
+HABERSHAM_FY2024,First Presbyterian Church of Cornelia,2024-06,0.0,-15697.0,-100.0
+HABERSHAM_FY2024,Food 2 Kids Habersham County,2023-07,0.0,0.0,0.0
+HABERSHAM_FY2024,Food 2 Kids Habersham County,2023-08,2588.0,2588.0,inf
+HABERSHAM_FY2024,Food 2 Kids Habersham County,2023-09,0.0,-2588.0,-100.0
+HABERSHAM_FY2024,Food 2 Kids Habersham County,2023-10 to 2024-06,0.0,0.0,0.0
+HABERSHAM_FY2024,Glade Creek Baptist Church,2023-07,1786.0,0.0,0.0
+HABERSHAM_FY2024,Glade Creek Baptist Church,2023-08,1118.0,-668.0,-37.402
+HABERSHAM_FY2024,Glade Creek Baptist Church,2023-09,1819.0,701.0,62.701
+HABERSHAM_FY2024,Glade Creek Baptist Church,2023-10,0.0,-1819.0,-100.0
+HABERSHAM_FY2024,Glade Creek Baptist Church,2023-11,2391.0,2391.0,inf
+HABERSHAM_FY2024,Glade Creek Baptist Church,2023-12,0.0,-2391.0,-100.0
+HABERSHAM_FY2024,Glade Creek Baptist Church,2024-01,1165.0,1165.0,inf
+HABERSHAM_FY2024,Glade Creek Baptist Church,2024-02,1596.0,431.0,36.996
+HABERSHAM_FY2024,Glade Creek Baptist Church,2024-03,1949.0,353.0,22.118
+HABERSHAM_FY2024,Glade Creek Baptist Church,2024-04,2186.0,237.0,12.16
+HABERSHAM_FY2024,Glade Creek Baptist Church,2024-05,3074.0,888.0,40.622
+HABERSHAM_FY2024,Glade Creek Baptist Church,2024-06,0.0,-3074.0,-100.0
+HABERSHAM_FY2024,Gold Community Dev. Ministry,2023-07,119.0,0.0,0.0
+HABERSHAM_FY2024,Gold Community Dev. Ministry,2023-08,0.0,-119.0,-100.0
+HABERSHAM_FY2024,Gold Community Dev. Ministry,2023-09 to 2024-06,0.0,0.0,0.0
+HABERSHAM_FY2024,Goodwill NEGA Habersham,2023-07 to 2023-10,0.0,0.0,0.0
+HABERSHAM_FY2024,Goodwill NEGA Habersham,2023-11,5998.0,5998.0,inf
+HABERSHAM_FY2024,Goodwill NEGA Habersham,2023-12,0.0,-5998.0,-100.0
+HABERSHAM_FY2024,Goodwill NEGA Habersham,2024-01 to 2024-06,0.0,0.0,0.0
+HABERSHAM_FY2024,Habersham County Senior Center,2023-07,0.0,0.0,0.0
+HABERSHAM_FY2024,Habersham County Senior Center,2023-08,395.0,395.0,inf
+HABERSHAM_FY2024,Habersham County Senior Center,2023-09,0.0,-395.0,-100.0
+HABERSHAM_FY2024,Habersham County Senior Center,2023-10,161.0,161.0,inf
+HABERSHAM_FY2024,Habersham County Senior Center,2023-11,0.0,-161.0,-100.0
+HABERSHAM_FY2024,Habersham County Senior Center,2023-12 to 2024-04,0.0,0.0,0.0
+HABERSHAM_FY2024,Habersham County Senior Center,2024-05,924.0,924.0,inf
+HABERSHAM_FY2024,Habersham County Senior Center,2024-06,1133.0,209.0,22.619
+HABERSHAM_FY2024,Habersham Homeless Ministries,2023-07,88.0,0.0,0.0
+HABERSHAM_FY2024,Habersham Homeless Ministries,2023-08,317.0,229.0,260.227
+HABERSHAM_FY2024,Habersham Homeless Ministries,2023-09,0.0,-317.0,-100.0
+HABERSHAM_FY2024,Habersham Homeless Ministries,2023-10,405.0,405.0,inf
+HABERSHAM_FY2024,Habersham Homeless Ministries,2023-11,413.0,8.0,1.975
+HABERSHAM_FY2024,Habersham Homeless Ministries,2023-12,0.0,-413.0,-100.0
+HABERSHAM_FY2024,Habersham Homeless Ministries,2024-01,40.0,40.0,inf
+HABERSHAM_FY2024,Habersham Homeless Ministries,2024-02,374.0,334.0,835.0
+HABERSHAM_FY2024,Habersham Homeless Ministries,2024-03,0.0,-374.0,-100.0
+HABERSHAM_FY2024,Habersham Homeless Ministries,2024-04 to 2024-06,0.0,0.0,0.0
+HABERSHAM_FY2024,Habersham: Habersham County Senior Center Senior Staples Program,2023-07,1422.0,0.0,0.0
+HABERSHAM_FY2024,Habersham: Habersham County Senior Center Senior Staples Program,2023-08,1267.0,-155.0,-10.9
+HABERSHAM_FY2024,Habersham: Habersham County Senior Center Senior Staples Program,2023-09,1182.0,-85.0,-6.709
+HABERSHAM_FY2024,Habersham: Habersham County Senior Center Senior Staples Program,2023-10,1308.0,126.0,10.66
+HABERSHAM_FY2024,Habersham: Habersham County Senior Center Senior Staples Program,2023-11,0.0,-1308.0,-100.0
+HABERSHAM_FY2024,Habersham: Habersham County Senior Center Senior Staples Program,2023-12 to 2024-02,0.0,0.0,0.0
+HABERSHAM_FY2024,Habersham: Habersham County Senior Center Senior Staples Program,2024-03,1012.0,1012.0,inf
+HABERSHAM_FY2024,Habersham: Habersham County Senior Center Senior Staples Program,2024-04,0.0,-1012.0,-100.0
+HABERSHAM_FY2024,Habersham: Habersham County Senior Center Senior Staples Program,2024-05 to 2024-06,0.0,0.0,0.0
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2023-07,386.0,0.0,0.0
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2023-08,1663.0,1277.0,330.829
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2023-09,0.0,-1663.0,-100.0
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2023-10,1391.0,1391.0,inf
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2023-11,52.0,-1339.0,-96.262
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2023-12,1043.0,991.0,1905.769
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2024-01,778.0,-265.0,-25.407
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2024-02,854.0,76.0,9.769
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2024-03,1249.0,395.0,46.253
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2024-04,902.0,-347.0,-27.782
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2024-05,1059.0,157.0,17.406
+HABERSHAM_FY2024,Hazel Creek Baptist Church,2024-06,0.0,-1059.0,-100.0
+HABERSHAM_FY2024,Homestead Recovery for Women,2023-07,407.0,0.0,0.0
+HABERSHAM_FY2024,Homestead Recovery for Women,2023-08,389.0,-18.0,-4.423
+HABERSHAM_FY2024,Homestead Recovery for Women,2023-09,895.0,506.0,130.077
+HABERSHAM_FY2024,Homestead Recovery for Women,2023-10,757.0,-138.0,-15.419
+HABERSHAM_FY2024,Homestead Recovery for Women,2023-11,1142.0,385.0,50.859
+HABERSHAM_FY2024,Homestead Recovery for Women,2023-12,359.0,-783.0,-68.564
+HABERSHAM_FY2024,Homestead Recovery for Women,2024-01,720.0,361.0,100.557
+HABERSHAM_FY2024,Homestead Recovery for Women,2024-02,861.0,141.0,19.583
+HABERSHAM_FY2024,Homestead Recovery for Women,2024-03,230.0,-631.0,-73.287
+HABERSHAM_FY2024,Homestead Recovery for Women,2024-04,103.0,-127.0,-55.217
+HABERSHAM_FY2024,Homestead Recovery for Women,2024-05,0.0,-103.0,-100.0
+HABERSHAM_FY2024,Homestead Recovery for Women,2024-06,0.0,0.0,0.0
+HABERSHAM_FY2024,Life Church Baldwin,2023-07 to 2023-11,0.0,0.0,0.0
+HABERSHAM_FY2024,Life Church Baldwin,2023-12,3385.0,3385.0,inf
+HABERSHAM_FY2024,Life Church Baldwin,2024-01,3235.0,-150.0,-4.431
+HABERSHAM_FY2024,Life Church Baldwin,2024-02,3921.0,686.0,21.206
+HABERSHAM_FY2024,Life Church Baldwin,2024-03,4566.0,645.0,16.45
+HABERSHAM_FY2024,Life Church Baldwin,2024-04,4623.0,57.0,1.248
+HABERSHAM_FY2024,Life Church Baldwin,2024-05,3581.0,-1042.0,-22.539
+HABERSHAM_FY2024,Life Church Baldwin,2024-06,3203.0,-378.0,-10.556
+HABERSHAM_FY2024,Mount Airy Baptist Church,2023-07,0.0,0.0,0.0
+HABERSHAM_FY2024,Mount Airy Baptist Church,2023-08,1370.0,1370.0,inf
+HABERSHAM_FY2024,Mount Airy Baptist Church,2023-09,693.0,-677.0,-49.416
+HABERSHAM_FY2024,Mount Airy Baptist Church,2023-10,424.0,-269.0,-38.817
+HABERSHAM_FY2024,Mount Airy Baptist Church,2023-11,327.0,-97.0,-22.877
+HABERSHAM_FY2024,Mount Airy Baptist Church,2023-12,381.0,54.0,16.514
+HABERSHAM_FY2024,Mount Airy Baptist Church,2024-01,0.0,-381.0,-100.0
+HABERSHAM_FY2024,Mount Airy Baptist Church,2024-02,1648.0,1648.0,inf
+HABERSHAM_FY2024,Mount Airy Baptist Church,2024-03,-855.0,-2503.0,-151.881
+HABERSHAM_FY2024,Mount Airy Baptist Church,2024-04,260.0,1115.0,-130.409
+HABERSHAM_FY2024,Mount Airy Baptist Church,2024-05,229.0,-31.0,-11.923
+HABERSHAM_FY2024,Mount Airy Baptist Church,2024-06,155.0,-74.0,-32.314
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2023-07,45538.0,0.0,0.0
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2023-08,66691.0,21153.0,46.451
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2023-09,38520.0,-28171.0,-42.241
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2023-10,80529.0,42009.0,109.058
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2023-11,84137.0,3608.0,4.48
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2023-12,51915.0,-32222.0,-38.297
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2024-01,54032.0,2117.0,4.078
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2024-02,66989.0,12957.0,23.98
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2024-03,64409.0,-2580.0,-3.851
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2024-04,57610.0,-6799.0,-10.556
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2024-05,98680.0,41070.0,71.29
+HABERSHAM_FY2024,Open Door Food Ministry (The Torch Church of God),2024-06,23603.0,-75077.0,-76.081
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2023-07,734.0,0.0,0.0
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2023-08,309.0,-425.0,-57.902
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2023-09,576.0,267.0,86.408
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2023-10,816.0,240.0,41.667
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2023-11,100.0,-716.0,-87.745
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2023-12,400.0,300.0,300.0
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2024-01,315.0,-85.0,-21.25
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2024-02,213.0,-102.0,-32.381
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2024-03,347.0,134.0,62.911
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2024-04,766.0,419.0,120.749
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2024-05,154.0,-612.0,-79.896
+HABERSHAM_FY2024,"Pilgrim Ministries, Inc.",2024-06,0.0,-154.0,-100.0
+HABERSHAM_FY2024,River Congregational Holiness Church,2023-07 to 2023-09,0.0,0.0,0.0
+HABERSHAM_FY2024,River Congregational Holiness Church,2023-10,53.0,53.0,inf
+HABERSHAM_FY2024,River Congregational Holiness Church,2023-11,296.0,243.0,458.491
+HABERSHAM_FY2024,River Congregational Holiness Church,2023-12,0.0,-296.0,-100.0
+HABERSHAM_FY2024,River Congregational Holiness Church,2024-01 to 2024-06,0.0,0.0,0.0
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2023-07,3200.0,0.0,0.0
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2023-08,2809.0,-391.0,-12.219
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2023-09,1657.0,-1152.0,-41.011
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2023-10,2249.0,592.0,35.727
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2023-11,2097.0,-152.0,-6.759
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2023-12,1464.0,-633.0,-30.186
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2024-01,1543.0,79.0,5.396
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2024-02,2923.0,1380.0,89.436
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2024-03,2769.0,-154.0,-5.269
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2024-04,3331.0,562.0,20.296
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2024-05,3206.0,-125.0,-3.753
+HABERSHAM_FY2024,Sharing and Caring - Clarkesville,2024-06,1204.0,-2002.0,-62.445
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2023-07,2753.0,0.0,0.0
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2023-08,1496.0,-1257.0,-45.659
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2023-09,2538.0,1042.0,69.652
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2023-10,4828.0,2290.0,90.229
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2023-11,5108.0,280.0,5.8
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2023-12,1702.0,-3406.0,-66.68
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2024-01,2625.0,923.0,54.23
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2024-02,4645.0,2020.0,76.952
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2024-03,3009.0,-1636.0,-35.221
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2024-04,1006.0,-2003.0,-66.567
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2024-05,5840.0,4834.0,480.517
+HABERSHAM_FY2024,Sharing and Caring - Cornelia,2024-06,407.0,-5433.0,-93.031
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2023-07 to 2023-09,0.0,0.0,0.0
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2023-10,88.0,88.0,inf
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2023-11,0.0,-88.0,-100.0
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2023-12,181.0,181.0,inf
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2024-01,387.0,206.0,113.812
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2024-02,1185.0,798.0,206.202
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2024-03,687.0,-498.0,-42.025
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2024-04,903.0,216.0,31.441
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2024-05,747.0,-156.0,-17.276
+HABERSHAM_FY2024,"The Lord's Help, Inc.",2024-06,492.0,-255.0,-34.137
+HABERSHAM_FY2024,Victory Home / Helping Hand,2023-07,764.0,0.0,0.0
+HABERSHAM_FY2024,Victory Home / Helping Hand,2023-08,1257.0,493.0,64.529
+HABERSHAM_FY2024,Victory Home / Helping Hand,2023-09,416.0,-841.0,-66.905
+HABERSHAM_FY2024,Victory Home / Helping Hand,2023-10,877.0,461.0,110.817
+HABERSHAM_FY2024,Victory Home / Helping Hand,2023-11,891.0,14.0,1.596
+HABERSHAM_FY2024,Victory Home / Helping Hand,2023-12,765.0,-126.0,-14.141
+HABERSHAM_FY2024,Victory Home / Helping Hand,2024-01,1898.0,1133.0,148.105
+HABERSHAM_FY2024,Victory Home / Helping Hand,2024-02,1576.0,-322.0,-16.965
+HABERSHAM_FY2024,Victory Home / Helping Hand,2024-03,883.0,-693.0,-43.972
+HABERSHAM_FY2024,Victory Home / Helping Hand,2024-04,1115.0,232.0,26.274
+HABERSHAM_FY2024,Victory Home / Helping Hand,2024-05,1077.0,-38.0,-3.408
+HABERSHAM_FY2024,Victory Home / Helping Hand,2024-06,1269.0,192.0,17.827

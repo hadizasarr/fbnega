@@ -1,124 +1,215 @@
-import pandas as pd
-import os
-import re
-from pathlib import Path
-from collections import defaultdict
+# - Reads ALL FY folders (2023–2025), concatenates into one continuous time series
+# - Outputs:
+#     1) One CSV per county (full 2023–2025)
+#     2) One master CSV combining all counties (adds County column)
+# - Computes delta and pct_change (pct in percent units, 3 decimals)
+# - Collapses consecutive zero stretches (dist_volume==0 & delta==0) to "YYYY-MM to YYYY-MM"
 
-def monthly_agencies_time():
+import pandas as pd
+from pathlib import Path
+
+def _compress_zero_runs(df, group_cols):
     """
-    Reads FY 2023–2025 county CSVs and writes, for each county, a long time series:
-    Agency, Time (YYYY-MM), dist_volume, delta, pct_change
+    Collapse consecutive rows per group (e.g., ['County','Agency']) where
+    dist_volume==0 and delta==0 into one row with Time like "YYYY-MM to YYYY-MM".
+    Expects columns: group_cols + ['Time','dist_volume','delta','pct_change'].
+    Returns compressed DataFrame with same columns.
     """
+    out_rows = []
+    sort_cols = group_cols + ["Time"]
+    df_sorted = df.sort_values(sort_cols).copy()
+
+    # Normalize Time to monthly string
+    df_sorted["Time"] = pd.PeriodIndex(df_sorted["Time"], freq="M").astype(str)
+    df_sorted = df_sorted.sort_values(sort_cols)
+
+    for keys, g in df_sorted.groupby(group_cols, sort=False, dropna=False):
+        g = g.copy().sort_values("Time")
+        run_open = False
+        run_start = run_end = None
+
+        for _, row in g.iterrows():
+            is_zero = (float(row["dist_volume"]) == 0.0) and (float(row["delta"]) == 0.0)
+            t = row["Time"]
+
+            if is_zero:
+                if not run_open:
+                    run_open = True
+                    run_start = t
+                    run_end = t
+                else:
+                    run_end = t
+            else:
+                if run_open:
+                    label = f"{run_start} to {run_end}" if run_start != run_end else run_start
+                    newrow = {c: row[c] for c in group_cols}
+                    newrow.update({"Time": label, "dist_volume": 0.0, "delta": 0.0, "pct_change": 0.0})
+                    out_rows.append(newrow)
+                    run_open = False
+                newrow = {c: row[c] for c in group_cols}
+                newrow.update({
+                    "Time": t,
+                    "dist_volume": float(row["dist_volume"]),
+                    "delta": float(row["delta"]),
+                    "pct_change": float(row["pct_change"]),
+                })
+                out_rows.append(newrow)
+
+        if run_open:
+            label = f"{run_start} to {run_end}" if run_start != run_end else run_start
+            # Pull group keys from the last row to fill group_cols
+            last = g.iloc[-1]
+            newrow = {c: last[c] for c in group_cols}
+            newrow.update({"Time": label, "dist_volume": 0.0, "delta": 0.0, "pct_change": 0.0})
+            out_rows.append(newrow)
+
+    return pd.DataFrame(out_rows, columns=group_cols + ["Time","dist_volume","delta","pct_change"])
+
+def monthly_agencies_overtime():
+    # Update paths if yours differ
     input_dirs = [
         "../data/FY 2023 Split by County",
         "../data/FY 2024 Split by County",
         "../data/FY 2025 Split by County",
     ]
 
-    out_dir = Path("../data/Agency Distribution Over Time")
+    out_dir = Path("../output/agency_overtime")
     out_dir.mkdir(parents=True, exist_ok=True)
-    for p in out_dir.glob("*.csv"):
-        p.unlink()
-        
-    # collect per-county long tables here
-    by_county_parts = defaultdict(list)
 
-    def county_from_filename(filename: str) -> str:
-        stem = Path(filename).stem
-        m = re.match(r"([A-Za-z\s]+?)(?:[_\-\s]|$)", stem)
-        return (m.group(1) if m else stem).strip().title()
+    # 1) Clear output directory (files only)
+    for p in out_dir.glob("*"):
+        if p.is_file():
+            p.unlink()
 
-    for input_dir in input_dirs:
-        if not os.path.exists(input_dir):
-            print(f"Missing directory: {input_dir}")
+    # Discover counties from filenames across all folders
+    counties = set()
+    for folder in input_dirs:
+        p = Path(folder)
+        if not p.exists():
+            continue
+        for f in p.glob("*.csv"):
+            # county name assumed at start of filename; take everything before first '(' if present
+            county = f.stem.split("(")[0].strip()
+            if county:
+                counties.add(county)
+
+    def read_county_frames(county):
+        frames = []
+        for folder in input_dirs:
+            folder_path = Path(folder)
+            if not folder_path.exists():
+                continue
+            for f in folder_path.glob("*.csv"):
+                if county not in f.stem:
+                    continue
+                try:
+                    df = pd.read_csv(f, dtype=str)
+                except Exception as e:
+                    print(f"[warn] Could not read {f}: {e}")
+                    continue
+
+                # Normalize columns
+                df.columns = df.columns.str.strip()
+                agency_col = "Agency Name"
+                weight_col = "Weight"
+                date_col   = "Pickup Delivery Date"
+                need = {agency_col, weight_col, date_col}
+                if not need.issubset(df.columns):
+                    lower = {c.lower(): c for c in df.columns}
+                    if {"agency name","weight","pickup delivery date"}.issubset(lower):
+                        agency_col = lower["agency name"]
+                        weight_col = lower["weight"]
+                        date_col   = lower["pickup delivery date"]
+                    else:
+                        print(f"[skip] Missing cols in {f.name}: need {need}")
+                        continue
+
+                # Parse date (strict first, then fallback)
+                dt = pd.to_datetime(df[date_col], format="%m/%d/%Y %I:%M:%S %p", errors="coerce")
+                if dt.isna().all():
+                    dt = pd.to_datetime(df[date_col], errors="coerce")
+                df = df[~dt.isna()].copy()
+                df["Month"] = dt.dt.to_period("M").astype(str)
+
+                # Weight to float
+                df[weight_col] = pd.to_numeric(df[weight_col], errors="coerce").fillna(0.0)
+
+                # Aggregate -> Month × Agency, add County
+                part = (
+                    df.groupby(["Month", agency_col], as_index=False)[weight_col]
+                      .sum()
+                      .rename(columns={agency_col: "Agency", weight_col: "dist_volume"})
+                )
+                part["County"] = county
+                frames.append(part)
+        return frames
+
+    all_counties_rows = []  # to build one master CSV at the end
+
+    for county in sorted(counties):
+        parts = read_county_frames(county)
+        if not parts:
             continue
 
-        for filename in os.listdir(input_dir):
-            if not filename.lower().endswith(".csv"):
-                continue
+        monthly = pd.concat(parts, ignore_index=True)
 
-            county = county_from_filename(filename)
-            if county.lower() in {"fbshare", "other"}:
-                continue
+        # Aggregate across all years (this is the key concatenation step)
+        monthly = (
+            monthly.groupby(["County","Month","Agency"], as_index=False)["dist_volume"]
+                   .sum()
+        )
 
-            file_path = os.path.join(input_dir, filename)
-            try:
-                df = pd.read_csv(file_path)
-            except Exception as e:
-                print(f"Failed to load {filename}: {e}")
-                continue
+        # Build complete Month × Agency panel per county
+        monthly["Month"] = pd.PeriodIndex(monthly["Month"], freq="M").astype(str)
+        min_m = monthly["Month"].min()
+        max_m = monthly["Month"].max()
+        full_index = pd.period_range(min_m, max_m, freq="M").astype(str)
 
-            # Clean columns
-            df.columns = df.columns.str.strip()
-
-            # Fixed schema (minimal change): adjust here if your headers differ
-            agency_col = "Agency Name"
-            weight_col = "Weight"
-            date_col   = "Pickup Delivery Date"
-
-            required = {agency_col, weight_col, date_col}
-            missing = required - set(df.columns)
-            if missing:
-                print(f"Missing columns {missing} in {filename}; skipping.")
-                continue
-
-            # Parse date -> month; try explicit format, then fallback
-            dt = pd.to_datetime(df[date_col], format="%m/%d/%Y %I:%M:%S %p", errors="coerce")
-            if dt.isna().all():
-                dt = pd.to_datetime(df[date_col], errors="coerce")
-            df[date_col] = dt
-            df = df.dropna(subset=[date_col])
-            df["Month"] = df[date_col].dt.to_period("M").astype(str)
-
-            # Per-file aggregation (Month, Agency, Weight)
-            part = (
-                df.groupby(["Month", agency_col], as_index=False)[weight_col]
-                  .sum()
-                  .rename(columns={agency_col: "Agency", weight_col: "dist_volume"})
-            )
-            by_county_parts[county].append(part)
-
-    # Build per-county long outputs with deltas
-    for county, parts in by_county_parts.items():
-        long_df = pd.concat(parts, ignore_index=True)
-
-        # Combine again across files
-        long_df = long_df.groupby(["Month", "Agency"], as_index=False)["dist_volume"].sum()
-
-        # Ensure all months present per agency; fill missing with 0
-        months_sorted = sorted(long_df["Month"].unique())
+        # Pivot within county, then restack to ensure continuous monthly coverage
         wide = (
-            long_df.pivot(index="Agency", columns="Month", values="dist_volume")
-                  .reindex(columns=months_sorted)
-                  .fillna(0.0)
+            monthly.pivot_table(index=["County","Agency"], columns="Month", values="dist_volume", fill_value=0.0)
+                   .reindex(columns=full_index, fill_value=0.0)
         )
-        # Make sure the stacked column becomes 'Time'
-        wide.columns.name = "Time"  # ensures reset_index yields a 'Time' column
-        
-        long_full = (
+
+        long_df = (
             wide.stack()
-            .rename("dist_volume")
-            .reset_index()  # will now have ['Agency','Time','dist_volume']
+                .rename("dist_volume")
+                .reset_index()
+                .rename(columns={"level_2": "Time"})
         )
-        # Fallback if some files still yield a different name
-        if "Time" not in long_full.columns:
-            long_full = long_full.rename(columns={"Month": "Time", "level_1": "Time"})
 
-        # Deltas and pct_change per agency
-        # long_full = long_full.sort_values(["Agency", "Time"])
-        long_full["delta"] = long_full.groupby("Agency")["dist_volume"].diff().fillna(0.0)
+        # Compute deltas and pct_change within each County×Agency
+        long_df = long_df.sort_values(["County","Agency","Time"]).reset_index(drop=True)
+        long_df["delta"] = long_df.groupby(["County","Agency"])["dist_volume"].diff().fillna(0.0)
 
-        prev = long_full.groupby("Agency")["dist_volume"].shift(1)
-        pct = (long_full["dist_volume"] - prev) / prev
-        pct.loc[prev.eq(0) & long_full["dist_volume"].eq(0)] = 0.0
-        long_full["pct_change"] = pct
+        prev = long_df.groupby(["County","Agency"])["dist_volume"].shift(1)
+        pct = (long_df["dist_volume"] - prev) / prev
+        pct.loc[(prev == 0) & (long_df["dist_volume"] == 0)] = 0.0
+        long_df["pct_change"] = (pct.fillna(0.0) * 100).round(3)
 
-        # Final column order
-        long_full = long_full[["Agency", "Time", "dist_volume", "delta", "pct_change"]]
+        # Compress zero runs per County×Agency
+        compressed = _compress_zero_runs(
+            long_df[["County","Agency","Time","dist_volume","delta","pct_change"]],
+            group_cols=["County","Agency"]
+        )
 
-        out_path = out_dir / f"{county.replace(' ', '_')}_agency_timeseries_2023_2025.csv"
-        long_full.to_csv(out_path, index=False)
-        print(f"[OK] Wrote {out_path} (rows={len(long_full)})")
+        # Save per-county CSV (full 2023–2025)
+        base = county.replace(" ","_")
+        (out_dir / f"{base}_agency_timeseries.csv").write_text(
+            compressed.to_csv(index=False)
+        )
+
+        all_counties_rows.append(compressed)
+
+        print(f"[OK] {county}: wrote {base}_agency_timeseries.csv")
+
+    # Write one master CSV with ALL counties combined
+    if all_counties_rows:
+        master = pd.concat(all_counties_rows, ignore_index=True)
+        master_csv = out_dir / "ALLCOUNTIES_agency_timeseries.csv"
+        master.to_csv(master_csv, index=False)
+        print(f"[OK] Wrote {master_csv.name}")
 
 if __name__ == "__main__":
-    monthly_agencies_time()
+    monthly_agencies_overtime()
+

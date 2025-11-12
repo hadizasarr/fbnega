@@ -1,0 +1,834 @@
+County,Agency,Time,dist_volume,delta,pct_change
+CLARKE_FY2024,1st Step Program,2023-07 to 2023-09,0.0,0.0,0.0
+CLARKE_FY2024,1st Step Program,2023-10,2031.0,2031.0,inf
+CLARKE_FY2024,1st Step Program,2023-11,0.0,-2031.0,-100.0
+CLARKE_FY2024,1st Step Program,2023-12 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,AIDS Athens (Live Forward),2023-07,391.0,0.0,0.0
+CLARKE_FY2024,AIDS Athens (Live Forward),2023-08,0.0,-391.0,-100.0
+CLARKE_FY2024,AIDS Athens (Live Forward),2023-09,616.0,616.0,inf
+CLARKE_FY2024,AIDS Athens (Live Forward),2023-10,540.0,-76.0,-12.338
+CLARKE_FY2024,AIDS Athens (Live Forward),2023-11,520.0,-20.0,-3.704
+CLARKE_FY2024,AIDS Athens (Live Forward),2023-12,393.0,-127.0,-24.423
+CLARKE_FY2024,AIDS Athens (Live Forward),2024-01,0.0,-393.0,-100.0
+CLARKE_FY2024,AIDS Athens (Live Forward),2024-02 to 2024-05,0.0,0.0,0.0
+CLARKE_FY2024,AIDS Athens (Live Forward),2024-06,708.0,708.0,inf
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2023-07,1516.0,0.0,0.0
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2023-08,2063.0,547.0,36.082
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2023-09,1119.0,-944.0,-45.759
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2023-10,1716.0,597.0,53.351
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2023-11,2419.0,703.0,40.967
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2023-12,1457.0,-962.0,-39.768
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2024-01,1937.0,480.0,32.944
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2024-02,4228.0,2291.0,118.276
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2024-03,1617.0,-2611.0,-61.755
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2024-04,2605.0,988.0,61.101
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2024-05,2184.0,-421.0,-16.161
+CLARKE_FY2024,Acceptance Recovery Center Inc.,2024-06,1304.0,-880.0,-40.293
+CLARKE_FY2024,Advantage Behavioral Health System - Homeless Day Center,2023-07 to 2024-01,0.0,0.0,0.0
+CLARKE_FY2024,Advantage Behavioral Health System - Homeless Day Center,2024-02,685.0,685.0,inf
+CLARKE_FY2024,Advantage Behavioral Health System - Homeless Day Center,2024-03,0.0,-685.0,-100.0
+CLARKE_FY2024,Advantage Behavioral Health System - Homeless Day Center,2024-04,651.0,651.0,inf
+CLARKE_FY2024,Advantage Behavioral Health System - Homeless Day Center,2024-05,0.0,-651.0,-100.0
+CLARKE_FY2024,Advantage Behavioral Health System - Homeless Day Center,2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Advantage Behavioral Health System - Women's Services,2023-07,263.0,0.0,0.0
+CLARKE_FY2024,Advantage Behavioral Health System - Women's Services,2023-08,500.0,237.0,90.114
+CLARKE_FY2024,Advantage Behavioral Health System - Women's Services,2023-09,277.0,-223.0,-44.6
+CLARKE_FY2024,Advantage Behavioral Health System - Women's Services,2023-10,0.0,-277.0,-100.0
+CLARKE_FY2024,Advantage Behavioral Health System - Women's Services,2023-11 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2023-07,420.0,0.0,0.0
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2023-08,3163.0,2743.0,653.095
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2023-09,596.0,-2567.0,-81.157
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2023-10,1060.0,464.0,77.852
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2023-11,1586.0,526.0,49.623
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2023-12,1329.0,-257.0,-16.204
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2024-01,2675.0,1346.0,101.279
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2024-02,3354.0,679.0,25.383
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2024-03,209.0,-3145.0,-93.769
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2024-04,321.0,112.0,53.589
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2024-05,0.0,-321.0,-100.0
+CLARKE_FY2024,Athena Athletic F.K.A Gladiator Football Foundation,2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2023-07,4191.0,0.0,0.0
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2023-08,1984.0,-2207.0,-52.66
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2023-09,1021.0,-963.0,-48.538
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2023-10,2936.0,1915.0,187.561
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2023-11,4134.0,1198.0,40.804
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2023-12,5678.0,1544.0,37.349
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2024-01,1948.0,-3730.0,-65.692
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2024-02,1479.0,-469.0,-24.076
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2024-03,759.0,-720.0,-48.682
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2024-04,869.0,110.0,14.493
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2024-05,1364.0,495.0,56.962
+CLARKE_FY2024,Athens Area Asa Philip Randolph Institute,2024-06,242.0,-1122.0,-82.258
+CLARKE_FY2024,Athens Area Homeless Shelter,2023-07,0.0,0.0,0.0
+CLARKE_FY2024,Athens Area Homeless Shelter,2023-08,783.0,783.0,inf
+CLARKE_FY2024,Athens Area Homeless Shelter,2023-09,0.0,-783.0,-100.0
+CLARKE_FY2024,Athens Area Homeless Shelter,2023-10 to 2024-01,0.0,0.0,0.0
+CLARKE_FY2024,Athens Area Homeless Shelter,2024-02,150.0,150.0,inf
+CLARKE_FY2024,Athens Area Homeless Shelter,2024-03,0.0,-150.0,-100.0
+CLARKE_FY2024,Athens Area Homeless Shelter,2024-04,0.0,0.0,0.0
+CLARKE_FY2024,Athens Area Homeless Shelter,2024-05,72.0,72.0,inf
+CLARKE_FY2024,Athens Area Homeless Shelter,2024-06,105.0,33.0,45.833
+CLARKE_FY2024,Athens Area Humane Society,2023-07 to 2023-12,0.0,0.0,0.0
+CLARKE_FY2024,Athens Area Humane Society,2024-01,1009.0,1009.0,inf
+CLARKE_FY2024,Athens Area Humane Society,2024-02,1014.0,5.0,0.496
+CLARKE_FY2024,Athens Area Humane Society,2024-03,0.0,-1014.0,-100.0
+CLARKE_FY2024,Athens Area Humane Society,2024-04,1098.0,1098.0,inf
+CLARKE_FY2024,Athens Area Humane Society,2024-05,0.0,-1098.0,-100.0
+CLARKE_FY2024,Athens Area Humane Society,2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Athens Community Council on Aging,2023-07,2570.0,0.0,0.0
+CLARKE_FY2024,Athens Community Council on Aging,2023-08,5894.0,3324.0,129.339
+CLARKE_FY2024,Athens Community Council on Aging,2023-09,670.0,-5224.0,-88.633
+CLARKE_FY2024,Athens Community Council on Aging,2023-10,4207.0,3537.0,527.91
+CLARKE_FY2024,Athens Community Council on Aging,2023-11,1391.0,-2816.0,-66.936
+CLARKE_FY2024,Athens Community Council on Aging,2023-12,827.0,-564.0,-40.546
+CLARKE_FY2024,Athens Community Council on Aging,2024-01,12508.0,11681.0,1412.455
+CLARKE_FY2024,Athens Community Council on Aging,2024-02,11442.0,-1066.0,-8.523
+CLARKE_FY2024,Athens Community Council on Aging,2024-03,4250.0,-7192.0,-62.856
+CLARKE_FY2024,Athens Community Council on Aging,2024-04,12423.0,8173.0,192.306
+CLARKE_FY2024,Athens Community Council on Aging,2024-05,1964.0,-10459.0,-84.191
+CLARKE_FY2024,Athens Community Council on Aging,2024-06,14435.0,12471.0,634.98
+CLARKE_FY2024,Athens Emergency Food Bank,2023-07,1123.0,0.0,0.0
+CLARKE_FY2024,Athens Emergency Food Bank,2023-08,1415.0,292.0,26.002
+CLARKE_FY2024,Athens Emergency Food Bank,2023-09,1008.0,-407.0,-28.763
+CLARKE_FY2024,Athens Emergency Food Bank,2023-10,1391.0,383.0,37.996
+CLARKE_FY2024,Athens Emergency Food Bank,2023-11,1830.0,439.0,31.56
+CLARKE_FY2024,Athens Emergency Food Bank,2023-12,670.0,-1160.0,-63.388
+CLARKE_FY2024,Athens Emergency Food Bank,2024-01,1896.0,1226.0,182.985
+CLARKE_FY2024,Athens Emergency Food Bank,2024-02,542.0,-1354.0,-71.414
+CLARKE_FY2024,Athens Emergency Food Bank,2024-03,628.0,86.0,15.867
+CLARKE_FY2024,Athens Emergency Food Bank,2024-04,489.0,-139.0,-22.134
+CLARKE_FY2024,Athens Emergency Food Bank,2024-05,752.0,263.0,53.783
+CLARKE_FY2024,Athens Emergency Food Bank,2024-06,429.0,-323.0,-42.952
+CLARKE_FY2024,"Athens Pride, INC",2023-07 to 2023-12,0.0,0.0,0.0
+CLARKE_FY2024,"Athens Pride, INC",2024-01,11921.0,11921.0,inf
+CLARKE_FY2024,"Athens Pride, INC",2024-02,13394.0,1473.0,12.356
+CLARKE_FY2024,"Athens Pride, INC",2024-03,11711.0,-1683.0,-12.565
+CLARKE_FY2024,"Athens Pride, INC",2024-04,13992.0,2281.0,19.477
+CLARKE_FY2024,"Athens Pride, INC",2024-05,11014.0,-2978.0,-21.284
+CLARKE_FY2024,"Athens Pride, INC",2024-06,16096.0,5082.0,46.141
+CLARKE_FY2024,Beech Haven Baptist Church,2023-07,2302.0,0.0,0.0
+CLARKE_FY2024,Beech Haven Baptist Church,2023-08,186.0,-2116.0,-91.92
+CLARKE_FY2024,Beech Haven Baptist Church,2023-09,90.0,-96.0,-51.613
+CLARKE_FY2024,Beech Haven Baptist Church,2023-10,566.0,476.0,528.889
+CLARKE_FY2024,Beech Haven Baptist Church,2023-11,115.0,-451.0,-79.682
+CLARKE_FY2024,Beech Haven Baptist Church,2023-12,446.0,331.0,287.826
+CLARKE_FY2024,Beech Haven Baptist Church,2024-01,0.0,-446.0,-100.0
+CLARKE_FY2024,Beech Haven Baptist Church,2024-02,76.0,76.0,inf
+CLARKE_FY2024,Beech Haven Baptist Church,2024-03,0.0,-76.0,-100.0
+CLARKE_FY2024,Beech Haven Baptist Church,2024-04,185.0,185.0,inf
+CLARKE_FY2024,Beech Haven Baptist Church,2024-05,324.0,139.0,75.135
+CLARKE_FY2024,Beech Haven Baptist Church,2024-06,872.36,548.36,169.247
+CLARKE_FY2024,Beta Upsilon Chi Operational,2023-07 to 2024-01,0.0,0.0,0.0
+CLARKE_FY2024,Beta Upsilon Chi Operational,2024-02,23544.0,23544.0,inf
+CLARKE_FY2024,Beta Upsilon Chi Operational,2024-03,488.0,-23056.0,-97.927
+CLARKE_FY2024,Beta Upsilon Chi Operational,2024-04,0.0,-488.0,-100.0
+CLARKE_FY2024,Beta Upsilon Chi Operational,2024-05,504.0,504.0,inf
+CLARKE_FY2024,Beta Upsilon Chi Operational,2024-06,0.0,-504.0,-100.0
+CLARKE_FY2024,Boys and Girls Club---H.T. Edwards Building,2023-07 to 2023-10,0.0,0.0,0.0
+CLARKE_FY2024,Boys and Girls Club---H.T. Edwards Building,2023-11,14.0,14.0,inf
+CLARKE_FY2024,Boys and Girls Club---H.T. Edwards Building,2023-12,0.0,-14.0,-100.0
+CLARKE_FY2024,Boys and Girls Club---H.T. Edwards Building,2024-01 to 2024-03,0.0,0.0,0.0
+CLARKE_FY2024,Boys and Girls Club---H.T. Edwards Building,2024-04,7025.0,7025.0,inf
+CLARKE_FY2024,Boys and Girls Club---H.T. Edwards Building,2024-05,0.0,-7025.0,-100.0
+CLARKE_FY2024,Boys and Girls Club---H.T. Edwards Building,2024-06,0.0,0.0,0.0
+CLARKE_FY2024,"Campus Kitchen, UGA",2023-07 to 2024-04,0.0,0.0,0.0
+CLARKE_FY2024,"Campus Kitchen, UGA",2024-05,2163.0,2163.0,inf
+CLARKE_FY2024,"Campus Kitchen, UGA",2024-06,4041.0,1878.0,86.824
+CLARKE_FY2024,Catholic Center at UGA,2023-07,0.0,0.0,0.0
+CLARKE_FY2024,Catholic Center at UGA,2023-08,637.0,637.0,inf
+CLARKE_FY2024,Catholic Center at UGA,2023-09,532.0,-105.0,-16.484
+CLARKE_FY2024,Catholic Center at UGA,2023-10,1374.0,842.0,158.271
+CLARKE_FY2024,Catholic Center at UGA,2023-11,410.0,-964.0,-70.16
+CLARKE_FY2024,Catholic Center at UGA,2023-12,236.0,-174.0,-42.439
+CLARKE_FY2024,Catholic Center at UGA,2024-01,513.0,277.0,117.373
+CLARKE_FY2024,Catholic Center at UGA,2024-02,1513.0,1000.0,194.932
+CLARKE_FY2024,Catholic Center at UGA,2024-03,1427.0,-86.0,-5.684
+CLARKE_FY2024,Catholic Center at UGA,2024-04,689.0,-738.0,-51.717
+CLARKE_FY2024,Catholic Center at UGA,2024-05,705.0,16.0,2.322
+CLARKE_FY2024,Catholic Center at UGA,2024-06,78.0,-627.0,-88.936
+CLARKE_FY2024,"Church of Pentecost USA, Inc",2023-07 to 2023-10,0.0,0.0,0.0
+CLARKE_FY2024,"Church of Pentecost USA, Inc",2023-11,2727.0,2727.0,inf
+CLARKE_FY2024,"Church of Pentecost USA, Inc",2023-12,1825.0,-902.0,-33.077
+CLARKE_FY2024,"Church of Pentecost USA, Inc",2024-01,1321.0,-504.0,-27.616
+CLARKE_FY2024,"Church of Pentecost USA, Inc",2024-02,6826.0,5505.0,416.73
+CLARKE_FY2024,"Church of Pentecost USA, Inc",2024-03,4660.0,-2166.0,-31.732
+CLARKE_FY2024,"Church of Pentecost USA, Inc",2024-04,9458.0,4798.0,102.961
+CLARKE_FY2024,"Church of Pentecost USA, Inc",2024-05,8122.0,-1336.0,-14.126
+CLARKE_FY2024,"Church of Pentecost USA, Inc",2024-06,0.0,-8122.0,-100.0
+CLARKE_FY2024,"City of Refuge Athens, INC",2023-07,34157.0,0.0,0.0
+CLARKE_FY2024,"City of Refuge Athens, INC",2023-08,60250.0,26093.0,76.391
+CLARKE_FY2024,"City of Refuge Athens, INC",2023-09,23992.0,-36258.0,-60.179
+CLARKE_FY2024,"City of Refuge Athens, INC",2023-10,19494.0,-4498.0,-18.748
+CLARKE_FY2024,"City of Refuge Athens, INC",2023-11,31914.0,12420.0,63.712
+CLARKE_FY2024,"City of Refuge Athens, INC",2023-12,30070.0,-1844.0,-5.778
+CLARKE_FY2024,"City of Refuge Athens, INC",2024-01,56088.0,26018.0,86.525
+CLARKE_FY2024,"City of Refuge Athens, INC",2024-02,30005.0,-26083.0,-46.504
+CLARKE_FY2024,"City of Refuge Athens, INC",2024-03,24596.0,-5409.0,-18.027
+CLARKE_FY2024,"City of Refuge Athens, INC",2024-04,28940.0,4344.0,17.661
+CLARKE_FY2024,"City of Refuge Athens, INC",2024-05,58848.0,29908.0,103.345
+CLARKE_FY2024,"City of Refuge Athens, INC",2024-06,34975.0,-23873.0,-40.567
+CLARKE_FY2024,Clarke Central School Food Pantry,2023-07 to 2023-09,0.0,0.0,0.0
+CLARKE_FY2024,Clarke Central School Food Pantry,2023-10,708.0,708.0,inf
+CLARKE_FY2024,Clarke Central School Food Pantry,2023-11,0.0,-708.0,-100.0
+CLARKE_FY2024,Clarke Central School Food Pantry,2023-12 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Clarke County Sheriff's Office,2023-07,5108.0,0.0,0.0
+CLARKE_FY2024,Clarke County Sheriff's Office,2023-08,0.0,-5108.0,-100.0
+CLARKE_FY2024,Clarke County Sheriff's Office,2023-09 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2023-07,0.0,0.0,0.0
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2023-08,4620.0,4620.0,inf
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2023-09,148.0,-4472.0,-96.797
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2023-10,7012.0,6864.0,4637.838
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2023-11,272.0,-6740.0,-96.121
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2023-12,879.0,607.0,223.162
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2024-01,432.0,-447.0,-50.853
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2024-02,2493.0,2061.0,477.083
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2024-03,5364.0,2871.0,115.162
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2024-04,3374.0,-1990.0,-37.099
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2024-05,2586.0,-788.0,-23.355
+CLARKE_FY2024,Clarke: ACCA Senior Staples Program,2024-06,2162.0,-424.0,-16.396
+CLARKE_FY2024,Clarke: Winterville FBC Senior Staples Program,2023-07 to 2023-10,0.0,0.0,0.0
+CLARKE_FY2024,Clarke: Winterville FBC Senior Staples Program,2023-11,302.0,302.0,inf
+CLARKE_FY2024,Clarke: Winterville FBC Senior Staples Program,2023-12,0.0,-302.0,-100.0
+CLARKE_FY2024,Clarke: Winterville FBC Senior Staples Program,2024-01 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Cornerstone Food Pantry,2023-07,33663.0,0.0,0.0
+CLARKE_FY2024,Cornerstone Food Pantry,2023-08,32424.0,-1239.0,-3.681
+CLARKE_FY2024,Cornerstone Food Pantry,2023-09,42115.0,9691.0,29.888
+CLARKE_FY2024,Cornerstone Food Pantry,2023-10,48170.0,6055.0,14.377
+CLARKE_FY2024,Cornerstone Food Pantry,2023-11,39493.0,-8677.0,-18.013
+CLARKE_FY2024,Cornerstone Food Pantry,2023-12,39554.0,61.0,0.154
+CLARKE_FY2024,Cornerstone Food Pantry,2024-01,40144.0,590.0,1.492
+CLARKE_FY2024,Cornerstone Food Pantry,2024-02,40569.0,425.0,1.059
+CLARKE_FY2024,Cornerstone Food Pantry,2024-03,33417.0,-7152.0,-17.629
+CLARKE_FY2024,Cornerstone Food Pantry,2024-04,39439.0,6022.0,18.021
+CLARKE_FY2024,Cornerstone Food Pantry,2024-05,44301.0,4862.0,12.328
+CLARKE_FY2024,Cornerstone Food Pantry,2024-06,50334.0,6033.0,13.618
+CLARKE_FY2024,Covenant Presbyterian Church,2023-07,8501.0,0.0,0.0
+CLARKE_FY2024,Covenant Presbyterian Church,2023-08,11064.0,2563.0,30.149
+CLARKE_FY2024,Covenant Presbyterian Church,2023-09,11198.0,134.0,1.211
+CLARKE_FY2024,Covenant Presbyterian Church,2023-10,8743.0,-2455.0,-21.924
+CLARKE_FY2024,Covenant Presbyterian Church,2023-11,15552.0,6809.0,77.879
+CLARKE_FY2024,Covenant Presbyterian Church,2023-12,10808.0,-4744.0,-30.504
+CLARKE_FY2024,Covenant Presbyterian Church,2024-01,12844.0,2036.0,18.838
+CLARKE_FY2024,Covenant Presbyterian Church,2024-02,17746.0,4902.0,38.166
+CLARKE_FY2024,Covenant Presbyterian Church,2024-03,17362.0,-384.0,-2.164
+CLARKE_FY2024,Covenant Presbyterian Church,2024-04,13456.0,-3906.0,-22.497
+CLARKE_FY2024,Covenant Presbyterian Church,2024-05,13545.0,89.0,0.661
+CLARKE_FY2024,Covenant Presbyterian Church,2024-06,10421.17,-3123.83,-23.063
+CLARKE_FY2024,Cultivating a Lifetime of Legacy Inc.,2023-07 to 2024-04,0.0,0.0,0.0
+CLARKE_FY2024,Cultivating a Lifetime of Legacy Inc.,2024-05,1271.0,1271.0,inf
+CLARKE_FY2024,Cultivating a Lifetime of Legacy Inc.,2024-06,636.0,-635.0,-49.961
+CLARKE_FY2024,Designing Minds Enterprises INC,2023-07,8464.0,0.0,0.0
+CLARKE_FY2024,Designing Minds Enterprises INC,2023-08,5871.0,-2593.0,-30.636
+CLARKE_FY2024,Designing Minds Enterprises INC,2023-09,14071.0,8200.0,139.67
+CLARKE_FY2024,Designing Minds Enterprises INC,2023-10,3663.0,-10408.0,-73.968
+CLARKE_FY2024,Designing Minds Enterprises INC,2023-11,3939.0,276.0,7.535
+CLARKE_FY2024,Designing Minds Enterprises INC,2023-12,3247.0,-692.0,-17.568
+CLARKE_FY2024,Designing Minds Enterprises INC,2024-01,9846.0,6599.0,203.234
+CLARKE_FY2024,Designing Minds Enterprises INC,2024-02,5588.0,-4258.0,-43.246
+CLARKE_FY2024,Designing Minds Enterprises INC,2024-03,3776.0,-1812.0,-32.427
+CLARKE_FY2024,Designing Minds Enterprises INC,2024-04,6830.0,3054.0,80.879
+CLARKE_FY2024,Designing Minds Enterprises INC,2024-05,11947.0,5117.0,74.919
+CLARKE_FY2024,Designing Minds Enterprises INC,2024-06,1305.0,-10642.0,-89.077
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2023-07 to 2023-09,0.0,0.0,0.0
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2023-10,890.0,890.0,inf
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2023-11,972.0,82.0,9.213
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2023-12,1177.0,205.0,21.091
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2024-01,2149.0,972.0,82.583
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2024-02,2343.0,194.0,9.027
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2024-03,677.0,-1666.0,-71.105
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2024-04,2460.0,1783.0,263.368
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2024-05,977.0,-1483.0,-60.285
+CLARKE_FY2024,"Divergent Recovery Center, Inc",2024-06,1738.0,761.0,77.892
+CLARKE_FY2024,Downtown Ministries,2023-07 to 2023-08,0.0,0.0,0.0
+CLARKE_FY2024,Downtown Ministries,2023-09,455.0,455.0,inf
+CLARKE_FY2024,Downtown Ministries,2023-10,772.0,317.0,69.67
+CLARKE_FY2024,Downtown Ministries,2023-11,330.0,-442.0,-57.254
+CLARKE_FY2024,Downtown Ministries,2023-12,50.0,-280.0,-84.848
+CLARKE_FY2024,Downtown Ministries,2024-01,275.0,225.0,450.0
+CLARKE_FY2024,Downtown Ministries,2024-02,369.0,94.0,34.182
+CLARKE_FY2024,Downtown Ministries,2024-03,229.0,-140.0,-37.94
+CLARKE_FY2024,Downtown Ministries,2024-04,189.0,-40.0,-17.467
+CLARKE_FY2024,Downtown Ministries,2024-05,238.0,49.0,25.926
+CLARKE_FY2024,Downtown Ministries,2024-06,0.0,-238.0,-100.0
+CLARKE_FY2024,EADC dba New Dawn,2023-07 to 2023-09,0.0,0.0,0.0
+CLARKE_FY2024,EADC dba New Dawn,2023-10,96.0,96.0,inf
+CLARKE_FY2024,EADC dba New Dawn,2023-11,1693.0,1597.0,1663.542
+CLARKE_FY2024,EADC dba New Dawn,2023-12,146.0,-1547.0,-91.376
+CLARKE_FY2024,EADC dba New Dawn,2024-01,0.0,-146.0,-100.0
+CLARKE_FY2024,EADC dba New Dawn,2024-02 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,East Athens Development Corp.,2023-07,370.0,0.0,0.0
+CLARKE_FY2024,East Athens Development Corp.,2023-08,274.0,-96.0,-25.946
+CLARKE_FY2024,East Athens Development Corp.,2023-09,134.0,-140.0,-51.095
+CLARKE_FY2024,East Athens Development Corp.,2023-10,0.0,-134.0,-100.0
+CLARKE_FY2024,East Athens Development Corp.,2023-11,289.0,289.0,inf
+CLARKE_FY2024,East Athens Development Corp.,2023-12,0.0,-289.0,-100.0
+CLARKE_FY2024,East Athens Development Corp.,2024-01,296.0,296.0,inf
+CLARKE_FY2024,East Athens Development Corp.,2024-02,0.0,-296.0,-100.0
+CLARKE_FY2024,East Athens Development Corp.,2024-03 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,F2K360 CLARKE,2023-07 to 2023-08,0.0,0.0,0.0
+CLARKE_FY2024,F2K360 CLARKE,2023-09,36.0,36.0,inf
+CLARKE_FY2024,F2K360 CLARKE,2023-10,1552.0,1516.0,4211.111
+CLARKE_FY2024,F2K360 CLARKE,2023-11,0.0,-1552.0,-100.0
+CLARKE_FY2024,F2K360 CLARKE,2023-12,10194.0,10194.0,inf
+CLARKE_FY2024,F2K360 CLARKE,2024-01,0.0,-10194.0,-100.0
+CLARKE_FY2024,F2K360 CLARKE,2024-02 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,FOOD BANK OF NEGA,2023-07,270.0,0.0,0.0
+CLARKE_FY2024,FOOD BANK OF NEGA,2023-08,22689.0,22419.0,8303.333
+CLARKE_FY2024,FOOD BANK OF NEGA,2023-09,45188.0,22499.0,99.163
+CLARKE_FY2024,FOOD BANK OF NEGA,2023-10,38811.0,-6377.0,-14.112
+CLARKE_FY2024,FOOD BANK OF NEGA,2023-11,78129.0,39318.0,101.306
+CLARKE_FY2024,FOOD BANK OF NEGA,2023-12,83544.0,5415.0,6.931
+CLARKE_FY2024,FOOD BANK OF NEGA,2024-01,28348.0,-55196.0,-66.068
+CLARKE_FY2024,FOOD BANK OF NEGA,2024-02,22524.0,-5824.0,-20.545
+CLARKE_FY2024,FOOD BANK OF NEGA,2024-03,60484.0,37960.0,168.531
+CLARKE_FY2024,FOOD BANK OF NEGA,2024-04,8847.0,-51637.0,-85.373
+CLARKE_FY2024,FOOD BANK OF NEGA,2024-05,1319.0,-7528.0,-85.091
+CLARKE_FY2024,FOOD BANK OF NEGA,2024-06,10603.0,9284.0,703.867
+CLARKE_FY2024,Faith Today Ministries,2023-07,986.0,0.0,0.0
+CLARKE_FY2024,Faith Today Ministries,2023-08,760.0,-226.0,-22.921
+CLARKE_FY2024,Faith Today Ministries,2023-09,841.0,81.0,10.658
+CLARKE_FY2024,Faith Today Ministries,2023-10,1049.0,208.0,24.732
+CLARKE_FY2024,Faith Today Ministries,2023-11,704.0,-345.0,-32.888
+CLARKE_FY2024,Faith Today Ministries,2023-12,889.0,185.0,26.278
+CLARKE_FY2024,Faith Today Ministries,2024-01,907.0,18.0,2.025
+CLARKE_FY2024,Faith Today Ministries,2024-02,686.0,-221.0,-24.366
+CLARKE_FY2024,Faith Today Ministries,2024-03,514.0,-172.0,-25.073
+CLARKE_FY2024,Faith Today Ministries,2024-04,363.0,-151.0,-29.377
+CLARKE_FY2024,Faith Today Ministries,2024-05,1559.0,1196.0,329.477
+CLARKE_FY2024,Faith Today Ministries,2024-06,432.0,-1127.0,-72.29
+CLARKE_FY2024,Family Counseling Service,2023-07,2246.0,0.0,0.0
+CLARKE_FY2024,Family Counseling Service,2023-08,4752.0,2506.0,111.576
+CLARKE_FY2024,Family Counseling Service,2023-09,3821.0,-931.0,-19.592
+CLARKE_FY2024,Family Counseling Service,2023-10,3286.0,-535.0,-14.002
+CLARKE_FY2024,Family Counseling Service,2023-11,2123.0,-1163.0,-35.393
+CLARKE_FY2024,Family Counseling Service,2023-12,1903.0,-220.0,-10.363
+CLARKE_FY2024,Family Counseling Service,2024-01,2009.0,106.0,5.57
+CLARKE_FY2024,Family Counseling Service,2024-02,1807.0,-202.0,-10.055
+CLARKE_FY2024,Family Counseling Service,2024-03,2287.0,480.0,26.563
+CLARKE_FY2024,Family Counseling Service,2024-04,2110.0,-177.0,-7.739
+CLARKE_FY2024,Family Counseling Service,2024-05,2517.0,407.0,19.289
+CLARKE_FY2024,Family Counseling Service,2024-06,1331.09,-1185.91,-47.116
+CLARKE_FY2024,Farm to Neighborhood,2023-07 to 2023-12,0.0,0.0,0.0
+CLARKE_FY2024,Farm to Neighborhood,2024-01,3650.0,3650.0,inf
+CLARKE_FY2024,Farm to Neighborhood,2024-02,0.0,-3650.0,-100.0
+CLARKE_FY2024,Farm to Neighborhood,2024-03,13692.0,13692.0,inf
+CLARKE_FY2024,Farm to Neighborhood,2024-04,24945.0,11253.0,82.187
+CLARKE_FY2024,Farm to Neighborhood,2024-05,48763.0,23818.0,95.482
+CLARKE_FY2024,Farm to Neighborhood,2024-06,40615.0,-8148.0,-16.709
+CLARKE_FY2024,"Feed My Sheep, LTD",2023-07,1950.0,0.0,0.0
+CLARKE_FY2024,"Feed My Sheep, LTD",2023-08,3654.0,1704.0,87.385
+CLARKE_FY2024,"Feed My Sheep, LTD",2023-09,3799.0,145.0,3.968
+CLARKE_FY2024,"Feed My Sheep, LTD",2023-10,2916.0,-883.0,-23.243
+CLARKE_FY2024,"Feed My Sheep, LTD",2023-11,2393.0,-523.0,-17.936
+CLARKE_FY2024,"Feed My Sheep, LTD",2023-12,2602.0,209.0,8.734
+CLARKE_FY2024,"Feed My Sheep, LTD",2024-01,4232.0,1630.0,62.644
+CLARKE_FY2024,"Feed My Sheep, LTD",2024-02,4040.0,-192.0,-4.537
+CLARKE_FY2024,"Feed My Sheep, LTD",2024-03,2955.0,-1085.0,-26.856
+CLARKE_FY2024,"Feed My Sheep, LTD",2024-04,4805.0,1850.0,62.606
+CLARKE_FY2024,"Feed My Sheep, LTD",2024-05,2140.0,-2665.0,-55.463
+CLARKE_FY2024,"Feed My Sheep, LTD",2024-06,597.18,-1542.8200000000002,-72.094
+CLARKE_FY2024,First AME Church of Athens,2023-07,4142.0,0.0,0.0
+CLARKE_FY2024,First AME Church of Athens,2023-08,4492.0,350.0,8.45
+CLARKE_FY2024,First AME Church of Athens,2023-09,3170.0,-1322.0,-29.43
+CLARKE_FY2024,First AME Church of Athens,2023-10,5172.0,2002.0,63.155
+CLARKE_FY2024,First AME Church of Athens,2023-11,3614.0,-1558.0,-30.124
+CLARKE_FY2024,First AME Church of Athens,2023-12,2425.0,-1189.0,-32.9
+CLARKE_FY2024,First AME Church of Athens,2024-01,3137.0,712.0,29.361
+CLARKE_FY2024,First AME Church of Athens,2024-02,4137.0,1000.0,31.878
+CLARKE_FY2024,First AME Church of Athens,2024-03,3948.0,-189.0,-4.569
+CLARKE_FY2024,First AME Church of Athens,2024-04,1384.0,-2564.0,-64.944
+CLARKE_FY2024,First AME Church of Athens,2024-05,3544.0,2160.0,156.069
+CLARKE_FY2024,First AME Church of Athens,2024-06,1795.0,-1749.0,-49.351
+CLARKE_FY2024,First United Methodist Church,2023-07,0.0,0.0,0.0
+CLARKE_FY2024,First United Methodist Church,2023-08,516.0,516.0,inf
+CLARKE_FY2024,First United Methodist Church,2023-09,0.0,-516.0,-100.0
+CLARKE_FY2024,First United Methodist Church,2023-10,595.0,595.0,inf
+CLARKE_FY2024,First United Methodist Church,2023-11,0.0,-595.0,-100.0
+CLARKE_FY2024,First United Methodist Church,2023-12 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Food 2 Kids Clarke County,2023-07,177.0,0.0,0.0
+CLARKE_FY2024,Food 2 Kids Clarke County,2023-08,18543.0,18366.0,10376.271
+CLARKE_FY2024,Food 2 Kids Clarke County,2023-09,32625.0,14082.0,75.942
+CLARKE_FY2024,Food 2 Kids Clarke County,2023-10,3916.0,-28709.0,-87.997
+CLARKE_FY2024,Food 2 Kids Clarke County,2023-11,13397.0,9481.0,242.109
+CLARKE_FY2024,Food 2 Kids Clarke County,2023-12,90.0,-13307.0,-99.328
+CLARKE_FY2024,Food 2 Kids Clarke County,2024-01,11947.0,11857.0,13174.444
+CLARKE_FY2024,Food 2 Kids Clarke County,2024-02,11186.0,-761.0,-6.37
+CLARKE_FY2024,Food 2 Kids Clarke County,2024-03,8127.0,-3059.0,-27.347
+CLARKE_FY2024,Food 2 Kids Clarke County,2024-04,8209.0,82.0,1.009
+CLARKE_FY2024,Food 2 Kids Clarke County,2024-05,7267.0,-942.0,-11.475
+CLARKE_FY2024,Food 2 Kids Clarke County,2024-06,0.0,-7267.0,-100.0
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2023-07,6536.0,0.0,0.0
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2023-08,5584.0,-952.0,-14.565
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2023-09,7640.0,2056.0,36.819
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2023-10,11934.0,4294.0,56.204
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2023-11,8546.0,-3388.0,-28.389
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2023-12,10645.0,2099.0,24.561
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2024-01,3486.0,-7159.0,-67.252
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2024-02,0.0,-3486.0,-100.0
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2024-03,24468.0,24468.0,inf
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2024-04,0.0,-24468.0,-100.0
+CLARKE_FY2024,Food Bank NEGA Senior Staples Program (Athens Warehouse),2024-05 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Foothills (Clarke) Regional High School,2023-07,82.0,0.0,0.0
+CLARKE_FY2024,Foothills (Clarke) Regional High School,2023-08,63.0,-19.0,-23.171
+CLARKE_FY2024,Foothills (Clarke) Regional High School,2023-09,83.0,20.0,31.746
+CLARKE_FY2024,Foothills (Clarke) Regional High School,2023-10,172.0,89.0,107.229
+CLARKE_FY2024,Foothills (Clarke) Regional High School,2023-11,82.0,-90.0,-52.326
+CLARKE_FY2024,Foothills (Clarke) Regional High School,2023-12,0.0,-82.0,-100.0
+CLARKE_FY2024,Foothills (Clarke) Regional High School,2024-01 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Fowler's Farmers Market,2023-07,7282.0,0.0,0.0
+CLARKE_FY2024,Fowler's Farmers Market,2023-08,8711.0,1429.0,19.624
+CLARKE_FY2024,Fowler's Farmers Market,2023-09,4977.0,-3734.0,-42.865
+CLARKE_FY2024,Fowler's Farmers Market,2023-10,6673.0,1696.0,34.077
+CLARKE_FY2024,Fowler's Farmers Market,2023-11,14708.0,8035.0,120.411
+CLARKE_FY2024,Fowler's Farmers Market,2023-12,11646.0,-3062.0,-20.819
+CLARKE_FY2024,Fowler's Farmers Market,2024-01,17506.0,5860.0,50.318
+CLARKE_FY2024,Fowler's Farmers Market,2024-02,13131.0,-4375.0,-24.991
+CLARKE_FY2024,Fowler's Farmers Market,2024-03,12436.0,-695.0,-5.293
+CLARKE_FY2024,Fowler's Farmers Market,2024-04,9804.0,-2632.0,-21.164
+CLARKE_FY2024,Fowler's Farmers Market,2024-05,26537.72,16733.72,170.683
+CLARKE_FY2024,Fowler's Farmers Market,2024-06,0.0,-26537.72,-100.0
+CLARKE_FY2024,Frais Church,2023-07 to 2024-04,0.0,0.0,0.0
+CLARKE_FY2024,Frais Church,2024-05,7641.0,7641.0,inf
+CLARKE_FY2024,Frais Church,2024-06,0.0,-7641.0,-100.0
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2023-07,2294.0,0.0,0.0
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2023-08,3042.0,748.0,32.607
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2023-09,2262.0,-780.0,-25.641
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2023-10,3326.0,1064.0,47.038
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2023-11,1348.0,-1978.0,-59.471
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2023-12,514.0,-834.0,-61.869
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2024-01,675.0,161.0,31.323
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2024-02,667.0,-8.0,-1.185
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2024-03,1348.0,681.0,102.099
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2024-04,1811.0,463.0,34.347
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2024-05,613.0,-1198.0,-66.151
+CLARKE_FY2024,"Freedom From Bondage, Inc.",2024-06,523.0,-90.0,-14.682
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2023-07,2936.0,0.0,0.0
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2023-08,3348.0,412.0,14.033
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2023-09,1933.0,-1415.0,-42.264
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2023-10,4339.0,2406.0,124.47
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2023-11,3544.0,-795.0,-18.322
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2023-12,3614.0,70.0,1.975
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2024-01,5158.0,1544.0,42.723
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2024-02,1790.0,-3368.0,-65.297
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2024-03,3283.0,1493.0,83.408
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2024-04,1774.0,-1509.0,-45.964
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2024-05,3338.0,1564.0,88.162
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Men's),2024-06,4561.0,1223.0,36.639
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Women's),2023-07 to 2023-10,0.0,0.0,0.0
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Women's),2023-11,460.0,460.0,inf
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Women's),2023-12,1375.0,915.0,198.913
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Women's),2024-01,2714.0,1339.0,97.382
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Women's),2024-02,2752.0,38.0,1.4
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Women's),2024-03,684.0,-2068.0,-75.145
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Women's),2024-04,1757.0,1073.0,156.871
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Women's),2024-05,1824.0,67.0,3.813
+CLARKE_FY2024,Fresh Wind Recovery Ministry (Women's),2024-06,576.0,-1248.0,-68.421
+CLARKE_FY2024,"God's Healing Hands, Inc.",2023-07,5553.0,0.0,0.0
+CLARKE_FY2024,"God's Healing Hands, Inc.",2023-08,4341.0,-1212.0,-21.826
+CLARKE_FY2024,"God's Healing Hands, Inc.",2023-09,7155.0,2814.0,64.824
+CLARKE_FY2024,"God's Healing Hands, Inc.",2023-10,4092.0,-3063.0,-42.809
+CLARKE_FY2024,"God's Healing Hands, Inc.",2023-11,6610.0,2518.0,61.535
+CLARKE_FY2024,"God's Healing Hands, Inc.",2023-12,4947.0,-1663.0,-25.159
+CLARKE_FY2024,"God's Healing Hands, Inc.",2024-01,14164.0,9217.0,186.315
+CLARKE_FY2024,"God's Healing Hands, Inc.",2024-02,6724.0,-7440.0,-52.528
+CLARKE_FY2024,"God's Healing Hands, Inc.",2024-03,6094.0,-630.0,-9.369
+CLARKE_FY2024,"God's Healing Hands, Inc.",2024-04,5062.0,-1032.0,-16.935
+CLARKE_FY2024,"God's Healing Hands, Inc.",2024-05,8727.0,3665.0,72.402
+CLARKE_FY2024,"God's Healing Hands, Inc.",2024-06,3094.0,-5633.0,-64.547
+CLARKE_FY2024,"God's Helping Hands (Of Athens, GA)",2023-07 to 2023-10,0.0,0.0,0.0
+CLARKE_FY2024,"God's Helping Hands (Of Athens, GA)",2023-11,212.0,212.0,inf
+CLARKE_FY2024,"God's Helping Hands (Of Athens, GA)",2023-12,1185.0,973.0,458.962
+CLARKE_FY2024,"God's Helping Hands (Of Athens, GA)",2024-01,3768.0,2583.0,217.975
+CLARKE_FY2024,"God's Helping Hands (Of Athens, GA)",2024-02,1436.0,-2332.0,-61.89
+CLARKE_FY2024,"God's Helping Hands (Of Athens, GA)",2024-03,898.0,-538.0,-37.465
+CLARKE_FY2024,"God's Helping Hands (Of Athens, GA)",2024-04,839.0,-59.0,-6.57
+CLARKE_FY2024,"God's Helping Hands (Of Athens, GA)",2024-05,1133.0,294.0,35.042
+CLARKE_FY2024,"God's Helping Hands (Of Athens, GA)",2024-06,0.0,-1133.0,-100.0
+CLARKE_FY2024,"Goodwill, Eastside Athens",2023-07 to 2024-05,0.0,0.0,0.0
+CLARKE_FY2024,"Goodwill, Eastside Athens",2024-06,12594.0,12594.0,inf
+CLARKE_FY2024,Hill Chapel Baptist Church,2023-07,14439.0,0.0,0.0
+CLARKE_FY2024,Hill Chapel Baptist Church,2023-08,15031.0,592.0,4.1
+CLARKE_FY2024,Hill Chapel Baptist Church,2023-09,13272.0,-1759.0,-11.702
+CLARKE_FY2024,Hill Chapel Baptist Church,2023-10,14127.0,855.0,6.442
+CLARKE_FY2024,Hill Chapel Baptist Church,2023-11,18489.0,4362.0,30.877
+CLARKE_FY2024,Hill Chapel Baptist Church,2023-12,12231.0,-6258.0,-33.847
+CLARKE_FY2024,Hill Chapel Baptist Church,2024-01,16037.0,3806.0,31.118
+CLARKE_FY2024,Hill Chapel Baptist Church,2024-02,12794.0,-3243.0,-20.222
+CLARKE_FY2024,Hill Chapel Baptist Church,2024-03,10541.0,-2253.0,-17.61
+CLARKE_FY2024,Hill Chapel Baptist Church,2024-04,14689.0,4148.0,39.351
+CLARKE_FY2024,Hill Chapel Baptist Church,2024-05,14069.0,-620.0,-4.221
+CLARKE_FY2024,Hill Chapel Baptist Church,2024-06,13021.0,-1048.0,-7.449
+CLARKE_FY2024,Holy Cross Lutheran Church,2023-07,0.0,0.0,0.0
+CLARKE_FY2024,Holy Cross Lutheran Church,2023-08,4708.0,4708.0,inf
+CLARKE_FY2024,Holy Cross Lutheran Church,2023-09,3828.0,-880.0,-18.692
+CLARKE_FY2024,Holy Cross Lutheran Church,2023-10,2011.0,-1817.0,-47.466
+CLARKE_FY2024,Holy Cross Lutheran Church,2023-11,7454.0,5443.0,270.661
+CLARKE_FY2024,Holy Cross Lutheran Church,2023-12,4935.0,-2519.0,-33.794
+CLARKE_FY2024,Holy Cross Lutheran Church,2024-01,10208.0,5273.0,106.849
+CLARKE_FY2024,Holy Cross Lutheran Church,2024-02,6013.0,-4195.0,-41.095
+CLARKE_FY2024,Holy Cross Lutheran Church,2024-03,5299.0,-714.0,-11.874
+CLARKE_FY2024,Holy Cross Lutheran Church,2024-04,5996.0,697.0,13.153
+CLARKE_FY2024,Holy Cross Lutheran Church,2024-05,4632.0,-1364.0,-22.748
+CLARKE_FY2024,Holy Cross Lutheran Church,2024-06,0.0,-4632.0,-100.0
+CLARKE_FY2024,Hope House Recovery Inc.,2023-07,1575.0,0.0,0.0
+CLARKE_FY2024,Hope House Recovery Inc.,2023-08,2531.0,956.0,60.698
+CLARKE_FY2024,Hope House Recovery Inc.,2023-09,2300.0,-231.0,-9.127
+CLARKE_FY2024,Hope House Recovery Inc.,2023-10,2095.0,-205.0,-8.913
+CLARKE_FY2024,Hope House Recovery Inc.,2023-11,3795.0,1700.0,81.146
+CLARKE_FY2024,Hope House Recovery Inc.,2023-12,964.0,-2831.0,-74.598
+CLARKE_FY2024,Hope House Recovery Inc.,2024-01,4976.0,4012.0,416.183
+CLARKE_FY2024,Hope House Recovery Inc.,2024-02,2130.0,-2846.0,-57.195
+CLARKE_FY2024,Hope House Recovery Inc.,2024-03,887.0,-1243.0,-58.357
+CLARKE_FY2024,Hope House Recovery Inc.,2024-04,521.0,-366.0,-41.263
+CLARKE_FY2024,Hope House Recovery Inc.,2024-05,2511.0,1990.0,381.958
+CLARKE_FY2024,Hope House Recovery Inc.,2024-06,0.0,-2511.0,-100.0
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2023-07,3761.0,0.0,0.0
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2023-08,8596.0,4835.0,128.556
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2023-09,4273.0,-4323.0,-50.291
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2023-10,8583.0,4310.0,100.866
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2023-11,7120.0,-1463.0,-17.045
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2023-12,7121.0,1.0,0.014
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2024-01,4048.0,-3073.0,-43.154
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2024-02,6724.0,2676.0,66.107
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2024-03,7385.0,661.0,9.83
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2024-04,6056.0,-1329.0,-17.996
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2024-05,5555.0,-501.0,-8.273
+CLARKE_FY2024,Iglesia Pentecostal Tabernaculo de Athens,2024-06,4957.0,-598.0,-10.765
+CLARKE_FY2024,Inter-Community Council Inc.,2023-07,9590.0,0.0,0.0
+CLARKE_FY2024,Inter-Community Council Inc.,2023-08,0.0,-9590.0,-100.0
+CLARKE_FY2024,Inter-Community Council Inc.,2023-09,0.0,0.0,0.0
+CLARKE_FY2024,Inter-Community Council Inc.,2023-10,119.0,119.0,inf
+CLARKE_FY2024,Inter-Community Council Inc.,2023-11,0.0,-119.0,-100.0
+CLARKE_FY2024,Inter-Community Council Inc.,2023-12 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,La Nueva Jerusalem,2023-07,686.0,0.0,0.0
+CLARKE_FY2024,La Nueva Jerusalem,2023-08,935.0,249.0,36.297
+CLARKE_FY2024,La Nueva Jerusalem,2023-09,1066.0,131.0,14.011
+CLARKE_FY2024,La Nueva Jerusalem,2023-10,824.0,-242.0,-22.702
+CLARKE_FY2024,La Nueva Jerusalem,2023-11,526.0,-298.0,-36.165
+CLARKE_FY2024,La Nueva Jerusalem,2023-12,755.0,229.0,43.536
+CLARKE_FY2024,La Nueva Jerusalem,2024-01,543.0,-212.0,-28.079
+CLARKE_FY2024,La Nueva Jerusalem,2024-02,649.0,106.0,19.521
+CLARKE_FY2024,La Nueva Jerusalem,2024-03,816.0,167.0,25.732
+CLARKE_FY2024,La Nueva Jerusalem,2024-04,382.0,-434.0,-53.186
+CLARKE_FY2024,La Nueva Jerusalem,2024-05,389.0,7.0,1.832
+CLARKE_FY2024,La Nueva Jerusalem,2024-06,523.0,134.0,34.447
+CLARKE_FY2024,Living Hope Church,2023-07,3180.0,0.0,0.0
+CLARKE_FY2024,Living Hope Church,2023-08,2618.0,-562.0,-17.673
+CLARKE_FY2024,Living Hope Church,2023-09,2389.0,-229.0,-8.747
+CLARKE_FY2024,Living Hope Church,2023-10,2715.0,326.0,13.646
+CLARKE_FY2024,Living Hope Church,2023-11,1822.0,-893.0,-32.891
+CLARKE_FY2024,Living Hope Church,2023-12,1558.0,-264.0,-14.49
+CLARKE_FY2024,Living Hope Church,2024-01,3219.0,1661.0,106.611
+CLARKE_FY2024,Living Hope Church,2024-02,2499.0,-720.0,-22.367
+CLARKE_FY2024,Living Hope Church,2024-03,2101.0,-398.0,-15.926
+CLARKE_FY2024,Living Hope Church,2024-04,1982.0,-119.0,-5.664
+CLARKE_FY2024,Living Hope Church,2024-05,2320.0,338.0,17.053
+CLARKE_FY2024,Living Hope Church,2024-06,1197.0,-1123.0,-48.405
+CLARKE_FY2024,Living Water Christian Fellowship Church,2023-07,868.0,0.0,0.0
+CLARKE_FY2024,Living Water Christian Fellowship Church,2023-08,1303.0,435.0,50.115
+CLARKE_FY2024,Living Water Christian Fellowship Church,2023-09,1872.0,569.0,43.668
+CLARKE_FY2024,Living Water Christian Fellowship Church,2023-10,2400.0,528.0,28.205
+CLARKE_FY2024,Living Water Christian Fellowship Church,2023-11,2028.0,-372.0,-15.5
+CLARKE_FY2024,Living Water Christian Fellowship Church,2023-12,1639.0,-389.0,-19.181
+CLARKE_FY2024,Living Water Christian Fellowship Church,2024-01,1303.0,-336.0,-20.5
+CLARKE_FY2024,Living Water Christian Fellowship Church,2024-02,1623.0,320.0,24.559
+CLARKE_FY2024,Living Water Christian Fellowship Church,2024-03,1014.0,-609.0,-37.523
+CLARKE_FY2024,Living Water Christian Fellowship Church,2024-04,1822.0,808.0,79.684
+CLARKE_FY2024,Living Water Christian Fellowship Church,2024-05,3036.0,1214.0,66.63
+CLARKE_FY2024,Living Water Christian Fellowship Church,2024-06,1281.0,-1755.0,-57.806
+CLARKE_FY2024,MULTIPLEchoices-Disabled Veteran's Division,2023-07,0.0,0.0,0.0
+CLARKE_FY2024,MULTIPLEchoices-Disabled Veteran's Division,2023-08,190.0,190.0,inf
+CLARKE_FY2024,MULTIPLEchoices-Disabled Veteran's Division,2023-09,0.0,-190.0,-100.0
+CLARKE_FY2024,MULTIPLEchoices-Disabled Veteran's Division,2023-10 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Marigold Collective Inc.,2023-07 to 2024-01,0.0,0.0,0.0
+CLARKE_FY2024,Marigold Collective Inc.,2024-02,992.0,992.0,inf
+CLARKE_FY2024,Marigold Collective Inc.,2024-03,1057.0,65.0,6.552
+CLARKE_FY2024,Marigold Collective Inc.,2024-04,385.0,-672.0,-63.576
+CLARKE_FY2024,Marigold Collective Inc.,2024-05,373.0,-12.0,-3.117
+CLARKE_FY2024,Marigold Collective Inc.,2024-06,407.0,34.0,9.115
+CLARKE_FY2024,Mental Health Residential (ABHS),2023-07,128.0,0.0,0.0
+CLARKE_FY2024,Mental Health Residential (ABHS),2023-08,307.0,179.0,139.844
+CLARKE_FY2024,Mental Health Residential (ABHS),2023-09,161.0,-146.0,-47.557
+CLARKE_FY2024,Mental Health Residential (ABHS),2023-10,254.0,93.0,57.764
+CLARKE_FY2024,Mental Health Residential (ABHS),2023-11,245.0,-9.0,-3.543
+CLARKE_FY2024,Mental Health Residential (ABHS),2023-12,270.0,25.0,10.204
+CLARKE_FY2024,Mental Health Residential (ABHS),2024-01,0.0,-270.0,-100.0
+CLARKE_FY2024,Mental Health Residential (ABHS),2024-02,314.0,314.0,inf
+CLARKE_FY2024,Mental Health Residential (ABHS),2024-03,96.0,-218.0,-69.427
+CLARKE_FY2024,Mental Health Residential (ABHS),2024-04,219.0,123.0,128.125
+CLARKE_FY2024,Mental Health Residential (ABHS),2024-05,732.0,513.0,234.247
+CLARKE_FY2024,Mental Health Residential (ABHS),2024-06,499.0,-233.0,-31.831
+CLARKE_FY2024,Mercy Health Center,2023-07 to 2023-12,0.0,0.0,0.0
+CLARKE_FY2024,Mercy Health Center,2024-01,21.0,21.0,inf
+CLARKE_FY2024,Mercy Health Center,2024-02,151.0,130.0,619.048
+CLARKE_FY2024,Mercy Health Center,2024-03,38.0,-113.0,-74.834
+CLARKE_FY2024,Mercy Health Center,2024-04,97.0,59.0,155.263
+CLARKE_FY2024,Mercy Health Center,2024-05,71.0,-26.0,-26.804
+CLARKE_FY2024,Mercy Health Center,2024-06,140.0,69.0,97.183
+CLARKE_FY2024,Mt. Olive SDA Church,2023-07,60926.0,0.0,0.0
+CLARKE_FY2024,Mt. Olive SDA Church,2023-08,119825.0,58899.0,96.673
+CLARKE_FY2024,Mt. Olive SDA Church,2023-09,36217.0,-83608.0,-69.775
+CLARKE_FY2024,Mt. Olive SDA Church,2023-10,95932.0,59715.0,164.881
+CLARKE_FY2024,Mt. Olive SDA Church,2023-11,89699.0,-6233.0,-6.497
+CLARKE_FY2024,Mt. Olive SDA Church,2023-12,101225.0,11526.0,12.85
+CLARKE_FY2024,Mt. Olive SDA Church,2024-01,97857.0,-3368.0,-3.327
+CLARKE_FY2024,Mt. Olive SDA Church,2024-02,100920.0,3063.0,3.13
+CLARKE_FY2024,Mt. Olive SDA Church,2024-03,99662.0,-1258.0,-1.247
+CLARKE_FY2024,Mt. Olive SDA Church,2024-04,67230.0,-32432.0,-32.542
+CLARKE_FY2024,Mt. Olive SDA Church,2024-05,128491.0,61261.0,91.122
+CLARKE_FY2024,Mt. Olive SDA Church,2024-06,134246.0,5755.0,4.479
+CLARKE_FY2024,Open Hearts,2023-07 to 2023-09,0.0,0.0,0.0
+CLARKE_FY2024,Open Hearts,2023-10,166.0,166.0,inf
+CLARKE_FY2024,Open Hearts,2023-11,259.0,93.0,56.024
+CLARKE_FY2024,Open Hearts,2023-12,0.0,-259.0,-100.0
+CLARKE_FY2024,Open Hearts,2024-01 to 2024-02,0.0,0.0,0.0
+CLARKE_FY2024,Open Hearts,2024-03,244.0,244.0,inf
+CLARKE_FY2024,Open Hearts,2024-04,0.0,-244.0,-100.0
+CLARKE_FY2024,Open Hearts,2024-05,1227.0,1227.0,inf
+CLARKE_FY2024,Open Hearts,2024-06,0.0,-1227.0,-100.0
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2023-07,11732.0,0.0,0.0
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2023-08,15723.0,3991.0,34.018
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2023-09,11176.0,-4547.0,-28.919
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2023-10,11195.0,19.0,0.17
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2023-11,11765.0,570.0,5.092
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2023-12,11984.0,219.0,1.861
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2024-01,0.0,-11984.0,-100.0
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2024-02,20337.0,20337.0,inf
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2024-03,12088.0,-8249.0,-40.562
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2024-04,12577.0,489.0,4.045
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2024-05,11412.0,-1165.0,-9.263
+CLARKE_FY2024,PINEWOOD ESTATES NORTH---Program,2024-06,12308.0,896.0,7.851
+CLARKE_FY2024,PLR (People Living in Recovery),2023-07,1046.0,0.0,0.0
+CLARKE_FY2024,PLR (People Living in Recovery),2023-08,1515.0,469.0,44.837
+CLARKE_FY2024,PLR (People Living in Recovery),2023-09,905.0,-610.0,-40.264
+CLARKE_FY2024,PLR (People Living in Recovery),2023-10,843.0,-62.0,-6.851
+CLARKE_FY2024,PLR (People Living in Recovery),2023-11,1070.0,227.0,26.928
+CLARKE_FY2024,PLR (People Living in Recovery),2023-12,290.0,-780.0,-72.897
+CLARKE_FY2024,PLR (People Living in Recovery),2024-01,1054.0,764.0,263.448
+CLARKE_FY2024,PLR (People Living in Recovery),2024-02,1154.0,100.0,9.488
+CLARKE_FY2024,PLR (People Living in Recovery),2024-03,664.0,-490.0,-42.461
+CLARKE_FY2024,PLR (People Living in Recovery),2024-04,890.0,226.0,34.036
+CLARKE_FY2024,PLR (People Living in Recovery),2024-05,1138.0,248.0,27.865
+CLARKE_FY2024,PLR (People Living in Recovery),2024-06,157.0,-981.0,-86.204
+CLARKE_FY2024,Palm House Recovery,2023-07,706.0,0.0,0.0
+CLARKE_FY2024,Palm House Recovery,2023-08,1144.0,438.0,62.04
+CLARKE_FY2024,Palm House Recovery,2023-09,772.0,-372.0,-32.517
+CLARKE_FY2024,Palm House Recovery,2023-10,617.0,-155.0,-20.078
+CLARKE_FY2024,Palm House Recovery,2023-11,1281.0,664.0,107.618
+CLARKE_FY2024,Palm House Recovery,2023-12,1183.0,-98.0,-7.65
+CLARKE_FY2024,Palm House Recovery,2024-01,869.0,-314.0,-26.543
+CLARKE_FY2024,Palm House Recovery,2024-02,474.0,-395.0,-45.455
+CLARKE_FY2024,Palm House Recovery,2024-03,868.0,394.0,83.122
+CLARKE_FY2024,Palm House Recovery,2024-04,737.0,-131.0,-15.092
+CLARKE_FY2024,Palm House Recovery,2024-05,1025.0,288.0,39.077
+CLARKE_FY2024,Palm House Recovery,2024-06,598.0,-427.0,-41.659
+CLARKE_FY2024,Project Safe,2023-07,542.0,0.0,0.0
+CLARKE_FY2024,Project Safe,2023-08,701.0,159.0,29.336
+CLARKE_FY2024,Project Safe,2023-09,475.0,-226.0,-32.24
+CLARKE_FY2024,Project Safe,2023-10,977.0,502.0,105.684
+CLARKE_FY2024,Project Safe,2023-11,536.0,-441.0,-45.138
+CLARKE_FY2024,Project Safe,2023-12,301.0,-235.0,-43.843
+CLARKE_FY2024,Project Safe,2024-01,288.0,-13.0,-4.319
+CLARKE_FY2024,Project Safe,2024-02,1292.0,1004.0,348.611
+CLARKE_FY2024,Project Safe,2024-03,694.0,-598.0,-46.285
+CLARKE_FY2024,Project Safe,2024-04,558.0,-136.0,-19.597
+CLARKE_FY2024,Project Safe,2024-05,535.0,-23.0,-4.122
+CLARKE_FY2024,Project Safe,2024-06,166.0,-369.0,-68.972
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2023-07,608.0,0.0,0.0
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2023-08,3153.0,2545.0,418.586
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2023-09,1064.0,-2089.0,-66.254
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2023-10,0.0,-1064.0,-100.0
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2023-11,2448.0,2448.0,inf
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2023-12,0.0,-2448.0,-100.0
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2024-01,0.0,0.0,0.0
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2024-02,1032.0,1032.0,inf
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2024-03,1019.0,-13.0,-1.26
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2024-04,1358.0,339.0,33.268
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2024-05,32.0,-1326.0,-97.644
+CLARKE_FY2024,Redeemed Christian Church of God Inc Amazing Grace Parish,2024-06,0.0,-32.0,-100.0
+CLARKE_FY2024,Salvation Army (Clarke),2023-07 to 2024-03,0.0,0.0,0.0
+CLARKE_FY2024,Salvation Army (Clarke),2024-04,1466.0,1466.0,inf
+CLARKE_FY2024,Salvation Army (Clarke),2024-05,175.0,-1291.0,-88.063
+CLARKE_FY2024,Salvation Army (Clarke),2024-06,0.0,-175.0,-100.0
+CLARKE_FY2024,Sarepta Baptist Missions Network,2023-07 to 2023-11,0.0,0.0,0.0
+CLARKE_FY2024,Sarepta Baptist Missions Network,2023-12,422.0,422.0,inf
+CLARKE_FY2024,Sarepta Baptist Missions Network,2024-01,1359.0,937.0,222.038
+CLARKE_FY2024,Sarepta Baptist Missions Network,2024-02,1531.0,172.0,12.656
+CLARKE_FY2024,Sarepta Baptist Missions Network,2024-03,1469.0,-62.0,-4.05
+CLARKE_FY2024,Sarepta Baptist Missions Network,2024-04,992.0,-477.0,-32.471
+CLARKE_FY2024,Sarepta Baptist Missions Network,2024-05,1064.0,72.0,7.258
+CLARKE_FY2024,Sarepta Baptist Missions Network,2024-06,443.0,-621.0,-58.365
+CLARKE_FY2024,Seventh-Day Adventist Church,2023-07,797.0,0.0,0.0
+CLARKE_FY2024,Seventh-Day Adventist Church,2023-08,599.0,-198.0,-24.843
+CLARKE_FY2024,Seventh-Day Adventist Church,2023-09,514.0,-85.0,-14.19
+CLARKE_FY2024,Seventh-Day Adventist Church,2023-10,1156.0,642.0,124.903
+CLARKE_FY2024,Seventh-Day Adventist Church,2023-11,963.0,-193.0,-16.696
+CLARKE_FY2024,Seventh-Day Adventist Church,2023-12,946.0,-17.0,-1.765
+CLARKE_FY2024,Seventh-Day Adventist Church,2024-01,1130.0,184.0,19.45
+CLARKE_FY2024,Seventh-Day Adventist Church,2024-02,657.0,-473.0,-41.858
+CLARKE_FY2024,Seventh-Day Adventist Church,2024-03,964.0,307.0,46.728
+CLARKE_FY2024,Seventh-Day Adventist Church,2024-04,1316.0,352.0,36.515
+CLARKE_FY2024,Seventh-Day Adventist Church,2024-05,572.0,-744.0,-56.535
+CLARKE_FY2024,Seventh-Day Adventist Church,2024-06,687.0,115.0,20.105
+CLARKE_FY2024,Shiloh Baptist Church,2023-07,940.0,0.0,0.0
+CLARKE_FY2024,Shiloh Baptist Church,2023-08,0.0,-940.0,-100.0
+CLARKE_FY2024,Shiloh Baptist Church,2023-09,1970.0,1970.0,inf
+CLARKE_FY2024,Shiloh Baptist Church,2023-10,2076.0,106.0,5.381
+CLARKE_FY2024,Shiloh Baptist Church,2023-11,0.0,-2076.0,-100.0
+CLARKE_FY2024,Shiloh Baptist Church,2023-12,2042.0,2042.0,inf
+CLARKE_FY2024,Shiloh Baptist Church,2024-01,2662.0,620.0,30.362
+CLARKE_FY2024,Shiloh Baptist Church,2024-02,828.0,-1834.0,-68.896
+CLARKE_FY2024,Shiloh Baptist Church,2024-03,3384.0,2556.0,308.696
+CLARKE_FY2024,Shiloh Baptist Church,2024-04,20.0,-3364.0,-99.409
+CLARKE_FY2024,Shiloh Baptist Church,2024-05,346.0,326.0,1630.0
+CLARKE_FY2024,Shiloh Baptist Church,2024-06,0.0,-346.0,-100.0
+CLARKE_FY2024,Soul Winner's Ministries,2023-07 to 2023-08,0.0,0.0,0.0
+CLARKE_FY2024,Soul Winner's Ministries,2023-09,258.0,258.0,inf
+CLARKE_FY2024,Soul Winner's Ministries,2023-10,1369.0,1111.0,430.62
+CLARKE_FY2024,Soul Winner's Ministries,2023-11,430.0,-939.0,-68.59
+CLARKE_FY2024,Soul Winner's Ministries,2023-12,552.0,122.0,28.372
+CLARKE_FY2024,Soul Winner's Ministries,2024-01,0.0,-552.0,-100.0
+CLARKE_FY2024,Soul Winner's Ministries,2024-02 to 2024-04,0.0,0.0,0.0
+CLARKE_FY2024,Soul Winner's Ministries,2024-05,53.0,53.0,inf
+CLARKE_FY2024,Soul Winner's Ministries,2024-06,0.0,-53.0,-100.0
+CLARKE_FY2024,Sparrows Nest,2023-07,93.0,0.0,0.0
+CLARKE_FY2024,Sparrows Nest,2023-08,589.0,496.0,533.333
+CLARKE_FY2024,Sparrows Nest,2023-09,400.0,-189.0,-32.088
+CLARKE_FY2024,Sparrows Nest,2023-10,0.0,-400.0,-100.0
+CLARKE_FY2024,Sparrows Nest,2023-11,665.0,665.0,inf
+CLARKE_FY2024,Sparrows Nest,2023-12,533.0,-132.0,-19.85
+CLARKE_FY2024,Sparrows Nest,2024-01,761.0,228.0,42.777
+CLARKE_FY2024,Sparrows Nest,2024-02,425.0,-336.0,-44.152
+CLARKE_FY2024,Sparrows Nest,2024-03,615.0,190.0,44.706
+CLARKE_FY2024,Sparrows Nest,2024-04,0.0,-615.0,-100.0
+CLARKE_FY2024,Sparrows Nest,2024-05,529.0,529.0,inf
+CLARKE_FY2024,Sparrows Nest,2024-06,496.0,-33.0,-6.238
+CLARKE_FY2024,Terrapin FBNEGA Mobile Pantry,2023-07,10193.0,0.0,0.0
+CLARKE_FY2024,Terrapin FBNEGA Mobile Pantry,2023-08,10640.0,447.0,4.385
+CLARKE_FY2024,Terrapin FBNEGA Mobile Pantry,2023-09,10978.0,338.0,3.177
+CLARKE_FY2024,Terrapin FBNEGA Mobile Pantry,2023-10,10666.0,-312.0,-2.842
+CLARKE_FY2024,Terrapin FBNEGA Mobile Pantry,2023-11,9968.0,-698.0,-6.544
+CLARKE_FY2024,Terrapin FBNEGA Mobile Pantry,2023-12,11881.0,1913.0,19.191
+CLARKE_FY2024,Terrapin FBNEGA Mobile Pantry,2024-01,0.0,-11881.0,-100.0
+CLARKE_FY2024,Terrapin FBNEGA Mobile Pantry,2024-02 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2023-07,148.0,0.0,0.0
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2023-08,0.0,-148.0,-100.0
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2023-09,210.0,210.0,inf
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2023-10,176.0,-34.0,-16.19
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2023-11,121.0,-55.0,-31.25
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2023-12,110.0,-11.0,-9.091
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2024-01,0.0,-110.0,-100.0
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2024-02 to 2024-03,0.0,0.0,0.0
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2024-04,181.0,181.0,inf
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2024-05,76.0,-105.0,-58.011
+CLARKE_FY2024,"The Bridge Community Church, Inc.",2024-06,0.0,-76.0,-100.0
+CLARKE_FY2024,"The Cancer Foundation, INC",2023-07 to 2024-01,0.0,0.0,0.0
+CLARKE_FY2024,"The Cancer Foundation, INC",2024-02,282.0,282.0,inf
+CLARKE_FY2024,"The Cancer Foundation, INC",2024-03,320.0,38.0,13.475
+CLARKE_FY2024,"The Cancer Foundation, INC",2024-04,12283.0,11963.0,3738.438
+CLARKE_FY2024,"The Cancer Foundation, INC",2024-05,1098.0,-11185.0,-91.061
+CLARKE_FY2024,"The Cancer Foundation, INC",2024-06,925.0,-173.0,-15.756
+CLARKE_FY2024,The Extended Table,2023-07,600.0,0.0,0.0
+CLARKE_FY2024,The Extended Table,2023-08,897.0,297.0,49.5
+CLARKE_FY2024,The Extended Table,2023-09,437.0,-460.0,-51.282
+CLARKE_FY2024,The Extended Table,2023-10,189.0,-248.0,-56.751
+CLARKE_FY2024,The Extended Table,2023-11,222.0,33.0,17.46
+CLARKE_FY2024,The Extended Table,2023-12,377.0,155.0,69.82
+CLARKE_FY2024,The Extended Table,2024-01,286.0,-91.0,-24.138
+CLARKE_FY2024,The Extended Table,2024-02,66.0,-220.0,-76.923
+CLARKE_FY2024,The Extended Table,2024-03,452.0,386.0,584.848
+CLARKE_FY2024,The Extended Table,2024-04,99.0,-353.0,-78.097
+CLARKE_FY2024,The Extended Table,2024-05,834.0,735.0,742.424
+CLARKE_FY2024,The Extended Table,2024-06,402.0,-432.0,-51.799
+CLARKE_FY2024,The Table UGA,2023-07,0.0,0.0,0.0
+CLARKE_FY2024,The Table UGA,2023-08,509.0,509.0,inf
+CLARKE_FY2024,The Table UGA,2023-09,0.0,-509.0,-100.0
+CLARKE_FY2024,The Table UGA,2023-10,318.0,318.0,inf
+CLARKE_FY2024,The Table UGA,2023-11,149.0,-169.0,-53.145
+CLARKE_FY2024,The Table UGA,2023-12,0.0,-149.0,-100.0
+CLARKE_FY2024,The Table UGA,2024-01,396.0,396.0,inf
+CLARKE_FY2024,The Table UGA,2024-02,0.0,-396.0,-100.0
+CLARKE_FY2024,The Table UGA,2024-03,110.0,110.0,inf
+CLARKE_FY2024,The Table UGA,2024-04,166.0,56.0,50.909
+CLARKE_FY2024,The Table UGA,2024-05,0.0,-166.0,-100.0
+CLARKE_FY2024,The Table UGA,2024-06,0.0,0.0,0.0
+CLARKE_FY2024,"The Twin Angels, Inc. ",2023-07 to 2024-03,0.0,0.0,0.0
+CLARKE_FY2024,"The Twin Angels, Inc. ",2024-04,10625.0,10625.0,inf
+CLARKE_FY2024,"The Twin Angels, Inc. ",2024-05,26763.0,16138.0,151.887
+CLARKE_FY2024,"The Twin Angels, Inc. ",2024-06,7830.0,-18933.0,-70.743
+CLARKE_FY2024,Timothy Baptist Church,2023-07,1601.0,0.0,0.0
+CLARKE_FY2024,Timothy Baptist Church,2023-08,4128.0,2527.0,157.839
+CLARKE_FY2024,Timothy Baptist Church,2023-09,1179.0,-2949.0,-71.439
+CLARKE_FY2024,Timothy Baptist Church,2023-10,3150.0,1971.0,167.176
+CLARKE_FY2024,Timothy Baptist Church,2023-11,3395.0,245.0,7.778
+CLARKE_FY2024,Timothy Baptist Church,2023-12,0.0,-3395.0,-100.0
+CLARKE_FY2024,Timothy Baptist Church,2024-01,3233.0,3233.0,inf
+CLARKE_FY2024,Timothy Baptist Church,2024-02,4187.0,954.0,29.508
+CLARKE_FY2024,Timothy Baptist Church,2024-03,4810.0,623.0,14.879
+CLARKE_FY2024,Timothy Baptist Church,2024-04,5187.0,377.0,7.838
+CLARKE_FY2024,Timothy Baptist Church,2024-05,3191.0,-1996.0,-38.481
+CLARKE_FY2024,Timothy Baptist Church,2024-06,1669.0,-1522.0,-47.697
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2023-07,750.0,0.0,0.0
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2023-08,7903.0,7153.0,953.733
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2023-09,5245.0,-2658.0,-33.633
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2023-10,13970.0,8725.0,166.349
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2023-11,9352.0,-4618.0,-33.057
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2023-12,11516.0,2164.0,23.139
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2024-01,53269.0,41753.0,362.565
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2024-02,12066.0,-41203.0,-77.349
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2024-03,8649.0,-3417.0,-28.319
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2024-04,17168.0,8519.0,98.497
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2024-05,0.0,-17168.0,-100.0
+CLARKE_FY2024,"True Comfort Care Home, Inc.",2024-06,0.0,0.0,0.0
+CLARKE_FY2024,True Holiness Temple Church of God,2023-07,2632.0,0.0,0.0
+CLARKE_FY2024,True Holiness Temple Church of God,2023-08,2321.0,-311.0,-11.816
+CLARKE_FY2024,True Holiness Temple Church of God,2023-09,5476.0,3155.0,135.933
+CLARKE_FY2024,True Holiness Temple Church of God,2023-10,1943.0,-3533.0,-64.518
+CLARKE_FY2024,True Holiness Temple Church of God,2023-11,2187.0,244.0,12.558
+CLARKE_FY2024,True Holiness Temple Church of God,2023-12,2139.0,-48.0,-2.195
+CLARKE_FY2024,True Holiness Temple Church of God,2024-01,5073.0,2934.0,137.167
+CLARKE_FY2024,True Holiness Temple Church of God,2024-02,3432.0,-1641.0,-32.348
+CLARKE_FY2024,True Holiness Temple Church of God,2024-03,3380.0,-52.0,-1.515
+CLARKE_FY2024,True Holiness Temple Church of God,2024-04,4427.0,1047.0,30.976
+CLARKE_FY2024,True Holiness Temple Church of God,2024-05,4067.0,-360.0,-8.132
+CLARKE_FY2024,True Holiness Temple Church of God,2024-06,3634.0,-433.0,-10.647
+CLARKE_FY2024,UGA Student Food Pantry,2023-07 to 2023-10,0.0,0.0,0.0
+CLARKE_FY2024,UGA Student Food Pantry,2023-11,10818.0,10818.0,inf
+CLARKE_FY2024,UGA Student Food Pantry,2023-12,0.0,-10818.0,-100.0
+CLARKE_FY2024,UGA Student Food Pantry,2024-01 to 2024-06,0.0,0.0,0.0
+CLARKE_FY2024,Unitarian Universalist Fellowship of Athens,2023-07 to 2023-12,0.0,0.0,0.0
+CLARKE_FY2024,Unitarian Universalist Fellowship of Athens,2024-01,253.0,253.0,inf
+CLARKE_FY2024,Unitarian Universalist Fellowship of Athens,2024-02,0.0,-253.0,-100.0
+CLARKE_FY2024,Unitarian Universalist Fellowship of Athens,2024-03,77.0,77.0,inf
+CLARKE_FY2024,Unitarian Universalist Fellowship of Athens,2024-04,0.0,-77.0,-100.0
+CLARKE_FY2024,Unitarian Universalist Fellowship of Athens,2024-05,64.0,64.0,inf
+CLARKE_FY2024,Unitarian Universalist Fellowship of Athens,2024-06,0.0,-64.0,-100.0
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2023-07,10784.0,0.0,0.0
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2023-08,7541.0,-3243.0,-30.072
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2023-09,14216.0,6675.0,88.516
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2023-10,11733.0,-2483.0,-17.466
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2023-11,11980.0,247.0,2.105
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2023-12,12150.0,170.0,1.419
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2024-01,11239.0,-911.0,-7.498
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2024-02,11867.0,628.0,5.588
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2024-03,12858.0,991.0,8.351
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2024-04,11738.0,-1120.0,-8.711
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2024-05,11904.0,166.0,1.414
+CLARKE_FY2024,Virginia Walker Mobile Pantry,2024-06,10867.0,-1037.0,-8.711
+CLARKE_FY2024,Winterville First Baptist Church,2023-07,5435.0,0.0,0.0
+CLARKE_FY2024,Winterville First Baptist Church,2023-08,7963.0,2528.0,46.513
+CLARKE_FY2024,Winterville First Baptist Church,2023-09,4045.0,-3918.0,-49.203
+CLARKE_FY2024,Winterville First Baptist Church,2023-10,5956.0,1911.0,47.244
+CLARKE_FY2024,Winterville First Baptist Church,2023-11,8477.0,2521.0,42.327
+CLARKE_FY2024,Winterville First Baptist Church,2023-12,7226.0,-1251.0,-14.758
+CLARKE_FY2024,Winterville First Baptist Church,2024-01,6740.0,-486.0,-6.726
+CLARKE_FY2024,Winterville First Baptist Church,2024-02,8658.0,1918.0,28.457
+CLARKE_FY2024,Winterville First Baptist Church,2024-03,6601.0,-2057.0,-23.758
+CLARKE_FY2024,Winterville First Baptist Church,2024-04,6723.0,122.0,1.848
+CLARKE_FY2024,Winterville First Baptist Church,2024-05,8496.0,1773.0,26.372
+CLARKE_FY2024,Winterville First Baptist Church,2024-06,6911.08,-1584.92,-18.655
+CLARKE_FY2024,Women's Recovery Resources,2023-07 to 2024-02,0.0,0.0,0.0
+CLARKE_FY2024,Women's Recovery Resources,2024-03,1327.0,1327.0,inf
+CLARKE_FY2024,Women's Recovery Resources,2024-04,4177.0,2850.0,214.77
+CLARKE_FY2024,Women's Recovery Resources,2024-05,3942.0,-235.0,-5.626
+CLARKE_FY2024,Women's Recovery Resources,2024-06,1654.0,-2288.0,-58.042

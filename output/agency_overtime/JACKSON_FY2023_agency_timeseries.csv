@@ -1,0 +1,250 @@
+County,Agency,Time,dist_volume,delta,pct_change
+JACKSON_FY2023,Banks Jackson Food Bank,2022-07,4727.0,0.0,0.0
+JACKSON_FY2023,Banks Jackson Food Bank,2022-08,7018.0,2291.0,48.466
+JACKSON_FY2023,Banks Jackson Food Bank,2022-09,10264.0,3246.0,46.252
+JACKSON_FY2023,Banks Jackson Food Bank,2022-10,4563.0,-5701.0,-55.544
+JACKSON_FY2023,Banks Jackson Food Bank,2022-11,5739.0,1176.0,25.773
+JACKSON_FY2023,Banks Jackson Food Bank,2022-12,6280.0,541.0,9.427
+JACKSON_FY2023,Banks Jackson Food Bank,2023-01,2384.0,-3896.0,-62.038
+JACKSON_FY2023,Banks Jackson Food Bank,2023-02,2828.0,444.0,18.624
+JACKSON_FY2023,Banks Jackson Food Bank,2023-03,2772.0,-56.0,-1.98
+JACKSON_FY2023,Banks Jackson Food Bank,2023-04,4665.0,1893.0,68.29
+JACKSON_FY2023,Banks Jackson Food Bank,2023-05,5369.0,704.0,15.091
+JACKSON_FY2023,Banks Jackson Food Bank,2023-06,4389.0,-980.0,-18.253
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2022-07,0.0,0.0,0.0
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2022-08,11810.0,11810.0,inf
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2022-09,1099.0,-10711.0,-90.694
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2022-10,787.0,-312.0,-28.389
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2022-11,13361.0,12574.0,1597.713
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2022-12,1583.0,-11778.0,-88.152
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2023-01,10578.0,8995.0,568.225
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2023-02,2189.0,-8389.0,-79.306
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2023-03,11393.0,9204.0,420.466
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2023-04,2584.0,-8809.0,-77.319
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2023-05,439.0,-2145.0,-83.011
+JACKSON_FY2023,Center United Methodist Church (Center UMC),2023-06,11698.0,11259.0,2564.692
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2022-07,0.0,0.0,0.0
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2022-08,4392.0,4392.0,inf
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2022-09,0.0,-4392.0,-100.0
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2022-10,2255.0,2255.0,inf
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2022-11,4274.0,2019.0,89.534
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2022-12,1254.0,-3020.0,-70.66
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2023-01,1579.0,325.0,25.917
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2023-02,1114.0,-465.0,-29.449
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2023-03,0.0,-1114.0,-100.0
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2023-04,658.0,658.0,inf
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2023-05,0.0,-658.0,-100.0
+JACKSON_FY2023,"Christian Outreach Ministries, INC",2023-06,1497.0,1497.0,inf
+JACKSON_FY2023,Church of God of Prophecy - Braselton,2022-07,0.0,0.0,0.0
+JACKSON_FY2023,Church of God of Prophecy - Braselton,2022-08,4517.0,4517.0,inf
+JACKSON_FY2023,Church of God of Prophecy - Braselton,2022-09,0.0,-4517.0,-100.0
+JACKSON_FY2023,Church of God of Prophecy - Braselton,2022-10 to 2022-11,0.0,0.0,0.0
+JACKSON_FY2023,Church of God of Prophecy - Braselton,2022-12,794.0,794.0,inf
+JACKSON_FY2023,Church of God of Prophecy - Braselton,2023-01,0.0,-794.0,-100.0
+JACKSON_FY2023,Church of God of Prophecy - Braselton,2023-02,1054.0,1054.0,inf
+JACKSON_FY2023,Church of God of Prophecy - Braselton,2023-03,0.0,-1054.0,-100.0
+JACKSON_FY2023,Church of God of Prophecy - Braselton,2023-04 to 2023-06,0.0,0.0,0.0
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2022-07,4289.0,0.0,0.0
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2022-08,3755.0,-534.0,-12.45
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2022-09,3953.0,198.0,5.273
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2022-10,4301.0,348.0,8.803
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2022-11,4600.0,299.0,6.952
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2022-12,3209.0,-1391.0,-30.239
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2023-01,5219.0,2010.0,62.636
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2023-02,3624.0,-1595.0,-30.561
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2023-03,4876.0,1252.0,34.547
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2023-04,2995.0,-1881.0,-38.577
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2023-05,2540.0,-455.0,-15.192
+JACKSON_FY2023,Church of God of Prophecy - Hoschton,2023-06,1773.0,-767.0,-30.197
+JACKSON_FY2023,Crossroads Worship Center Church of Christ,2022-07 to 2023-01,0.0,0.0,0.0
+JACKSON_FY2023,Crossroads Worship Center Church of Christ,2023-02,7299.0,7299.0,inf
+JACKSON_FY2023,Crossroads Worship Center Church of Christ,2023-03,0.0,-7299.0,-100.0
+JACKSON_FY2023,Crossroads Worship Center Church of Christ,2023-04 to 2023-06,0.0,0.0,0.0
+JACKSON_FY2023,Favor House,2022-07,3841.0,0.0,0.0
+JACKSON_FY2023,Favor House,2022-08,3743.0,-98.0,-2.551
+JACKSON_FY2023,Favor House,2022-09,2882.0,-861.0,-23.003
+JACKSON_FY2023,Favor House,2022-10,3057.0,175.0,6.072
+JACKSON_FY2023,Favor House,2022-11,2095.0,-962.0,-31.469
+JACKSON_FY2023,Favor House,2022-12,1150.0,-945.0,-45.107
+JACKSON_FY2023,Favor House,2023-01,2079.0,929.0,80.783
+JACKSON_FY2023,Favor House,2023-02,1145.0,-934.0,-44.925
+JACKSON_FY2023,Favor House,2023-03,1258.0,113.0,9.869
+JACKSON_FY2023,Favor House,2023-04,1484.0,226.0,17.965
+JACKSON_FY2023,Favor House,2023-05,1289.0,-195.0,-13.14
+JACKSON_FY2023,Favor House,2023-06,419.0,-870.0,-67.494
+JACKSON_FY2023,First Baptist Church of Jefferson,2022-07,10010.0,0.0,0.0
+JACKSON_FY2023,First Baptist Church of Jefferson,2022-08,0.0,-10010.0,-100.0
+JACKSON_FY2023,First Baptist Church of Jefferson,2022-09,8093.0,8093.0,inf
+JACKSON_FY2023,First Baptist Church of Jefferson,2022-10,0.0,-8093.0,-100.0
+JACKSON_FY2023,First Baptist Church of Jefferson,2022-11,9835.0,9835.0,inf
+JACKSON_FY2023,First Baptist Church of Jefferson,2022-12,0.0,-9835.0,-100.0
+JACKSON_FY2023,First Baptist Church of Jefferson,2023-01,0.0,0.0,0.0
+JACKSON_FY2023,First Baptist Church of Jefferson,2023-02,463.0,463.0,inf
+JACKSON_FY2023,First Baptist Church of Jefferson,2023-03,4020.0,3557.0,768.251
+JACKSON_FY2023,First Baptist Church of Jefferson,2023-04,0.0,-4020.0,-100.0
+JACKSON_FY2023,First Baptist Church of Jefferson,2023-05,0.0,0.0,0.0
+JACKSON_FY2023,First Baptist Church of Jefferson,2023-06,5385.0,5385.0,inf
+JACKSON_FY2023,Food 2 Kids Jackson,2022-07,0.0,0.0,0.0
+JACKSON_FY2023,Food 2 Kids Jackson,2022-08,5438.0,5438.0,inf
+JACKSON_FY2023,Food 2 Kids Jackson,2022-09,53.0,-5385.0,-99.025
+JACKSON_FY2023,Food 2 Kids Jackson,2022-10,331.0,278.0,524.528
+JACKSON_FY2023,Food 2 Kids Jackson,2022-11,175.0,-156.0,-47.13
+JACKSON_FY2023,Food 2 Kids Jackson,2022-12,293.0,118.0,67.429
+JACKSON_FY2023,Food 2 Kids Jackson,2023-01,175.0,-118.0,-40.273
+JACKSON_FY2023,Food 2 Kids Jackson,2023-02,234.0,59.0,33.714
+JACKSON_FY2023,Food 2 Kids Jackson,2023-03,234.0,0.0,0.0
+JACKSON_FY2023,Food 2 Kids Jackson,2023-04,351.0,117.0,50.0
+JACKSON_FY2023,Food 2 Kids Jackson,2023-05,175.0,-176.0,-50.142
+JACKSON_FY2023,Food 2 Kids Jackson,2023-06,818.0,643.0,367.429
+JACKSON_FY2023,Glory Bound Athletics,2022-07 to 2023-03,0.0,0.0,0.0
+JACKSON_FY2023,Glory Bound Athletics,2023-04,1027.0,1027.0,inf
+JACKSON_FY2023,Glory Bound Athletics,2023-05,0.0,-1027.0,-100.0
+JACKSON_FY2023,Glory Bound Athletics,2023-06,0.0,0.0,0.0
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2022-07,2148.0,0.0,0.0
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2022-08,913.0,-1235.0,-57.495
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2022-09,1872.0,959.0,105.038
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2022-10,2659.0,787.0,42.041
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2022-11,2297.0,-362.0,-13.614
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2022-12,843.0,-1454.0,-63.3
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2023-01,1285.0,442.0,52.432
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2023-02,1778.0,493.0,38.366
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2023-03,1509.0,-269.0,-15.129
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2023-04,462.0,-1047.0,-69.384
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2023-05,1009.0,547.0,118.398
+JACKSON_FY2023,Handfuls of Purpose (God's Cupboard),2023-06,1393.0,384.0,38.057
+JACKSON_FY2023,Jackson County Senior Center,2022-07,1781.0,0.0,0.0
+JACKSON_FY2023,Jackson County Senior Center,2022-08,677.0,-1104.0,-61.988
+JACKSON_FY2023,Jackson County Senior Center,2022-09,386.0,-291.0,-42.984
+JACKSON_FY2023,Jackson County Senior Center,2022-10,3490.0,3104.0,804.145
+JACKSON_FY2023,Jackson County Senior Center,2022-11,3422.0,-68.0,-1.948
+JACKSON_FY2023,Jackson County Senior Center,2022-12,175.0,-3247.0,-94.886
+JACKSON_FY2023,Jackson County Senior Center,2023-01,2542.0,2367.0,1352.571
+JACKSON_FY2023,Jackson County Senior Center,2023-02,0.0,-2542.0,-100.0
+JACKSON_FY2023,Jackson County Senior Center,2023-03,3386.0,3386.0,inf
+JACKSON_FY2023,Jackson County Senior Center,2023-04,2863.0,-523.0,-15.446
+JACKSON_FY2023,Jackson County Senior Center,2023-05,1276.0,-1587.0,-55.431
+JACKSON_FY2023,Jackson County Senior Center,2023-06,1690.0,414.0,32.445
+JACKSON_FY2023,Jackson: Banks Jackson FB Senior Staples Program,2022-07 to 2022-08,0.0,0.0,0.0
+JACKSON_FY2023,Jackson: Banks Jackson FB Senior Staples Program,2022-09,526.0,526.0,inf
+JACKSON_FY2023,Jackson: Banks Jackson FB Senior Staples Program,2022-10,1214.0,688.0,130.798
+JACKSON_FY2023,Jackson: Banks Jackson FB Senior Staples Program,2022-11,1756.0,542.0,44.646
+JACKSON_FY2023,Jackson: Banks Jackson FB Senior Staples Program,2022-12,0.0,-1756.0,-100.0
+JACKSON_FY2023,Jackson: Banks Jackson FB Senior Staples Program,2023-01,558.0,558.0,inf
+JACKSON_FY2023,Jackson: Banks Jackson FB Senior Staples Program,2023-02,463.0,-95.0,-17.025
+JACKSON_FY2023,Jackson: Banks Jackson FB Senior Staples Program,2023-03,0.0,-463.0,-100.0
+JACKSON_FY2023,Jackson: Banks Jackson FB Senior Staples Program,2023-04 to 2023-06,0.0,0.0,0.0
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2022-07,586.0,0.0,0.0
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2022-08,570.0,-16.0,-2.73
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2022-09,526.0,-44.0,-7.719
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2022-10,463.0,-63.0,-11.977
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2022-11,1158.0,695.0,150.108
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2022-12,0.0,-1158.0,-100.0
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2023-01,531.0,531.0,inf
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2023-02,0.0,-531.0,-100.0
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2023-03,0.0,0.0,0.0
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2023-04,1210.0,1210.0,inf
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2023-05,0.0,-1210.0,-100.0
+JACKSON_FY2023,Jackson: Jackson County Baptist Church Senior Staples Program,2023-06,0.0,0.0,0.0
+JACKSON_FY2023,Maysville Baptist Church,2022-07,2856.0,0.0,0.0
+JACKSON_FY2023,Maysville Baptist Church,2022-08,1188.0,-1668.0,-58.403
+JACKSON_FY2023,Maysville Baptist Church,2022-09,1460.0,272.0,22.896
+JACKSON_FY2023,Maysville Baptist Church,2022-10,1224.0,-236.0,-16.164
+JACKSON_FY2023,Maysville Baptist Church,2022-11,4995.0,3771.0,308.088
+JACKSON_FY2023,Maysville Baptist Church,2022-12,3530.0,-1465.0,-29.329
+JACKSON_FY2023,Maysville Baptist Church,2023-01,0.0,-3530.0,-100.0
+JACKSON_FY2023,Maysville Baptist Church,2023-02,1016.0,1016.0,inf
+JACKSON_FY2023,Maysville Baptist Church,2023-03,728.0,-288.0,-28.346
+JACKSON_FY2023,Maysville Baptist Church,2023-04,1057.0,329.0,45.192
+JACKSON_FY2023,Maysville Baptist Church,2023-05,1063.0,6.0,0.568
+JACKSON_FY2023,Maysville Baptist Church,2023-06,910.0,-153.0,-14.393
+JACKSON_FY2023,New Beginnings Worship Center,2022-07,2506.0,0.0,0.0
+JACKSON_FY2023,New Beginnings Worship Center,2022-08,3279.0,773.0,30.846
+JACKSON_FY2023,New Beginnings Worship Center,2022-09,3764.0,485.0,14.791
+JACKSON_FY2023,New Beginnings Worship Center,2022-10,2782.0,-982.0,-26.089
+JACKSON_FY2023,New Beginnings Worship Center,2022-11,15427.0,12645.0,454.529
+JACKSON_FY2023,New Beginnings Worship Center,2022-12,7488.0,-7939.0,-51.462
+JACKSON_FY2023,New Beginnings Worship Center,2023-01,2891.0,-4597.0,-61.392
+JACKSON_FY2023,New Beginnings Worship Center,2023-02,2661.0,-230.0,-7.956
+JACKSON_FY2023,New Beginnings Worship Center,2023-03,9622.0,6961.0,261.593
+JACKSON_FY2023,New Beginnings Worship Center,2023-04,6833.0,-2789.0,-28.986
+JACKSON_FY2023,New Beginnings Worship Center,2023-05,2142.0,-4691.0,-68.652
+JACKSON_FY2023,New Beginnings Worship Center,2023-06,11472.0,9330.0,435.574
+JACKSON_FY2023,Open Door/The Torch Jackson County MP,2022-07 to 2023-01,0.0,0.0,0.0
+JACKSON_FY2023,Open Door/The Torch Jackson County MP,2023-02,27951.0,27951.0,inf
+JACKSON_FY2023,Open Door/The Torch Jackson County MP,2023-03,0.0,-27951.0,-100.0
+JACKSON_FY2023,Open Door/The Torch Jackson County MP,2023-04 to 2023-06,0.0,0.0,0.0
+JACKSON_FY2023,Potters House (Atlanta Mission),2022-07,8947.0,0.0,0.0
+JACKSON_FY2023,Potters House (Atlanta Mission),2022-08,18447.0,9500.0,106.181
+JACKSON_FY2023,Potters House (Atlanta Mission),2022-09,9970.0,-8477.0,-45.953
+JACKSON_FY2023,Potters House (Atlanta Mission),2022-10,10683.0,713.0,7.151
+JACKSON_FY2023,Potters House (Atlanta Mission),2022-11,16248.0,5565.0,52.092
+JACKSON_FY2023,Potters House (Atlanta Mission),2022-12,13584.5,-2663.5,-16.393
+JACKSON_FY2023,Potters House (Atlanta Mission),2023-01,13253.0,-331.5,-2.44
+JACKSON_FY2023,Potters House (Atlanta Mission),2023-02,6516.0,-6737.0,-50.834
+JACKSON_FY2023,Potters House (Atlanta Mission),2023-03,8238.0,1722.0,26.427
+JACKSON_FY2023,Potters House (Atlanta Mission),2023-04,9038.0,800.0,9.711
+JACKSON_FY2023,Potters House (Atlanta Mission),2023-05,20992.0,11954.0,132.264
+JACKSON_FY2023,Potters House (Atlanta Mission),2023-06,19017.0,-1975.0,-9.408
+JACKSON_FY2023,River of Life Worship Center,2022-07 to 2022-08,0.0,0.0,0.0
+JACKSON_FY2023,River of Life Worship Center,2022-09,2437.0,2437.0,inf
+JACKSON_FY2023,River of Life Worship Center,2022-10,1102.0,-1335.0,-54.78
+JACKSON_FY2023,River of Life Worship Center,2022-11,727.0,-375.0,-34.029
+JACKSON_FY2023,River of Life Worship Center,2022-12,0.0,-727.0,-100.0
+JACKSON_FY2023,River of Life Worship Center,2023-01,0.0,0.0,0.0
+JACKSON_FY2023,River of Life Worship Center,2023-02,1941.0,1941.0,inf
+JACKSON_FY2023,River of Life Worship Center,2023-03,535.0,-1406.0,-72.437
+JACKSON_FY2023,River of Life Worship Center,2023-04,778.0,243.0,45.421
+JACKSON_FY2023,River of Life Worship Center,2023-05,491.0,-287.0,-36.889
+JACKSON_FY2023,River of Life Worship Center,2023-06,202.0,-289.0,-58.859
+JACKSON_FY2023,Sardis Presbyterian Church,2022-07,0.0,0.0,0.0
+JACKSON_FY2023,Sardis Presbyterian Church,2022-08,846.0,846.0,inf
+JACKSON_FY2023,Sardis Presbyterian Church,2022-09,456.0,-390.0,-46.099
+JACKSON_FY2023,Sardis Presbyterian Church,2022-10,3011.0,2555.0,560.307
+JACKSON_FY2023,Sardis Presbyterian Church,2022-11,1245.0,-1766.0,-58.652
+JACKSON_FY2023,Sardis Presbyterian Church,2022-12,449.0,-796.0,-63.936
+JACKSON_FY2023,Sardis Presbyterian Church,2023-01,0.0,-449.0,-100.0
+JACKSON_FY2023,Sardis Presbyterian Church,2023-02,406.0,406.0,inf
+JACKSON_FY2023,Sardis Presbyterian Church,2023-03,1423.0,1017.0,250.493
+JACKSON_FY2023,Sardis Presbyterian Church,2023-04,994.0,-429.0,-30.148
+JACKSON_FY2023,Sardis Presbyterian Church,2023-05,1484.0,490.0,49.296
+JACKSON_FY2023,Sardis Presbyterian Church,2023-06,2037.0,553.0,37.264
+JACKSON_FY2023,United in Harmony Outreach Ministries,2022-07,500.0,0.0,0.0
+JACKSON_FY2023,United in Harmony Outreach Ministries,2022-08,0.0,-500.0,-100.0
+JACKSON_FY2023,United in Harmony Outreach Ministries,2022-09 to 2023-05,0.0,0.0,0.0
+JACKSON_FY2023,United in Harmony Outreach Ministries,2023-06,227.0,227.0,inf
+JACKSON_FY2023,Warren Chapel UMC,2022-07,5369.0,0.0,0.0
+JACKSON_FY2023,Warren Chapel UMC,2022-08,2715.0,-2654.0,-49.432
+JACKSON_FY2023,Warren Chapel UMC,2022-09,2938.0,223.0,8.214
+JACKSON_FY2023,Warren Chapel UMC,2022-10,868.0,-2070.0,-70.456
+JACKSON_FY2023,Warren Chapel UMC,2022-11,2531.0,1663.0,191.59
+JACKSON_FY2023,Warren Chapel UMC,2022-12,2484.0,-47.0,-1.857
+JACKSON_FY2023,Warren Chapel UMC,2023-01,2334.0,-150.0,-6.039
+JACKSON_FY2023,Warren Chapel UMC,2023-02,1344.0,-990.0,-42.416
+JACKSON_FY2023,Warren Chapel UMC,2023-03,1648.0,304.0,22.619
+JACKSON_FY2023,Warren Chapel UMC,2023-04,834.0,-814.0,-49.393
+JACKSON_FY2023,Warren Chapel UMC,2023-05,2295.0,1461.0,175.18
+JACKSON_FY2023,Warren Chapel UMC,2023-06,1229.0,-1066.0,-46.449
+JACKSON_FY2023,White Plains Baptist Church ,2022-07,815.0,0.0,0.0
+JACKSON_FY2023,White Plains Baptist Church ,2022-08,1531.0,716.0,87.853
+JACKSON_FY2023,White Plains Baptist Church ,2022-09,646.0,-885.0,-57.805
+JACKSON_FY2023,White Plains Baptist Church ,2022-10,660.0,14.0,2.167
+JACKSON_FY2023,White Plains Baptist Church ,2022-11,1232.0,572.0,86.667
+JACKSON_FY2023,White Plains Baptist Church ,2022-12,746.0,-486.0,-39.448
+JACKSON_FY2023,White Plains Baptist Church ,2023-01,2945.0,2199.0,294.772
+JACKSON_FY2023,White Plains Baptist Church ,2023-02,1798.0,-1147.0,-38.947
+JACKSON_FY2023,White Plains Baptist Church ,2023-03,1878.0,80.0,4.449
+JACKSON_FY2023,White Plains Baptist Church ,2023-04,722.0,-1156.0,-61.555
+JACKSON_FY2023,White Plains Baptist Church ,2023-05,1815.0,1093.0,151.385
+JACKSON_FY2023,White Plains Baptist Church ,2023-06,2057.0,242.0,13.333
+JACKSON_FY2023,iServe Ministries,2022-07,61202.0,0.0,0.0
+JACKSON_FY2023,iServe Ministries,2022-08,66476.0,5274.0,8.617
+JACKSON_FY2023,iServe Ministries,2022-09,68008.0,1532.0,2.305
+JACKSON_FY2023,iServe Ministries,2022-10,60667.0,-7341.0,-10.794
+JACKSON_FY2023,iServe Ministries,2022-11,94251.0,33584.0,55.358
+JACKSON_FY2023,iServe Ministries,2022-12,80892.0,-13359.0,-14.174
+JACKSON_FY2023,iServe Ministries,2023-01,92872.0,11980.0,14.81
+JACKSON_FY2023,iServe Ministries,2023-02,79396.0,-13476.0,-14.51
+JACKSON_FY2023,iServe Ministries,2023-03,67398.0,-11998.0,-15.112
+JACKSON_FY2023,iServe Ministries,2023-04,82612.0,15214.0,22.573
+JACKSON_FY2023,iServe Ministries,2023-05,77744.0,-4868.0,-5.893
+JACKSON_FY2023,iServe Ministries,2023-06,88730.0,10986.0,14.131

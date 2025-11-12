@@ -1,0 +1,266 @@
+County,Agency,Time,dist_volume,delta,pct_change
+MADISON_FY2023,Camp Maranatha,2022-07,242.0,0.0,0.0
+MADISON_FY2023,Camp Maranatha,2022-08,0.0,-242.0,-100.0
+MADISON_FY2023,Camp Maranatha,2022-09 to 2023-05,0.0,0.0,0.0
+MADISON_FY2023,Camp Maranatha,2023-06,1714.0,1714.0,inf
+MADISON_FY2023,Cedar Grove Baptist Church,2022-07,13836.0,0.0,0.0
+MADISON_FY2023,Cedar Grove Baptist Church,2022-08,228.0,-13608.0,-98.352
+MADISON_FY2023,Cedar Grove Baptist Church,2022-09,490.0,262.0,114.912
+MADISON_FY2023,Cedar Grove Baptist Church,2022-10,513.0,23.0,4.694
+MADISON_FY2023,Cedar Grove Baptist Church,2022-11,731.0,218.0,42.495
+MADISON_FY2023,Cedar Grove Baptist Church,2022-12,252.0,-479.0,-65.527
+MADISON_FY2023,Cedar Grove Baptist Church,2023-01,802.0,550.0,218.254
+MADISON_FY2023,Cedar Grove Baptist Church,2023-02,424.0,-378.0,-47.132
+MADISON_FY2023,Cedar Grove Baptist Church,2023-03,1646.0,1222.0,288.208
+MADISON_FY2023,Cedar Grove Baptist Church,2023-04,273.0,-1373.0,-83.414
+MADISON_FY2023,Cedar Grove Baptist Church,2023-05,634.0,361.0,132.234
+MADISON_FY2023,Cedar Grove Baptist Church,2023-06,690.0,56.0,8.833
+MADISON_FY2023,Colbert First Baptist Church,2022-07,0.0,0.0,0.0
+MADISON_FY2023,Colbert First Baptist Church,2022-08,1124.0,1124.0,inf
+MADISON_FY2023,Colbert First Baptist Church,2022-09,631.0,-493.0,-43.861
+MADISON_FY2023,Colbert First Baptist Church,2022-10,1841.0,1210.0,191.759
+MADISON_FY2023,Colbert First Baptist Church,2022-11,0.0,-1841.0,-100.0
+MADISON_FY2023,Colbert First Baptist Church,2022-12,0.0,0.0,0.0
+MADISON_FY2023,Colbert First Baptist Church,2023-01,590.0,590.0,inf
+MADISON_FY2023,Colbert First Baptist Church,2023-02,862.0,272.0,46.102
+MADISON_FY2023,Colbert First Baptist Church,2023-03,466.0,-396.0,-45.94
+MADISON_FY2023,Colbert First Baptist Church,2023-04,336.0,-130.0,-27.897
+MADISON_FY2023,Colbert First Baptist Church,2023-05,580.0,244.0,72.619
+MADISON_FY2023,Colbert First Baptist Church,2023-06,450.0,-130.0,-22.414
+MADISON_FY2023,Colbert Living Waters Holiness Church,2022-07,0.0,0.0,0.0
+MADISON_FY2023,Colbert Living Waters Holiness Church,2022-08,614.0,614.0,inf
+MADISON_FY2023,Colbert Living Waters Holiness Church,2022-09,927.0,313.0,50.977
+MADISON_FY2023,Colbert Living Waters Holiness Church,2022-10,1727.0,800.0,86.3
+MADISON_FY2023,Colbert Living Waters Holiness Church,2022-11,1253.0,-474.0,-27.446
+MADISON_FY2023,Colbert Living Waters Holiness Church,2022-12,0.0,-1253.0,-100.0
+MADISON_FY2023,Colbert Living Waters Holiness Church,2023-01,1627.0,1627.0,inf
+MADISON_FY2023,Colbert Living Waters Holiness Church,2023-02,2278.0,651.0,40.012
+MADISON_FY2023,Colbert Living Waters Holiness Church,2023-03,386.0,-1892.0,-83.055
+MADISON_FY2023,Colbert Living Waters Holiness Church,2023-04,0.0,-386.0,-100.0
+MADISON_FY2023,Colbert Living Waters Holiness Church,2023-05,0.0,0.0,0.0
+MADISON_FY2023,Colbert Living Waters Holiness Church,2023-06,3041.0,3041.0,inf
+MADISON_FY2023,Colbert Methodist Church,2022-07,2904.0,0.0,0.0
+MADISON_FY2023,Colbert Methodist Church,2022-08,1307.0,-1597.0,-54.993
+MADISON_FY2023,Colbert Methodist Church,2022-09,1181.0,-126.0,-9.64
+MADISON_FY2023,Colbert Methodist Church,2022-10,2059.0,878.0,74.344
+MADISON_FY2023,Colbert Methodist Church,2022-11,1442.0,-617.0,-29.966
+MADISON_FY2023,Colbert Methodist Church,2022-12,2065.0,623.0,43.204
+MADISON_FY2023,Colbert Methodist Church,2023-01,1334.0,-731.0,-35.4
+MADISON_FY2023,Colbert Methodist Church,2023-02,1161.0,-173.0,-12.969
+MADISON_FY2023,Colbert Methodist Church,2023-03,1969.0,808.0,69.595
+MADISON_FY2023,Colbert Methodist Church,2023-04,1147.0,-822.0,-41.747
+MADISON_FY2023,Colbert Methodist Church,2023-05,1293.0,146.0,12.729
+MADISON_FY2023,Colbert Methodist Church,2023-06,1043.0,-250.0,-19.335
+MADISON_FY2023,Colbert Methodist Church INTHEMIDDLEMEALS,2022-07,330.0,0.0,0.0
+MADISON_FY2023,Colbert Methodist Church INTHEMIDDLEMEALS,2022-08,151.0,-179.0,-54.242
+MADISON_FY2023,Colbert Methodist Church INTHEMIDDLEMEALS,2022-09,857.0,706.0,467.55
+MADISON_FY2023,Colbert Methodist Church INTHEMIDDLEMEALS,2022-10,313.0,-544.0,-63.477
+MADISON_FY2023,Colbert Methodist Church INTHEMIDDLEMEALS,2022-11,149.0,-164.0,-52.396
+MADISON_FY2023,Colbert Methodist Church INTHEMIDDLEMEALS,2022-12,198.0,49.0,32.886
+MADISON_FY2023,Colbert Methodist Church INTHEMIDDLEMEALS,2023-01,87.0,-111.0,-56.061
+MADISON_FY2023,Colbert Methodist Church INTHEMIDDLEMEALS,2023-02,0.0,-87.0,-100.0
+MADISON_FY2023,Colbert Methodist Church INTHEMIDDLEMEALS,2023-03 to 2023-06,0.0,0.0,0.0
+MADISON_FY2023,Divine Healing Ministry of Recovery Inc.,2022-07 to 2023-03,0.0,0.0,0.0
+MADISON_FY2023,Divine Healing Ministry of Recovery Inc.,2023-04,822.0,822.0,inf
+MADISON_FY2023,Divine Healing Ministry of Recovery Inc.,2023-05,730.0,-92.0,-11.192
+MADISON_FY2023,Divine Healing Ministry of Recovery Inc.,2023-06,586.0,-144.0,-19.726
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2022-07,268.0,0.0,0.0
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2022-08,673.0,405.0,151.119
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2022-09,173.0,-500.0,-74.294
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2022-10,560.0,387.0,223.699
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2022-11,212.0,-348.0,-62.143
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2022-12,414.0,202.0,95.283
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2023-01,1984.0,1570.0,379.227
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2023-02,567.0,-1417.0,-71.421
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2023-03,972.0,405.0,71.429
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2023-04,543.0,-429.0,-44.136
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2023-05,778.0,235.0,43.278
+MADISON_FY2023,Evangelical Methodist Church - Danielsville,2023-06,294.0,-484.0,-62.211
+MADISON_FY2023,Food 2 Kids Madison County,2022-07,0.0,0.0,0.0
+MADISON_FY2023,Food 2 Kids Madison County,2022-08,750.0,750.0,inf
+MADISON_FY2023,Food 2 Kids Madison County,2022-09,547.0,-203.0,-27.067
+MADISON_FY2023,Food 2 Kids Madison County,2022-10,3738.0,3191.0,583.364
+MADISON_FY2023,Food 2 Kids Madison County,2022-11,2158.0,-1580.0,-42.269
+MADISON_FY2023,Food 2 Kids Madison County,2022-12,3614.0,1456.0,67.47
+MADISON_FY2023,Food 2 Kids Madison County,2023-01,2431.0,-1183.0,-32.734
+MADISON_FY2023,Food 2 Kids Madison County,2023-02,3107.0,676.0,27.807
+MADISON_FY2023,Food 2 Kids Madison County,2023-03,3068.0,-39.0,-1.255
+MADISON_FY2023,Food 2 Kids Madison County,2023-04,4602.0,1534.0,50.0
+MADISON_FY2023,Food 2 Kids Madison County,2023-05,2301.0,-2301.0,-50.0
+MADISON_FY2023,Food 2 Kids Madison County,2023-06,3068.0,767.0,33.333
+MADISON_FY2023,Freedom Church of God,2022-07,2006.0,0.0,0.0
+MADISON_FY2023,Freedom Church of God,2022-08,2851.0,845.0,42.124
+MADISON_FY2023,Freedom Church of God,2022-09,12745.0,9894.0,347.036
+MADISON_FY2023,Freedom Church of God,2022-10,15260.0,2515.0,19.733
+MADISON_FY2023,Freedom Church of God,2022-11,17164.0,1904.0,12.477
+MADISON_FY2023,Freedom Church of God,2022-12,469.0,-16695.0,-97.268
+MADISON_FY2023,Freedom Church of God,2023-01,5047.0,4578.0,976.119
+MADISON_FY2023,Freedom Church of God,2023-02,2936.0,-2111.0,-41.827
+MADISON_FY2023,Freedom Church of God,2023-03,12431.0,9495.0,323.399
+MADISON_FY2023,Freedom Church of God,2023-04,11906.0,-525.0,-4.223
+MADISON_FY2023,Freedom Church of God,2023-05,7262.0,-4644.0,-39.006
+MADISON_FY2023,Freedom Church of God,2023-06,3081.0,-4181.0,-57.574
+MADISON_FY2023,Gordon's Chapel Methodist Church,2022-07,0.0,0.0,0.0
+MADISON_FY2023,Gordon's Chapel Methodist Church,2022-08,1860.0,1860.0,inf
+MADISON_FY2023,Gordon's Chapel Methodist Church,2022-09,1999.0,139.0,7.473
+MADISON_FY2023,Gordon's Chapel Methodist Church,2022-10,2328.0,329.0,16.458
+MADISON_FY2023,Gordon's Chapel Methodist Church,2022-11,2309.0,-19.0,-0.816
+MADISON_FY2023,Gordon's Chapel Methodist Church,2022-12,0.0,-2309.0,-100.0
+MADISON_FY2023,Gordon's Chapel Methodist Church,2023-01,1983.0,1983.0,inf
+MADISON_FY2023,Gordon's Chapel Methodist Church,2023-02,0.0,-1983.0,-100.0
+MADISON_FY2023,Gordon's Chapel Methodist Church,2023-03 to 2023-06,0.0,0.0,0.0
+MADISON_FY2023,Huff Grove Baptist Church,2022-07 to 2023-02,0.0,0.0,0.0
+MADISON_FY2023,Huff Grove Baptist Church,2023-03,114.0,114.0,inf
+MADISON_FY2023,Huff Grove Baptist Church,2023-04,0.0,-114.0,-100.0
+MADISON_FY2023,Huff Grove Baptist Church,2023-05 to 2023-06,0.0,0.0,0.0
+MADISON_FY2023,Hull-Sandford Elementary School,2022-07 to 2022-09,0.0,0.0,0.0
+MADISON_FY2023,Hull-Sandford Elementary School,2022-10,580.0,580.0,inf
+MADISON_FY2023,Hull-Sandford Elementary School,2022-11,0.0,-580.0,-100.0
+MADISON_FY2023,Hull-Sandford Elementary School,2022-12 to 2023-06,0.0,0.0,0.0
+MADISON_FY2023,Joy Baptist Church,2022-07,3360.0,0.0,0.0
+MADISON_FY2023,Joy Baptist Church,2022-08,229.0,-3131.0,-93.185
+MADISON_FY2023,Joy Baptist Church,2022-09,2773.0,2544.0,1110.917
+MADISON_FY2023,Joy Baptist Church,2022-10,1516.0,-1257.0,-45.33
+MADISON_FY2023,Joy Baptist Church,2022-11,3094.0,1578.0,104.09
+MADISON_FY2023,Joy Baptist Church,2022-12,344.0,-2750.0,-88.882
+MADISON_FY2023,Joy Baptist Church,2023-01,1511.0,1167.0,339.244
+MADISON_FY2023,Joy Baptist Church,2023-02,0.0,-1511.0,-100.0
+MADISON_FY2023,Joy Baptist Church,2023-03 to 2023-06,0.0,0.0,0.0
+MADISON_FY2023,Jubilee Partners,2022-07,2735.0,0.0,0.0
+MADISON_FY2023,Jubilee Partners,2022-08,2234.0,-501.0,-18.318
+MADISON_FY2023,Jubilee Partners,2022-09,1799.0,-435.0,-19.472
+MADISON_FY2023,Jubilee Partners,2022-10,1569.0,-230.0,-12.785
+MADISON_FY2023,Jubilee Partners,2022-11,2857.0,1288.0,82.091
+MADISON_FY2023,Jubilee Partners,2022-12,1672.0,-1185.0,-41.477
+MADISON_FY2023,Jubilee Partners,2023-01,2690.0,1018.0,60.885
+MADISON_FY2023,Jubilee Partners,2023-02,2630.0,-60.0,-2.23
+MADISON_FY2023,Jubilee Partners,2023-03,3422.0,792.0,30.114
+MADISON_FY2023,Jubilee Partners,2023-04,2368.0,-1054.0,-30.801
+MADISON_FY2023,Jubilee Partners,2023-05,2344.0,-24.0,-1.014
+MADISON_FY2023,Jubilee Partners,2023-06,2331.0,-13.0,-0.555
+MADISON_FY2023,Legacy Baptist Church,2022-07,0.0,0.0,0.0
+MADISON_FY2023,Legacy Baptist Church,2022-08,354.0,354.0,inf
+MADISON_FY2023,Legacy Baptist Church,2022-09,0.0,-354.0,-100.0
+MADISON_FY2023,Legacy Baptist Church,2022-10,471.0,471.0,inf
+MADISON_FY2023,Legacy Baptist Church,2022-11,0.0,-471.0,-100.0
+MADISON_FY2023,Legacy Baptist Church,2022-12,381.0,381.0,inf
+MADISON_FY2023,Legacy Baptist Church,2023-01,0.0,-381.0,-100.0
+MADISON_FY2023,Legacy Baptist Church,2023-02,169.0,169.0,inf
+MADISON_FY2023,Legacy Baptist Church,2023-03,198.0,29.0,17.16
+MADISON_FY2023,Legacy Baptist Church,2023-04,212.0,14.0,7.071
+MADISON_FY2023,Legacy Baptist Church,2023-05,179.0,-33.0,-15.566
+MADISON_FY2023,Legacy Baptist Church,2023-06,261.0,82.0,45.81
+MADISON_FY2023,Madison County MedLink Georgia,2022-07 to 2023-04,0.0,0.0,0.0
+MADISON_FY2023,Madison County MedLink Georgia,2023-05,7423.0,7423.0,inf
+MADISON_FY2023,Madison County MedLink Georgia,2023-06,0.0,-7423.0,-100.0
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2022-07,1227.0,0.0,0.0
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2022-08,530.0,-697.0,-56.805
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2022-09,0.0,-530.0,-100.0
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2022-10,1496.0,1496.0,inf
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2022-11,1233.0,-263.0,-17.58
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2022-12,0.0,-1233.0,-100.0
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2023-01,1193.0,1193.0,inf
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2023-02,463.0,-730.0,-61.19
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2023-03,1671.0,1208.0,260.907
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2023-04,243.0,-1428.0,-85.458
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2023-05,0.0,-243.0,-100.0
+MADISON_FY2023,Madison: Madison County Senior Center Senior Staples Program,2023-06,0.0,0.0,0.0
+MADISON_FY2023,Meadow Baptist Church,2022-07,725.0,0.0,0.0
+MADISON_FY2023,Meadow Baptist Church,2022-08,476.0,-249.0,-34.345
+MADISON_FY2023,Meadow Baptist Church,2022-09,699.0,223.0,46.849
+MADISON_FY2023,Meadow Baptist Church,2022-10,1214.0,515.0,73.677
+MADISON_FY2023,Meadow Baptist Church,2022-11,792.0,-422.0,-34.761
+MADISON_FY2023,Meadow Baptist Church,2022-12,708.0,-84.0,-10.606
+MADISON_FY2023,Meadow Baptist Church,2023-01,821.0,113.0,15.96
+MADISON_FY2023,Meadow Baptist Church,2023-02,613.0,-208.0,-25.335
+MADISON_FY2023,Meadow Baptist Church,2023-03,737.0,124.0,20.228
+MADISON_FY2023,Meadow Baptist Church,2023-04,577.0,-160.0,-21.71
+MADISON_FY2023,Meadow Baptist Church,2023-05,649.0,72.0,12.478
+MADISON_FY2023,Meadow Baptist Church,2023-06,1001.0,352.0,54.237
+MADISON_FY2023,Moons Grove Baptist Church,2022-07,254.0,0.0,0.0
+MADISON_FY2023,Moons Grove Baptist Church,2022-08,465.0,211.0,83.071
+MADISON_FY2023,Moons Grove Baptist Church,2022-09,355.0,-110.0,-23.656
+MADISON_FY2023,Moons Grove Baptist Church,2022-10,575.0,220.0,61.972
+MADISON_FY2023,Moons Grove Baptist Church,2022-11,405.0,-170.0,-29.565
+MADISON_FY2023,Moons Grove Baptist Church,2022-12,468.0,63.0,15.556
+MADISON_FY2023,Moons Grove Baptist Church,2023-01,0.0,-468.0,-100.0
+MADISON_FY2023,Moons Grove Baptist Church,2023-02,0.0,0.0,0.0
+MADISON_FY2023,Moons Grove Baptist Church,2023-03,376.0,376.0,inf
+MADISON_FY2023,Moons Grove Baptist Church,2023-04,432.0,56.0,14.894
+MADISON_FY2023,Moons Grove Baptist Church,2023-05,569.0,137.0,31.713
+MADISON_FY2023,Moons Grove Baptist Church,2023-06,295.0,-274.0,-48.155
+MADISON_FY2023,New Bethel CH Church,2022-07,352.0,0.0,0.0
+MADISON_FY2023,New Bethel CH Church,2022-08,0.0,-352.0,-100.0
+MADISON_FY2023,New Bethel CH Church,2022-09,0.0,0.0,0.0
+MADISON_FY2023,New Bethel CH Church,2022-10,925.0,925.0,inf
+MADISON_FY2023,New Bethel CH Church,2022-11,1401.0,476.0,51.459
+MADISON_FY2023,New Bethel CH Church,2022-12,1053.0,-348.0,-24.839
+MADISON_FY2023,New Bethel CH Church,2023-01,0.0,-1053.0,-100.0
+MADISON_FY2023,New Bethel CH Church,2023-02,421.0,421.0,inf
+MADISON_FY2023,New Bethel CH Church,2023-03,462.0,41.0,9.739
+MADISON_FY2023,New Bethel CH Church,2023-04,541.0,79.0,17.1
+MADISON_FY2023,New Bethel CH Church,2023-05,0.0,-541.0,-100.0
+MADISON_FY2023,New Bethel CH Church,2023-06,688.0,688.0,inf
+MADISON_FY2023,Riverside Baptist Church,2022-07,0.0,0.0,0.0
+MADISON_FY2023,Riverside Baptist Church,2022-08,1270.0,1270.0,inf
+MADISON_FY2023,Riverside Baptist Church,2022-09,0.0,-1270.0,-100.0
+MADISON_FY2023,Riverside Baptist Church,2022-10 to 2023-06,0.0,0.0,0.0
+MADISON_FY2023,Roger's Baptist Church,2022-07,1562.0,0.0,0.0
+MADISON_FY2023,Roger's Baptist Church,2022-08,1730.0,168.0,10.755
+MADISON_FY2023,Roger's Baptist Church,2022-09,1888.0,158.0,9.133
+MADISON_FY2023,Roger's Baptist Church,2022-10,1871.0,-17.0,-0.9
+MADISON_FY2023,Roger's Baptist Church,2022-11,1960.0,89.0,4.757
+MADISON_FY2023,Roger's Baptist Church,2022-12,2199.0,239.0,12.194
+MADISON_FY2023,Roger's Baptist Church,2023-01,1280.0,-919.0,-41.792
+MADISON_FY2023,Roger's Baptist Church,2023-02,1566.0,286.0,22.344
+MADISON_FY2023,Roger's Baptist Church,2023-03,2292.0,726.0,46.36
+MADISON_FY2023,Roger's Baptist Church,2023-04,1820.0,-472.0,-20.593
+MADISON_FY2023,Roger's Baptist Church,2023-05,1909.0,89.0,4.89
+MADISON_FY2023,Roger's Baptist Church,2023-06,2398.0,489.0,25.616
+MADISON_FY2023,Tabors Chapel CME Church,2022-07,937.0,0.0,0.0
+MADISON_FY2023,Tabors Chapel CME Church,2022-08,1719.0,782.0,83.458
+MADISON_FY2023,Tabors Chapel CME Church,2022-09,612.0,-1107.0,-64.398
+MADISON_FY2023,Tabors Chapel CME Church,2022-10,2577.0,1965.0,321.078
+MADISON_FY2023,Tabors Chapel CME Church,2022-11,3095.0,518.0,20.101
+MADISON_FY2023,Tabors Chapel CME Church,2022-12,474.0,-2621.0,-84.685
+MADISON_FY2023,Tabors Chapel CME Church,2023-01,1966.0,1492.0,314.768
+MADISON_FY2023,Tabors Chapel CME Church,2023-02,336.0,-1630.0,-82.909
+MADISON_FY2023,Tabors Chapel CME Church,2023-03,893.0,557.0,165.774
+MADISON_FY2023,Tabors Chapel CME Church,2023-04,456.0,-437.0,-48.936
+MADISON_FY2023,Tabors Chapel CME Church,2023-05,1506.0,1050.0,230.263
+MADISON_FY2023,Tabors Chapel CME Church,2023-06,1636.0,130.0,8.632
+MADISON_FY2023,Union Baptist Church,2022-07,566.0,0.0,0.0
+MADISON_FY2023,Union Baptist Church,2022-08,345.0,-221.0,-39.046
+MADISON_FY2023,Union Baptist Church,2022-09,0.0,-345.0,-100.0
+MADISON_FY2023,Union Baptist Church,2022-10,448.0,448.0,inf
+MADISON_FY2023,Union Baptist Church,2022-11,596.0,148.0,33.036
+MADISON_FY2023,Union Baptist Church,2022-12,0.0,-596.0,-100.0
+MADISON_FY2023,Union Baptist Church,2023-01,312.0,312.0,inf
+MADISON_FY2023,Union Baptist Church,2023-02,0.0,-312.0,-100.0
+MADISON_FY2023,Union Baptist Church,2023-03,549.0,549.0,inf
+MADISON_FY2023,Union Baptist Church,2023-04,0.0,-549.0,-100.0
+MADISON_FY2023,Union Baptist Church,2023-05 to 2023-06,0.0,0.0,0.0
+MADISON_FY2023,Waggoners Grove Baptist Church,2022-07,1909.0,0.0,0.0
+MADISON_FY2023,Waggoners Grove Baptist Church,2022-08,27.0,-1882.0,-98.586
+MADISON_FY2023,Waggoners Grove Baptist Church,2022-09,908.0,881.0,3262.963
+MADISON_FY2023,Waggoners Grove Baptist Church,2022-10,838.0,-70.0,-7.709
+MADISON_FY2023,Waggoners Grove Baptist Church,2022-11,28992.0,28154.0,3359.666
+MADISON_FY2023,Waggoners Grove Baptist Church,2022-12,14573.0,-14419.0,-49.734
+MADISON_FY2023,Waggoners Grove Baptist Church,2023-01,3394.0,-11179.0,-76.71
+MADISON_FY2023,Waggoners Grove Baptist Church,2023-02,281.0,-3113.0,-91.721
+MADISON_FY2023,Waggoners Grove Baptist Church,2023-03,2905.0,2624.0,933.808
+MADISON_FY2023,Waggoners Grove Baptist Church,2023-04,3462.0,557.0,19.174
+MADISON_FY2023,Waggoners Grove Baptist Church,2023-05,3580.0,118.0,3.408
+MADISON_FY2023,Waggoners Grove Baptist Church,2023-06,2212.0,-1368.0,-38.212
+MADISON_FY2023,Word of Life Church,2022-07,1156.0,0.0,0.0
+MADISON_FY2023,Word of Life Church,2022-08,1503.0,347.0,30.017
+MADISON_FY2023,Word of Life Church,2022-09,1170.0,-333.0,-22.156
+MADISON_FY2023,Word of Life Church,2022-10,1105.0,-65.0,-5.556
+MADISON_FY2023,Word of Life Church,2022-11,1348.0,243.0,21.991
+MADISON_FY2023,Word of Life Church,2022-12,744.0,-604.0,-44.807
+MADISON_FY2023,Word of Life Church,2023-01,1366.0,622.0,83.602
+MADISON_FY2023,Word of Life Church,2023-02,1204.0,-162.0,-11.859
+MADISON_FY2023,Word of Life Church,2023-03,1325.0,121.0,10.05
+MADISON_FY2023,Word of Life Church,2023-04,827.0,-498.0,-37.585
+MADISON_FY2023,Word of Life Church,2023-05,1278.0,451.0,54.534
+MADISON_FY2023,Word of Life Church,2023-06,1147.0,-131.0,-10.25

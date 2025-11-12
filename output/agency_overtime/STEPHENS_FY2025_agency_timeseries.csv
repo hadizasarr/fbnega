@@ -1,0 +1,244 @@
+County,Agency,Time,dist_volume,delta,pct_change
+STEPHENS_FY2025,Camp Toccoa (Camp Fire GA),2024-07,131.0,0.0,0.0
+STEPHENS_FY2025,Camp Toccoa (Camp Fire GA),2024-08,0.0,-131.0,-100.0
+STEPHENS_FY2025,Camp Toccoa (Camp Fire GA),2024-09,208.0,208.0,inf
+STEPHENS_FY2025,Camp Toccoa (Camp Fire GA),2024-10,45.0,-163.0,-78.365
+STEPHENS_FY2025,Camp Toccoa (Camp Fire GA),2024-11,0.0,-45.0,-100.0
+STEPHENS_FY2025,Camp Toccoa (Camp Fire GA),2024-12 to 2025-06,0.0,0.0,0.0
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2024-07,96.0,0.0,0.0
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2024-08,0.0,-96.0,-100.0
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2024-09 to 2024-10,0.0,0.0,0.0
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2024-11,706.0,706.0,inf
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2024-12,124.0,-582.0,-82.436
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2025-01,0.0,-124.0,-100.0
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2025-02 to 2025-03,0.0,0.0,0.0
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2025-04,52.0,52.0,inf
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2025-05,0.0,-52.0,-100.0
+STEPHENS_FY2025,Circle of Hope Transitional Housing,2025-06,0.0,0.0,0.0
+STEPHENS_FY2025,Faith Restoration Ministries,2024-07 to 2025-03,0.0,0.0,0.0
+STEPHENS_FY2025,Faith Restoration Ministries,2025-04,1416.0,1416.0,inf
+STEPHENS_FY2025,Faith Restoration Ministries,2025-05,3461.0,2045.0,144.421
+STEPHENS_FY2025,Faith Restoration Ministries,2025-06,1427.0,-2034.0,-58.769
+STEPHENS_FY2025,First Baptist Church Toccoa,2024-07 to 2024-10,0.0,0.0,0.0
+STEPHENS_FY2025,First Baptist Church Toccoa,2024-11,12410.0,12410.0,inf
+STEPHENS_FY2025,First Baptist Church Toccoa,2024-12,0.0,-12410.0,-100.0
+STEPHENS_FY2025,First Baptist Church Toccoa,2025-01 to 2025-03,0.0,0.0,0.0
+STEPHENS_FY2025,First Baptist Church Toccoa,2025-04,11375.0,11375.0,inf
+STEPHENS_FY2025,First Baptist Church Toccoa,2025-05,0.0,-11375.0,-100.0
+STEPHENS_FY2025,First Baptist Church Toccoa,2025-06,0.0,0.0,0.0
+STEPHENS_FY2025,Full Gospel Baptist Church,2024-07,0.0,0.0,0.0
+STEPHENS_FY2025,Full Gospel Baptist Church,2024-08,853.0,853.0,inf
+STEPHENS_FY2025,Full Gospel Baptist Church,2024-09,385.0,-468.0,-54.865
+STEPHENS_FY2025,Full Gospel Baptist Church,2024-10,1054.0,669.0,173.766
+STEPHENS_FY2025,Full Gospel Baptist Church,2024-11,1242.0,188.0,17.837
+STEPHENS_FY2025,Full Gospel Baptist Church,2024-12,264.0,-978.0,-78.744
+STEPHENS_FY2025,Full Gospel Baptist Church,2025-01,355.0,91.0,34.47
+STEPHENS_FY2025,Full Gospel Baptist Church,2025-02,848.0,493.0,138.873
+STEPHENS_FY2025,Full Gospel Baptist Church,2025-03,1403.0,555.0,65.448
+STEPHENS_FY2025,Full Gospel Baptist Church,2025-04,1360.0,-43.0,-3.065
+STEPHENS_FY2025,Full Gospel Baptist Church,2025-05,1399.0,39.0,2.868
+STEPHENS_FY2025,Full Gospel Baptist Church,2025-06,1140.0,-259.0,-18.513
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2024-07,2113.0,0.0,0.0
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2024-08,41059.0,38946.0,1843.161
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2024-09,3270.0,-37789.0,-92.036
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2024-10,10761.0,7491.0,229.083
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2024-11,11193.0,432.0,4.014
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2024-12,12098.0,905.0,8.085
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2025-01,7819.0,-4279.0,-35.369
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2025-02,10485.0,2666.0,34.096
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2025-03,9953.0,-532.0,-5.074
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2025-04,13428.0,3475.0,34.914
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2025-05,11132.0,-2296.0,-17.099
+STEPHENS_FY2025,"Greater Hearts Outreach Ministries, Inc.",2025-06,20916.58,9784.580000000002,87.896
+STEPHENS_FY2025,HighPoint Community Worship Center,2024-07,2925.0,0.0,0.0
+STEPHENS_FY2025,HighPoint Community Worship Center,2024-08,5233.0,2308.0,78.906
+STEPHENS_FY2025,HighPoint Community Worship Center,2024-09,2525.0,-2708.0,-51.749
+STEPHENS_FY2025,HighPoint Community Worship Center,2024-10,3864.0,1339.0,53.03
+STEPHENS_FY2025,HighPoint Community Worship Center,2024-11,2172.0,-1692.0,-43.789
+STEPHENS_FY2025,HighPoint Community Worship Center,2024-12,4105.0,1933.0,88.996
+STEPHENS_FY2025,HighPoint Community Worship Center,2025-01,4908.0,803.0,19.562
+STEPHENS_FY2025,HighPoint Community Worship Center,2025-02,4375.0,-533.0,-10.86
+STEPHENS_FY2025,HighPoint Community Worship Center,2025-03,6654.0,2279.0,52.091
+STEPHENS_FY2025,HighPoint Community Worship Center,2025-04,3462.0,-3192.0,-47.971
+STEPHENS_FY2025,HighPoint Community Worship Center,2025-05,8963.0,5501.0,158.897
+STEPHENS_FY2025,HighPoint Community Worship Center,2025-06,7441.0,-1522.0,-16.981
+STEPHENS_FY2025,Hill Street Baptist Church,2024-07,145.0,0.0,0.0
+STEPHENS_FY2025,Hill Street Baptist Church,2024-08,1809.0,1664.0,1147.586
+STEPHENS_FY2025,Hill Street Baptist Church,2024-09,488.0,-1321.0,-73.024
+STEPHENS_FY2025,Hill Street Baptist Church,2024-10,0.0,-488.0,-100.0
+STEPHENS_FY2025,Hill Street Baptist Church,2024-11,2627.0,2627.0,inf
+STEPHENS_FY2025,Hill Street Baptist Church,2024-12,931.0,-1696.0,-64.56
+STEPHENS_FY2025,Hill Street Baptist Church,2025-01,360.0,-571.0,-61.332
+STEPHENS_FY2025,Hill Street Baptist Church,2025-02,264.0,-96.0,-26.667
+STEPHENS_FY2025,Hill Street Baptist Church,2025-03,1042.0,778.0,294.697
+STEPHENS_FY2025,Hill Street Baptist Church,2025-04,1008.0,-34.0,-3.263
+STEPHENS_FY2025,Hill Street Baptist Church,2025-05,1853.0,845.0,83.829
+STEPHENS_FY2025,Hill Street Baptist Church,2025-06,1797.0,-56.0,-3.022
+STEPHENS_FY2025,Martin Baptist Church,2024-07,7513.0,0.0,0.0
+STEPHENS_FY2025,Martin Baptist Church,2024-08,7026.0,-487.0,-6.482
+STEPHENS_FY2025,Martin Baptist Church,2024-09,15580.0,8554.0,121.748
+STEPHENS_FY2025,Martin Baptist Church,2024-10,0.0,-15580.0,-100.0
+STEPHENS_FY2025,Martin Baptist Church,2024-11,7517.0,7517.0,inf
+STEPHENS_FY2025,Martin Baptist Church,2024-12,7067.0,-450.0,-5.986
+STEPHENS_FY2025,Martin Baptist Church,2025-01,6399.0,-668.0,-9.452
+STEPHENS_FY2025,Martin Baptist Church,2025-02,9256.0,2857.0,44.648
+STEPHENS_FY2025,Martin Baptist Church,2025-03,16888.0,7632.0,82.455
+STEPHENS_FY2025,Martin Baptist Church,2025-04,0.0,-16888.0,-100.0
+STEPHENS_FY2025,Martin Baptist Church,2025-05,6999.0,6999.0,inf
+STEPHENS_FY2025,Martin Baptist Church,2025-06,9120.0,2121.0,30.304
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2024-07,2430.0,0.0,0.0
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2024-08,3551.0,1121.0,46.132
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2024-09,1705.0,-1846.0,-51.985
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2024-10,2072.0,367.0,21.525
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2024-11,838.0,-1234.0,-59.556
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2024-12,1452.0,614.0,73.27
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2025-01,2122.0,670.0,46.143
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2025-02,1564.0,-558.0,-26.296
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2025-03,3745.0,2181.0,139.45
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2025-04,2245.0,-1500.0,-40.053
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2025-05,3979.0,1734.0,77.238
+STEPHENS_FY2025,Miracles Happen Recovery Residence INC,2025-06,5866.0,1887.0,47.424
+STEPHENS_FY2025,Neighbors 4 Neighbors,2024-07,2485.0,0.0,0.0
+STEPHENS_FY2025,Neighbors 4 Neighbors,2024-08,0.0,-2485.0,-100.0
+STEPHENS_FY2025,Neighbors 4 Neighbors,2024-09,3140.0,3140.0,inf
+STEPHENS_FY2025,Neighbors 4 Neighbors,2024-10,0.0,-3140.0,-100.0
+STEPHENS_FY2025,Neighbors 4 Neighbors,2024-11,1044.0,1044.0,inf
+STEPHENS_FY2025,Neighbors 4 Neighbors,2024-12,2043.0,999.0,95.69
+STEPHENS_FY2025,Neighbors 4 Neighbors,2025-01,0.0,-2043.0,-100.0
+STEPHENS_FY2025,Neighbors 4 Neighbors,2025-02,0.0,0.0,0.0
+STEPHENS_FY2025,Neighbors 4 Neighbors,2025-03,2562.0,2562.0,inf
+STEPHENS_FY2025,Neighbors 4 Neighbors,2025-04,1900.0,-662.0,-25.839
+STEPHENS_FY2025,Neighbors 4 Neighbors,2025-05,1820.0,-80.0,-4.211
+STEPHENS_FY2025,Neighbors 4 Neighbors,2025-06,2317.0,497.0,27.308
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2024-07,394.0,0.0,0.0
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2024-08,6215.0,5821.0,1477.411
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2024-09,10380.0,4165.0,67.015
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2024-10,1780.0,-8600.0,-82.852
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2024-11,0.0,-1780.0,-100.0
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2024-12,5606.0,5606.0,inf
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2025-01,0.0,-5606.0,-100.0
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2025-02,4234.0,4234.0,inf
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2025-03,720.0,-3514.0,-82.995
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2025-04,7956.0,7236.0,1005.0
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2025-05,19143.0,11187.0,140.611
+STEPHENS_FY2025,Neighbors 4 Neighbors F2K,2025-06,0.0,-19143.0,-100.0
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2024-07,826.0,0.0,0.0
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2024-08,917.0,91.0,11.017
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2024-09,924.0,7.0,0.763
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2024-10,957.0,33.0,3.571
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2024-11,443.0,-514.0,-53.71
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2024-12,833.0,390.0,88.036
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2025-01,2675.0,1842.0,221.128
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2025-02,409.0,-2266.0,-84.71
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2025-03,1110.0,701.0,171.394
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2025-04,913.0,-197.0,-17.748
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2025-05,1536.0,623.0,68.237
+STEPHENS_FY2025,New Hope Baptist Church Toccoa,2025-06,1129.0,-407.0,-26.497
+STEPHENS_FY2025,Paradise Mountain Ministries,2024-07,2265.0,0.0,0.0
+STEPHENS_FY2025,Paradise Mountain Ministries,2024-08,1117.0,-1148.0,-50.684
+STEPHENS_FY2025,Paradise Mountain Ministries,2024-09,1149.0,32.0,2.865
+STEPHENS_FY2025,Paradise Mountain Ministries,2024-10,2239.0,1090.0,94.865
+STEPHENS_FY2025,Paradise Mountain Ministries,2024-11,2027.0,-212.0,-9.469
+STEPHENS_FY2025,Paradise Mountain Ministries,2024-12,1401.0,-626.0,-30.883
+STEPHENS_FY2025,Paradise Mountain Ministries,2025-01,1472.0,71.0,5.068
+STEPHENS_FY2025,Paradise Mountain Ministries,2025-02,1775.0,303.0,20.584
+STEPHENS_FY2025,Paradise Mountain Ministries,2025-03,1933.0,158.0,8.901
+STEPHENS_FY2025,Paradise Mountain Ministries,2025-04,2459.0,526.0,27.212
+STEPHENS_FY2025,Paradise Mountain Ministries,2025-05,1177.0,-1282.0,-52.135
+STEPHENS_FY2025,Paradise Mountain Ministries,2025-06,1714.0,537.0,45.624
+STEPHENS_FY2025,Rehoboth Assembly of God,2024-07,0.0,0.0,0.0
+STEPHENS_FY2025,Rehoboth Assembly of God,2024-08,629.0,629.0,inf
+STEPHENS_FY2025,Rehoboth Assembly of God,2024-09,0.0,-629.0,-100.0
+STEPHENS_FY2025,Rehoboth Assembly of God,2024-10,1116.0,1116.0,inf
+STEPHENS_FY2025,Rehoboth Assembly of God,2024-11,0.0,-1116.0,-100.0
+STEPHENS_FY2025,Rehoboth Assembly of God,2024-12,0.0,0.0,0.0
+STEPHENS_FY2025,Rehoboth Assembly of God,2025-01,334.0,334.0,inf
+STEPHENS_FY2025,Rehoboth Assembly of God,2025-02,0.0,-334.0,-100.0
+STEPHENS_FY2025,Rehoboth Assembly of God,2025-03,423.0,423.0,inf
+STEPHENS_FY2025,Rehoboth Assembly of God,2025-04,0.0,-423.0,-100.0
+STEPHENS_FY2025,Rehoboth Assembly of God,2025-05,1348.0,1348.0,inf
+STEPHENS_FY2025,Rehoboth Assembly of God,2025-06,0.0,-1348.0,-100.0
+STEPHENS_FY2025,Stephens County MedLink Georgia,2024-07 to 2025-02,0.0,0.0,0.0
+STEPHENS_FY2025,Stephens County MedLink Georgia,2025-03,8468.0,8468.0,inf
+STEPHENS_FY2025,Stephens County MedLink Georgia,2025-04,0.0,-8468.0,-100.0
+STEPHENS_FY2025,Stephens County MedLink Georgia,2025-05 to 2025-06,0.0,0.0,0.0
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2024-07,1026.0,0.0,0.0
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2024-08,655.0,-371.0,-36.16
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2024-09,539.0,-116.0,-17.71
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2024-10,622.0,83.0,15.399
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2024-11,488.0,-134.0,-21.543
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2024-12,918.0,430.0,88.115
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2025-01,1261.0,343.0,37.364
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2025-02,622.0,-639.0,-50.674
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2025-03,498.0,-124.0,-19.936
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2025-04,0.0,-498.0,-100.0
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2025-05,397.0,397.0,inf
+STEPHENS_FY2025,The Center for Wellness and Recovery (Toccoa),2025-06,762.0,365.0,91.94
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2024-07,0.0,0.0,0.0
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2024-08,536.0,536.0,inf
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2024-09,732.0,196.0,36.567
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2024-10,1568.0,836.0,114.208
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2024-11,0.0,-1568.0,-100.0
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2024-12,639.0,639.0,inf
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2025-01,360.0,-279.0,-43.662
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2025-02,838.0,478.0,132.778
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2025-03,513.0,-325.0,-38.783
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2025-04,862.0,349.0,68.031
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2025-05,892.0,30.0,3.48
+STEPHENS_FY2025,The Hope Center (Toccoa Soup Kitchen),2025-06,899.0,7.0,0.785
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2024-07,3077.0,0.0,0.0
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2024-08,3037.0,-40.0,-1.3
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2024-09,4474.0,1437.0,47.316
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2024-10,3458.0,-1016.0,-22.709
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2024-11,4172.0,714.0,20.648
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2024-12,2943.0,-1229.0,-29.458
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2025-01,4362.0,1419.0,48.216
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2025-02,5336.0,974.0,22.329
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2025-03,7544.0,2208.0,41.379
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2025-04,5690.0,-1854.0,-24.576
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2025-05,2076.0,-3614.0,-63.515
+STEPHENS_FY2025,The Salvation Army - Toccoa Co,2025-06,17642.0,15566.0,749.807
+STEPHENS_FY2025,The Springs of Toccoa,2024-07,7219.0,0.0,0.0
+STEPHENS_FY2025,The Springs of Toccoa,2024-08,7300.0,81.0,1.122
+STEPHENS_FY2025,The Springs of Toccoa,2024-09,9360.0,2060.0,28.219
+STEPHENS_FY2025,The Springs of Toccoa,2024-10,6127.0,-3233.0,-34.541
+STEPHENS_FY2025,The Springs of Toccoa,2024-11,2800.0,-3327.0,-54.301
+STEPHENS_FY2025,The Springs of Toccoa,2024-12,4304.0,1504.0,53.714
+STEPHENS_FY2025,The Springs of Toccoa,2025-01,8616.0,4312.0,100.186
+STEPHENS_FY2025,The Springs of Toccoa,2025-02,6055.0,-2561.0,-29.724
+STEPHENS_FY2025,The Springs of Toccoa,2025-03,9437.0,3382.0,55.855
+STEPHENS_FY2025,The Springs of Toccoa,2025-04,8988.0,-449.0,-4.758
+STEPHENS_FY2025,The Springs of Toccoa,2025-05,8943.0,-45.0,-0.501
+STEPHENS_FY2025,The Springs of Toccoa,2025-06,8619.0,-324.0,-3.623
+STEPHENS_FY2025,The Village,2024-07,1258.0,0.0,0.0
+STEPHENS_FY2025,The Village,2024-08,1436.0,178.0,14.149
+STEPHENS_FY2025,The Village,2024-09,0.0,-1436.0,-100.0
+STEPHENS_FY2025,The Village,2024-10 to 2025-02,0.0,0.0,0.0
+STEPHENS_FY2025,The Village,2025-03,506.0,506.0,inf
+STEPHENS_FY2025,The Village,2025-04,946.0,440.0,86.957
+STEPHENS_FY2025,The Village,2025-05,260.0,-686.0,-72.516
+STEPHENS_FY2025,The Village,2025-06,219.0,-41.0,-15.769
+STEPHENS_FY2025,Voice of Hope SDA Church,2024-07,3531.0,0.0,0.0
+STEPHENS_FY2025,Voice of Hope SDA Church,2024-08,0.0,-3531.0,-100.0
+STEPHENS_FY2025,Voice of Hope SDA Church,2024-09,0.0,0.0,0.0
+STEPHENS_FY2025,Voice of Hope SDA Church,2024-10,3499.0,3499.0,inf
+STEPHENS_FY2025,Voice of Hope SDA Church,2024-11,0.0,-3499.0,-100.0
+STEPHENS_FY2025,Voice of Hope SDA Church,2024-12,1150.0,1150.0,inf
+STEPHENS_FY2025,Voice of Hope SDA Church,2025-01,701.0,-449.0,-39.043
+STEPHENS_FY2025,Voice of Hope SDA Church,2025-02,3981.0,3280.0,467.903
+STEPHENS_FY2025,Voice of Hope SDA Church,2025-03,0.0,-3981.0,-100.0
+STEPHENS_FY2025,Voice of Hope SDA Church,2025-04,3279.0,3279.0,inf
+STEPHENS_FY2025,Voice of Hope SDA Church,2025-05,474.0,-2805.0,-85.544
+STEPHENS_FY2025,Voice of Hope SDA Church,2025-06,1294.48,820.48,173.097
+STEPHENS_FY2025,Zebulon Baptist Church,2024-07,4392.0,0.0,0.0
+STEPHENS_FY2025,Zebulon Baptist Church,2024-08,7388.0,2996.0,68.215
+STEPHENS_FY2025,Zebulon Baptist Church,2024-09,4434.0,-2954.0,-39.984
+STEPHENS_FY2025,Zebulon Baptist Church,2024-10,5825.0,1391.0,31.371
+STEPHENS_FY2025,Zebulon Baptist Church,2024-11,8501.0,2676.0,45.94
+STEPHENS_FY2025,Zebulon Baptist Church,2024-12,3843.0,-4658.0,-54.794
+STEPHENS_FY2025,Zebulon Baptist Church,2025-01,5816.0,1973.0,51.34
+STEPHENS_FY2025,Zebulon Baptist Church,2025-02,6785.0,969.0,16.661
+STEPHENS_FY2025,Zebulon Baptist Church,2025-03,5841.0,-944.0,-13.913
+STEPHENS_FY2025,Zebulon Baptist Church,2025-04,9127.0,3286.0,56.257
+STEPHENS_FY2025,Zebulon Baptist Church,2025-05,6092.0,-3035.0,-33.253
+STEPHENS_FY2025,Zebulon Baptist Church,2025-06,7787.0,1695.0,27.823

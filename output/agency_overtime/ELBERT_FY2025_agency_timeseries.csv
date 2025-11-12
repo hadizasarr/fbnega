@@ -1,0 +1,46 @@
+County,Agency,Time,dist_volume,delta,pct_change
+ELBERT_FY2025,Bowman United Methodist Church,2024-10,764.0,0.0,0.0
+ELBERT_FY2025,Bowman United Methodist Church,2024-11,1252.0,488.0,63.874
+ELBERT_FY2025,Bowman United Methodist Church,2024-12,0.0,-1252.0,-100.0
+ELBERT_FY2025,Bowman United Methodist Church,2025-01,1492.0,1492.0,inf
+ELBERT_FY2025,Bowman United Methodist Church,2025-02,0.0,-1492.0,-100.0
+ELBERT_FY2025,Bowman United Methodist Church,2025-03,1912.0,1912.0,inf
+ELBERT_FY2025,Bowman United Methodist Church,2025-04,1266.0,-646.0,-33.787
+ELBERT_FY2025,Bowman United Methodist Church,2025-05,0.0,-1266.0,-100.0
+ELBERT_FY2025,Bowman United Methodist Church,2025-06,718.0,718.0,inf
+ELBERT_FY2025,Elbert County UMC Food Ministry,2024-10,3068.0,0.0,0.0
+ELBERT_FY2025,Elbert County UMC Food Ministry,2024-11,13209.0,10141.0,330.541
+ELBERT_FY2025,Elbert County UMC Food Ministry,2024-12,12880.0,-329.0,-2.491
+ELBERT_FY2025,Elbert County UMC Food Ministry,2025-01,12186.0,-694.0,-5.388
+ELBERT_FY2025,Elbert County UMC Food Ministry,2025-02,12678.0,492.0,4.037
+ELBERT_FY2025,Elbert County UMC Food Ministry,2025-03,7799.0,-4879.0,-38.484
+ELBERT_FY2025,Elbert County UMC Food Ministry,2025-04,9396.0,1597.0,20.477
+ELBERT_FY2025,Elbert County UMC Food Ministry,2025-05,3562.0,-5834.0,-62.09
+ELBERT_FY2025,Elbert County UMC Food Ministry,2025-06,8176.0,4614.0,129.534
+ELBERT_FY2025,Pleasant Grove Baptist Church,2024-10,2064.0,0.0,0.0
+ELBERT_FY2025,Pleasant Grove Baptist Church,2024-11,1018.0,-1046.0,-50.678
+ELBERT_FY2025,Pleasant Grove Baptist Church,2024-12,2747.0,1729.0,169.843
+ELBERT_FY2025,Pleasant Grove Baptist Church,2025-01,1437.0,-1310.0,-47.688
+ELBERT_FY2025,Pleasant Grove Baptist Church,2025-02,0.0,-1437.0,-100.0
+ELBERT_FY2025,Pleasant Grove Baptist Church,2025-03,0.0,0.0,0.0
+ELBERT_FY2025,Pleasant Grove Baptist Church,2025-04,910.0,910.0,inf
+ELBERT_FY2025,Pleasant Grove Baptist Church,2025-05,688.0,-222.0,-24.396
+ELBERT_FY2025,Pleasant Grove Baptist Church,2025-06,1150.0,462.0,67.151
+ELBERT_FY2025,SafeHouse Ministries,2024-10,11340.0,0.0,0.0
+ELBERT_FY2025,SafeHouse Ministries,2024-11,24903.0,13563.0,119.603
+ELBERT_FY2025,SafeHouse Ministries,2024-12,323.0,-24580.0,-98.703
+ELBERT_FY2025,SafeHouse Ministries,2025-01,22883.0,22560.0,6984.52
+ELBERT_FY2025,SafeHouse Ministries,2025-02,9897.0,-12986.0,-56.75
+ELBERT_FY2025,SafeHouse Ministries,2025-03,8841.0,-1056.0,-10.67
+ELBERT_FY2025,SafeHouse Ministries,2025-04,7905.0,-936.0,-10.587
+ELBERT_FY2025,SafeHouse Ministries,2025-05,10101.0,2196.0,27.78
+ELBERT_FY2025,SafeHouse Ministries,2025-06,15475.5,5374.5,53.208
+ELBERT_FY2025,Sharing and Caring - Bowman,2024-10,3901.0,0.0,0.0
+ELBERT_FY2025,Sharing and Caring - Bowman,2024-11,2480.0,-1421.0,-36.427
+ELBERT_FY2025,Sharing and Caring - Bowman,2024-12,2979.0,499.0,20.121
+ELBERT_FY2025,Sharing and Caring - Bowman,2025-01,3767.0,788.0,26.452
+ELBERT_FY2025,Sharing and Caring - Bowman,2025-02,69.0,-3698.0,-98.168
+ELBERT_FY2025,Sharing and Caring - Bowman,2025-03,3720.0,3651.0,5291.304
+ELBERT_FY2025,Sharing and Caring - Bowman,2025-04,2070.0,-1650.0,-44.355
+ELBERT_FY2025,Sharing and Caring - Bowman,2025-05,750.0,-1320.0,-63.768
+ELBERT_FY2025,Sharing and Caring - Bowman,2025-06,2009.0,1259.0,167.867
