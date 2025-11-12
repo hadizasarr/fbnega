@@ -1,89 +1,42 @@
 Agency,Time,dist_volume,delta,pct_change
-Clayton First United Methodist,2022-07,0.0,0.0,
-Clayton First United Methodist,2022-08,0.0,0.0,0.0
-Clayton First United Methodist,2022-09,0.0,0.0,0.0
-Clayton First United Methodist,2022-10,0.0,0.0,0.0
-Clayton First United Methodist,2022-11,0.0,0.0,0.0
-Clayton First United Methodist,2022-12,0.0,0.0,0.0
-Clayton First United Methodist,2023-01,0.0,0.0,0.0
-Clayton First United Methodist,2023-02,0.0,0.0,0.0
-Clayton First United Methodist,2023-03,0.0,0.0,0.0
-Clayton First United Methodist,2023-04,0.0,0.0,0.0
-Clayton First United Methodist,2023-05,0.0,0.0,0.0
-Clayton First United Methodist,2023-06,0.0,0.0,0.0
-Clayton First United Methodist,2023-07,0.0,0.0,0.0
+Clayton First United Methodist,2022-07 to 2023-07,0.0,0.0,0.0
 Clayton First United Methodist,2023-08,334.0,334.0,inf
 Clayton First United Methodist,2023-09,0.0,-334.0,-1.0
-Clayton First United Methodist,2023-10,0.0,0.0,0.0
-Clayton First United Methodist,2023-11,0.0,0.0,0.0
-Clayton First United Methodist,2023-12,0.0,0.0,0.0
-Clayton First United Methodist,2024-01,0.0,0.0,0.0
-Clayton First United Methodist,2024-02,0.0,0.0,0.0
-Clayton First United Methodist,2024-03,0.0,0.0,0.0
-Clayton First United Methodist,2024-04,0.0,0.0,0.0
-Clayton First United Methodist,2024-05,0.0,0.0,0.0
-Clayton First United Methodist,2024-06,0.0,0.0,0.0
-Clayton First United Methodist,2024-07,0.0,0.0,0.0
-Clayton First United Methodist,2024-08,0.0,0.0,0.0
-Clayton First United Methodist,2024-09,0.0,0.0,0.0
-Clayton First United Methodist,2024-10,0.0,0.0,0.0
-Clayton First United Methodist,2024-11,0.0,0.0,0.0
-Clayton First United Methodist,2024-12,0.0,0.0,0.0
-Clayton First United Methodist,2025-01,0.0,0.0,0.0
-Clayton First United Methodist,2025-02,0.0,0.0,0.0
-Clayton First United Methodist,2025-03,0.0,0.0,0.0
-Clayton First United Methodist,2025-04,0.0,0.0,0.0
-Clayton First United Methodist,2025-05,0.0,0.0,0.0
-Clayton First United Methodist,2025-06,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2022-07,0.0,0.0,
-Fight Abuse in the Home (FAITH),2022-08,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2022-09,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2022-10,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2022-11,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2022-12,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2023-01,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2023-02,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2023-03,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2023-04,0.0,0.0,0.0
+Clayton First United Methodist,2023-10 to 2025-06,0.0,0.0,0.0
+Fight Abuse in the Home (FAITH),2022-07 to 2023-04,0.0,0.0,0.0
 Fight Abuse in the Home (FAITH),2023-05,73.0,73.0,inf
 Fight Abuse in the Home (FAITH),2023-06,0.0,-73.0,-1.0
-Fight Abuse in the Home (FAITH),2023-07,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2023-08,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2023-09,0.0,0.0,0.0
+Fight Abuse in the Home (FAITH),2023-07 to 2023-09,0.0,0.0,0.0
 Fight Abuse in the Home (FAITH),2023-10,114.0,114.0,inf
 Fight Abuse in the Home (FAITH),2023-11,0.0,-114.0,-1.0
-Fight Abuse in the Home (FAITH),2023-12,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2024-01,0.0,0.0,0.0
-Fight Abuse in the Home (FAITH),2024-02,0.0,0.0,0.0
+Fight Abuse in the Home (FAITH),2023-12 to 2024-02,0.0,0.0,0.0
 Fight Abuse in the Home (FAITH),2024-03,575.0,575.0,inf
-Fight Abuse in the Home (FAITH),2024-04,1821.0,1246.0,2.1669565217391304
-Fight Abuse in the Home (FAITH),2024-05,1428.0,-393.0,-0.2158154859967051
-Fight Abuse in the Home (FAITH),2024-06,538.0,-890.0,-0.623249299719888
-Fight Abuse in the Home (FAITH),2024-07,1840.0,1302.0,2.420074349442379
-Fight Abuse in the Home (FAITH),2024-08,1206.0,-634.0,-0.34456521739130436
-Fight Abuse in the Home (FAITH),2024-09,1105.0,-101.0,-0.08374792703150911
-Fight Abuse in the Home (FAITH),2024-10,1152.0,47.0,0.04253393665158371
-Fight Abuse in the Home (FAITH),2024-11,488.0,-664.0,-0.5763888888888888
-Fight Abuse in the Home (FAITH),2024-12,446.0,-42.0,-0.0860655737704918
-Fight Abuse in the Home (FAITH),2025-01,551.0,105.0,0.23542600896860988
-Fight Abuse in the Home (FAITH),2025-02,1822.0,1271.0,2.3067150635208713
-Fight Abuse in the Home (FAITH),2025-03,3426.0,1604.0,0.8803512623490669
-Fight Abuse in the Home (FAITH),2025-04,3630.0,204.0,0.0595446584938704
-Fight Abuse in the Home (FAITH),2025-05,2968.0,-662.0,-0.18236914600550963
-Fight Abuse in the Home (FAITH),2025-06,1809.0,-1159.0,-0.39049865229110514
-Flat Creek Baptist Church,2022-07,0.0,0.0,
+Fight Abuse in the Home (FAITH),2024-04,1821.0,1246.0,2.167
+Fight Abuse in the Home (FAITH),2024-05,1428.0,-393.0,-0.216
+Fight Abuse in the Home (FAITH),2024-06,538.0,-890.0,-0.623
+Fight Abuse in the Home (FAITH),2024-07,1840.0,1302.0,2.42
+Fight Abuse in the Home (FAITH),2024-08,1206.0,-634.0,-0.345
+Fight Abuse in the Home (FAITH),2024-09,1105.0,-101.0,-0.084
+Fight Abuse in the Home (FAITH),2024-10,1152.0,47.0,0.043
+Fight Abuse in the Home (FAITH),2024-11,488.0,-664.0,-0.576
+Fight Abuse in the Home (FAITH),2024-12,446.0,-42.0,-0.086
+Fight Abuse in the Home (FAITH),2025-01,551.0,105.0,0.235
+Fight Abuse in the Home (FAITH),2025-02,1822.0,1271.0,2.307
+Fight Abuse in the Home (FAITH),2025-03,3426.0,1604.0,0.88
+Fight Abuse in the Home (FAITH),2025-04,3630.0,204.0,0.06
+Fight Abuse in the Home (FAITH),2025-05,2968.0,-662.0,-0.182
+Fight Abuse in the Home (FAITH),2025-06,1809.0,-1159.0,-0.39
+Flat Creek Baptist Church,2022-07,0.0,0.0,0.0
 Flat Creek Baptist Church,2022-08,1271.0,1271.0,inf
 Flat Creek Baptist Church,2022-09,0.0,-1271.0,-1.0
 Flat Creek Baptist Church,2022-10,786.0,786.0,inf
-Flat Creek Baptist Church,2022-11,233.0,-553.0,-0.7035623409669212
+Flat Creek Baptist Church,2022-11,233.0,-553.0,-0.704
 Flat Creek Baptist Church,2022-12,0.0,-233.0,-1.0
 Flat Creek Baptist Church,2023-01,0.0,0.0,0.0
 Flat Creek Baptist Church,2023-02,1302.0,1302.0,inf
-Flat Creek Baptist Church,2023-03,404.0,-898.0,-0.6897081413210445
+Flat Creek Baptist Church,2023-03,404.0,-898.0,-0.69
 Flat Creek Baptist Church,2023-04,0.0,-404.0,-1.0
-Flat Creek Baptist Church,2023-05,0.0,0.0,0.0
-Flat Creek Baptist Church,2023-06,0.0,0.0,0.0
-Flat Creek Baptist Church,2023-07,0.0,0.0,0.0
+Flat Creek Baptist Church,2023-05 to 2023-07,0.0,0.0,0.0
 Flat Creek Baptist Church,2023-08,2215.0,2215.0,inf
 Flat Creek Baptist Church,2023-09,0.0,-2215.0,-1.0
 Flat Creek Baptist Church,2023-10,629.0,629.0,inf
@@ -91,13 +44,11 @@ Flat Creek Baptist Church,2023-11,0.0,-629.0,-1.0
 Flat Creek Baptist Church,2023-12,25.0,25.0,inf
 Flat Creek Baptist Church,2024-01,956.0,931.0,37.24
 Flat Creek Baptist Church,2024-02,0.0,-956.0,-1.0
-Flat Creek Baptist Church,2024-03,0.0,0.0,0.0
-Flat Creek Baptist Church,2024-04,0.0,0.0,0.0
-Flat Creek Baptist Church,2024-05,0.0,0.0,0.0
+Flat Creek Baptist Church,2024-03 to 2024-05,0.0,0.0,0.0
 Flat Creek Baptist Church,2024-06,1608.0,1608.0,inf
-Flat Creek Baptist Church,2024-07,616.0,-992.0,-0.6169154228855721
-Flat Creek Baptist Church,2024-08,128.0,-488.0,-0.7922077922077922
-Flat Creek Baptist Church,2024-09,637.0,509.0,3.9765625
+Flat Creek Baptist Church,2024-07,616.0,-992.0,-0.617
+Flat Creek Baptist Church,2024-08,128.0,-488.0,-0.792
+Flat Creek Baptist Church,2024-09,637.0,509.0,3.977
 Flat Creek Baptist Church,2024-10,0.0,-637.0,-1.0
 Flat Creek Baptist Church,2024-11,0.0,0.0,0.0
 Flat Creek Baptist Church,2024-12,297.0,297.0,inf
@@ -105,265 +56,226 @@ Flat Creek Baptist Church,2025-01,0.0,-297.0,-1.0
 Flat Creek Baptist Church,2025-02,3022.0,3022.0,inf
 Flat Creek Baptist Church,2025-03,0.0,-3022.0,-1.0
 Flat Creek Baptist Church,2025-04,1171.0,1171.0,inf
-Flat Creek Baptist Church,2025-05,1261.0,90.0,0.07685738684884715
-Flat Creek Baptist Church,2025-06,459.0,-802.0,-0.6360031720856463
-Food 2 Kids Rabun County,2022-07,0.0,0.0,
+Flat Creek Baptist Church,2025-05,1261.0,90.0,0.077
+Flat Creek Baptist Church,2025-06,459.0,-802.0,-0.636
+Food 2 Kids Rabun County,2022-07,0.0,0.0,0.0
 Food 2 Kids Rabun County,2022-08,3000.0,3000.0,inf
 Food 2 Kids Rabun County,2022-09,21.0,-2979.0,-0.993
 Food 2 Kids Rabun County,2022-10,630.0,609.0,29.0
-Food 2 Kids Rabun County,2022-11,1170.0,540.0,0.8571428571428571
-Food 2 Kids Rabun County,2022-12,1424.0,254.0,0.2170940170940171
-Food 2 Kids Rabun County,2023-01,839.0,-585.0,-0.41081460674157305
-Food 2 Kids Rabun County,2023-02,1020.0,181.0,0.21573301549463647
-Food 2 Kids Rabun County,2023-03,1014.0,-6.0,-0.0058823529411764705
-Food 2 Kids Rabun County,2023-04,1522.0,508.0,0.5009861932938856
-Food 2 Kids Rabun County,2023-05,760.0,-762.0,-0.5006570302233903
-Food 2 Kids Rabun County,2023-06,1015.0,255.0,0.3355263157894737
+Food 2 Kids Rabun County,2022-11,1170.0,540.0,0.857
+Food 2 Kids Rabun County,2022-12,1424.0,254.0,0.217
+Food 2 Kids Rabun County,2023-01,839.0,-585.0,-0.411
+Food 2 Kids Rabun County,2023-02,1020.0,181.0,0.216
+Food 2 Kids Rabun County,2023-03,1014.0,-6.0,-0.006
+Food 2 Kids Rabun County,2023-04,1522.0,508.0,0.501
+Food 2 Kids Rabun County,2023-05,760.0,-762.0,-0.501
+Food 2 Kids Rabun County,2023-06,1015.0,255.0,0.336
 Food 2 Kids Rabun County,2023-07,0.0,-1015.0,-1.0
 Food 2 Kids Rabun County,2023-08,443.0,443.0,inf
 Food 2 Kids Rabun County,2023-09,0.0,-443.0,-1.0
-Food 2 Kids Rabun County,2023-10,0.0,0.0,0.0
-Food 2 Kids Rabun County,2023-11,0.0,0.0,0.0
-Food 2 Kids Rabun County,2023-12,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-01,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-02,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-03,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-04,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-05,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-06,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-07,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-08,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-09,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-10,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-11,0.0,0.0,0.0
-Food 2 Kids Rabun County,2024-12,0.0,0.0,0.0
-Food 2 Kids Rabun County,2025-01,0.0,0.0,0.0
-Food 2 Kids Rabun County,2025-02,0.0,0.0,0.0
-Food 2 Kids Rabun County,2025-03,0.0,0.0,0.0
-Food 2 Kids Rabun County,2025-04,0.0,0.0,0.0
-Food 2 Kids Rabun County,2025-05,0.0,0.0,0.0
-Food 2 Kids Rabun County,2025-06,0.0,0.0,0.0
-Food Bank of Northeast Georgia Rabun,2022-07,44722.0,0.0,
-Food Bank of Northeast Georgia Rabun,2022-08,25663.0,-19059.0,-0.42616609275077144
-Food Bank of Northeast Georgia Rabun,2022-09,28154.0,2491.0,0.09706581459689047
-Food Bank of Northeast Georgia Rabun,2022-10,8567.0,-19587.0,-0.6957093130638631
-Food Bank of Northeast Georgia Rabun,2022-11,15655.0,7088.0,0.8273608030815922
-Food Bank of Northeast Georgia Rabun,2022-12,6328.0,-9327.0,-0.5957840945384861
-Food Bank of Northeast Georgia Rabun,2023-01,134394.0,128066.0,20.237989886219975
-Food Bank of Northeast Georgia Rabun,2023-02,5548.0,-128846.0,-0.9587183951664509
-Food Bank of Northeast Georgia Rabun,2023-03,12918.0,7370.0,1.3284066330209083
-Food Bank of Northeast Georgia Rabun,2023-04,22261.0,9343.0,0.7232543737420654
-Food Bank of Northeast Georgia Rabun,2023-05,6653.0,-15608.0,-0.701136516778222
-Food Bank of Northeast Georgia Rabun,2023-06,16526.0,9873.0,1.4839921839771533
-Food Bank of Northeast Georgia Rabun,2023-07,16023.0,-503.0,-0.030436887329057243
-Food Bank of Northeast Georgia Rabun,2023-08,24311.0,8288.0,0.5172564438619485
-Food Bank of Northeast Georgia Rabun,2023-09,35234.0,10923.0,0.4493027847476451
-Food Bank of Northeast Georgia Rabun,2023-10,11204.0,-24030.0,-0.6820116932508372
-Food Bank of Northeast Georgia Rabun,2023-11,21384.0,10180.0,0.908604069975009
-Food Bank of Northeast Georgia Rabun,2023-12,14489.0,-6895.0,-0.32243733632622523
-Food Bank of Northeast Georgia Rabun,2024-01,17267.0,2778.0,0.19173165849955137
-Food Bank of Northeast Georgia Rabun,2024-02,18909.0,1642.0,0.09509468929171251
-Food Bank of Northeast Georgia Rabun,2024-03,25949.0,7040.0,0.37230948225712623
-Food Bank of Northeast Georgia Rabun,2024-04,19152.0,-6797.0,-0.2619368761801996
-Food Bank of Northeast Georgia Rabun,2024-05,43669.0,24517.0,1.280127401837928
-Food Bank of Northeast Georgia Rabun,2024-06,21542.0,-22127.0,-0.5066981153678811
-Food Bank of Northeast Georgia Rabun,2024-07,34629.0,13087.0,0.6075109089221057
-Food Bank of Northeast Georgia Rabun,2024-08,16438.0,-18191.0,-0.5253111553899911
-Food Bank of Northeast Georgia Rabun,2024-09,3528.0,-12910.0,-0.7853753497992456
-Food Bank of Northeast Georgia Rabun,2024-10,15181.0,11653.0,3.3030045351473922
-Food Bank of Northeast Georgia Rabun,2024-11,5059.0,-10122.0,-0.666754495751268
-Food Bank of Northeast Georgia Rabun,2024-12,42523.0,37464.0,7.405416090136391
-Food Bank of Northeast Georgia Rabun,2025-01,7408.0,-35115.0,-0.8257883968675775
-Food Bank of Northeast Georgia Rabun,2025-02,18260.0,10852.0,1.464902807775378
-Food Bank of Northeast Georgia Rabun,2025-03,13623.0,-4637.0,-0.25394304490690034
-Food Bank of Northeast Georgia Rabun,2025-04,2804.0,-10819.0,-0.7941716215224253
-Food Bank of Northeast Georgia Rabun,2025-05,17410.0,14606.0,5.208987161198288
-Food Bank of Northeast Georgia Rabun,2025-06,8905.0,-8505.0,-0.4885123492245836
-Freedom Ministries Lighthouse,2022-07,2072.0,0.0,
-Freedom Ministries Lighthouse,2022-08,1601.0,-471.0,-0.2273166023166023
-Freedom Ministries Lighthouse,2022-09,494.0,-1107.0,-0.6914428482198626
-Freedom Ministries Lighthouse,2022-10,791.0,297.0,0.6012145748987854
-Freedom Ministries Lighthouse,2022-11,769.0,-22.0,-0.02781289506953224
-Freedom Ministries Lighthouse,2022-12,795.0,26.0,0.033810143042912875
-Freedom Ministries Lighthouse,2023-01,1232.0,437.0,0.549685534591195
-Freedom Ministries Lighthouse,2023-02,1791.0,559.0,0.4537337662337662
-Freedom Ministries Lighthouse,2023-03,824.0,-967.0,-0.5399218313791178
-Freedom Ministries Lighthouse,2023-04,604.0,-220.0,-0.2669902912621359
-Freedom Ministries Lighthouse,2023-05,1548.0,944.0,1.5629139072847682
-Freedom Ministries Lighthouse,2023-06,904.0,-644.0,-0.4160206718346253
-Freedom Ministries Lighthouse,2023-07,1435.0,531.0,0.5873893805309734
-Freedom Ministries Lighthouse,2023-08,2067.0,632.0,0.44041811846689893
-Freedom Ministries Lighthouse,2023-09,833.0,-1234.0,-0.5970004837929366
-Freedom Ministries Lighthouse,2023-10,1006.0,173.0,0.20768307322929172
-Freedom Ministries Lighthouse,2023-11,373.0,-633.0,-0.6292246520874751
-Freedom Ministries Lighthouse,2023-12,1717.0,1344.0,3.603217158176944
-Freedom Ministries Lighthouse,2024-01,1371.0,-346.0,-0.20151426907396622
-Freedom Ministries Lighthouse,2024-02,1094.0,-277.0,-0.20204230488694383
-Freedom Ministries Lighthouse,2024-03,1063.0,-31.0,-0.0283363802559415
-Freedom Ministries Lighthouse,2024-04,2010.0,947.0,0.8908748824082785
-Freedom Ministries Lighthouse,2024-05,1978.0,-32.0,-0.015920398009950248
-Freedom Ministries Lighthouse,2024-06,2100.0,122.0,0.06167846309403438
-Freedom Ministries Lighthouse,2024-07,2087.0,-13.0,-0.006190476190476191
-Freedom Ministries Lighthouse,2024-08,483.0,-1604.0,-0.7685673215141351
-Freedom Ministries Lighthouse,2024-09,2334.0,1851.0,3.8322981366459627
-Freedom Ministries Lighthouse,2024-10,2047.0,-287.0,-0.12296486718080549
-Freedom Ministries Lighthouse,2024-11,2007.0,-40.0,-0.019540791402051783
-Freedom Ministries Lighthouse,2024-12,2113.0,106.0,0.05281514698555057
-Freedom Ministries Lighthouse,2025-01,1493.0,-620.0,-0.29342167534311403
-Freedom Ministries Lighthouse,2025-02,2050.0,557.0,0.37307434695244474
-Freedom Ministries Lighthouse,2025-03,2261.0,211.0,0.10292682926829268
-Freedom Ministries Lighthouse,2025-04,2111.0,-150.0,-0.06634232640424591
-Freedom Ministries Lighthouse,2025-05,1511.0,-600.0,-0.28422548555187116
-Freedom Ministries Lighthouse,2025-06,2532.0,1021.0,0.6757114493712773
-Mountain Grove Baptist Church,2022-07,1595.0,0.0,
-Mountain Grove Baptist Church,2022-08,928.0,-667.0,-0.41818181818181815
-Mountain Grove Baptist Church,2022-09,671.0,-257.0,-0.2769396551724138
-Mountain Grove Baptist Church,2022-10,379.0,-292.0,-0.43517138599105815
-Mountain Grove Baptist Church,2022-11,662.0,283.0,0.7467018469656992
-Mountain Grove Baptist Church,2022-12,579.0,-83.0,-0.12537764350453173
-Mountain Grove Baptist Church,2023-01,1263.0,684.0,1.1813471502590673
-Mountain Grove Baptist Church,2023-02,931.0,-332.0,-0.26286619160728425
-Mountain Grove Baptist Church,2023-03,906.0,-25.0,-0.02685284640171858
-Mountain Grove Baptist Church,2023-04,645.0,-261.0,-0.28807947019867547
-Mountain Grove Baptist Church,2023-05,598.0,-47.0,-0.07286821705426356
-Mountain Grove Baptist Church,2023-06,232.0,-366.0,-0.6120401337792643
-Mountain Grove Baptist Church,2023-07,242.0,10.0,0.04310344827586207
-Mountain Grove Baptist Church,2023-08,506.0,264.0,1.0909090909090908
-Mountain Grove Baptist Church,2023-09,658.0,152.0,0.30039525691699603
-Mountain Grove Baptist Church,2023-10,761.0,103.0,0.15653495440729484
-Mountain Grove Baptist Church,2023-11,649.0,-112.0,-0.1471747700394218
-Mountain Grove Baptist Church,2023-12,512.0,-137.0,-0.2110939907550077
-Mountain Grove Baptist Church,2024-01,503.0,-9.0,-0.017578125
-Mountain Grove Baptist Church,2024-02,436.0,-67.0,-0.13320079522862824
-Mountain Grove Baptist Church,2024-03,397.0,-39.0,-0.08944954128440367
-Mountain Grove Baptist Church,2024-04,1230.0,833.0,2.09823677581864
-Mountain Grove Baptist Church,2024-05,461.0,-769.0,-0.6252032520325204
-Mountain Grove Baptist Church,2024-06,435.0,-26.0,-0.05639913232104121
-Mountain Grove Baptist Church,2024-07,527.0,92.0,0.21149425287356322
-Mountain Grove Baptist Church,2024-08,648.0,121.0,0.22960151802656548
-Mountain Grove Baptist Church,2024-09,438.0,-210.0,-0.32407407407407407
-Mountain Grove Baptist Church,2024-10,442.0,4.0,0.0091324200913242
-Mountain Grove Baptist Church,2024-11,822.0,380.0,0.8597285067873304
-Mountain Grove Baptist Church,2024-12,463.0,-359.0,-0.4367396593673966
-Mountain Grove Baptist Church,2025-01,497.0,34.0,0.0734341252699784
-Mountain Grove Baptist Church,2025-02,617.0,120.0,0.2414486921529175
-Mountain Grove Baptist Church,2025-03,678.0,61.0,0.09886547811993517
-Mountain Grove Baptist Church,2025-04,444.0,-234.0,-0.34513274336283184
-Mountain Grove Baptist Church,2025-05,690.0,246.0,0.5540540540540541
-Mountain Grove Baptist Church,2025-06,502.0,-188.0,-0.27246376811594203
-Persimmon Baptist Church,2022-07,536.0,0.0,
-Persimmon Baptist Church,2022-08,865.0,329.0,0.6138059701492538
-Persimmon Baptist Church,2022-09,696.0,-169.0,-0.19537572254335261
-Persimmon Baptist Church,2022-10,669.0,-27.0,-0.03879310344827586
-Persimmon Baptist Church,2022-11,264.0,-405.0,-0.6053811659192825
-Persimmon Baptist Church,2022-12,350.0,86.0,0.32575757575757575
-Persimmon Baptist Church,2023-01,393.0,43.0,0.12285714285714286
-Persimmon Baptist Church,2023-02,381.0,-12.0,-0.030534351145038167
-Persimmon Baptist Church,2023-03,450.0,69.0,0.18110236220472442
-Persimmon Baptist Church,2023-04,208.0,-242.0,-0.5377777777777778
-Persimmon Baptist Church,2023-05,517.0,309.0,1.4855769230769231
-Persimmon Baptist Church,2023-06,412.0,-105.0,-0.20309477756286268
-Persimmon Baptist Church,2023-07,513.0,101.0,0.24514563106796117
-Persimmon Baptist Church,2023-08,323.0,-190.0,-0.37037037037037035
-Persimmon Baptist Church,2023-09,229.0,-94.0,-0.29102167182662536
-Persimmon Baptist Church,2023-10,913.0,684.0,2.986899563318777
-Persimmon Baptist Church,2023-11,422.0,-491.0,-0.5377875136911281
-Persimmon Baptist Church,2023-12,232.0,-190.0,-0.45023696682464454
-Persimmon Baptist Church,2024-01,398.0,166.0,0.7155172413793104
-Persimmon Baptist Church,2024-02,429.0,31.0,0.07788944723618091
-Persimmon Baptist Church,2024-03,609.0,180.0,0.4195804195804196
-Persimmon Baptist Church,2024-04,672.0,63.0,0.10344827586206896
-Persimmon Baptist Church,2024-05,307.0,-365.0,-0.5431547619047619
+Food 2 Kids Rabun County,2023-10 to 2025-06,0.0,0.0,0.0
+Food Bank of Northeast Georgia Rabun,2022-07,44722.0,0.0,0.0
+Food Bank of Northeast Georgia Rabun,2022-08,25663.0,-19059.0,-0.426
+Food Bank of Northeast Georgia Rabun,2022-09,28154.0,2491.0,0.097
+Food Bank of Northeast Georgia Rabun,2022-10,8567.0,-19587.0,-0.696
+Food Bank of Northeast Georgia Rabun,2022-11,15655.0,7088.0,0.827
+Food Bank of Northeast Georgia Rabun,2022-12,6328.0,-9327.0,-0.596
+Food Bank of Northeast Georgia Rabun,2023-01,134394.0,128066.0,20.238
+Food Bank of Northeast Georgia Rabun,2023-02,5548.0,-128846.0,-0.959
+Food Bank of Northeast Georgia Rabun,2023-03,12918.0,7370.0,1.328
+Food Bank of Northeast Georgia Rabun,2023-04,22261.0,9343.0,0.723
+Food Bank of Northeast Georgia Rabun,2023-05,6653.0,-15608.0,-0.701
+Food Bank of Northeast Georgia Rabun,2023-06,16526.0,9873.0,1.484
+Food Bank of Northeast Georgia Rabun,2023-07,16023.0,-503.0,-0.03
+Food Bank of Northeast Georgia Rabun,2023-08,24311.0,8288.0,0.517
+Food Bank of Northeast Georgia Rabun,2023-09,35234.0,10923.0,0.449
+Food Bank of Northeast Georgia Rabun,2023-10,11204.0,-24030.0,-0.682
+Food Bank of Northeast Georgia Rabun,2023-11,21384.0,10180.0,0.909
+Food Bank of Northeast Georgia Rabun,2023-12,14489.0,-6895.0,-0.322
+Food Bank of Northeast Georgia Rabun,2024-01,17267.0,2778.0,0.192
+Food Bank of Northeast Georgia Rabun,2024-02,18909.0,1642.0,0.095
+Food Bank of Northeast Georgia Rabun,2024-03,25949.0,7040.0,0.372
+Food Bank of Northeast Georgia Rabun,2024-04,19152.0,-6797.0,-0.262
+Food Bank of Northeast Georgia Rabun,2024-05,43669.0,24517.0,1.28
+Food Bank of Northeast Georgia Rabun,2024-06,21542.0,-22127.0,-0.507
+Food Bank of Northeast Georgia Rabun,2024-07,34629.0,13087.0,0.608
+Food Bank of Northeast Georgia Rabun,2024-08,16438.0,-18191.0,-0.525
+Food Bank of Northeast Georgia Rabun,2024-09,3528.0,-12910.0,-0.785
+Food Bank of Northeast Georgia Rabun,2024-10,15181.0,11653.0,3.303
+Food Bank of Northeast Georgia Rabun,2024-11,5059.0,-10122.0,-0.667
+Food Bank of Northeast Georgia Rabun,2024-12,42523.0,37464.0,7.405
+Food Bank of Northeast Georgia Rabun,2025-01,7408.0,-35115.0,-0.826
+Food Bank of Northeast Georgia Rabun,2025-02,18260.0,10852.0,1.465
+Food Bank of Northeast Georgia Rabun,2025-03,13623.0,-4637.0,-0.254
+Food Bank of Northeast Georgia Rabun,2025-04,2804.0,-10819.0,-0.794
+Food Bank of Northeast Georgia Rabun,2025-05,17410.0,14606.0,5.209
+Food Bank of Northeast Georgia Rabun,2025-06,8905.0,-8505.0,-0.489
+Freedom Ministries Lighthouse,2022-07,2072.0,0.0,0.0
+Freedom Ministries Lighthouse,2022-08,1601.0,-471.0,-0.227
+Freedom Ministries Lighthouse,2022-09,494.0,-1107.0,-0.691
+Freedom Ministries Lighthouse,2022-10,791.0,297.0,0.601
+Freedom Ministries Lighthouse,2022-11,769.0,-22.0,-0.028
+Freedom Ministries Lighthouse,2022-12,795.0,26.0,0.034
+Freedom Ministries Lighthouse,2023-01,1232.0,437.0,0.55
+Freedom Ministries Lighthouse,2023-02,1791.0,559.0,0.454
+Freedom Ministries Lighthouse,2023-03,824.0,-967.0,-0.54
+Freedom Ministries Lighthouse,2023-04,604.0,-220.0,-0.267
+Freedom Ministries Lighthouse,2023-05,1548.0,944.0,1.563
+Freedom Ministries Lighthouse,2023-06,904.0,-644.0,-0.416
+Freedom Ministries Lighthouse,2023-07,1435.0,531.0,0.587
+Freedom Ministries Lighthouse,2023-08,2067.0,632.0,0.44
+Freedom Ministries Lighthouse,2023-09,833.0,-1234.0,-0.597
+Freedom Ministries Lighthouse,2023-10,1006.0,173.0,0.208
+Freedom Ministries Lighthouse,2023-11,373.0,-633.0,-0.629
+Freedom Ministries Lighthouse,2023-12,1717.0,1344.0,3.603
+Freedom Ministries Lighthouse,2024-01,1371.0,-346.0,-0.202
+Freedom Ministries Lighthouse,2024-02,1094.0,-277.0,-0.202
+Freedom Ministries Lighthouse,2024-03,1063.0,-31.0,-0.028
+Freedom Ministries Lighthouse,2024-04,2010.0,947.0,0.891
+Freedom Ministries Lighthouse,2024-05,1978.0,-32.0,-0.016
+Freedom Ministries Lighthouse,2024-06,2100.0,122.0,0.062
+Freedom Ministries Lighthouse,2024-07,2087.0,-13.0,-0.006
+Freedom Ministries Lighthouse,2024-08,483.0,-1604.0,-0.769
+Freedom Ministries Lighthouse,2024-09,2334.0,1851.0,3.832
+Freedom Ministries Lighthouse,2024-10,2047.0,-287.0,-0.123
+Freedom Ministries Lighthouse,2024-11,2007.0,-40.0,-0.02
+Freedom Ministries Lighthouse,2024-12,2113.0,106.0,0.053
+Freedom Ministries Lighthouse,2025-01,1493.0,-620.0,-0.293
+Freedom Ministries Lighthouse,2025-02,2050.0,557.0,0.373
+Freedom Ministries Lighthouse,2025-03,2261.0,211.0,0.103
+Freedom Ministries Lighthouse,2025-04,2111.0,-150.0,-0.066
+Freedom Ministries Lighthouse,2025-05,1511.0,-600.0,-0.284
+Freedom Ministries Lighthouse,2025-06,2532.0,1021.0,0.676
+Mountain Grove Baptist Church,2022-07,1595.0,0.0,0.0
+Mountain Grove Baptist Church,2022-08,928.0,-667.0,-0.418
+Mountain Grove Baptist Church,2022-09,671.0,-257.0,-0.277
+Mountain Grove Baptist Church,2022-10,379.0,-292.0,-0.435
+Mountain Grove Baptist Church,2022-11,662.0,283.0,0.747
+Mountain Grove Baptist Church,2022-12,579.0,-83.0,-0.125
+Mountain Grove Baptist Church,2023-01,1263.0,684.0,1.181
+Mountain Grove Baptist Church,2023-02,931.0,-332.0,-0.263
+Mountain Grove Baptist Church,2023-03,906.0,-25.0,-0.027
+Mountain Grove Baptist Church,2023-04,645.0,-261.0,-0.288
+Mountain Grove Baptist Church,2023-05,598.0,-47.0,-0.073
+Mountain Grove Baptist Church,2023-06,232.0,-366.0,-0.612
+Mountain Grove Baptist Church,2023-07,242.0,10.0,0.043
+Mountain Grove Baptist Church,2023-08,506.0,264.0,1.091
+Mountain Grove Baptist Church,2023-09,658.0,152.0,0.3
+Mountain Grove Baptist Church,2023-10,761.0,103.0,0.157
+Mountain Grove Baptist Church,2023-11,649.0,-112.0,-0.147
+Mountain Grove Baptist Church,2023-12,512.0,-137.0,-0.211
+Mountain Grove Baptist Church,2024-01,503.0,-9.0,-0.018
+Mountain Grove Baptist Church,2024-02,436.0,-67.0,-0.133
+Mountain Grove Baptist Church,2024-03,397.0,-39.0,-0.089
+Mountain Grove Baptist Church,2024-04,1230.0,833.0,2.098
+Mountain Grove Baptist Church,2024-05,461.0,-769.0,-0.625
+Mountain Grove Baptist Church,2024-06,435.0,-26.0,-0.056
+Mountain Grove Baptist Church,2024-07,527.0,92.0,0.211
+Mountain Grove Baptist Church,2024-08,648.0,121.0,0.23
+Mountain Grove Baptist Church,2024-09,438.0,-210.0,-0.324
+Mountain Grove Baptist Church,2024-10,442.0,4.0,0.009
+Mountain Grove Baptist Church,2024-11,822.0,380.0,0.86
+Mountain Grove Baptist Church,2024-12,463.0,-359.0,-0.437
+Mountain Grove Baptist Church,2025-01,497.0,34.0,0.073
+Mountain Grove Baptist Church,2025-02,617.0,120.0,0.241
+Mountain Grove Baptist Church,2025-03,678.0,61.0,0.099
+Mountain Grove Baptist Church,2025-04,444.0,-234.0,-0.345
+Mountain Grove Baptist Church,2025-05,690.0,246.0,0.554
+Mountain Grove Baptist Church,2025-06,502.0,-188.0,-0.272
+Persimmon Baptist Church,2022-07,536.0,0.0,0.0
+Persimmon Baptist Church,2022-08,865.0,329.0,0.614
+Persimmon Baptist Church,2022-09,696.0,-169.0,-0.195
+Persimmon Baptist Church,2022-10,669.0,-27.0,-0.039
+Persimmon Baptist Church,2022-11,264.0,-405.0,-0.605
+Persimmon Baptist Church,2022-12,350.0,86.0,0.326
+Persimmon Baptist Church,2023-01,393.0,43.0,0.123
+Persimmon Baptist Church,2023-02,381.0,-12.0,-0.031
+Persimmon Baptist Church,2023-03,450.0,69.0,0.181
+Persimmon Baptist Church,2023-04,208.0,-242.0,-0.538
+Persimmon Baptist Church,2023-05,517.0,309.0,1.486
+Persimmon Baptist Church,2023-06,412.0,-105.0,-0.203
+Persimmon Baptist Church,2023-07,513.0,101.0,0.245
+Persimmon Baptist Church,2023-08,323.0,-190.0,-0.37
+Persimmon Baptist Church,2023-09,229.0,-94.0,-0.291
+Persimmon Baptist Church,2023-10,913.0,684.0,2.987
+Persimmon Baptist Church,2023-11,422.0,-491.0,-0.538
+Persimmon Baptist Church,2023-12,232.0,-190.0,-0.45
+Persimmon Baptist Church,2024-01,398.0,166.0,0.716
+Persimmon Baptist Church,2024-02,429.0,31.0,0.078
+Persimmon Baptist Church,2024-03,609.0,180.0,0.42
+Persimmon Baptist Church,2024-04,672.0,63.0,0.103
+Persimmon Baptist Church,2024-05,307.0,-365.0,-0.543
 Persimmon Baptist Church,2024-06,0.0,-307.0,-1.0
 Persimmon Baptist Church,2024-07,214.0,214.0,inf
-Persimmon Baptist Church,2024-08,548.0,334.0,1.560747663551402
+Persimmon Baptist Church,2024-08,548.0,334.0,1.561
 Persimmon Baptist Church,2024-09,0.0,-548.0,-1.0
-Persimmon Baptist Church,2024-10,0.0,0.0,0.0
-Persimmon Baptist Church,2024-11,0.0,0.0,0.0
-Persimmon Baptist Church,2024-12,0.0,0.0,0.0
-Persimmon Baptist Church,2025-01,0.0,0.0,0.0
-Persimmon Baptist Church,2025-02,0.0,0.0,0.0
-Persimmon Baptist Church,2025-03,0.0,0.0,0.0
-Persimmon Baptist Church,2025-04,0.0,0.0,0.0
-Persimmon Baptist Church,2025-05,0.0,0.0,0.0
-Persimmon Baptist Church,2025-06,0.0,0.0,0.0
-Place of Hope NGA,2022-07,0.0,0.0,
-Place of Hope NGA,2022-08,0.0,0.0,0.0
-Place of Hope NGA,2022-09,0.0,0.0,0.0
-Place of Hope NGA,2022-10,0.0,0.0,0.0
-Place of Hope NGA,2022-11,0.0,0.0,0.0
-Place of Hope NGA,2022-12,0.0,0.0,0.0
-Place of Hope NGA,2023-01,0.0,0.0,0.0
+Persimmon Baptist Church,2024-10 to 2025-06,0.0,0.0,0.0
+Place of Hope NGA,2022-07 to 2023-01,0.0,0.0,0.0
 Place of Hope NGA,2023-02,193.0,193.0,inf
-Place of Hope NGA,2023-03,107.0,-86.0,-0.44559585492227977
-Place of Hope NGA,2023-04,66.0,-41.0,-0.38317757009345793
-Place of Hope NGA,2023-05,90.0,24.0,0.36363636363636365
-Place of Hope NGA,2023-06,106.0,16.0,0.17777777777777778
-Place of Hope NGA,2023-07,73.0,-33.0,-0.3113207547169811
-Place of Hope NGA,2023-08,243.0,170.0,2.328767123287671
+Place of Hope NGA,2023-03,107.0,-86.0,-0.446
+Place of Hope NGA,2023-04,66.0,-41.0,-0.383
+Place of Hope NGA,2023-05,90.0,24.0,0.364
+Place of Hope NGA,2023-06,106.0,16.0,0.178
+Place of Hope NGA,2023-07,73.0,-33.0,-0.311
+Place of Hope NGA,2023-08,243.0,170.0,2.329
 Place of Hope NGA,2023-09,0.0,-243.0,-1.0
 Place of Hope NGA,2023-10,83.0,83.0,inf
 Place of Hope NGA,2023-11,0.0,-83.0,-1.0
-Place of Hope NGA,2023-12,0.0,0.0,0.0
-Place of Hope NGA,2024-01,0.0,0.0,0.0
+Place of Hope NGA,2023-12 to 2024-01,0.0,0.0,0.0
 Place of Hope NGA,2024-02,157.0,157.0,inf
 Place of Hope NGA,2024-03,0.0,-157.0,-1.0
 Place of Hope NGA,2024-04,134.0,134.0,inf
 Place of Hope NGA,2024-05,0.0,-134.0,-1.0
 Place of Hope NGA,2024-06,0.0,0.0,0.0
 Place of Hope NGA,2024-07,129.0,129.0,inf
-Place of Hope NGA,2024-08,101.0,-28.0,-0.21705426356589147
+Place of Hope NGA,2024-08,101.0,-28.0,-0.217
 Place of Hope NGA,2024-09,0.0,-101.0,-1.0
 Place of Hope NGA,2024-10,225.0,225.0,inf
 Place of Hope NGA,2024-11,0.0,-225.0,-1.0
 Place of Hope NGA,2024-12,196.0,196.0,inf
 Place of Hope NGA,2025-01,0.0,-196.0,-1.0
-Place of Hope NGA,2025-02,0.0,0.0,0.0
-Place of Hope NGA,2025-03,0.0,0.0,0.0
-Place of Hope NGA,2025-04,0.0,0.0,0.0
+Place of Hope NGA,2025-02 to 2025-04,0.0,0.0,0.0
 Place of Hope NGA,2025-05,86.0,86.0,inf
 Place of Hope NGA,2025-06,0.0,-86.0,-1.0
-Rabun Christian Food Ministry,2022-07,1394.0,0.0,
-Rabun Christian Food Ministry,2022-08,2815.0,1421.0,1.0193687230989956
-Rabun Christian Food Ministry,2022-09,2871.0,56.0,0.01989342806394316
-Rabun Christian Food Ministry,2022-10,3310.0,439.0,0.15290839428770464
-Rabun Christian Food Ministry,2022-11,2634.0,-676.0,-0.20422960725075529
-Rabun Christian Food Ministry,2022-12,3571.0,937.0,0.3557327258921792
-Rabun Christian Food Ministry,2023-01,3596.0,25.0,0.007000840100812098
-Rabun Christian Food Ministry,2023-02,3366.0,-230.0,-0.06395995550611791
-Rabun Christian Food Ministry,2023-03,3048.0,-318.0,-0.0944741532976827
-Rabun Christian Food Ministry,2023-04,2345.0,-703.0,-0.23064304461942256
-Rabun Christian Food Ministry,2023-05,3998.0,1653.0,0.7049040511727079
-Rabun Christian Food Ministry,2023-06,2993.0,-1005.0,-0.25137568784392195
-Rabun Christian Food Ministry,2023-07,3336.0,343.0,0.11460073504844638
-Rabun Christian Food Ministry,2023-08,2858.0,-478.0,-0.1432853717026379
-Rabun Christian Food Ministry,2023-09,3546.0,688.0,0.24072778166550035
-Rabun Christian Food Ministry,2023-10,2552.0,-994.0,-0.28031584884376765
-Rabun Christian Food Ministry,2023-11,2271.0,-281.0,-0.11010971786833856
-Rabun Christian Food Ministry,2023-12,2984.0,713.0,0.3139586085424923
-Rabun Christian Food Ministry,2024-01,2009.0,-975.0,-0.3267426273458445
-Rabun Christian Food Ministry,2024-02,2628.0,619.0,0.3081134892981583
-Rabun Christian Food Ministry,2024-03,2343.0,-285.0,-0.10844748858447488
-Rabun Christian Food Ministry,2024-04,2565.0,222.0,0.09475032010243278
-Rabun Christian Food Ministry,2024-05,2063.0,-502.0,-0.19571150097465886
-Rabun Christian Food Ministry,2024-06,2756.0,693.0,0.335918565196316
-Rabun Christian Food Ministry,2024-07,1997.0,-759.0,-0.2753991291727141
-Rabun Christian Food Ministry,2024-08,3028.0,1031.0,0.5162744116174262
-Rabun Christian Food Ministry,2024-09,3309.0,281.0,0.0928005284015852
-Rabun Christian Food Ministry,2024-10,2667.0,-642.0,-0.19401631912964643
-Rabun Christian Food Ministry,2024-11,3131.0,464.0,0.1739782527184102
-Rabun Christian Food Ministry,2024-12,2869.0,-262.0,-0.08367933567550304
-Rabun Christian Food Ministry,2025-01,2884.0,15.0,0.005228302544440571
-Rabun Christian Food Ministry,2025-02,2980.0,96.0,0.033287101248266296
-Rabun Christian Food Ministry,2025-03,2370.0,-610.0,-0.20469798657718122
-Rabun Christian Food Ministry,2025-04,3164.0,794.0,0.33502109704641353
-Rabun Christian Food Ministry,2025-05,2285.0,-879.0,-0.2778128950695322
-Rabun Christian Food Ministry,2025-06,2965.0,680.0,0.2975929978118162
-Rabun County Family Connection,2022-07,319.0,0.0,
+Rabun Christian Food Ministry,2022-07,1394.0,0.0,0.0
+Rabun Christian Food Ministry,2022-08,2815.0,1421.0,1.019
+Rabun Christian Food Ministry,2022-09,2871.0,56.0,0.02
+Rabun Christian Food Ministry,2022-10,3310.0,439.0,0.153
+Rabun Christian Food Ministry,2022-11,2634.0,-676.0,-0.204
+Rabun Christian Food Ministry,2022-12,3571.0,937.0,0.356
+Rabun Christian Food Ministry,2023-01,3596.0,25.0,0.007
+Rabun Christian Food Ministry,2023-02,3366.0,-230.0,-0.064
+Rabun Christian Food Ministry,2023-03,3048.0,-318.0,-0.094
+Rabun Christian Food Ministry,2023-04,2345.0,-703.0,-0.231
+Rabun Christian Food Ministry,2023-05,3998.0,1653.0,0.705
+Rabun Christian Food Ministry,2023-06,2993.0,-1005.0,-0.251
+Rabun Christian Food Ministry,2023-07,3336.0,343.0,0.115
+Rabun Christian Food Ministry,2023-08,2858.0,-478.0,-0.143
+Rabun Christian Food Ministry,2023-09,3546.0,688.0,0.241
+Rabun Christian Food Ministry,2023-10,2552.0,-994.0,-0.28
+Rabun Christian Food Ministry,2023-11,2271.0,-281.0,-0.11
+Rabun Christian Food Ministry,2023-12,2984.0,713.0,0.314
+Rabun Christian Food Ministry,2024-01,2009.0,-975.0,-0.327
+Rabun Christian Food Ministry,2024-02,2628.0,619.0,0.308
+Rabun Christian Food Ministry,2024-03,2343.0,-285.0,-0.108
+Rabun Christian Food Ministry,2024-04,2565.0,222.0,0.095
+Rabun Christian Food Ministry,2024-05,2063.0,-502.0,-0.196
+Rabun Christian Food Ministry,2024-06,2756.0,693.0,0.336
+Rabun Christian Food Ministry,2024-07,1997.0,-759.0,-0.275
+Rabun Christian Food Ministry,2024-08,3028.0,1031.0,0.516
+Rabun Christian Food Ministry,2024-09,3309.0,281.0,0.093
+Rabun Christian Food Ministry,2024-10,2667.0,-642.0,-0.194
+Rabun Christian Food Ministry,2024-11,3131.0,464.0,0.174
+Rabun Christian Food Ministry,2024-12,2869.0,-262.0,-0.084
+Rabun Christian Food Ministry,2025-01,2884.0,15.0,0.005
+Rabun Christian Food Ministry,2025-02,2980.0,96.0,0.033
+Rabun Christian Food Ministry,2025-03,2370.0,-610.0,-0.205
+Rabun Christian Food Ministry,2025-04,3164.0,794.0,0.335
+Rabun Christian Food Ministry,2025-05,2285.0,-879.0,-0.278
+Rabun Christian Food Ministry,2025-06,2965.0,680.0,0.298
+Rabun County Family Connection,2022-07,319.0,0.0,0.0
 Rabun County Family Connection,2022-08,0.0,-319.0,-1.0
-Rabun County Family Connection,2022-09,0.0,0.0,0.0
-Rabun County Family Connection,2022-10,0.0,0.0,0.0
-Rabun County Family Connection,2022-11,0.0,0.0,0.0
+Rabun County Family Connection,2022-09 to 2022-11,0.0,0.0,0.0
 Rabun County Family Connection,2022-12,34.0,34.0,inf
 Rabun County Family Connection,2023-01,0.0,-34.0,-1.0
 Rabun County Family Connection,2023-02,0.0,0.0,0.0
@@ -371,321 +283,172 @@ Rabun County Family Connection,2023-03,83.0,83.0,inf
 Rabun County Family Connection,2023-04,0.0,-83.0,-1.0
 Rabun County Family Connection,2023-05,0.0,0.0,0.0
 Rabun County Family Connection,2023-06,566.0,566.0,inf
-Rabun County Family Connection,2023-07,416.0,-150.0,-0.26501766784452296
+Rabun County Family Connection,2023-07,416.0,-150.0,-0.265
 Rabun County Family Connection,2023-08,0.0,-416.0,-1.0
-Rabun County Family Connection,2023-09,0.0,0.0,0.0
-Rabun County Family Connection,2023-10,0.0,0.0,0.0
+Rabun County Family Connection,2023-09 to 2023-10,0.0,0.0,0.0
 Rabun County Family Connection,2023-11,344.0,344.0,inf
 Rabun County Family Connection,2023-12,0.0,-344.0,-1.0
-Rabun County Family Connection,2024-01,0.0,0.0,0.0
-Rabun County Family Connection,2024-02,0.0,0.0,0.0
+Rabun County Family Connection,2024-01 to 2024-02,0.0,0.0,0.0
 Rabun County Family Connection,2024-03,324.0,324.0,inf
 Rabun County Family Connection,2024-04,0.0,-324.0,-1.0
 Rabun County Family Connection,2024-05,3770.0,3770.0,inf
-Rabun County Family Connection,2024-06,582.0,-3188.0,-0.8456233421750663
+Rabun County Family Connection,2024-06,582.0,-3188.0,-0.846
 Rabun County Family Connection,2024-07,0.0,-582.0,-1.0
-Rabun County Family Connection,2024-08,0.0,0.0,0.0
-Rabun County Family Connection,2024-09,0.0,0.0,0.0
+Rabun County Family Connection,2024-08 to 2024-09,0.0,0.0,0.0
 Rabun County Family Connection,2024-10,470.0,470.0,inf
 Rabun County Family Connection,2024-11,0.0,-470.0,-1.0
 Rabun County Family Connection,2024-12,45.0,45.0,inf
-Rabun County Family Connection,2025-01,20.0,-25.0,-0.5555555555555556
+Rabun County Family Connection,2025-01,20.0,-25.0,-0.556
 Rabun County Family Connection,2025-02,30.0,10.0,0.5
-Rabun County Family Connection,2025-03,1334.0,1304.0,43.46666666666667
-Rabun County Family Connection,2025-04,78.0,-1256.0,-0.9415292353823088
-Rabun County Family Connection,2025-05,256.0,178.0,2.282051282051282
-Rabun County Family Connection,2025-06,462.0,206.0,0.8046875
-Rabun County Family Connection F2K,2022-07,0.0,0.0,
-Rabun County Family Connection F2K,2022-08,0.0,0.0,0.0
-Rabun County Family Connection F2K,2022-09,0.0,0.0,0.0
-Rabun County Family Connection F2K,2022-10,0.0,0.0,0.0
-Rabun County Family Connection F2K,2022-11,0.0,0.0,0.0
-Rabun County Family Connection F2K,2022-12,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-01,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-02,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-03,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-04,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-05,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-06,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-07,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-08,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-09,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-10,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-11,0.0,0.0,0.0
-Rabun County Family Connection F2K,2023-12,0.0,0.0,0.0
-Rabun County Family Connection F2K,2024-01,0.0,0.0,0.0
-Rabun County Family Connection F2K,2024-02,0.0,0.0,0.0
-Rabun County Family Connection F2K,2024-03,0.0,0.0,0.0
-Rabun County Family Connection F2K,2024-04,0.0,0.0,0.0
-Rabun County Family Connection F2K,2024-05,0.0,0.0,0.0
-Rabun County Family Connection F2K,2024-06,0.0,0.0,0.0
-Rabun County Family Connection F2K,2024-07,0.0,0.0,0.0
+Rabun County Family Connection,2025-03,1334.0,1304.0,43.467
+Rabun County Family Connection,2025-04,78.0,-1256.0,-0.942
+Rabun County Family Connection,2025-05,256.0,178.0,2.282
+Rabun County Family Connection,2025-06,462.0,206.0,0.805
+Rabun County Family Connection F2K,2022-07 to 2024-07,0.0,0.0,0.0
 Rabun County Family Connection F2K,2024-08,1025.0,1025.0,inf
-Rabun County Family Connection F2K,2024-09,752.0,-273.0,-0.26634146341463416
+Rabun County Family Connection F2K,2024-09,752.0,-273.0,-0.266
 Rabun County Family Connection F2K,2024-10,0.0,-752.0,-1.0
 Rabun County Family Connection F2K,2024-11,533.0,533.0,inf
-Rabun County Family Connection F2K,2024-12,1455.0,922.0,1.7298311444652907
+Rabun County Family Connection F2K,2024-12,1455.0,922.0,1.73
 Rabun County Family Connection F2K,2025-01,0.0,-1455.0,-1.0
 Rabun County Family Connection F2K,2025-02,792.0,792.0,inf
-Rabun County Family Connection F2K,2025-03,1186.0,394.0,0.49747474747474746
-Rabun County Family Connection F2K,2025-04,357.0,-829.0,-0.6989881956155143
-Rabun County Family Connection F2K,2025-05,559.0,202.0,0.5658263305322129
+Rabun County Family Connection F2K,2025-03,1186.0,394.0,0.497
+Rabun County Family Connection F2K,2025-04,357.0,-829.0,-0.699
+Rabun County Family Connection F2K,2025-05,559.0,202.0,0.566
 Rabun County Family Connection F2K,2025-06,0.0,-559.0,-1.0
-Rabun County MedLink Georgia,2022-07,0.0,0.0,
-Rabun County MedLink Georgia,2022-08,0.0,0.0,0.0
-Rabun County MedLink Georgia,2022-09,0.0,0.0,0.0
-Rabun County MedLink Georgia,2022-10,0.0,0.0,0.0
-Rabun County MedLink Georgia,2022-11,0.0,0.0,0.0
-Rabun County MedLink Georgia,2022-12,0.0,0.0,0.0
-Rabun County MedLink Georgia,2023-01,0.0,0.0,0.0
-Rabun County MedLink Georgia,2023-02,0.0,0.0,0.0
-Rabun County MedLink Georgia,2023-03,0.0,0.0,0.0
-Rabun County MedLink Georgia,2023-04,0.0,0.0,0.0
-Rabun County MedLink Georgia,2023-05,0.0,0.0,0.0
-Rabun County MedLink Georgia,2023-06,0.0,0.0,0.0
-Rabun County MedLink Georgia,2023-07,0.0,0.0,0.0
-Rabun County MedLink Georgia,2023-08,0.0,0.0,0.0
+Rabun County MedLink Georgia,2022-07 to 2023-08,0.0,0.0,0.0
 Rabun County MedLink Georgia,2023-09,5222.0,5222.0,inf
 Rabun County MedLink Georgia,2023-10,0.0,-5222.0,-1.0
-Rabun County MedLink Georgia,2023-11,0.0,0.0,0.0
-Rabun County MedLink Georgia,2023-12,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-01,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-02,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-03,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-04,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-05,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-06,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-07,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-08,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-09,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-10,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-11,0.0,0.0,0.0
-Rabun County MedLink Georgia,2024-12,0.0,0.0,0.0
-Rabun County MedLink Georgia,2025-01,0.0,0.0,0.0
-Rabun County MedLink Georgia,2025-02,0.0,0.0,0.0
-Rabun County MedLink Georgia,2025-03,0.0,0.0,0.0
-Rabun County MedLink Georgia,2025-04,0.0,0.0,0.0
-Rabun County MedLink Georgia,2025-05,0.0,0.0,0.0
-Rabun County MedLink Georgia,2025-06,0.0,0.0,0.0
-Rabun Gap Presbyterian Church,2022-07,53866.0,0.0,
-Rabun Gap Presbyterian Church,2022-08,42611.0,-11255.0,-0.20894441762893104
-Rabun Gap Presbyterian Church,2022-09,50664.0,8053.0,0.18898875877120933
-Rabun Gap Presbyterian Church,2022-10,66469.0,15805.0,0.3119572082741197
-Rabun Gap Presbyterian Church,2022-11,39523.0,-26946.0,-0.40539198724217307
-Rabun Gap Presbyterian Church,2022-12,49199.0,9676.0,0.24481947220605724
-Rabun Gap Presbyterian Church,2023-01,42032.0,-7167.0,-0.14567369255472673
-Rabun Gap Presbyterian Church,2023-02,48251.0,6219.0,0.14795869813475448
-Rabun Gap Presbyterian Church,2023-03,43401.0,-4850.0,-0.10051605148079833
-Rabun Gap Presbyterian Church,2023-04,57694.0,14293.0,0.3293242091196055
-Rabun Gap Presbyterian Church,2023-05,46686.0,-11008.0,-0.19079973654106147
-Rabun Gap Presbyterian Church,2023-06,50850.0,4164.0,0.08919162061431693
-Rabun Gap Presbyterian Church,2023-07,67389.0,16539.0,0.3252507374631268
-Rabun Gap Presbyterian Church,2023-08,50570.0,-16819.0,-0.24958079211740788
-Rabun Gap Presbyterian Church,2023-09,61566.0,10996.0,0.21744117065453827
-Rabun Gap Presbyterian Church,2023-10,58088.0,-3478.0,-0.056492219731670075
-Rabun Gap Presbyterian Church,2023-11,54276.0,-3812.0,-0.06562456961850985
-Rabun Gap Presbyterian Church,2023-12,44578.0,-9698.0,-0.17867934261920554
-Rabun Gap Presbyterian Church,2024-01,47772.0,3194.0,0.07164969267351609
-Rabun Gap Presbyterian Church,2024-02,57028.0,9256.0,0.1937536632336934
-Rabun Gap Presbyterian Church,2024-03,79893.0,22865.0,0.4009433962264151
-Rabun Gap Presbyterian Church,2024-04,46694.0,-33199.0,-0.4155432891492371
-Rabun Gap Presbyterian Church,2024-05,54660.0,7966.0,0.17060007709769992
-Rabun Gap Presbyterian Church,2024-06,51167.0,-3493.0,-0.06390413465056714
-Rabun Gap Presbyterian Church,2024-07,48239.0,-2928.0,-0.05722438290304298
-Rabun Gap Presbyterian Church,2024-08,57133.0,8894.0,0.1843736395862269
-Rabun Gap Presbyterian Church,2024-09,37529.0,-19604.0,-0.34312918978523793
-Rabun Gap Presbyterian Church,2024-10,82319.0,44790.0,1.1934770444189826
-Rabun Gap Presbyterian Church,2024-11,47514.0,-34805.0,-0.4228063994946489
-Rabun Gap Presbyterian Church,2024-12,39675.0,-7839.0,-0.16498295239297892
-Rabun Gap Presbyterian Church,2025-01,50075.0,10400.0,0.26212980466288593
-Rabun Gap Presbyterian Church,2025-02,40311.0,-9764.0,-0.19498751872191714
-Rabun Gap Presbyterian Church,2025-03,48248.0,7937.0,0.1968941479993054
-Rabun Gap Presbyterian Church,2025-04,42800.0,-5448.0,-0.11291659757917427
-Rabun Gap Presbyterian Church,2025-05,45603.0,2803.0,0.06549065420560747
-Rabun Gap Presbyterian Church,2025-06,35030.4,-10572.599999999999,-0.23184001052562328
-SKYE BURGERS,2022-07,0.0,0.0,
-SKYE BURGERS,2022-08,0.0,0.0,0.0
-SKYE BURGERS,2022-09,0.0,0.0,0.0
-SKYE BURGERS,2022-10,0.0,0.0,0.0
-SKYE BURGERS,2022-11,0.0,0.0,0.0
-SKYE BURGERS,2022-12,0.0,0.0,0.0
-SKYE BURGERS,2023-01,0.0,0.0,0.0
-SKYE BURGERS,2023-02,0.0,0.0,0.0
-SKYE BURGERS,2023-03,0.0,0.0,0.0
-SKYE BURGERS,2023-04,0.0,0.0,0.0
-SKYE BURGERS,2023-05,0.0,0.0,0.0
-SKYE BURGERS,2023-06,0.0,0.0,0.0
-SKYE BURGERS,2023-07,0.0,0.0,0.0
-SKYE BURGERS,2023-08,0.0,0.0,0.0
-SKYE BURGERS,2023-09,0.0,0.0,0.0
-SKYE BURGERS,2023-10,0.0,0.0,0.0
-SKYE BURGERS,2023-11,0.0,0.0,0.0
-SKYE BURGERS,2023-12,0.0,0.0,0.0
-SKYE BURGERS,2024-01,0.0,0.0,0.0
-SKYE BURGERS,2024-02,0.0,0.0,0.0
-SKYE BURGERS,2024-03,0.0,0.0,0.0
-SKYE BURGERS,2024-04,0.0,0.0,0.0
-SKYE BURGERS,2024-05,0.0,0.0,0.0
-SKYE BURGERS,2024-06,0.0,0.0,0.0
-SKYE BURGERS,2024-07,0.0,0.0,0.0
-SKYE BURGERS,2024-08,0.0,0.0,0.0
-SKYE BURGERS,2024-09,0.0,0.0,0.0
-SKYE BURGERS,2024-10,0.0,0.0,0.0
-SKYE BURGERS,2024-11,0.0,0.0,0.0
-SKYE BURGERS,2024-12,0.0,0.0,0.0
-SKYE BURGERS,2025-01,0.0,0.0,0.0
-SKYE BURGERS,2025-02,0.0,0.0,0.0
-SKYE BURGERS,2025-03,0.0,0.0,0.0
-SKYE BURGERS,2025-04,0.0,0.0,0.0
-SKYE BURGERS,2025-05,0.0,0.0,0.0
-SKYE BURGERS,2025-06,0.0,0.0,0.0
-SOS Ministry of NE GA,2022-07,0.0,0.0,
-SOS Ministry of NE GA,2022-08,0.0,0.0,0.0
-SOS Ministry of NE GA,2022-09,0.0,0.0,0.0
-SOS Ministry of NE GA,2022-10,0.0,0.0,0.0
-SOS Ministry of NE GA,2022-11,0.0,0.0,0.0
-SOS Ministry of NE GA,2022-12,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-01,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-02,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-03,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-04,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-05,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-06,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-07,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-08,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-09,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-10,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-11,0.0,0.0,0.0
-SOS Ministry of NE GA,2023-12,0.0,0.0,0.0
-SOS Ministry of NE GA,2024-01,0.0,0.0,0.0
-SOS Ministry of NE GA,2024-02,0.0,0.0,0.0
-SOS Ministry of NE GA,2024-03,0.0,0.0,0.0
-SOS Ministry of NE GA,2024-04,0.0,0.0,0.0
-SOS Ministry of NE GA,2024-05,0.0,0.0,0.0
-SOS Ministry of NE GA,2024-06,0.0,0.0,0.0
-SOS Ministry of NE GA,2024-07,0.0,0.0,0.0
-SOS Ministry of NE GA,2024-08,0.0,0.0,0.0
-SOS Ministry of NE GA,2024-09,0.0,0.0,0.0
+Rabun County MedLink Georgia,2023-11 to 2025-06,0.0,0.0,0.0
+Rabun Gap Presbyterian Church,2022-07,53866.0,0.0,0.0
+Rabun Gap Presbyterian Church,2022-08,42611.0,-11255.0,-0.209
+Rabun Gap Presbyterian Church,2022-09,50664.0,8053.0,0.189
+Rabun Gap Presbyterian Church,2022-10,66469.0,15805.0,0.312
+Rabun Gap Presbyterian Church,2022-11,39523.0,-26946.0,-0.405
+Rabun Gap Presbyterian Church,2022-12,49199.0,9676.0,0.245
+Rabun Gap Presbyterian Church,2023-01,42032.0,-7167.0,-0.146
+Rabun Gap Presbyterian Church,2023-02,48251.0,6219.0,0.148
+Rabun Gap Presbyterian Church,2023-03,43401.0,-4850.0,-0.101
+Rabun Gap Presbyterian Church,2023-04,57694.0,14293.0,0.329
+Rabun Gap Presbyterian Church,2023-05,46686.0,-11008.0,-0.191
+Rabun Gap Presbyterian Church,2023-06,50850.0,4164.0,0.089
+Rabun Gap Presbyterian Church,2023-07,67389.0,16539.0,0.325
+Rabun Gap Presbyterian Church,2023-08,50570.0,-16819.0,-0.25
+Rabun Gap Presbyterian Church,2023-09,61566.0,10996.0,0.217
+Rabun Gap Presbyterian Church,2023-10,58088.0,-3478.0,-0.056
+Rabun Gap Presbyterian Church,2023-11,54276.0,-3812.0,-0.066
+Rabun Gap Presbyterian Church,2023-12,44578.0,-9698.0,-0.179
+Rabun Gap Presbyterian Church,2024-01,47772.0,3194.0,0.072
+Rabun Gap Presbyterian Church,2024-02,57028.0,9256.0,0.194
+Rabun Gap Presbyterian Church,2024-03,79893.0,22865.0,0.401
+Rabun Gap Presbyterian Church,2024-04,46694.0,-33199.0,-0.416
+Rabun Gap Presbyterian Church,2024-05,54660.0,7966.0,0.171
+Rabun Gap Presbyterian Church,2024-06,51167.0,-3493.0,-0.064
+Rabun Gap Presbyterian Church,2024-07,48239.0,-2928.0,-0.057
+Rabun Gap Presbyterian Church,2024-08,57133.0,8894.0,0.184
+Rabun Gap Presbyterian Church,2024-09,37529.0,-19604.0,-0.343
+Rabun Gap Presbyterian Church,2024-10,82319.0,44790.0,1.193
+Rabun Gap Presbyterian Church,2024-11,47514.0,-34805.0,-0.423
+Rabun Gap Presbyterian Church,2024-12,39675.0,-7839.0,-0.165
+Rabun Gap Presbyterian Church,2025-01,50075.0,10400.0,0.262
+Rabun Gap Presbyterian Church,2025-02,40311.0,-9764.0,-0.195
+Rabun Gap Presbyterian Church,2025-03,48248.0,7937.0,0.197
+Rabun Gap Presbyterian Church,2025-04,42800.0,-5448.0,-0.113
+Rabun Gap Presbyterian Church,2025-05,45603.0,2803.0,0.065
+Rabun Gap Presbyterian Church,2025-06,35030.4,-10572.599999999999,-0.232
+SKYE BURGERS,2022-07 to 2025-06,0.0,0.0,0.0
+SOS Ministry of NE GA,2022-07 to 2024-09,0.0,0.0,0.0
 SOS Ministry of NE GA,2024-10,749.0,749.0,inf
-SOS Ministry of NE GA,2024-11,784.0,35.0,0.04672897196261682
-SOS Ministry of NE GA,2024-12,450.0,-334.0,-0.4260204081632653
+SOS Ministry of NE GA,2024-11,784.0,35.0,0.047
+SOS Ministry of NE GA,2024-12,450.0,-334.0,-0.426
 SOS Ministry of NE GA,2025-01,0.0,-450.0,-1.0
 SOS Ministry of NE GA,2025-02,725.0,725.0,inf
-SOS Ministry of NE GA,2025-03,95.0,-630.0,-0.8689655172413793
-SOS Ministry of NE GA,2025-04,571.0,476.0,5.010526315789473
-SOS Ministry of NE GA,2025-05,1374.0,803.0,1.4063047285464099
-SOS Ministry of NE GA,2025-06,1377.0,3.0,0.002183406113537118
-Sharing and Caring - Clayton,2022-07,1299.0,0.0,
-Sharing and Caring - Clayton,2022-08,824.0,-475.0,-0.36566589684372597
-Sharing and Caring - Clayton,2022-09,2076.0,1252.0,1.5194174757281553
-Sharing and Caring - Clayton,2022-10,840.0,-1236.0,-0.5953757225433526
-Sharing and Caring - Clayton,2022-11,919.0,79.0,0.09404761904761905
-Sharing and Caring - Clayton,2022-12,986.0,67.0,0.07290533188248095
-Sharing and Caring - Clayton,2023-01,1931.0,945.0,0.9584178498985801
-Sharing and Caring - Clayton,2023-02,825.0,-1106.0,-0.5727602278612118
-Sharing and Caring - Clayton,2023-03,812.0,-13.0,-0.01575757575757576
-Sharing and Caring - Clayton,2023-04,1531.0,719.0,0.8854679802955665
-Sharing and Caring - Clayton,2023-05,809.0,-722.0,-0.4715871979098628
-Sharing and Caring - Clayton,2023-06,2099.0,1290.0,1.5945611866501854
-Sharing and Caring - Clayton,2023-07,1486.0,-613.0,-0.2920438303954264
-Sharing and Caring - Clayton,2023-08,1181.0,-305.0,-0.20524899057873486
-Sharing and Caring - Clayton,2023-09,1540.0,359.0,0.3039796782387807
-Sharing and Caring - Clayton,2023-10,1573.0,33.0,0.02142857142857143
-Sharing and Caring - Clayton,2023-11,1222.0,-351.0,-0.2231404958677686
-Sharing and Caring - Clayton,2023-12,604.0,-618.0,-0.5057283142389526
-Sharing and Caring - Clayton,2024-01,1386.0,782.0,1.294701986754967
-Sharing and Caring - Clayton,2024-02,1214.0,-172.0,-0.1240981240981241
-Sharing and Caring - Clayton,2024-03,792.0,-422.0,-0.34761120263591433
-Sharing and Caring - Clayton,2024-04,1710.0,918.0,1.1590909090909092
-Sharing and Caring - Clayton,2024-05,602.0,-1108.0,-0.6479532163742691
-Sharing and Caring - Clayton,2024-06,615.0,13.0,0.02159468438538206
-Sharing and Caring - Clayton,2024-07,1499.0,884.0,1.43739837398374
-Sharing and Caring - Clayton,2024-08,2066.0,567.0,0.37825216811207474
-Sharing and Caring - Clayton,2024-09,600.0,-1466.0,-0.7095837366892546
+SOS Ministry of NE GA,2025-03,95.0,-630.0,-0.869
+SOS Ministry of NE GA,2025-04,571.0,476.0,5.011
+SOS Ministry of NE GA,2025-05,1374.0,803.0,1.406
+SOS Ministry of NE GA,2025-06,1377.0,3.0,0.002
+Sharing and Caring - Clayton,2022-07,1299.0,0.0,0.0
+Sharing and Caring - Clayton,2022-08,824.0,-475.0,-0.366
+Sharing and Caring - Clayton,2022-09,2076.0,1252.0,1.519
+Sharing and Caring - Clayton,2022-10,840.0,-1236.0,-0.595
+Sharing and Caring - Clayton,2022-11,919.0,79.0,0.094
+Sharing and Caring - Clayton,2022-12,986.0,67.0,0.073
+Sharing and Caring - Clayton,2023-01,1931.0,945.0,0.958
+Sharing and Caring - Clayton,2023-02,825.0,-1106.0,-0.573
+Sharing and Caring - Clayton,2023-03,812.0,-13.0,-0.016
+Sharing and Caring - Clayton,2023-04,1531.0,719.0,0.885
+Sharing and Caring - Clayton,2023-05,809.0,-722.0,-0.472
+Sharing and Caring - Clayton,2023-06,2099.0,1290.0,1.595
+Sharing and Caring - Clayton,2023-07,1486.0,-613.0,-0.292
+Sharing and Caring - Clayton,2023-08,1181.0,-305.0,-0.205
+Sharing and Caring - Clayton,2023-09,1540.0,359.0,0.304
+Sharing and Caring - Clayton,2023-10,1573.0,33.0,0.021
+Sharing and Caring - Clayton,2023-11,1222.0,-351.0,-0.223
+Sharing and Caring - Clayton,2023-12,604.0,-618.0,-0.506
+Sharing and Caring - Clayton,2024-01,1386.0,782.0,1.295
+Sharing and Caring - Clayton,2024-02,1214.0,-172.0,-0.124
+Sharing and Caring - Clayton,2024-03,792.0,-422.0,-0.348
+Sharing and Caring - Clayton,2024-04,1710.0,918.0,1.159
+Sharing and Caring - Clayton,2024-05,602.0,-1108.0,-0.648
+Sharing and Caring - Clayton,2024-06,615.0,13.0,0.022
+Sharing and Caring - Clayton,2024-07,1499.0,884.0,1.437
+Sharing and Caring - Clayton,2024-08,2066.0,567.0,0.378
+Sharing and Caring - Clayton,2024-09,600.0,-1466.0,-0.71
 Sharing and Caring - Clayton,2024-10,1842.0,1242.0,2.07
-Sharing and Caring - Clayton,2024-11,2214.0,372.0,0.20195439739413681
-Sharing and Caring - Clayton,2024-12,764.0,-1450.0,-0.6549232158988256
-Sharing and Caring - Clayton,2025-01,1736.0,972.0,1.2722513089005236
-Sharing and Caring - Clayton,2025-02,1990.0,254.0,0.14631336405529954
-Sharing and Caring - Clayton,2025-03,2377.0,387.0,0.19447236180904523
-Sharing and Caring - Clayton,2025-04,2664.0,287.0,0.12074042911232646
-Sharing and Caring - Clayton,2025-05,2041.0,-623.0,-0.23385885885885885
-Sharing and Caring - Clayton,2025-06,2834.0,793.0,0.3885350318471338
-Truth Chapel,2022-07,0.0,0.0,
-Truth Chapel,2022-08,0.0,0.0,0.0
-Truth Chapel,2022-09,0.0,0.0,0.0
-Truth Chapel,2022-10,0.0,0.0,0.0
-Truth Chapel,2022-11,0.0,0.0,0.0
-Truth Chapel,2022-12,0.0,0.0,0.0
-Truth Chapel,2023-01,0.0,0.0,0.0
-Truth Chapel,2023-02,0.0,0.0,0.0
-Truth Chapel,2023-03,0.0,0.0,0.0
-Truth Chapel,2023-04,0.0,0.0,0.0
-Truth Chapel,2023-05,0.0,0.0,0.0
-Truth Chapel,2023-06,0.0,0.0,0.0
-Truth Chapel,2023-07,0.0,0.0,0.0
-Truth Chapel,2023-08,0.0,0.0,0.0
-Truth Chapel,2023-09,0.0,0.0,0.0
-Truth Chapel,2023-10,0.0,0.0,0.0
-Truth Chapel,2023-11,0.0,0.0,0.0
-Truth Chapel,2023-12,0.0,0.0,0.0
-Truth Chapel,2024-01,0.0,0.0,0.0
-Truth Chapel,2024-02,0.0,0.0,0.0
-Truth Chapel,2024-03,0.0,0.0,0.0
-Truth Chapel,2024-04,0.0,0.0,0.0
-Truth Chapel,2024-05,0.0,0.0,0.0
-Truth Chapel,2024-06,0.0,0.0,0.0
-Truth Chapel,2024-07,0.0,0.0,0.0
-Truth Chapel,2024-08,0.0,0.0,0.0
+Sharing and Caring - Clayton,2024-11,2214.0,372.0,0.202
+Sharing and Caring - Clayton,2024-12,764.0,-1450.0,-0.655
+Sharing and Caring - Clayton,2025-01,1736.0,972.0,1.272
+Sharing and Caring - Clayton,2025-02,1990.0,254.0,0.146
+Sharing and Caring - Clayton,2025-03,2377.0,387.0,0.194
+Sharing and Caring - Clayton,2025-04,2664.0,287.0,0.121
+Sharing and Caring - Clayton,2025-05,2041.0,-623.0,-0.234
+Sharing and Caring - Clayton,2025-06,2834.0,793.0,0.389
+Truth Chapel,2022-07 to 2024-08,0.0,0.0,0.0
 Truth Chapel,2024-09,2886.0,2886.0,inf
-Truth Chapel,2024-10,2472.0,-414.0,-0.14345114345114346
-Truth Chapel,2024-11,1921.0,-551.0,-0.22289644012944984
-Truth Chapel,2024-12,3265.0,1344.0,0.6996356064549714
+Truth Chapel,2024-10,2472.0,-414.0,-0.143
+Truth Chapel,2024-11,1921.0,-551.0,-0.223
+Truth Chapel,2024-12,3265.0,1344.0,0.7
 Truth Chapel,2025-01,0.0,-3265.0,-1.0
 Truth Chapel,2025-02,890.0,890.0,inf
-Truth Chapel,2025-03,3951.0,3061.0,3.439325842696629
-Truth Chapel,2025-04,3161.0,-790.0,-0.1999493799038218
-Truth Chapel,2025-05,2320.0,-841.0,-0.26605504587155965
-Truth Chapel,2025-06,2316.0,-4.0,-0.0017241379310344827
-Wolf Creek Baptist Church,2022-07,588.0,0.0,
+Truth Chapel,2025-03,3951.0,3061.0,3.439
+Truth Chapel,2025-04,3161.0,-790.0,-0.2
+Truth Chapel,2025-05,2320.0,-841.0,-0.266
+Truth Chapel,2025-06,2316.0,-4.0,-0.002
+Wolf Creek Baptist Church,2022-07,588.0,0.0,0.0
 Wolf Creek Baptist Church,2022-08,0.0,-588.0,-1.0
 Wolf Creek Baptist Church,2022-09,63.0,63.0,inf
 Wolf Creek Baptist Church,2022-10,0.0,-63.0,-1.0
-Wolf Creek Baptist Church,2022-11,0.0,0.0,0.0
-Wolf Creek Baptist Church,2022-12,0.0,0.0,0.0
+Wolf Creek Baptist Church,2022-11 to 2022-12,0.0,0.0,0.0
 Wolf Creek Baptist Church,2023-01,350.0,350.0,inf
 Wolf Creek Baptist Church,2023-02,0.0,-350.0,-1.0
 Wolf Creek Baptist Church,2023-03,396.0,396.0,inf
 Wolf Creek Baptist Church,2023-04,0.0,-396.0,-1.0
 Wolf Creek Baptist Church,2023-05,727.0,727.0,inf
-Wolf Creek Baptist Church,2023-06,17.0,-710.0,-0.9766162310866575
-Wolf Creek Baptist Church,2023-07,47.0,30.0,1.7647058823529411
+Wolf Creek Baptist Church,2023-06,17.0,-710.0,-0.977
+Wolf Creek Baptist Church,2023-07,47.0,30.0,1.765
 Wolf Creek Baptist Church,2023-08,0.0,-47.0,-1.0
 Wolf Creek Baptist Church,2023-09,499.0,499.0,inf
-Wolf Creek Baptist Church,2023-10,347.0,-152.0,-0.3046092184368738
-Wolf Creek Baptist Church,2023-11,381.0,34.0,0.09798270893371758
+Wolf Creek Baptist Church,2023-10,347.0,-152.0,-0.305
+Wolf Creek Baptist Church,2023-11,381.0,34.0,0.098
 Wolf Creek Baptist Church,2023-12,0.0,-381.0,-1.0
 Wolf Creek Baptist Church,2024-01,521.0,521.0,inf
 Wolf Creek Baptist Church,2024-02,0.0,-521.0,-1.0
 Wolf Creek Baptist Church,2024-03,0.0,0.0,0.0
 Wolf Creek Baptist Church,2024-04,496.0,496.0,inf
-Wolf Creek Baptist Church,2024-05,896.0,400.0,0.8064516129032258
-Wolf Creek Baptist Church,2024-06,288.0,-608.0,-0.6785714285714286
-Wolf Creek Baptist Church,2024-07,480.0,192.0,0.6666666666666666
+Wolf Creek Baptist Church,2024-05,896.0,400.0,0.806
+Wolf Creek Baptist Church,2024-06,288.0,-608.0,-0.679
+Wolf Creek Baptist Church,2024-07,480.0,192.0,0.667
 Wolf Creek Baptist Church,2024-08,0.0,-480.0,-1.0
-Wolf Creek Baptist Church,2024-09,0.0,0.0,0.0
-Wolf Creek Baptist Church,2024-10,0.0,0.0,0.0
+Wolf Creek Baptist Church,2024-09 to 2024-10,0.0,0.0,0.0
 Wolf Creek Baptist Church,2024-11,378.0,378.0,inf
 Wolf Creek Baptist Church,2024-12,0.0,-378.0,-1.0
 Wolf Creek Baptist Church,2025-01,0.0,0.0,0.0
 Wolf Creek Baptist Church,2025-02,1120.0,1120.0,inf
 Wolf Creek Baptist Church,2025-03,0.0,-1120.0,-1.0
 Wolf Creek Baptist Church,2025-04,581.0,581.0,inf
-Wolf Creek Baptist Church,2025-05,825.0,244.0,0.4199655765920826
-Wolf Creek Baptist Church,2025-06,698.0,-127.0,-0.15393939393939393
-Wolffork Baptist Church,2022-07,0.0,0.0,
-Wolffork Baptist Church,2022-08,0.0,0.0,0.0
-Wolffork Baptist Church,2022-09,0.0,0.0,0.0
+Wolf Creek Baptist Church,2025-05,825.0,244.0,0.42
+Wolf Creek Baptist Church,2025-06,698.0,-127.0,-0.154
+Wolffork Baptist Church,2022-07 to 2022-09,0.0,0.0,0.0
 Wolffork Baptist Church,2022-10,408.0,408.0,inf
 Wolffork Baptist Church,2022-11,0.0,-408.0,-1.0
 Wolffork Baptist Church,2022-12,1083.0,1083.0,inf
@@ -696,26 +459,4 @@ Wolffork Baptist Church,2023-04,0.0,-338.0,-1.0
 Wolffork Baptist Church,2023-05,0.0,0.0,0.0
 Wolffork Baptist Church,2023-06,700.0,700.0,inf
 Wolffork Baptist Church,2023-07,0.0,-700.0,-1.0
-Wolffork Baptist Church,2023-08,0.0,0.0,0.0
-Wolffork Baptist Church,2023-09,0.0,0.0,0.0
-Wolffork Baptist Church,2023-10,0.0,0.0,0.0
-Wolffork Baptist Church,2023-11,0.0,0.0,0.0
-Wolffork Baptist Church,2023-12,0.0,0.0,0.0
-Wolffork Baptist Church,2024-01,0.0,0.0,0.0
-Wolffork Baptist Church,2024-02,0.0,0.0,0.0
-Wolffork Baptist Church,2024-03,0.0,0.0,0.0
-Wolffork Baptist Church,2024-04,0.0,0.0,0.0
-Wolffork Baptist Church,2024-05,0.0,0.0,0.0
-Wolffork Baptist Church,2024-06,0.0,0.0,0.0
-Wolffork Baptist Church,2024-07,0.0,0.0,0.0
-Wolffork Baptist Church,2024-08,0.0,0.0,0.0
-Wolffork Baptist Church,2024-09,0.0,0.0,0.0
-Wolffork Baptist Church,2024-10,0.0,0.0,0.0
-Wolffork Baptist Church,2024-11,0.0,0.0,0.0
-Wolffork Baptist Church,2024-12,0.0,0.0,0.0
-Wolffork Baptist Church,2025-01,0.0,0.0,0.0
-Wolffork Baptist Church,2025-02,0.0,0.0,0.0
-Wolffork Baptist Church,2025-03,0.0,0.0,0.0
-Wolffork Baptist Church,2025-04,0.0,0.0,0.0
-Wolffork Baptist Church,2025-05,0.0,0.0,0.0
-Wolffork Baptist Church,2025-06,0.0,0.0,0.0
+Wolffork Baptist Church,2023-08 to 2025-06,0.0,0.0,0.0

@@ -1,511 +1,308 @@
 Agency,Time,dist_volume,delta,pct_change
-Boys and Girls Club Toccoa,2022-07,197.0,0.0,
-Boys and Girls Club Toccoa,2022-08,63.0,-134.0,-0.6802030456852792
+Boys and Girls Club Toccoa,2022-07,197.0,0.0,0.0
+Boys and Girls Club Toccoa,2022-08,63.0,-134.0,-0.68
 Boys and Girls Club Toccoa,2022-09,0.0,-63.0,-1.0
 Boys and Girls Club Toccoa,2022-10,334.0,334.0,inf
 Boys and Girls Club Toccoa,2022-11,0.0,-334.0,-1.0
-Boys and Girls Club Toccoa,2022-12,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2023-01,0.0,0.0,0.0
+Boys and Girls Club Toccoa,2022-12 to 2023-01,0.0,0.0,0.0
 Boys and Girls Club Toccoa,2023-02,129.0,129.0,inf
 Boys and Girls Club Toccoa,2023-03,0.0,-129.0,-1.0
 Boys and Girls Club Toccoa,2023-04,286.0,286.0,inf
-Boys and Girls Club Toccoa,2023-05,205.0,-81.0,-0.28321678321678323
+Boys and Girls Club Toccoa,2023-05,205.0,-81.0,-0.283
 Boys and Girls Club Toccoa,2023-06,0.0,-205.0,-1.0
 Boys and Girls Club Toccoa,2023-07,0.0,0.0,0.0
 Boys and Girls Club Toccoa,2023-08,100.0,100.0,inf
 Boys and Girls Club Toccoa,2023-09,0.0,-100.0,-1.0
 Boys and Girls Club Toccoa,2023-10,126.0,126.0,inf
-Boys and Girls Club Toccoa,2023-11,137.0,11.0,0.0873015873015873
+Boys and Girls Club Toccoa,2023-11,137.0,11.0,0.087
 Boys and Girls Club Toccoa,2023-12,0.0,-137.0,-1.0
 Boys and Girls Club Toccoa,2024-01,407.0,407.0,inf
 Boys and Girls Club Toccoa,2024-02,0.0,-407.0,-1.0
 Boys and Girls Club Toccoa,2024-03,117.0,117.0,inf
 Boys and Girls Club Toccoa,2024-04,0.0,-117.0,-1.0
-Boys and Girls Club Toccoa,2024-05,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2024-06,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2024-07,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2024-08,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2024-09,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2024-10,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2024-11,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2024-12,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2025-01,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2025-02,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2025-03,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2025-04,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2025-05,0.0,0.0,0.0
-Boys and Girls Club Toccoa,2025-06,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2022-07,520.0,0.0,
+Boys and Girls Club Toccoa,2024-05 to 2025-06,0.0,0.0,0.0
+Camp Toccoa (Camp Fire GA),2022-07,520.0,0.0,0.0
 Camp Toccoa (Camp Fire GA),2022-08,0.0,-520.0,-1.0
-Camp Toccoa (Camp Fire GA),2022-09,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2022-10,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2022-11,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2022-12,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2023-01,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2023-02,0.0,0.0,0.0
+Camp Toccoa (Camp Fire GA),2022-09 to 2023-02,0.0,0.0,0.0
 Camp Toccoa (Camp Fire GA),2023-03,211.0,211.0,inf
-Camp Toccoa (Camp Fire GA),2023-04,204.0,-7.0,-0.03317535545023697
-Camp Toccoa (Camp Fire GA),2023-05,38.0,-166.0,-0.8137254901960784
+Camp Toccoa (Camp Fire GA),2023-04,204.0,-7.0,-0.033
+Camp Toccoa (Camp Fire GA),2023-05,38.0,-166.0,-0.814
 Camp Toccoa (Camp Fire GA),2023-06,0.0,-38.0,-1.0
-Camp Toccoa (Camp Fire GA),2023-07,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2023-08,0.0,0.0,0.0
+Camp Toccoa (Camp Fire GA),2023-07 to 2023-08,0.0,0.0,0.0
 Camp Toccoa (Camp Fire GA),2023-09,116.0,116.0,inf
-Camp Toccoa (Camp Fire GA),2023-10,244.0,128.0,1.103448275862069
-Camp Toccoa (Camp Fire GA),2023-11,367.0,123.0,0.5040983606557377
-Camp Toccoa (Camp Fire GA),2023-12,158.0,-209.0,-0.5694822888283378
-Camp Toccoa (Camp Fire GA),2024-01,142.0,-16.0,-0.10126582278481013
-Camp Toccoa (Camp Fire GA),2024-02,393.0,251.0,1.767605633802817
-Camp Toccoa (Camp Fire GA),2024-03,102.0,-291.0,-0.7404580152671756
-Camp Toccoa (Camp Fire GA),2024-04,309.0,207.0,2.0294117647058822
-Camp Toccoa (Camp Fire GA),2024-05,58.0,-251.0,-0.8122977346278317
+Camp Toccoa (Camp Fire GA),2023-10,244.0,128.0,1.103
+Camp Toccoa (Camp Fire GA),2023-11,367.0,123.0,0.504
+Camp Toccoa (Camp Fire GA),2023-12,158.0,-209.0,-0.569
+Camp Toccoa (Camp Fire GA),2024-01,142.0,-16.0,-0.101
+Camp Toccoa (Camp Fire GA),2024-02,393.0,251.0,1.768
+Camp Toccoa (Camp Fire GA),2024-03,102.0,-291.0,-0.74
+Camp Toccoa (Camp Fire GA),2024-04,309.0,207.0,2.029
+Camp Toccoa (Camp Fire GA),2024-05,58.0,-251.0,-0.812
 Camp Toccoa (Camp Fire GA),2024-06,0.0,-58.0,-1.0
 Camp Toccoa (Camp Fire GA),2024-07,131.0,131.0,inf
 Camp Toccoa (Camp Fire GA),2024-08,0.0,-131.0,-1.0
 Camp Toccoa (Camp Fire GA),2024-09,208.0,208.0,inf
-Camp Toccoa (Camp Fire GA),2024-10,45.0,-163.0,-0.7836538461538461
+Camp Toccoa (Camp Fire GA),2024-10,45.0,-163.0,-0.784
 Camp Toccoa (Camp Fire GA),2024-11,0.0,-45.0,-1.0
-Camp Toccoa (Camp Fire GA),2024-12,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2025-01,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2025-02,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2025-03,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2025-04,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2025-05,0.0,0.0,0.0
-Camp Toccoa (Camp Fire GA),2025-06,0.0,0.0,0.0
-Circle of Hope Transitional Housing,2022-07,0.0,0.0,
-Circle of Hope Transitional Housing,2022-08,0.0,0.0,0.0
-Circle of Hope Transitional Housing,2022-09,0.0,0.0,0.0
+Camp Toccoa (Camp Fire GA),2024-12 to 2025-06,0.0,0.0,0.0
+Circle of Hope Transitional Housing,2022-07 to 2022-09,0.0,0.0,0.0
 Circle of Hope Transitional Housing,2022-10,89.0,89.0,inf
-Circle of Hope Transitional Housing,2022-11,79.0,-10.0,-0.11235955056179775
-Circle of Hope Transitional Housing,2022-12,185.0,106.0,1.3417721518987342
-Circle of Hope Transitional Housing,2023-01,287.0,102.0,0.5513513513513514
-Circle of Hope Transitional Housing,2023-02,263.0,-24.0,-0.08362369337979095
-Circle of Hope Transitional Housing,2023-03,193.0,-70.0,-0.2661596958174905
-Circle of Hope Transitional Housing,2023-04,338.0,145.0,0.7512953367875648
-Circle of Hope Transitional Housing,2023-05,97.0,-241.0,-0.7130177514792899
-Circle of Hope Transitional Housing,2023-06,128.0,31.0,0.31958762886597936
-Circle of Hope Transitional Housing,2023-07,72.0,-56.0,-0.4375
-Circle of Hope Transitional Housing,2023-08,89.0,17.0,0.2361111111111111
-Circle of Hope Transitional Housing,2023-09,139.0,50.0,0.5617977528089888
-Circle of Hope Transitional Housing,2023-10,116.0,-23.0,-0.16546762589928057
-Circle of Hope Transitional Housing,2023-11,329.0,213.0,1.8362068965517242
-Circle of Hope Transitional Housing,2023-12,265.0,-64.0,-0.1945288753799392
-Circle of Hope Transitional Housing,2024-01,28.0,-237.0,-0.8943396226415095
-Circle of Hope Transitional Housing,2024-02,254.0,226.0,8.071428571428571
-Circle of Hope Transitional Housing,2024-03,936.0,682.0,2.6850393700787403
-Circle of Hope Transitional Housing,2024-04,861.0,-75.0,-0.08012820512820513
-Circle of Hope Transitional Housing,2024-05,52.0,-809.0,-0.9396051103368177
+Circle of Hope Transitional Housing,2022-11,79.0,-10.0,-0.112
+Circle of Hope Transitional Housing,2022-12,185.0,106.0,1.342
+Circle of Hope Transitional Housing,2023-01,287.0,102.0,0.551
+Circle of Hope Transitional Housing,2023-02,263.0,-24.0,-0.084
+Circle of Hope Transitional Housing,2023-03,193.0,-70.0,-0.266
+Circle of Hope Transitional Housing,2023-04,338.0,145.0,0.751
+Circle of Hope Transitional Housing,2023-05,97.0,-241.0,-0.713
+Circle of Hope Transitional Housing,2023-06,128.0,31.0,0.32
+Circle of Hope Transitional Housing,2023-07,72.0,-56.0,-0.438
+Circle of Hope Transitional Housing,2023-08,89.0,17.0,0.236
+Circle of Hope Transitional Housing,2023-09,139.0,50.0,0.562
+Circle of Hope Transitional Housing,2023-10,116.0,-23.0,-0.165
+Circle of Hope Transitional Housing,2023-11,329.0,213.0,1.836
+Circle of Hope Transitional Housing,2023-12,265.0,-64.0,-0.195
+Circle of Hope Transitional Housing,2024-01,28.0,-237.0,-0.894
+Circle of Hope Transitional Housing,2024-02,254.0,226.0,8.071
+Circle of Hope Transitional Housing,2024-03,936.0,682.0,2.685
+Circle of Hope Transitional Housing,2024-04,861.0,-75.0,-0.08
+Circle of Hope Transitional Housing,2024-05,52.0,-809.0,-0.94
 Circle of Hope Transitional Housing,2024-06,0.0,-52.0,-1.0
 Circle of Hope Transitional Housing,2024-07,96.0,96.0,inf
 Circle of Hope Transitional Housing,2024-08,0.0,-96.0,-1.0
-Circle of Hope Transitional Housing,2024-09,0.0,0.0,0.0
-Circle of Hope Transitional Housing,2024-10,0.0,0.0,0.0
+Circle of Hope Transitional Housing,2024-09 to 2024-10,0.0,0.0,0.0
 Circle of Hope Transitional Housing,2024-11,706.0,706.0,inf
-Circle of Hope Transitional Housing,2024-12,124.0,-582.0,-0.8243626062322946
+Circle of Hope Transitional Housing,2024-12,124.0,-582.0,-0.824
 Circle of Hope Transitional Housing,2025-01,0.0,-124.0,-1.0
-Circle of Hope Transitional Housing,2025-02,0.0,0.0,0.0
-Circle of Hope Transitional Housing,2025-03,0.0,0.0,0.0
+Circle of Hope Transitional Housing,2025-02 to 2025-03,0.0,0.0,0.0
 Circle of Hope Transitional Housing,2025-04,52.0,52.0,inf
 Circle of Hope Transitional Housing,2025-05,0.0,-52.0,-1.0
 Circle of Hope Transitional Housing,2025-06,0.0,0.0,0.0
-Faith Restoration Ministries,2022-07,0.0,0.0,
-Faith Restoration Ministries,2022-08,0.0,0.0,0.0
-Faith Restoration Ministries,2022-09,0.0,0.0,0.0
-Faith Restoration Ministries,2022-10,0.0,0.0,0.0
-Faith Restoration Ministries,2022-11,0.0,0.0,0.0
-Faith Restoration Ministries,2022-12,0.0,0.0,0.0
-Faith Restoration Ministries,2023-01,0.0,0.0,0.0
-Faith Restoration Ministries,2023-02,0.0,0.0,0.0
-Faith Restoration Ministries,2023-03,0.0,0.0,0.0
-Faith Restoration Ministries,2023-04,0.0,0.0,0.0
-Faith Restoration Ministries,2023-05,0.0,0.0,0.0
-Faith Restoration Ministries,2023-06,0.0,0.0,0.0
-Faith Restoration Ministries,2023-07,0.0,0.0,0.0
-Faith Restoration Ministries,2023-08,0.0,0.0,0.0
-Faith Restoration Ministries,2023-09,0.0,0.0,0.0
-Faith Restoration Ministries,2023-10,0.0,0.0,0.0
-Faith Restoration Ministries,2023-11,0.0,0.0,0.0
-Faith Restoration Ministries,2023-12,0.0,0.0,0.0
-Faith Restoration Ministries,2024-01,0.0,0.0,0.0
-Faith Restoration Ministries,2024-02,0.0,0.0,0.0
-Faith Restoration Ministries,2024-03,0.0,0.0,0.0
-Faith Restoration Ministries,2024-04,0.0,0.0,0.0
-Faith Restoration Ministries,2024-05,0.0,0.0,0.0
-Faith Restoration Ministries,2024-06,0.0,0.0,0.0
-Faith Restoration Ministries,2024-07,0.0,0.0,0.0
-Faith Restoration Ministries,2024-08,0.0,0.0,0.0
-Faith Restoration Ministries,2024-09,0.0,0.0,0.0
-Faith Restoration Ministries,2024-10,0.0,0.0,0.0
-Faith Restoration Ministries,2024-11,0.0,0.0,0.0
-Faith Restoration Ministries,2024-12,0.0,0.0,0.0
-Faith Restoration Ministries,2025-01,0.0,0.0,0.0
-Faith Restoration Ministries,2025-02,0.0,0.0,0.0
-Faith Restoration Ministries,2025-03,0.0,0.0,0.0
+Faith Restoration Ministries,2022-07 to 2025-03,0.0,0.0,0.0
 Faith Restoration Ministries,2025-04,1416.0,1416.0,inf
-Faith Restoration Ministries,2025-05,3461.0,2045.0,1.4442090395480225
-Faith Restoration Ministries,2025-06,1427.0,-2034.0,-0.5876914186651256
-First Baptist Church Toccoa,2022-07,0.0,0.0,
-First Baptist Church Toccoa,2022-08,0.0,0.0,0.0
-First Baptist Church Toccoa,2022-09,0.0,0.0,0.0
-First Baptist Church Toccoa,2022-10,0.0,0.0,0.0
-First Baptist Church Toccoa,2022-11,0.0,0.0,0.0
+Faith Restoration Ministries,2025-05,3461.0,2045.0,1.444
+Faith Restoration Ministries,2025-06,1427.0,-2034.0,-0.588
+First Baptist Church Toccoa,2022-07 to 2022-11,0.0,0.0,0.0
 First Baptist Church Toccoa,2022-12,11475.0,11475.0,inf
 First Baptist Church Toccoa,2023-01,0.0,-11475.0,-1.0
-First Baptist Church Toccoa,2023-02,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-03,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-04,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-05,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-06,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-07,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-08,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-09,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-10,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-11,0.0,0.0,0.0
-First Baptist Church Toccoa,2023-12,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-01,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-02,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-03,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-04,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-05,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-06,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-07,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-08,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-09,0.0,0.0,0.0
-First Baptist Church Toccoa,2024-10,0.0,0.0,0.0
+First Baptist Church Toccoa,2023-02 to 2024-10,0.0,0.0,0.0
 First Baptist Church Toccoa,2024-11,12410.0,12410.0,inf
 First Baptist Church Toccoa,2024-12,0.0,-12410.0,-1.0
-First Baptist Church Toccoa,2025-01,0.0,0.0,0.0
-First Baptist Church Toccoa,2025-02,0.0,0.0,0.0
-First Baptist Church Toccoa,2025-03,0.0,0.0,0.0
+First Baptist Church Toccoa,2025-01 to 2025-03,0.0,0.0,0.0
 First Baptist Church Toccoa,2025-04,11375.0,11375.0,inf
 First Baptist Church Toccoa,2025-05,0.0,-11375.0,-1.0
 First Baptist Church Toccoa,2025-06,0.0,0.0,0.0
-Food 2 Kids Stephens County,2022-07,0.0,0.0,
-Food 2 Kids Stephens County,2022-08,0.0,0.0,0.0
+Food 2 Kids Stephens County,2022-07 to 2022-08,0.0,0.0,0.0
 Food 2 Kids Stephens County,2022-09,853.0,853.0,inf
-Food 2 Kids Stephens County,2022-10,5220.0,4367.0,5.11957796014068
-Food 2 Kids Stephens County,2022-11,4628.0,-592.0,-0.11340996168582375
+Food 2 Kids Stephens County,2022-10,5220.0,4367.0,5.12
+Food 2 Kids Stephens County,2022-11,4628.0,-592.0,-0.113
 Food 2 Kids Stephens County,2022-12,5785.0,1157.0,0.25
-Food 2 Kids Stephens County,2023-01,2795.0,-2990.0,-0.5168539325842697
-Food 2 Kids Stephens County,2023-02,4654.0,1859.0,0.6651162790697674
-Food 2 Kids Stephens County,2023-03,4719.0,65.0,0.013966480446927373
-Food 2 Kids Stephens County,2023-04,6975.0,2256.0,0.4780673871582963
-Food 2 Kids Stephens County,2023-05,3463.0,-3512.0,-0.5035125448028673
-Food 2 Kids Stephens County,2023-06,5238.0,1775.0,0.512561362980075
+Food 2 Kids Stephens County,2023-01,2795.0,-2990.0,-0.517
+Food 2 Kids Stephens County,2023-02,4654.0,1859.0,0.665
+Food 2 Kids Stephens County,2023-03,4719.0,65.0,0.014
+Food 2 Kids Stephens County,2023-04,6975.0,2256.0,0.478
+Food 2 Kids Stephens County,2023-05,3463.0,-3512.0,-0.504
+Food 2 Kids Stephens County,2023-06,5238.0,1775.0,0.513
 Food 2 Kids Stephens County,2023-07,0.0,-5238.0,-1.0
 Food 2 Kids Stephens County,2023-08,3471.0,3471.0,inf
 Food 2 Kids Stephens County,2023-09,0.0,-3471.0,-1.0
-Food 2 Kids Stephens County,2023-10,0.0,0.0,0.0
-Food 2 Kids Stephens County,2023-11,0.0,0.0,0.0
-Food 2 Kids Stephens County,2023-12,0.0,0.0,0.0
-Food 2 Kids Stephens County,2024-01,0.0,0.0,0.0
-Food 2 Kids Stephens County,2024-02,0.0,0.0,0.0
-Food 2 Kids Stephens County,2024-03,0.0,0.0,0.0
-Food 2 Kids Stephens County,2024-04,0.0,0.0,0.0
+Food 2 Kids Stephens County,2023-10 to 2024-04,0.0,0.0,0.0
 Food 2 Kids Stephens County,2024-05,7040.0,7040.0,inf
 Food 2 Kids Stephens County,2024-06,0.0,-7040.0,-1.0
-Food 2 Kids Stephens County,2024-07,0.0,0.0,0.0
-Food 2 Kids Stephens County,2024-08,0.0,0.0,0.0
-Food 2 Kids Stephens County,2024-09,0.0,0.0,0.0
-Food 2 Kids Stephens County,2024-10,0.0,0.0,0.0
-Food 2 Kids Stephens County,2024-11,0.0,0.0,0.0
-Food 2 Kids Stephens County,2024-12,0.0,0.0,0.0
-Food 2 Kids Stephens County,2025-01,0.0,0.0,0.0
-Food 2 Kids Stephens County,2025-02,0.0,0.0,0.0
-Food 2 Kids Stephens County,2025-03,0.0,0.0,0.0
-Food 2 Kids Stephens County,2025-04,0.0,0.0,0.0
-Food 2 Kids Stephens County,2025-05,0.0,0.0,0.0
-Food 2 Kids Stephens County,2025-06,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2022-07,0.0,0.0,
-Food 2 Tots-Stephens County,2022-08,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2022-09,0.0,0.0,0.0
+Food 2 Kids Stephens County,2024-07 to 2025-06,0.0,0.0,0.0
+Food 2 Tots-Stephens County,2022-07 to 2022-09,0.0,0.0,0.0
 Food 2 Tots-Stephens County,2022-10,1092.0,1092.0,inf
 Food 2 Tots-Stephens County,2022-11,1092.0,0.0,0.0
-Food 2 Tots-Stephens County,2022-12,910.0,-182.0,-0.16666666666666666
+Food 2 Tots-Stephens County,2022-12,910.0,-182.0,-0.167
 Food 2 Tots-Stephens County,2023-01,546.0,-364.0,-0.4
-Food 2 Tots-Stephens County,2023-02,910.0,364.0,0.6666666666666666
+Food 2 Tots-Stephens County,2023-02,910.0,364.0,0.667
 Food 2 Tots-Stephens County,2023-03,728.0,-182.0,-0.2
-Food 2 Tots-Stephens County,2023-04,729.0,1.0,0.0013736263736263737
-Food 2 Tots-Stephens County,2023-05,546.0,-183.0,-0.25102880658436216
-Food 2 Tots-Stephens County,2023-06,547.0,1.0,0.0018315018315018315
+Food 2 Tots-Stephens County,2023-04,729.0,1.0,0.001
+Food 2 Tots-Stephens County,2023-05,546.0,-183.0,-0.251
+Food 2 Tots-Stephens County,2023-06,547.0,1.0,0.002
 Food 2 Tots-Stephens County,2023-07,0.0,-547.0,-1.0
-Food 2 Tots-Stephens County,2023-08,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2023-09,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2023-10,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2023-11,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2023-12,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-01,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-02,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-03,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-04,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-05,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-06,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-07,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-08,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-09,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-10,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-11,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2024-12,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2025-01,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2025-02,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2025-03,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2025-04,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2025-05,0.0,0.0,0.0
-Food 2 Tots-Stephens County,2025-06,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2022-07,0.0,0.0,
-Food Bank NEGA Stephens County MP,2022-08,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2022-09,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2022-10,0.0,0.0,0.0
+Food 2 Tots-Stephens County,2023-08 to 2025-06,0.0,0.0,0.0
+Food Bank NEGA Stephens County MP,2022-07 to 2022-10,0.0,0.0,0.0
 Food Bank NEGA Stephens County MP,2022-11,7752.0,7752.0,inf
 Food Bank NEGA Stephens County MP,2022-12,0.0,-7752.0,-1.0
-Food Bank NEGA Stephens County MP,2023-01,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-02,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-03,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-04,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-05,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-06,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-07,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-08,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-09,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-10,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-11,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2023-12,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-01,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-02,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-03,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-04,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-05,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-06,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-07,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-08,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-09,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-10,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-11,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2024-12,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2025-01,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2025-02,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2025-03,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2025-04,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2025-05,0.0,0.0,0.0
-Food Bank NEGA Stephens County MP,2025-06,0.0,0.0,0.0
-Full Gospel Baptist Church,2022-07,2333.0,0.0,
-Full Gospel Baptist Church,2022-08,502.0,-1831.0,-0.7848264037719674
-Full Gospel Baptist Church,2022-09,1473.0,971.0,1.9342629482071714
-Full Gospel Baptist Church,2022-10,1219.0,-254.0,-0.17243720298710116
-Full Gospel Baptist Church,2022-11,1243.0,24.0,0.019688269073010665
-Full Gospel Baptist Church,2022-12,1088.0,-155.0,-0.1246983105390185
-Full Gospel Baptist Church,2023-01,1069.0,-19.0,-0.017463235294117647
-Full Gospel Baptist Church,2023-02,612.0,-457.0,-0.4275023386342376
-Full Gospel Baptist Church,2023-03,520.0,-92.0,-0.1503267973856209
+Food Bank NEGA Stephens County MP,2023-01 to 2025-06,0.0,0.0,0.0
+Full Gospel Baptist Church,2022-07,2333.0,0.0,0.0
+Full Gospel Baptist Church,2022-08,502.0,-1831.0,-0.785
+Full Gospel Baptist Church,2022-09,1473.0,971.0,1.934
+Full Gospel Baptist Church,2022-10,1219.0,-254.0,-0.172
+Full Gospel Baptist Church,2022-11,1243.0,24.0,0.02
+Full Gospel Baptist Church,2022-12,1088.0,-155.0,-0.125
+Full Gospel Baptist Church,2023-01,1069.0,-19.0,-0.017
+Full Gospel Baptist Church,2023-02,612.0,-457.0,-0.428
+Full Gospel Baptist Church,2023-03,520.0,-92.0,-0.15
 Full Gospel Baptist Church,2023-04,0.0,-520.0,-1.0
 Full Gospel Baptist Church,2023-05,625.0,625.0,inf
-Full Gospel Baptist Church,2023-06,688.0,63.0,0.1008
-Full Gospel Baptist Church,2023-07,761.0,73.0,0.10610465116279069
-Full Gospel Baptist Church,2023-08,297.0,-464.0,-0.6097240473061761
-Full Gospel Baptist Church,2023-09,602.0,305.0,1.026936026936027
-Full Gospel Baptist Church,2023-10,9182.0,8580.0,14.252491694352159
-Full Gospel Baptist Church,2023-11,436.0,-8746.0,-0.9525157917664997
-Full Gospel Baptist Church,2023-12,468.0,32.0,0.07339449541284404
-Full Gospel Baptist Church,2024-01,532.0,64.0,0.13675213675213677
-Full Gospel Baptist Church,2024-02,486.0,-46.0,-0.08646616541353383
-Full Gospel Baptist Church,2024-03,709.0,223.0,0.4588477366255144
-Full Gospel Baptist Church,2024-04,549.0,-160.0,-0.22566995768688294
-Full Gospel Baptist Church,2024-05,1023.0,474.0,0.8633879781420765
-Full Gospel Baptist Church,2024-06,1157.0,134.0,0.13098729227761485
+Full Gospel Baptist Church,2023-06,688.0,63.0,0.101
+Full Gospel Baptist Church,2023-07,761.0,73.0,0.106
+Full Gospel Baptist Church,2023-08,297.0,-464.0,-0.61
+Full Gospel Baptist Church,2023-09,602.0,305.0,1.027
+Full Gospel Baptist Church,2023-10,9182.0,8580.0,14.252
+Full Gospel Baptist Church,2023-11,436.0,-8746.0,-0.953
+Full Gospel Baptist Church,2023-12,468.0,32.0,0.073
+Full Gospel Baptist Church,2024-01,532.0,64.0,0.137
+Full Gospel Baptist Church,2024-02,486.0,-46.0,-0.086
+Full Gospel Baptist Church,2024-03,709.0,223.0,0.459
+Full Gospel Baptist Church,2024-04,549.0,-160.0,-0.226
+Full Gospel Baptist Church,2024-05,1023.0,474.0,0.863
+Full Gospel Baptist Church,2024-06,1157.0,134.0,0.131
 Full Gospel Baptist Church,2024-07,0.0,-1157.0,-1.0
 Full Gospel Baptist Church,2024-08,853.0,853.0,inf
-Full Gospel Baptist Church,2024-09,385.0,-468.0,-0.5486518171160609
-Full Gospel Baptist Church,2024-10,1054.0,669.0,1.7376623376623377
-Full Gospel Baptist Church,2024-11,1242.0,188.0,0.17836812144212524
-Full Gospel Baptist Church,2024-12,264.0,-978.0,-0.7874396135265701
-Full Gospel Baptist Church,2025-01,355.0,91.0,0.3446969696969697
-Full Gospel Baptist Church,2025-02,848.0,493.0,1.388732394366197
-Full Gospel Baptist Church,2025-03,1403.0,555.0,0.6544811320754716
-Full Gospel Baptist Church,2025-04,1360.0,-43.0,-0.030648610121168925
-Full Gospel Baptist Church,2025-05,1399.0,39.0,0.028676470588235293
-Full Gospel Baptist Church,2025-06,1140.0,-259.0,-0.18513223731236597
-"Greater Hearts Outreach Ministries, Inc.",2022-07,0.0,0.0,
-"Greater Hearts Outreach Ministries, Inc.",2022-08,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2022-09,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2022-10,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2022-11,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2022-12,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-01,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-02,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-03,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-04,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-05,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-06,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-07,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-08,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-09,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-10,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-11,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2023-12,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2024-01,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2024-02,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2024-03,0.0,0.0,0.0
-"Greater Hearts Outreach Ministries, Inc.",2024-04,0.0,0.0,0.0
+Full Gospel Baptist Church,2024-09,385.0,-468.0,-0.549
+Full Gospel Baptist Church,2024-10,1054.0,669.0,1.738
+Full Gospel Baptist Church,2024-11,1242.0,188.0,0.178
+Full Gospel Baptist Church,2024-12,264.0,-978.0,-0.787
+Full Gospel Baptist Church,2025-01,355.0,91.0,0.345
+Full Gospel Baptist Church,2025-02,848.0,493.0,1.389
+Full Gospel Baptist Church,2025-03,1403.0,555.0,0.654
+Full Gospel Baptist Church,2025-04,1360.0,-43.0,-0.031
+Full Gospel Baptist Church,2025-05,1399.0,39.0,0.029
+Full Gospel Baptist Church,2025-06,1140.0,-259.0,-0.185
+"Greater Hearts Outreach Ministries, Inc.",2022-07 to 2024-04,0.0,0.0,0.0
 "Greater Hearts Outreach Ministries, Inc.",2024-05,13950.0,13950.0,inf
-"Greater Hearts Outreach Ministries, Inc.",2024-06,5765.0,-8185.0,-0.5867383512544803
-"Greater Hearts Outreach Ministries, Inc.",2024-07,2113.0,-3652.0,-0.6334778837814398
-"Greater Hearts Outreach Ministries, Inc.",2024-08,41059.0,38946.0,18.431613819214387
-"Greater Hearts Outreach Ministries, Inc.",2024-09,3270.0,-37789.0,-0.9203585084877859
-"Greater Hearts Outreach Ministries, Inc.",2024-10,10761.0,7491.0,2.2908256880733946
-"Greater Hearts Outreach Ministries, Inc.",2024-11,11193.0,432.0,0.04014496793978255
-"Greater Hearts Outreach Ministries, Inc.",2024-12,12098.0,905.0,0.08085410524434915
-"Greater Hearts Outreach Ministries, Inc.",2025-01,7819.0,-4279.0,-0.3536948255910068
-"Greater Hearts Outreach Ministries, Inc.",2025-02,10485.0,2666.0,0.34096431768768387
-"Greater Hearts Outreach Ministries, Inc.",2025-03,9953.0,-532.0,-0.05073915116833572
-"Greater Hearts Outreach Ministries, Inc.",2025-04,13428.0,3475.0,0.3491409625238622
-"Greater Hearts Outreach Ministries, Inc.",2025-05,11132.0,-2296.0,-0.17098599940422995
-"Greater Hearts Outreach Ministries, Inc.",2025-06,20916.58,9784.580000000002,0.8789597556593606
-HighPoint Community Worship Center,2022-07,0.0,0.0,
-HighPoint Community Worship Center,2022-08,0.0,0.0,0.0
-HighPoint Community Worship Center,2022-09,0.0,0.0,0.0
-HighPoint Community Worship Center,2022-10,0.0,0.0,0.0
-HighPoint Community Worship Center,2022-11,0.0,0.0,0.0
-HighPoint Community Worship Center,2022-12,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-01,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-02,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-03,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-04,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-05,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-06,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-07,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-08,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-09,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-10,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-11,0.0,0.0,0.0
-HighPoint Community Worship Center,2023-12,0.0,0.0,0.0
-HighPoint Community Worship Center,2024-01,0.0,0.0,0.0
-HighPoint Community Worship Center,2024-02,0.0,0.0,0.0
-HighPoint Community Worship Center,2024-03,0.0,0.0,0.0
+"Greater Hearts Outreach Ministries, Inc.",2024-06,5765.0,-8185.0,-0.587
+"Greater Hearts Outreach Ministries, Inc.",2024-07,2113.0,-3652.0,-0.633
+"Greater Hearts Outreach Ministries, Inc.",2024-08,41059.0,38946.0,18.432
+"Greater Hearts Outreach Ministries, Inc.",2024-09,3270.0,-37789.0,-0.92
+"Greater Hearts Outreach Ministries, Inc.",2024-10,10761.0,7491.0,2.291
+"Greater Hearts Outreach Ministries, Inc.",2024-11,11193.0,432.0,0.04
+"Greater Hearts Outreach Ministries, Inc.",2024-12,12098.0,905.0,0.081
+"Greater Hearts Outreach Ministries, Inc.",2025-01,7819.0,-4279.0,-0.354
+"Greater Hearts Outreach Ministries, Inc.",2025-02,10485.0,2666.0,0.341
+"Greater Hearts Outreach Ministries, Inc.",2025-03,9953.0,-532.0,-0.051
+"Greater Hearts Outreach Ministries, Inc.",2025-04,13428.0,3475.0,0.349
+"Greater Hearts Outreach Ministries, Inc.",2025-05,11132.0,-2296.0,-0.171
+"Greater Hearts Outreach Ministries, Inc.",2025-06,20916.58,9784.580000000002,0.879
+HighPoint Community Worship Center,2022-07 to 2024-03,0.0,0.0,0.0
 HighPoint Community Worship Center,2024-04,5509.0,5509.0,inf
-HighPoint Community Worship Center,2024-05,4770.0,-739.0,-0.13414412779088764
-HighPoint Community Worship Center,2024-06,4017.0,-753.0,-0.15786163522012578
-HighPoint Community Worship Center,2024-07,2925.0,-1092.0,-0.27184466019417475
-HighPoint Community Worship Center,2024-08,5233.0,2308.0,0.7890598290598291
-HighPoint Community Worship Center,2024-09,2525.0,-2708.0,-0.5174851901394993
-HighPoint Community Worship Center,2024-10,3864.0,1339.0,0.5302970297029703
-HighPoint Community Worship Center,2024-11,2172.0,-1692.0,-0.43788819875776397
-HighPoint Community Worship Center,2024-12,4105.0,1933.0,0.889963167587477
-HighPoint Community Worship Center,2025-01,4908.0,803.0,0.1956151035322777
-HighPoint Community Worship Center,2025-02,4375.0,-533.0,-0.10859820700896496
-HighPoint Community Worship Center,2025-03,6654.0,2279.0,0.5209142857142857
-HighPoint Community Worship Center,2025-04,3462.0,-3192.0,-0.47971145175834085
-HighPoint Community Worship Center,2025-05,8963.0,5501.0,1.5889659156556903
-HighPoint Community Worship Center,2025-06,7441.0,-1522.0,-0.16980921566439808
-Hill Street Baptist Church,2022-07,2435.0,0.0,
-Hill Street Baptist Church,2022-08,781.0,-1654.0,-0.6792607802874744
-Hill Street Baptist Church,2022-09,816.0,35.0,0.04481434058898848
-Hill Street Baptist Church,2022-10,914.0,98.0,0.12009803921568628
-Hill Street Baptist Church,2022-11,189.0,-725.0,-0.7932166301969366
-Hill Street Baptist Church,2022-12,500.0,311.0,1.6455026455026456
+HighPoint Community Worship Center,2024-05,4770.0,-739.0,-0.134
+HighPoint Community Worship Center,2024-06,4017.0,-753.0,-0.158
+HighPoint Community Worship Center,2024-07,2925.0,-1092.0,-0.272
+HighPoint Community Worship Center,2024-08,5233.0,2308.0,0.789
+HighPoint Community Worship Center,2024-09,2525.0,-2708.0,-0.517
+HighPoint Community Worship Center,2024-10,3864.0,1339.0,0.53
+HighPoint Community Worship Center,2024-11,2172.0,-1692.0,-0.438
+HighPoint Community Worship Center,2024-12,4105.0,1933.0,0.89
+HighPoint Community Worship Center,2025-01,4908.0,803.0,0.196
+HighPoint Community Worship Center,2025-02,4375.0,-533.0,-0.109
+HighPoint Community Worship Center,2025-03,6654.0,2279.0,0.521
+HighPoint Community Worship Center,2025-04,3462.0,-3192.0,-0.48
+HighPoint Community Worship Center,2025-05,8963.0,5501.0,1.589
+HighPoint Community Worship Center,2025-06,7441.0,-1522.0,-0.17
+Hill Street Baptist Church,2022-07,2435.0,0.0,0.0
+Hill Street Baptist Church,2022-08,781.0,-1654.0,-0.679
+Hill Street Baptist Church,2022-09,816.0,35.0,0.045
+Hill Street Baptist Church,2022-10,914.0,98.0,0.12
+Hill Street Baptist Church,2022-11,189.0,-725.0,-0.793
+Hill Street Baptist Church,2022-12,500.0,311.0,1.646
 Hill Street Baptist Church,2023-01,1634.0,1134.0,2.268
-Hill Street Baptist Church,2023-02,567.0,-1067.0,-0.652998776009792
-Hill Street Baptist Church,2023-03,838.0,271.0,0.47795414462081126
-Hill Street Baptist Church,2023-04,1220.0,382.0,0.45584725536992843
-Hill Street Baptist Church,2023-05,597.0,-623.0,-0.510655737704918
-Hill Street Baptist Church,2023-06,589.0,-8.0,-0.01340033500837521
-Hill Street Baptist Church,2023-07,695.0,106.0,0.1799660441426146
-Hill Street Baptist Church,2023-08,993.0,298.0,0.4287769784172662
-Hill Street Baptist Church,2023-09,1264.0,271.0,0.2729103726082578
-Hill Street Baptist Church,2023-10,1507.0,243.0,0.19224683544303797
-Hill Street Baptist Church,2023-11,1317.0,-190.0,-0.126078301260783
-Hill Street Baptist Church,2023-12,1073.0,-244.0,-0.1852695520121488
-Hill Street Baptist Church,2024-01,644.0,-429.0,-0.3998136067101584
-Hill Street Baptist Church,2024-02,857.0,213.0,0.3307453416149068
-Hill Street Baptist Church,2024-03,490.0,-367.0,-0.4282380396732789
-Hill Street Baptist Church,2024-04,1899.0,1409.0,2.8755102040816327
-Hill Street Baptist Church,2024-05,969.0,-930.0,-0.48973143759873616
-Hill Street Baptist Church,2024-06,687.0,-282.0,-0.29102167182662536
-Hill Street Baptist Church,2024-07,145.0,-542.0,-0.7889374090247453
-Hill Street Baptist Church,2024-08,1809.0,1664.0,11.475862068965517
-Hill Street Baptist Church,2024-09,488.0,-1321.0,-0.7302377003869541
+Hill Street Baptist Church,2023-02,567.0,-1067.0,-0.653
+Hill Street Baptist Church,2023-03,838.0,271.0,0.478
+Hill Street Baptist Church,2023-04,1220.0,382.0,0.456
+Hill Street Baptist Church,2023-05,597.0,-623.0,-0.511
+Hill Street Baptist Church,2023-06,589.0,-8.0,-0.013
+Hill Street Baptist Church,2023-07,695.0,106.0,0.18
+Hill Street Baptist Church,2023-08,993.0,298.0,0.429
+Hill Street Baptist Church,2023-09,1264.0,271.0,0.273
+Hill Street Baptist Church,2023-10,1507.0,243.0,0.192
+Hill Street Baptist Church,2023-11,1317.0,-190.0,-0.126
+Hill Street Baptist Church,2023-12,1073.0,-244.0,-0.185
+Hill Street Baptist Church,2024-01,644.0,-429.0,-0.4
+Hill Street Baptist Church,2024-02,857.0,213.0,0.331
+Hill Street Baptist Church,2024-03,490.0,-367.0,-0.428
+Hill Street Baptist Church,2024-04,1899.0,1409.0,2.876
+Hill Street Baptist Church,2024-05,969.0,-930.0,-0.49
+Hill Street Baptist Church,2024-06,687.0,-282.0,-0.291
+Hill Street Baptist Church,2024-07,145.0,-542.0,-0.789
+Hill Street Baptist Church,2024-08,1809.0,1664.0,11.476
+Hill Street Baptist Church,2024-09,488.0,-1321.0,-0.73
 Hill Street Baptist Church,2024-10,0.0,-488.0,-1.0
 Hill Street Baptist Church,2024-11,2627.0,2627.0,inf
-Hill Street Baptist Church,2024-12,931.0,-1696.0,-0.6456033498287019
-Hill Street Baptist Church,2025-01,360.0,-571.0,-0.6133190118152524
-Hill Street Baptist Church,2025-02,264.0,-96.0,-0.26666666666666666
-Hill Street Baptist Church,2025-03,1042.0,778.0,2.946969696969697
-Hill Street Baptist Church,2025-04,1008.0,-34.0,-0.03262955854126679
-Hill Street Baptist Church,2025-05,1853.0,845.0,0.8382936507936508
-Hill Street Baptist Church,2025-06,1797.0,-56.0,-0.030221262817053427
-Martin Baptist Church,2022-07,8847.0,0.0,
-Martin Baptist Church,2022-08,7637.0,-1210.0,-0.13676952639312762
-Martin Baptist Church,2022-09,8293.0,656.0,0.08589760377111431
-Martin Baptist Church,2022-10,17127.0,8834.0,1.065235740986374
+Hill Street Baptist Church,2024-12,931.0,-1696.0,-0.646
+Hill Street Baptist Church,2025-01,360.0,-571.0,-0.613
+Hill Street Baptist Church,2025-02,264.0,-96.0,-0.267
+Hill Street Baptist Church,2025-03,1042.0,778.0,2.947
+Hill Street Baptist Church,2025-04,1008.0,-34.0,-0.033
+Hill Street Baptist Church,2025-05,1853.0,845.0,0.838
+Hill Street Baptist Church,2025-06,1797.0,-56.0,-0.03
+Martin Baptist Church,2022-07,8847.0,0.0,0.0
+Martin Baptist Church,2022-08,7637.0,-1210.0,-0.137
+Martin Baptist Church,2022-09,8293.0,656.0,0.086
+Martin Baptist Church,2022-10,17127.0,8834.0,1.065
 Martin Baptist Church,2022-11,0.0,-17127.0,-1.0
 Martin Baptist Church,2022-12,5664.0,5664.0,inf
-Martin Baptist Church,2023-01,6951.0,1287.0,0.22722457627118645
-Martin Baptist Church,2023-02,7355.0,404.0,0.05812113364983456
-Martin Baptist Church,2023-03,12533.0,5178.0,0.7040108769544527
+Martin Baptist Church,2023-01,6951.0,1287.0,0.227
+Martin Baptist Church,2023-02,7355.0,404.0,0.058
+Martin Baptist Church,2023-03,12533.0,5178.0,0.704
 Martin Baptist Church,2023-04,0.0,-12533.0,-1.0
 Martin Baptist Church,2023-05,8096.0,8096.0,inf
-Martin Baptist Church,2023-06,8578.0,482.0,0.05953557312252965
-Martin Baptist Church,2023-07,12806.0,4228.0,0.4928887852646304
+Martin Baptist Church,2023-06,8578.0,482.0,0.06
+Martin Baptist Church,2023-07,12806.0,4228.0,0.493
 Martin Baptist Church,2023-08,0.0,-12806.0,-1.0
 Martin Baptist Church,2023-09,7547.0,7547.0,inf
-Martin Baptist Church,2023-10,6721.0,-826.0,-0.10944746256790777
-Martin Baptist Church,2023-11,8522.0,1801.0,0.2679660764767148
-Martin Baptist Church,2023-12,6835.0,-1687.0,-0.19795822576859892
-Martin Baptist Church,2024-01,4886.0,-1949.0,-0.28514996342355525
-Martin Baptist Church,2024-02,8213.0,3327.0,0.6809250920998772
-Martin Baptist Church,2024-03,8152.0,-61.0,-0.0074272494825277
-Martin Baptist Church,2024-04,8372.0,220.0,0.026987242394504417
-Martin Baptist Church,2024-05,7100.0,-1272.0,-0.15193502150023888
-Martin Baptist Church,2024-06,8152.0,1052.0,0.14816901408450706
-Martin Baptist Church,2024-07,7513.0,-639.0,-0.07838567222767419
-Martin Baptist Church,2024-08,7026.0,-487.0,-0.06482097697324637
-Martin Baptist Church,2024-09,15580.0,8554.0,1.2174779390834045
+Martin Baptist Church,2023-10,6721.0,-826.0,-0.109
+Martin Baptist Church,2023-11,8522.0,1801.0,0.268
+Martin Baptist Church,2023-12,6835.0,-1687.0,-0.198
+Martin Baptist Church,2024-01,4886.0,-1949.0,-0.285
+Martin Baptist Church,2024-02,8213.0,3327.0,0.681
+Martin Baptist Church,2024-03,8152.0,-61.0,-0.007
+Martin Baptist Church,2024-04,8372.0,220.0,0.027
+Martin Baptist Church,2024-05,7100.0,-1272.0,-0.152
+Martin Baptist Church,2024-06,8152.0,1052.0,0.148
+Martin Baptist Church,2024-07,7513.0,-639.0,-0.078
+Martin Baptist Church,2024-08,7026.0,-487.0,-0.065
+Martin Baptist Church,2024-09,15580.0,8554.0,1.217
 Martin Baptist Church,2024-10,0.0,-15580.0,-1.0
 Martin Baptist Church,2024-11,7517.0,7517.0,inf
-Martin Baptist Church,2024-12,7067.0,-450.0,-0.05986430756950911
-Martin Baptist Church,2025-01,6399.0,-668.0,-0.09452384321494268
-Martin Baptist Church,2025-02,9256.0,2857.0,0.44647601187685576
-Martin Baptist Church,2025-03,16888.0,7632.0,0.8245462402765773
+Martin Baptist Church,2024-12,7067.0,-450.0,-0.06
+Martin Baptist Church,2025-01,6399.0,-668.0,-0.095
+Martin Baptist Church,2025-02,9256.0,2857.0,0.446
+Martin Baptist Church,2025-03,16888.0,7632.0,0.825
 Martin Baptist Church,2025-04,0.0,-16888.0,-1.0
 Martin Baptist Church,2025-05,6999.0,6999.0,inf
-Martin Baptist Church,2025-06,9120.0,2121.0,0.3030432918988427
-Miracles Happen Recovery Residence INC,2022-07,0.0,0.0,
+Martin Baptist Church,2025-06,9120.0,2121.0,0.303
+Miracles Happen Recovery Residence INC,2022-07,0.0,0.0,0.0
 Miracles Happen Recovery Residence INC,2022-08,624.0,624.0,inf
-Miracles Happen Recovery Residence INC,2022-09,332.0,-292.0,-0.46794871794871795
+Miracles Happen Recovery Residence INC,2022-09,332.0,-292.0,-0.468
 Miracles Happen Recovery Residence INC,2022-10,0.0,-332.0,-1.0
 Miracles Happen Recovery Residence INC,2022-11,538.0,538.0,inf
-Miracles Happen Recovery Residence INC,2022-12,479.0,-59.0,-0.10966542750929369
-Miracles Happen Recovery Residence INC,2023-01,1513.0,1034.0,2.1586638830897704
-Miracles Happen Recovery Residence INC,2023-02,1006.0,-507.0,-0.33509583608724386
-Miracles Happen Recovery Residence INC,2023-03,1155.0,149.0,0.1481113320079523
-Miracles Happen Recovery Residence INC,2023-04,503.0,-652.0,-0.5645021645021645
-Miracles Happen Recovery Residence INC,2023-05,1637.0,1134.0,2.2544731610337974
-Miracles Happen Recovery Residence INC,2023-06,1124.0,-513.0,-0.31337813072693954
-Miracles Happen Recovery Residence INC,2023-07,1431.0,307.0,0.27313167259786475
-Miracles Happen Recovery Residence INC,2023-08,1679.0,248.0,0.17330538085255065
-Miracles Happen Recovery Residence INC,2023-09,1074.0,-605.0,-0.36033353186420486
-Miracles Happen Recovery Residence INC,2023-10,961.0,-113.0,-0.10521415270018622
-Miracles Happen Recovery Residence INC,2023-11,460.0,-501.0,-0.5213319458896982
-Miracles Happen Recovery Residence INC,2023-12,618.0,158.0,0.34347826086956523
-Miracles Happen Recovery Residence INC,2024-01,974.0,356.0,0.5760517799352751
-Miracles Happen Recovery Residence INC,2024-02,97.0,-877.0,-0.9004106776180698
-Miracles Happen Recovery Residence INC,2024-03,2877.0,2780.0,28.65979381443299
-Miracles Happen Recovery Residence INC,2024-04,1414.0,-1463.0,-0.5085158150851582
-Miracles Happen Recovery Residence INC,2024-05,1608.0,194.0,0.1371994342291372
-Miracles Happen Recovery Residence INC,2024-06,733.0,-875.0,-0.5441542288557214
-Miracles Happen Recovery Residence INC,2024-07,2430.0,1697.0,2.3151432469304227
-Miracles Happen Recovery Residence INC,2024-08,3551.0,1121.0,0.4613168724279835
-Miracles Happen Recovery Residence INC,2024-09,1705.0,-1846.0,-0.5198535623767953
-Miracles Happen Recovery Residence INC,2024-10,2072.0,367.0,0.21524926686217008
-Miracles Happen Recovery Residence INC,2024-11,838.0,-1234.0,-0.5955598455598455
-Miracles Happen Recovery Residence INC,2024-12,1452.0,614.0,0.7326968973747017
-Miracles Happen Recovery Residence INC,2025-01,2122.0,670.0,0.46143250688705234
-Miracles Happen Recovery Residence INC,2025-02,1564.0,-558.0,-0.2629594721960415
-Miracles Happen Recovery Residence INC,2025-03,3745.0,2181.0,1.3945012787723785
-Miracles Happen Recovery Residence INC,2025-04,2245.0,-1500.0,-0.40053404539385845
-Miracles Happen Recovery Residence INC,2025-05,3979.0,1734.0,0.7723830734966592
-Miracles Happen Recovery Residence INC,2025-06,5866.0,1887.0,0.4742397587333501
-Neighbors 4 Neighbors,2022-07,2460.0,0.0,
-Neighbors 4 Neighbors,2022-08,2040.0,-420.0,-0.17073170731707318
-Neighbors 4 Neighbors,2022-09,4275.0,2235.0,1.0955882352941178
+Miracles Happen Recovery Residence INC,2022-12,479.0,-59.0,-0.11
+Miracles Happen Recovery Residence INC,2023-01,1513.0,1034.0,2.159
+Miracles Happen Recovery Residence INC,2023-02,1006.0,-507.0,-0.335
+Miracles Happen Recovery Residence INC,2023-03,1155.0,149.0,0.148
+Miracles Happen Recovery Residence INC,2023-04,503.0,-652.0,-0.565
+Miracles Happen Recovery Residence INC,2023-05,1637.0,1134.0,2.254
+Miracles Happen Recovery Residence INC,2023-06,1124.0,-513.0,-0.313
+Miracles Happen Recovery Residence INC,2023-07,1431.0,307.0,0.273
+Miracles Happen Recovery Residence INC,2023-08,1679.0,248.0,0.173
+Miracles Happen Recovery Residence INC,2023-09,1074.0,-605.0,-0.36
+Miracles Happen Recovery Residence INC,2023-10,961.0,-113.0,-0.105
+Miracles Happen Recovery Residence INC,2023-11,460.0,-501.0,-0.521
+Miracles Happen Recovery Residence INC,2023-12,618.0,158.0,0.343
+Miracles Happen Recovery Residence INC,2024-01,974.0,356.0,0.576
+Miracles Happen Recovery Residence INC,2024-02,97.0,-877.0,-0.9
+Miracles Happen Recovery Residence INC,2024-03,2877.0,2780.0,28.66
+Miracles Happen Recovery Residence INC,2024-04,1414.0,-1463.0,-0.509
+Miracles Happen Recovery Residence INC,2024-05,1608.0,194.0,0.137
+Miracles Happen Recovery Residence INC,2024-06,733.0,-875.0,-0.544
+Miracles Happen Recovery Residence INC,2024-07,2430.0,1697.0,2.315
+Miracles Happen Recovery Residence INC,2024-08,3551.0,1121.0,0.461
+Miracles Happen Recovery Residence INC,2024-09,1705.0,-1846.0,-0.52
+Miracles Happen Recovery Residence INC,2024-10,2072.0,367.0,0.215
+Miracles Happen Recovery Residence INC,2024-11,838.0,-1234.0,-0.596
+Miracles Happen Recovery Residence INC,2024-12,1452.0,614.0,0.733
+Miracles Happen Recovery Residence INC,2025-01,2122.0,670.0,0.461
+Miracles Happen Recovery Residence INC,2025-02,1564.0,-558.0,-0.263
+Miracles Happen Recovery Residence INC,2025-03,3745.0,2181.0,1.395
+Miracles Happen Recovery Residence INC,2025-04,2245.0,-1500.0,-0.401
+Miracles Happen Recovery Residence INC,2025-05,3979.0,1734.0,0.772
+Miracles Happen Recovery Residence INC,2025-06,5866.0,1887.0,0.474
+Neighbors 4 Neighbors,2022-07,2460.0,0.0,0.0
+Neighbors 4 Neighbors,2022-08,2040.0,-420.0,-0.171
+Neighbors 4 Neighbors,2022-09,4275.0,2235.0,1.096
 Neighbors 4 Neighbors,2022-10,0.0,-4275.0,-1.0
 Neighbors 4 Neighbors,2022-11,8421.0,8421.0,inf
 Neighbors 4 Neighbors,2022-12,0.0,-8421.0,-1.0
@@ -516,141 +313,118 @@ Neighbors 4 Neighbors,2023-04,0.0,0.0,0.0
 Neighbors 4 Neighbors,2023-05,7208.0,7208.0,inf
 Neighbors 4 Neighbors,2023-06,0.0,-7208.0,-1.0
 Neighbors 4 Neighbors,2023-07,2131.0,2131.0,inf
-Neighbors 4 Neighbors,2023-08,9875.0,7744.0,3.6339746597841387
-Neighbors 4 Neighbors,2023-09,1240.0,-8635.0,-0.8744303797468355
-Neighbors 4 Neighbors,2023-10,5931.0,4691.0,3.7830645161290324
-Neighbors 4 Neighbors,2023-11,9685.0,3754.0,0.6329455403810488
-Neighbors 4 Neighbors,2023-12,650.0,-9035.0,-0.9328859060402684
+Neighbors 4 Neighbors,2023-08,9875.0,7744.0,3.634
+Neighbors 4 Neighbors,2023-09,1240.0,-8635.0,-0.874
+Neighbors 4 Neighbors,2023-10,5931.0,4691.0,3.783
+Neighbors 4 Neighbors,2023-11,9685.0,3754.0,0.633
+Neighbors 4 Neighbors,2023-12,650.0,-9035.0,-0.933
 Neighbors 4 Neighbors,2024-01,0.0,-650.0,-1.0
 Neighbors 4 Neighbors,2024-02,0.0,0.0,0.0
 Neighbors 4 Neighbors,2024-03,2183.0,2183.0,inf
-Neighbors 4 Neighbors,2024-04,1995.0,-188.0,-0.08612001832340815
-Neighbors 4 Neighbors,2024-05,4834.0,2839.0,1.4230576441102758
+Neighbors 4 Neighbors,2024-04,1995.0,-188.0,-0.086
+Neighbors 4 Neighbors,2024-05,4834.0,2839.0,1.423
 Neighbors 4 Neighbors,2024-06,0.0,-4834.0,-1.0
 Neighbors 4 Neighbors,2024-07,2485.0,2485.0,inf
 Neighbors 4 Neighbors,2024-08,0.0,-2485.0,-1.0
 Neighbors 4 Neighbors,2024-09,3140.0,3140.0,inf
 Neighbors 4 Neighbors,2024-10,0.0,-3140.0,-1.0
 Neighbors 4 Neighbors,2024-11,1044.0,1044.0,inf
-Neighbors 4 Neighbors,2024-12,2043.0,999.0,0.9568965517241379
+Neighbors 4 Neighbors,2024-12,2043.0,999.0,0.957
 Neighbors 4 Neighbors,2025-01,0.0,-2043.0,-1.0
 Neighbors 4 Neighbors,2025-02,0.0,0.0,0.0
 Neighbors 4 Neighbors,2025-03,2562.0,2562.0,inf
-Neighbors 4 Neighbors,2025-04,1900.0,-662.0,-0.258391881342701
-Neighbors 4 Neighbors,2025-05,1820.0,-80.0,-0.042105263157894736
-Neighbors 4 Neighbors,2025-06,2317.0,497.0,0.27307692307692305
-Neighbors 4 Neighbors F2K,2022-07,0.0,0.0,
-Neighbors 4 Neighbors F2K,2022-08,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2022-09,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2022-10,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2022-11,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2022-12,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-01,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-02,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-03,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-04,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-05,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-06,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-07,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-08,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-09,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-10,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-11,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2023-12,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2024-01,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2024-02,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2024-03,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2024-04,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2024-05,0.0,0.0,0.0
-Neighbors 4 Neighbors F2K,2024-06,0.0,0.0,0.0
+Neighbors 4 Neighbors,2025-04,1900.0,-662.0,-0.258
+Neighbors 4 Neighbors,2025-05,1820.0,-80.0,-0.042
+Neighbors 4 Neighbors,2025-06,2317.0,497.0,0.273
+Neighbors 4 Neighbors F2K,2022-07 to 2024-06,0.0,0.0,0.0
 Neighbors 4 Neighbors F2K,2024-07,394.0,394.0,inf
-Neighbors 4 Neighbors F2K,2024-08,6215.0,5821.0,14.774111675126903
-Neighbors 4 Neighbors F2K,2024-09,10380.0,4165.0,0.670152855993564
-Neighbors 4 Neighbors F2K,2024-10,1780.0,-8600.0,-0.8285163776493256
+Neighbors 4 Neighbors F2K,2024-08,6215.0,5821.0,14.774
+Neighbors 4 Neighbors F2K,2024-09,10380.0,4165.0,0.67
+Neighbors 4 Neighbors F2K,2024-10,1780.0,-8600.0,-0.829
 Neighbors 4 Neighbors F2K,2024-11,0.0,-1780.0,-1.0
 Neighbors 4 Neighbors F2K,2024-12,5606.0,5606.0,inf
 Neighbors 4 Neighbors F2K,2025-01,0.0,-5606.0,-1.0
 Neighbors 4 Neighbors F2K,2025-02,4234.0,4234.0,inf
-Neighbors 4 Neighbors F2K,2025-03,720.0,-3514.0,-0.8299480396787907
+Neighbors 4 Neighbors F2K,2025-03,720.0,-3514.0,-0.83
 Neighbors 4 Neighbors F2K,2025-04,7956.0,7236.0,10.05
-Neighbors 4 Neighbors F2K,2025-05,19143.0,11187.0,1.4061085972850678
+Neighbors 4 Neighbors F2K,2025-05,19143.0,11187.0,1.406
 Neighbors 4 Neighbors F2K,2025-06,0.0,-19143.0,-1.0
-New Hope Baptist Church Toccoa,2022-07,193.0,0.0,
-New Hope Baptist Church Toccoa,2022-08,569.0,376.0,1.9481865284974094
+New Hope Baptist Church Toccoa,2022-07,193.0,0.0,0.0
+New Hope Baptist Church Toccoa,2022-08,569.0,376.0,1.948
 New Hope Baptist Church Toccoa,2022-09,0.0,-569.0,-1.0
 New Hope Baptist Church Toccoa,2022-10,236.0,236.0,inf
-New Hope Baptist Church Toccoa,2022-11,87.0,-149.0,-0.6313559322033898
+New Hope Baptist Church Toccoa,2022-11,87.0,-149.0,-0.631
 New Hope Baptist Church Toccoa,2022-12,0.0,-87.0,-1.0
 New Hope Baptist Church Toccoa,2023-01,344.0,344.0,inf
-New Hope Baptist Church Toccoa,2023-02,378.0,34.0,0.09883720930232558
-New Hope Baptist Church Toccoa,2023-03,320.0,-58.0,-0.15343915343915343
-New Hope Baptist Church Toccoa,2023-04,79.0,-241.0,-0.753125
-New Hope Baptist Church Toccoa,2023-05,301.0,222.0,2.810126582278481
-New Hope Baptist Church Toccoa,2023-06,152.0,-149.0,-0.4950166112956811
-New Hope Baptist Church Toccoa,2023-07,382.0,230.0,1.513157894736842
-New Hope Baptist Church Toccoa,2023-08,880.0,498.0,1.3036649214659686
-New Hope Baptist Church Toccoa,2023-09,456.0,-424.0,-0.4818181818181818
-New Hope Baptist Church Toccoa,2023-10,763.0,307.0,0.6732456140350878
-New Hope Baptist Church Toccoa,2023-11,326.0,-437.0,-0.5727391874180865
-New Hope Baptist Church Toccoa,2023-12,382.0,56.0,0.17177914110429449
-New Hope Baptist Church Toccoa,2024-01,518.0,136.0,0.35602094240837695
-New Hope Baptist Church Toccoa,2024-02,776.0,258.0,0.4980694980694981
-New Hope Baptist Church Toccoa,2024-03,507.0,-269.0,-0.34664948453608246
-New Hope Baptist Church Toccoa,2024-04,757.0,250.0,0.4930966469428008
-New Hope Baptist Church Toccoa,2024-05,2127.0,1370.0,1.809775429326288
-New Hope Baptist Church Toccoa,2024-06,1024.0,-1103.0,-0.5185707569346497
-New Hope Baptist Church Toccoa,2024-07,826.0,-198.0,-0.193359375
-New Hope Baptist Church Toccoa,2024-08,917.0,91.0,0.11016949152542373
-New Hope Baptist Church Toccoa,2024-09,924.0,7.0,0.007633587786259542
-New Hope Baptist Church Toccoa,2024-10,957.0,33.0,0.03571428571428571
-New Hope Baptist Church Toccoa,2024-11,443.0,-514.0,-0.5370950888192267
-New Hope Baptist Church Toccoa,2024-12,833.0,390.0,0.8803611738148984
-New Hope Baptist Church Toccoa,2025-01,2675.0,1842.0,2.211284513805522
-New Hope Baptist Church Toccoa,2025-02,409.0,-2266.0,-0.8471028037383178
-New Hope Baptist Church Toccoa,2025-03,1110.0,701.0,1.7139364303178484
-New Hope Baptist Church Toccoa,2025-04,913.0,-197.0,-0.17747747747747747
-New Hope Baptist Church Toccoa,2025-05,1536.0,623.0,0.6823658269441402
-New Hope Baptist Church Toccoa,2025-06,1129.0,-407.0,-0.2649739583333333
-Paradise Mountain Ministries,2022-07,1468.0,0.0,
-Paradise Mountain Ministries,2022-08,1898.0,430.0,0.29291553133514986
-Paradise Mountain Ministries,2022-09,1448.0,-450.0,-0.23709167544783982
-Paradise Mountain Ministries,2022-10,1638.0,190.0,0.13121546961325967
-Paradise Mountain Ministries,2022-11,2040.0,402.0,0.2454212454212454
-Paradise Mountain Ministries,2022-12,1371.0,-669.0,-0.32794117647058824
-Paradise Mountain Ministries,2023-01,2017.0,646.0,0.4711889132020423
-Paradise Mountain Ministries,2023-02,2243.0,226.0,0.11204759543877045
-Paradise Mountain Ministries,2023-03,2191.0,-52.0,-0.0231832367365136
-Paradise Mountain Ministries,2023-04,2022.0,-169.0,-0.0771337288909174
-Paradise Mountain Ministries,2023-05,2711.0,689.0,0.3407517309594461
-Paradise Mountain Ministries,2023-06,984.0,-1727.0,-0.6370343046846182
-Paradise Mountain Ministries,2023-07,1389.0,405.0,0.4115853658536585
-Paradise Mountain Ministries,2023-08,1929.0,540.0,0.38876889848812096
-Paradise Mountain Ministries,2023-09,1726.0,-203.0,-0.10523587350959046
-Paradise Mountain Ministries,2023-10,1446.0,-280.0,-0.16222479721900349
-Paradise Mountain Ministries,2023-11,1386.0,-60.0,-0.04149377593360996
-Paradise Mountain Ministries,2023-12,803.0,-583.0,-0.42063492063492064
-Paradise Mountain Ministries,2024-01,1009.0,206.0,0.25653798256537985
-Paradise Mountain Ministries,2024-02,1592.0,583.0,0.5777998017839445
-Paradise Mountain Ministries,2024-03,1250.0,-342.0,-0.21482412060301506
-Paradise Mountain Ministries,2024-04,2063.0,813.0,0.6504
-Paradise Mountain Ministries,2024-05,1929.0,-134.0,-0.06495395055744062
-Paradise Mountain Ministries,2024-06,997.0,-932.0,-0.4831518921721099
-Paradise Mountain Ministries,2024-07,2265.0,1268.0,1.271815446339017
-Paradise Mountain Ministries,2024-08,1117.0,-1148.0,-0.5068432671081677
-Paradise Mountain Ministries,2024-09,1149.0,32.0,0.02864816472694718
-Paradise Mountain Ministries,2024-10,2239.0,1090.0,0.9486510008703221
-Paradise Mountain Ministries,2024-11,2027.0,-212.0,-0.09468512728896829
-Paradise Mountain Ministries,2024-12,1401.0,-626.0,-0.3088307844104588
-Paradise Mountain Ministries,2025-01,1472.0,71.0,0.05067808708065667
-Paradise Mountain Ministries,2025-02,1775.0,303.0,0.20584239130434784
-Paradise Mountain Ministries,2025-03,1933.0,158.0,0.08901408450704225
-Paradise Mountain Ministries,2025-04,2459.0,526.0,0.2721158820486291
-Paradise Mountain Ministries,2025-05,1177.0,-1282.0,-0.5213501423342822
-Paradise Mountain Ministries,2025-06,1714.0,537.0,0.4562446898895497
-Rehoboth Assembly of God,2022-07,625.0,0.0,
+New Hope Baptist Church Toccoa,2023-02,378.0,34.0,0.099
+New Hope Baptist Church Toccoa,2023-03,320.0,-58.0,-0.153
+New Hope Baptist Church Toccoa,2023-04,79.0,-241.0,-0.753
+New Hope Baptist Church Toccoa,2023-05,301.0,222.0,2.81
+New Hope Baptist Church Toccoa,2023-06,152.0,-149.0,-0.495
+New Hope Baptist Church Toccoa,2023-07,382.0,230.0,1.513
+New Hope Baptist Church Toccoa,2023-08,880.0,498.0,1.304
+New Hope Baptist Church Toccoa,2023-09,456.0,-424.0,-0.482
+New Hope Baptist Church Toccoa,2023-10,763.0,307.0,0.673
+New Hope Baptist Church Toccoa,2023-11,326.0,-437.0,-0.573
+New Hope Baptist Church Toccoa,2023-12,382.0,56.0,0.172
+New Hope Baptist Church Toccoa,2024-01,518.0,136.0,0.356
+New Hope Baptist Church Toccoa,2024-02,776.0,258.0,0.498
+New Hope Baptist Church Toccoa,2024-03,507.0,-269.0,-0.347
+New Hope Baptist Church Toccoa,2024-04,757.0,250.0,0.493
+New Hope Baptist Church Toccoa,2024-05,2127.0,1370.0,1.81
+New Hope Baptist Church Toccoa,2024-06,1024.0,-1103.0,-0.519
+New Hope Baptist Church Toccoa,2024-07,826.0,-198.0,-0.193
+New Hope Baptist Church Toccoa,2024-08,917.0,91.0,0.11
+New Hope Baptist Church Toccoa,2024-09,924.0,7.0,0.008
+New Hope Baptist Church Toccoa,2024-10,957.0,33.0,0.036
+New Hope Baptist Church Toccoa,2024-11,443.0,-514.0,-0.537
+New Hope Baptist Church Toccoa,2024-12,833.0,390.0,0.88
+New Hope Baptist Church Toccoa,2025-01,2675.0,1842.0,2.211
+New Hope Baptist Church Toccoa,2025-02,409.0,-2266.0,-0.847
+New Hope Baptist Church Toccoa,2025-03,1110.0,701.0,1.714
+New Hope Baptist Church Toccoa,2025-04,913.0,-197.0,-0.177
+New Hope Baptist Church Toccoa,2025-05,1536.0,623.0,0.682
+New Hope Baptist Church Toccoa,2025-06,1129.0,-407.0,-0.265
+Paradise Mountain Ministries,2022-07,1468.0,0.0,0.0
+Paradise Mountain Ministries,2022-08,1898.0,430.0,0.293
+Paradise Mountain Ministries,2022-09,1448.0,-450.0,-0.237
+Paradise Mountain Ministries,2022-10,1638.0,190.0,0.131
+Paradise Mountain Ministries,2022-11,2040.0,402.0,0.245
+Paradise Mountain Ministries,2022-12,1371.0,-669.0,-0.328
+Paradise Mountain Ministries,2023-01,2017.0,646.0,0.471
+Paradise Mountain Ministries,2023-02,2243.0,226.0,0.112
+Paradise Mountain Ministries,2023-03,2191.0,-52.0,-0.023
+Paradise Mountain Ministries,2023-04,2022.0,-169.0,-0.077
+Paradise Mountain Ministries,2023-05,2711.0,689.0,0.341
+Paradise Mountain Ministries,2023-06,984.0,-1727.0,-0.637
+Paradise Mountain Ministries,2023-07,1389.0,405.0,0.412
+Paradise Mountain Ministries,2023-08,1929.0,540.0,0.389
+Paradise Mountain Ministries,2023-09,1726.0,-203.0,-0.105
+Paradise Mountain Ministries,2023-10,1446.0,-280.0,-0.162
+Paradise Mountain Ministries,2023-11,1386.0,-60.0,-0.041
+Paradise Mountain Ministries,2023-12,803.0,-583.0,-0.421
+Paradise Mountain Ministries,2024-01,1009.0,206.0,0.257
+Paradise Mountain Ministries,2024-02,1592.0,583.0,0.578
+Paradise Mountain Ministries,2024-03,1250.0,-342.0,-0.215
+Paradise Mountain Ministries,2024-04,2063.0,813.0,0.65
+Paradise Mountain Ministries,2024-05,1929.0,-134.0,-0.065
+Paradise Mountain Ministries,2024-06,997.0,-932.0,-0.483
+Paradise Mountain Ministries,2024-07,2265.0,1268.0,1.272
+Paradise Mountain Ministries,2024-08,1117.0,-1148.0,-0.507
+Paradise Mountain Ministries,2024-09,1149.0,32.0,0.029
+Paradise Mountain Ministries,2024-10,2239.0,1090.0,0.949
+Paradise Mountain Ministries,2024-11,2027.0,-212.0,-0.095
+Paradise Mountain Ministries,2024-12,1401.0,-626.0,-0.309
+Paradise Mountain Ministries,2025-01,1472.0,71.0,0.051
+Paradise Mountain Ministries,2025-02,1775.0,303.0,0.206
+Paradise Mountain Ministries,2025-03,1933.0,158.0,0.089
+Paradise Mountain Ministries,2025-04,2459.0,526.0,0.272
+Paradise Mountain Ministries,2025-05,1177.0,-1282.0,-0.521
+Paradise Mountain Ministries,2025-06,1714.0,537.0,0.456
+Rehoboth Assembly of God,2022-07,625.0,0.0,0.0
 Rehoboth Assembly of God,2022-08,0.0,-625.0,-1.0
 Rehoboth Assembly of God,2022-09,251.0,251.0,inf
-Rehoboth Assembly of God,2022-10,511.0,260.0,1.0358565737051793
+Rehoboth Assembly of God,2022-10,511.0,260.0,1.036
 Rehoboth Assembly of God,2022-11,0.0,-511.0,-1.0
 Rehoboth Assembly of God,2022-12,252.0,252.0,inf
 Rehoboth Assembly of God,2023-01,0.0,-252.0,-1.0
@@ -658,20 +432,18 @@ Rehoboth Assembly of God,2023-02,355.0,355.0,inf
 Rehoboth Assembly of God,2023-03,0.0,-355.0,-1.0
 Rehoboth Assembly of God,2023-04,370.0,370.0,inf
 Rehoboth Assembly of God,2023-05,0.0,-370.0,-1.0
-Rehoboth Assembly of God,2023-06,0.0,0.0,0.0
-Rehoboth Assembly of God,2023-07,0.0,0.0,0.0
+Rehoboth Assembly of God,2023-06 to 2023-07,0.0,0.0,0.0
 Rehoboth Assembly of God,2023-08,383.0,383.0,inf
-Rehoboth Assembly of God,2023-09,130.0,-253.0,-0.660574412532637
+Rehoboth Assembly of God,2023-09,130.0,-253.0,-0.661
 Rehoboth Assembly of God,2023-10,0.0,-130.0,-1.0
 Rehoboth Assembly of God,2023-11,0.0,0.0,0.0
 Rehoboth Assembly of God,2023-12,365.0,365.0,inf
-Rehoboth Assembly of God,2024-01,346.0,-19.0,-0.052054794520547946
+Rehoboth Assembly of God,2024-01,346.0,-19.0,-0.052
 Rehoboth Assembly of God,2024-02,0.0,-346.0,-1.0
 Rehoboth Assembly of God,2024-03,0.0,0.0,0.0
 Rehoboth Assembly of God,2024-04,312.0,312.0,inf
 Rehoboth Assembly of God,2024-05,0.0,-312.0,-1.0
-Rehoboth Assembly of God,2024-06,0.0,0.0,0.0
-Rehoboth Assembly of God,2024-07,0.0,0.0,0.0
+Rehoboth Assembly of God,2024-06 to 2024-07,0.0,0.0,0.0
 Rehoboth Assembly of God,2024-08,629.0,629.0,inf
 Rehoboth Assembly of God,2024-09,0.0,-629.0,-1.0
 Rehoboth Assembly of God,2024-10,1116.0,1116.0,inf
@@ -683,327 +455,213 @@ Rehoboth Assembly of God,2025-03,423.0,423.0,inf
 Rehoboth Assembly of God,2025-04,0.0,-423.0,-1.0
 Rehoboth Assembly of God,2025-05,1348.0,1348.0,inf
 Rehoboth Assembly of God,2025-06,0.0,-1348.0,-1.0
-Stephens County MedLink Georgia,2022-07,0.0,0.0,
-Stephens County MedLink Georgia,2022-08,0.0,0.0,0.0
-Stephens County MedLink Georgia,2022-09,0.0,0.0,0.0
-Stephens County MedLink Georgia,2022-10,0.0,0.0,0.0
-Stephens County MedLink Georgia,2022-11,0.0,0.0,0.0
-Stephens County MedLink Georgia,2022-12,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-01,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-02,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-03,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-04,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-05,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-06,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-07,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-08,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-09,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-10,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-11,0.0,0.0,0.0
-Stephens County MedLink Georgia,2023-12,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-01,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-02,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-03,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-04,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-05,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-06,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-07,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-08,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-09,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-10,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-11,0.0,0.0,0.0
-Stephens County MedLink Georgia,2024-12,0.0,0.0,0.0
-Stephens County MedLink Georgia,2025-01,0.0,0.0,0.0
-Stephens County MedLink Georgia,2025-02,0.0,0.0,0.0
+Stephens County MedLink Georgia,2022-07 to 2025-02,0.0,0.0,0.0
 Stephens County MedLink Georgia,2025-03,8468.0,8468.0,inf
 Stephens County MedLink Georgia,2025-04,0.0,-8468.0,-1.0
-Stephens County MedLink Georgia,2025-05,0.0,0.0,0.0
-Stephens County MedLink Georgia,2025-06,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2022-07,644.0,0.0,
-Stephens: New Hope BC Senior Staples Program,2022-08,844.0,200.0,0.3105590062111801
-Stephens: New Hope BC Senior Staples Program,2022-09,484.0,-360.0,-0.4265402843601896
-Stephens: New Hope BC Senior Staples Program,2022-10,984.0,500.0,1.0330578512396693
-Stephens: New Hope BC Senior Staples Program,2022-11,800.0,-184.0,-0.18699186991869918
+Stephens County MedLink Georgia,2025-05 to 2025-06,0.0,0.0,0.0
+Stephens: New Hope BC Senior Staples Program,2022-07,644.0,0.0,0.0
+Stephens: New Hope BC Senior Staples Program,2022-08,844.0,200.0,0.311
+Stephens: New Hope BC Senior Staples Program,2022-09,484.0,-360.0,-0.427
+Stephens: New Hope BC Senior Staples Program,2022-10,984.0,500.0,1.033
+Stephens: New Hope BC Senior Staples Program,2022-11,800.0,-184.0,-0.187
 Stephens: New Hope BC Senior Staples Program,2022-12,632.0,-168.0,-0.21
-Stephens: New Hope BC Senior Staples Program,2023-01,855.0,223.0,0.3528481012658228
-Stephens: New Hope BC Senior Staples Program,2023-02,869.0,14.0,0.016374269005847954
-Stephens: New Hope BC Senior Staples Program,2023-03,875.0,6.0,0.006904487917146145
-Stephens: New Hope BC Senior Staples Program,2023-04,710.0,-165.0,-0.18857142857142858
-Stephens: New Hope BC Senior Staples Program,2023-05,527.0,-183.0,-0.2577464788732394
-Stephens: New Hope BC Senior Staples Program,2023-06,718.0,191.0,0.36242884250474383
-Stephens: New Hope BC Senior Staples Program,2023-07,762.0,44.0,0.06128133704735376
-Stephens: New Hope BC Senior Staples Program,2023-08,693.0,-69.0,-0.09055118110236221
-Stephens: New Hope BC Senior Staples Program,2023-09,510.0,-183.0,-0.26406926406926406
-Stephens: New Hope BC Senior Staples Program,2023-10,556.0,46.0,0.09019607843137255
+Stephens: New Hope BC Senior Staples Program,2023-01,855.0,223.0,0.353
+Stephens: New Hope BC Senior Staples Program,2023-02,869.0,14.0,0.016
+Stephens: New Hope BC Senior Staples Program,2023-03,875.0,6.0,0.007
+Stephens: New Hope BC Senior Staples Program,2023-04,710.0,-165.0,-0.189
+Stephens: New Hope BC Senior Staples Program,2023-05,527.0,-183.0,-0.258
+Stephens: New Hope BC Senior Staples Program,2023-06,718.0,191.0,0.362
+Stephens: New Hope BC Senior Staples Program,2023-07,762.0,44.0,0.061
+Stephens: New Hope BC Senior Staples Program,2023-08,693.0,-69.0,-0.091
+Stephens: New Hope BC Senior Staples Program,2023-09,510.0,-183.0,-0.264
+Stephens: New Hope BC Senior Staples Program,2023-10,556.0,46.0,0.09
 Stephens: New Hope BC Senior Staples Program,2023-11,0.0,-556.0,-1.0
-Stephens: New Hope BC Senior Staples Program,2023-12,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2024-01,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2024-02,0.0,0.0,0.0
+Stephens: New Hope BC Senior Staples Program,2023-12 to 2024-02,0.0,0.0,0.0
 Stephens: New Hope BC Senior Staples Program,2024-03,528.0,528.0,inf
 Stephens: New Hope BC Senior Staples Program,2024-04,0.0,-528.0,-1.0
-Stephens: New Hope BC Senior Staples Program,2024-05,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2024-06,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2024-07,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2024-08,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2024-09,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2024-10,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2024-11,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2024-12,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2025-01,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2025-02,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2025-03,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2025-04,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2025-05,0.0,0.0,0.0
-Stephens: New Hope BC Senior Staples Program,2025-06,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2022-07,0.0,0.0,
-The Center for Wellness and Recovery (Toccoa),2022-08,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2022-09,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2022-10,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2022-11,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2022-12,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-01,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-02,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-03,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-04,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-05,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-06,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-07,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-08,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-09,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-10,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-11,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2023-12,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2024-01,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2024-02,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2024-03,0.0,0.0,0.0
-The Center for Wellness and Recovery (Toccoa),2024-04,0.0,0.0,0.0
+Stephens: New Hope BC Senior Staples Program,2024-05 to 2025-06,0.0,0.0,0.0
+The Center for Wellness and Recovery (Toccoa),2022-07 to 2024-04,0.0,0.0,0.0
 The Center for Wellness and Recovery (Toccoa),2024-05,366.0,366.0,inf
 The Center for Wellness and Recovery (Toccoa),2024-06,0.0,-366.0,-1.0
 The Center for Wellness and Recovery (Toccoa),2024-07,1026.0,1026.0,inf
-The Center for Wellness and Recovery (Toccoa),2024-08,655.0,-371.0,-0.361598440545809
-The Center for Wellness and Recovery (Toccoa),2024-09,539.0,-116.0,-0.17709923664122137
-The Center for Wellness and Recovery (Toccoa),2024-10,622.0,83.0,0.15398886827458255
-The Center for Wellness and Recovery (Toccoa),2024-11,488.0,-134.0,-0.21543408360128619
-The Center for Wellness and Recovery (Toccoa),2024-12,918.0,430.0,0.8811475409836066
-The Center for Wellness and Recovery (Toccoa),2025-01,1261.0,343.0,0.37363834422657954
-The Center for Wellness and Recovery (Toccoa),2025-02,622.0,-639.0,-0.5067406819984139
-The Center for Wellness and Recovery (Toccoa),2025-03,498.0,-124.0,-0.19935691318327975
+The Center for Wellness and Recovery (Toccoa),2024-08,655.0,-371.0,-0.362
+The Center for Wellness and Recovery (Toccoa),2024-09,539.0,-116.0,-0.177
+The Center for Wellness and Recovery (Toccoa),2024-10,622.0,83.0,0.154
+The Center for Wellness and Recovery (Toccoa),2024-11,488.0,-134.0,-0.215
+The Center for Wellness and Recovery (Toccoa),2024-12,918.0,430.0,0.881
+The Center for Wellness and Recovery (Toccoa),2025-01,1261.0,343.0,0.374
+The Center for Wellness and Recovery (Toccoa),2025-02,622.0,-639.0,-0.507
+The Center for Wellness and Recovery (Toccoa),2025-03,498.0,-124.0,-0.199
 The Center for Wellness and Recovery (Toccoa),2025-04,0.0,-498.0,-1.0
 The Center for Wellness and Recovery (Toccoa),2025-05,397.0,397.0,inf
-The Center for Wellness and Recovery (Toccoa),2025-06,762.0,365.0,0.9193954659949622
-The Hope Center (Toccoa Soup Kitchen),2022-07,474.0,0.0,
-The Hope Center (Toccoa Soup Kitchen),2022-08,734.0,260.0,0.5485232067510548
-The Hope Center (Toccoa Soup Kitchen),2022-09,1425.0,691.0,0.94141689373297
-The Hope Center (Toccoa Soup Kitchen),2022-10,1179.0,-246.0,-0.1726315789473684
-The Hope Center (Toccoa Soup Kitchen),2022-11,130.0,-1049.0,-0.8897370653095844
-The Hope Center (Toccoa Soup Kitchen),2022-12,230.0,100.0,0.7692307692307693
-The Hope Center (Toccoa Soup Kitchen),2023-01,400.0,170.0,0.7391304347826086
+The Center for Wellness and Recovery (Toccoa),2025-06,762.0,365.0,0.919
+The Hope Center (Toccoa Soup Kitchen),2022-07,474.0,0.0,0.0
+The Hope Center (Toccoa Soup Kitchen),2022-08,734.0,260.0,0.549
+The Hope Center (Toccoa Soup Kitchen),2022-09,1425.0,691.0,0.941
+The Hope Center (Toccoa Soup Kitchen),2022-10,1179.0,-246.0,-0.173
+The Hope Center (Toccoa Soup Kitchen),2022-11,130.0,-1049.0,-0.89
+The Hope Center (Toccoa Soup Kitchen),2022-12,230.0,100.0,0.769
+The Hope Center (Toccoa Soup Kitchen),2023-01,400.0,170.0,0.739
 The Hope Center (Toccoa Soup Kitchen),2023-02,142.0,-258.0,-0.645
 The Hope Center (Toccoa Soup Kitchen),2023-03,0.0,-142.0,-1.0
 The Hope Center (Toccoa Soup Kitchen),2023-04,118.0,118.0,inf
-The Hope Center (Toccoa Soup Kitchen),2023-05,328.0,210.0,1.7796610169491525
-The Hope Center (Toccoa Soup Kitchen),2023-06,543.0,215.0,0.6554878048780488
-The Hope Center (Toccoa Soup Kitchen),2023-07,550.0,7.0,0.01289134438305709
-The Hope Center (Toccoa Soup Kitchen),2023-08,676.0,126.0,0.2290909090909091
-The Hope Center (Toccoa Soup Kitchen),2023-09,502.0,-174.0,-0.257396449704142
-The Hope Center (Toccoa Soup Kitchen),2023-10,1132.0,630.0,1.254980079681275
-The Hope Center (Toccoa Soup Kitchen),2023-11,1017.0,-115.0,-0.10159010600706714
-The Hope Center (Toccoa Soup Kitchen),2023-12,46.0,-971.0,-0.9547689282202556
-The Hope Center (Toccoa Soup Kitchen),2024-01,968.0,922.0,20.043478260869566
+The Hope Center (Toccoa Soup Kitchen),2023-05,328.0,210.0,1.78
+The Hope Center (Toccoa Soup Kitchen),2023-06,543.0,215.0,0.655
+The Hope Center (Toccoa Soup Kitchen),2023-07,550.0,7.0,0.013
+The Hope Center (Toccoa Soup Kitchen),2023-08,676.0,126.0,0.229
+The Hope Center (Toccoa Soup Kitchen),2023-09,502.0,-174.0,-0.257
+The Hope Center (Toccoa Soup Kitchen),2023-10,1132.0,630.0,1.255
+The Hope Center (Toccoa Soup Kitchen),2023-11,1017.0,-115.0,-0.102
+The Hope Center (Toccoa Soup Kitchen),2023-12,46.0,-971.0,-0.955
+The Hope Center (Toccoa Soup Kitchen),2024-01,968.0,922.0,20.043
 The Hope Center (Toccoa Soup Kitchen),2024-02,0.0,-968.0,-1.0
 The Hope Center (Toccoa Soup Kitchen),2024-03,1652.0,1652.0,inf
-The Hope Center (Toccoa Soup Kitchen),2024-04,1778.0,126.0,0.07627118644067797
-The Hope Center (Toccoa Soup Kitchen),2024-05,623.0,-1155.0,-0.6496062992125984
-The Hope Center (Toccoa Soup Kitchen),2024-06,1210.0,587.0,0.942215088282504
+The Hope Center (Toccoa Soup Kitchen),2024-04,1778.0,126.0,0.076
+The Hope Center (Toccoa Soup Kitchen),2024-05,623.0,-1155.0,-0.65
+The Hope Center (Toccoa Soup Kitchen),2024-06,1210.0,587.0,0.942
 The Hope Center (Toccoa Soup Kitchen),2024-07,0.0,-1210.0,-1.0
 The Hope Center (Toccoa Soup Kitchen),2024-08,536.0,536.0,inf
-The Hope Center (Toccoa Soup Kitchen),2024-09,732.0,196.0,0.3656716417910448
-The Hope Center (Toccoa Soup Kitchen),2024-10,1568.0,836.0,1.1420765027322404
+The Hope Center (Toccoa Soup Kitchen),2024-09,732.0,196.0,0.366
+The Hope Center (Toccoa Soup Kitchen),2024-10,1568.0,836.0,1.142
 The Hope Center (Toccoa Soup Kitchen),2024-11,0.0,-1568.0,-1.0
 The Hope Center (Toccoa Soup Kitchen),2024-12,639.0,639.0,inf
-The Hope Center (Toccoa Soup Kitchen),2025-01,360.0,-279.0,-0.43661971830985913
-The Hope Center (Toccoa Soup Kitchen),2025-02,838.0,478.0,1.3277777777777777
-The Hope Center (Toccoa Soup Kitchen),2025-03,513.0,-325.0,-0.38782816229116945
-The Hope Center (Toccoa Soup Kitchen),2025-04,862.0,349.0,0.6803118908382066
-The Hope Center (Toccoa Soup Kitchen),2025-05,892.0,30.0,0.03480278422273782
-The Hope Center (Toccoa Soup Kitchen),2025-06,899.0,7.0,0.007847533632286996
-The Salvation Army - Toccoa Co,2022-07,2877.0,0.0,
-The Salvation Army - Toccoa Co,2022-08,5900.0,3023.0,1.0507473062217587
-The Salvation Army - Toccoa Co,2022-09,3213.0,-2687.0,-0.4554237288135593
-The Salvation Army - Toccoa Co,2022-10,2731.0,-482.0,-0.15001556178026768
-The Salvation Army - Toccoa Co,2022-11,3642.0,911.0,0.33357744415964846
-The Salvation Army - Toccoa Co,2022-12,3709.0,67.0,0.018396485447556288
-The Salvation Army - Toccoa Co,2023-01,2178.0,-1531.0,-0.41277972499325966
-The Salvation Army - Toccoa Co,2023-02,1332.0,-846.0,-0.3884297520661157
-The Salvation Army - Toccoa Co,2023-03,1460.0,128.0,0.0960960960960961
-The Salvation Army - Toccoa Co,2023-04,1872.0,412.0,0.2821917808219178
+The Hope Center (Toccoa Soup Kitchen),2025-01,360.0,-279.0,-0.437
+The Hope Center (Toccoa Soup Kitchen),2025-02,838.0,478.0,1.328
+The Hope Center (Toccoa Soup Kitchen),2025-03,513.0,-325.0,-0.388
+The Hope Center (Toccoa Soup Kitchen),2025-04,862.0,349.0,0.68
+The Hope Center (Toccoa Soup Kitchen),2025-05,892.0,30.0,0.035
+The Hope Center (Toccoa Soup Kitchen),2025-06,899.0,7.0,0.008
+The Salvation Army - Toccoa Co,2022-07,2877.0,0.0,0.0
+The Salvation Army - Toccoa Co,2022-08,5900.0,3023.0,1.051
+The Salvation Army - Toccoa Co,2022-09,3213.0,-2687.0,-0.455
+The Salvation Army - Toccoa Co,2022-10,2731.0,-482.0,-0.15
+The Salvation Army - Toccoa Co,2022-11,3642.0,911.0,0.334
+The Salvation Army - Toccoa Co,2022-12,3709.0,67.0,0.018
+The Salvation Army - Toccoa Co,2023-01,2178.0,-1531.0,-0.413
+The Salvation Army - Toccoa Co,2023-02,1332.0,-846.0,-0.388
+The Salvation Army - Toccoa Co,2023-03,1460.0,128.0,0.096
+The Salvation Army - Toccoa Co,2023-04,1872.0,412.0,0.282
 The Salvation Army - Toccoa Co,2023-05,0.0,-1872.0,-1.0
 The Salvation Army - Toccoa Co,2023-06,0.0,0.0,0.0
 The Salvation Army - Toccoa Co,2023-07,2644.0,2644.0,inf
-The Salvation Army - Toccoa Co,2023-08,1486.0,-1158.0,-0.4379727685325265
+The Salvation Army - Toccoa Co,2023-08,1486.0,-1158.0,-0.438
 The Salvation Army - Toccoa Co,2023-09,0.0,-1486.0,-1.0
 The Salvation Army - Toccoa Co,2023-10,4228.0,4228.0,inf
-The Salvation Army - Toccoa Co,2023-11,2976.0,-1252.0,-0.2961210974456008
-The Salvation Army - Toccoa Co,2023-12,2414.0,-562.0,-0.18884408602150538
-The Salvation Army - Toccoa Co,2024-01,2874.0,460.0,0.19055509527754763
-The Salvation Army - Toccoa Co,2024-02,3186.0,312.0,0.10855949895615867
-The Salvation Army - Toccoa Co,2024-03,3513.0,327.0,0.10263653483992467
-The Salvation Army - Toccoa Co,2024-04,3575.0,62.0,0.017648733276401936
-The Salvation Army - Toccoa Co,2024-05,4356.0,781.0,0.21846153846153846
-The Salvation Army - Toccoa Co,2024-06,3935.0,-421.0,-0.09664830119375574
-The Salvation Army - Toccoa Co,2024-07,3077.0,-858.0,-0.21804320203303684
-The Salvation Army - Toccoa Co,2024-08,3037.0,-40.0,-0.012999675008124796
-The Salvation Army - Toccoa Co,2024-09,4474.0,1437.0,0.47316430688179123
-The Salvation Army - Toccoa Co,2024-10,3458.0,-1016.0,-0.22708985248100133
-The Salvation Army - Toccoa Co,2024-11,4172.0,714.0,0.20647773279352227
-The Salvation Army - Toccoa Co,2024-12,2943.0,-1229.0,-0.2945829338446788
-The Salvation Army - Toccoa Co,2025-01,4362.0,1419.0,0.48216106014271154
-The Salvation Army - Toccoa Co,2025-02,5336.0,974.0,0.22329206785878036
-The Salvation Army - Toccoa Co,2025-03,7544.0,2208.0,0.41379310344827586
-The Salvation Army - Toccoa Co,2025-04,5690.0,-1854.0,-0.24575821845174972
-The Salvation Army - Toccoa Co,2025-05,2076.0,-3614.0,-0.6351493848857644
-The Salvation Army - Toccoa Co,2025-06,17642.0,15566.0,7.498073217726397
-The Springs of Toccoa,2022-07,9000.0,0.0,
-The Springs of Toccoa,2022-08,7877.0,-1123.0,-0.12477777777777778
-The Springs of Toccoa,2022-09,9677.0,1800.0,0.22851339342389235
-The Springs of Toccoa,2022-10,7193.0,-2484.0,-0.2566911232820089
-The Springs of Toccoa,2022-11,7880.0,687.0,0.09550952314750452
-The Springs of Toccoa,2022-12,5028.0,-2852.0,-0.3619289340101523
-The Springs of Toccoa,2023-01,6893.0,1865.0,0.3709228321400159
-The Springs of Toccoa,2023-02,7798.0,905.0,0.131292615697084
-The Springs of Toccoa,2023-03,6278.0,-1520.0,-0.1949217748140549
-The Springs of Toccoa,2023-04,9678.0,3400.0,0.5415737496017841
-The Springs of Toccoa,2023-05,8133.0,-1545.0,-0.1596404215747055
-The Springs of Toccoa,2023-06,3436.0,-4697.0,-0.577523669002828
-The Springs of Toccoa,2023-07,5382.0,1946.0,0.5663562281722934
-The Springs of Toccoa,2023-08,7547.0,2165.0,0.40226681531029357
-The Springs of Toccoa,2023-09,5600.0,-1947.0,-0.25798330462435404
-The Springs of Toccoa,2023-10,8031.0,2431.0,0.43410714285714286
+The Salvation Army - Toccoa Co,2023-11,2976.0,-1252.0,-0.296
+The Salvation Army - Toccoa Co,2023-12,2414.0,-562.0,-0.189
+The Salvation Army - Toccoa Co,2024-01,2874.0,460.0,0.191
+The Salvation Army - Toccoa Co,2024-02,3186.0,312.0,0.109
+The Salvation Army - Toccoa Co,2024-03,3513.0,327.0,0.103
+The Salvation Army - Toccoa Co,2024-04,3575.0,62.0,0.018
+The Salvation Army - Toccoa Co,2024-05,4356.0,781.0,0.218
+The Salvation Army - Toccoa Co,2024-06,3935.0,-421.0,-0.097
+The Salvation Army - Toccoa Co,2024-07,3077.0,-858.0,-0.218
+The Salvation Army - Toccoa Co,2024-08,3037.0,-40.0,-0.013
+The Salvation Army - Toccoa Co,2024-09,4474.0,1437.0,0.473
+The Salvation Army - Toccoa Co,2024-10,3458.0,-1016.0,-0.227
+The Salvation Army - Toccoa Co,2024-11,4172.0,714.0,0.206
+The Salvation Army - Toccoa Co,2024-12,2943.0,-1229.0,-0.295
+The Salvation Army - Toccoa Co,2025-01,4362.0,1419.0,0.482
+The Salvation Army - Toccoa Co,2025-02,5336.0,974.0,0.223
+The Salvation Army - Toccoa Co,2025-03,7544.0,2208.0,0.414
+The Salvation Army - Toccoa Co,2025-04,5690.0,-1854.0,-0.246
+The Salvation Army - Toccoa Co,2025-05,2076.0,-3614.0,-0.635
+The Salvation Army - Toccoa Co,2025-06,17642.0,15566.0,7.498
+The Springs of Toccoa,2022-07,9000.0,0.0,0.0
+The Springs of Toccoa,2022-08,7877.0,-1123.0,-0.125
+The Springs of Toccoa,2022-09,9677.0,1800.0,0.229
+The Springs of Toccoa,2022-10,7193.0,-2484.0,-0.257
+The Springs of Toccoa,2022-11,7880.0,687.0,0.096
+The Springs of Toccoa,2022-12,5028.0,-2852.0,-0.362
+The Springs of Toccoa,2023-01,6893.0,1865.0,0.371
+The Springs of Toccoa,2023-02,7798.0,905.0,0.131
+The Springs of Toccoa,2023-03,6278.0,-1520.0,-0.195
+The Springs of Toccoa,2023-04,9678.0,3400.0,0.542
+The Springs of Toccoa,2023-05,8133.0,-1545.0,-0.16
+The Springs of Toccoa,2023-06,3436.0,-4697.0,-0.578
+The Springs of Toccoa,2023-07,5382.0,1946.0,0.566
+The Springs of Toccoa,2023-08,7547.0,2165.0,0.402
+The Springs of Toccoa,2023-09,5600.0,-1947.0,-0.258
+The Springs of Toccoa,2023-10,8031.0,2431.0,0.434
 The Springs of Toccoa,2023-11,0.0,-8031.0,-1.0
 The Springs of Toccoa,2023-12,7859.0,7859.0,inf
-The Springs of Toccoa,2024-01,8384.0,525.0,0.06680239216185266
-The Springs of Toccoa,2024-02,7798.0,-586.0,-0.06989503816793893
-The Springs of Toccoa,2024-03,8372.0,574.0,0.07360861759425494
-The Springs of Toccoa,2024-04,7555.0,-817.0,-0.09758719541328237
-The Springs of Toccoa,2024-05,8028.0,473.0,0.06260754467240238
-The Springs of Toccoa,2024-06,9758.0,1730.0,0.21549576482311908
-The Springs of Toccoa,2024-07,7219.0,-2539.0,-0.26019676163148187
-The Springs of Toccoa,2024-08,7300.0,81.0,0.011220390635822136
-The Springs of Toccoa,2024-09,9360.0,2060.0,0.2821917808219178
-The Springs of Toccoa,2024-10,6127.0,-3233.0,-0.3454059829059829
-The Springs of Toccoa,2024-11,2800.0,-3327.0,-0.5430063652684838
-The Springs of Toccoa,2024-12,4304.0,1504.0,0.5371428571428571
-The Springs of Toccoa,2025-01,8616.0,4312.0,1.0018587360594795
-The Springs of Toccoa,2025-02,6055.0,-2561.0,-0.2972376973073352
-The Springs of Toccoa,2025-03,9437.0,3382.0,0.5585466556564822
-The Springs of Toccoa,2025-04,8988.0,-449.0,-0.047578679665147824
-The Springs of Toccoa,2025-05,8943.0,-45.0,-0.005006675567423231
-The Springs of Toccoa,2025-06,8619.0,-324.0,-0.03622945320362295
-The Village,2022-07,0.0,0.0,
-The Village,2022-08,0.0,0.0,0.0
-The Village,2022-09,0.0,0.0,0.0
-The Village,2022-10,0.0,0.0,0.0
-The Village,2022-11,0.0,0.0,0.0
-The Village,2022-12,0.0,0.0,0.0
-The Village,2023-01,0.0,0.0,0.0
-The Village,2023-02,0.0,0.0,0.0
-The Village,2023-03,0.0,0.0,0.0
-The Village,2023-04,0.0,0.0,0.0
-The Village,2023-05,0.0,0.0,0.0
-The Village,2023-06,0.0,0.0,0.0
-The Village,2023-07,0.0,0.0,0.0
-The Village,2023-08,0.0,0.0,0.0
-The Village,2023-09,0.0,0.0,0.0
-The Village,2023-10,0.0,0.0,0.0
-The Village,2023-11,0.0,0.0,0.0
-The Village,2023-12,0.0,0.0,0.0
-The Village,2024-01,0.0,0.0,0.0
-The Village,2024-02,0.0,0.0,0.0
-The Village,2024-03,0.0,0.0,0.0
-The Village,2024-04,0.0,0.0,0.0
-The Village,2024-05,0.0,0.0,0.0
-The Village,2024-06,0.0,0.0,0.0
+The Springs of Toccoa,2024-01,8384.0,525.0,0.067
+The Springs of Toccoa,2024-02,7798.0,-586.0,-0.07
+The Springs of Toccoa,2024-03,8372.0,574.0,0.074
+The Springs of Toccoa,2024-04,7555.0,-817.0,-0.098
+The Springs of Toccoa,2024-05,8028.0,473.0,0.063
+The Springs of Toccoa,2024-06,9758.0,1730.0,0.215
+The Springs of Toccoa,2024-07,7219.0,-2539.0,-0.26
+The Springs of Toccoa,2024-08,7300.0,81.0,0.011
+The Springs of Toccoa,2024-09,9360.0,2060.0,0.282
+The Springs of Toccoa,2024-10,6127.0,-3233.0,-0.345
+The Springs of Toccoa,2024-11,2800.0,-3327.0,-0.543
+The Springs of Toccoa,2024-12,4304.0,1504.0,0.537
+The Springs of Toccoa,2025-01,8616.0,4312.0,1.002
+The Springs of Toccoa,2025-02,6055.0,-2561.0,-0.297
+The Springs of Toccoa,2025-03,9437.0,3382.0,0.559
+The Springs of Toccoa,2025-04,8988.0,-449.0,-0.048
+The Springs of Toccoa,2025-05,8943.0,-45.0,-0.005
+The Springs of Toccoa,2025-06,8619.0,-324.0,-0.036
+The Village,2022-07 to 2024-06,0.0,0.0,0.0
 The Village,2024-07,1258.0,1258.0,inf
-The Village,2024-08,1436.0,178.0,0.14149443561208266
+The Village,2024-08,1436.0,178.0,0.141
 The Village,2024-09,0.0,-1436.0,-1.0
-The Village,2024-10,0.0,0.0,0.0
-The Village,2024-11,0.0,0.0,0.0
-The Village,2024-12,0.0,0.0,0.0
-The Village,2025-01,0.0,0.0,0.0
-The Village,2025-02,0.0,0.0,0.0
+The Village,2024-10 to 2025-02,0.0,0.0,0.0
 The Village,2025-03,506.0,506.0,inf
-The Village,2025-04,946.0,440.0,0.8695652173913043
-The Village,2025-05,260.0,-686.0,-0.7251585623678647
-The Village,2025-06,219.0,-41.0,-0.1576923076923077
-Voice of Hope SDA Church,2022-07,0.0,0.0,
-Voice of Hope SDA Church,2022-08,0.0,0.0,0.0
-Voice of Hope SDA Church,2022-09,0.0,0.0,0.0
-Voice of Hope SDA Church,2022-10,0.0,0.0,0.0
-Voice of Hope SDA Church,2022-11,0.0,0.0,0.0
-Voice of Hope SDA Church,2022-12,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-01,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-02,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-03,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-04,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-05,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-06,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-07,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-08,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-09,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-10,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-11,0.0,0.0,0.0
-Voice of Hope SDA Church,2023-12,0.0,0.0,0.0
-Voice of Hope SDA Church,2024-01,0.0,0.0,0.0
-Voice of Hope SDA Church,2024-02,0.0,0.0,0.0
+The Village,2025-04,946.0,440.0,0.87
+The Village,2025-05,260.0,-686.0,-0.725
+The Village,2025-06,219.0,-41.0,-0.158
+Voice of Hope SDA Church,2022-07 to 2024-02,0.0,0.0,0.0
 Voice of Hope SDA Church,2024-03,1789.0,1789.0,inf
-Voice of Hope SDA Church,2024-04,3370.0,1581.0,0.883733929569592
-Voice of Hope SDA Church,2024-05,1889.0,-1481.0,-0.43946587537091986
-Voice of Hope SDA Church,2024-06,1865.0,-24.0,-0.01270513499205929
-Voice of Hope SDA Church,2024-07,3531.0,1666.0,0.8932975871313673
+Voice of Hope SDA Church,2024-04,3370.0,1581.0,0.884
+Voice of Hope SDA Church,2024-05,1889.0,-1481.0,-0.439
+Voice of Hope SDA Church,2024-06,1865.0,-24.0,-0.013
+Voice of Hope SDA Church,2024-07,3531.0,1666.0,0.893
 Voice of Hope SDA Church,2024-08,0.0,-3531.0,-1.0
 Voice of Hope SDA Church,2024-09,0.0,0.0,0.0
 Voice of Hope SDA Church,2024-10,3499.0,3499.0,inf
 Voice of Hope SDA Church,2024-11,0.0,-3499.0,-1.0
 Voice of Hope SDA Church,2024-12,1150.0,1150.0,inf
-Voice of Hope SDA Church,2025-01,701.0,-449.0,-0.39043478260869563
-Voice of Hope SDA Church,2025-02,3981.0,3280.0,4.679029957203994
+Voice of Hope SDA Church,2025-01,701.0,-449.0,-0.39
+Voice of Hope SDA Church,2025-02,3981.0,3280.0,4.679
 Voice of Hope SDA Church,2025-03,0.0,-3981.0,-1.0
 Voice of Hope SDA Church,2025-04,3279.0,3279.0,inf
-Voice of Hope SDA Church,2025-05,474.0,-2805.0,-0.8554437328453797
-Voice of Hope SDA Church,2025-06,1294.48,820.48,1.7309704641350212
-Zebulon Baptist Church,2022-07,9687.0,0.0,
-Zebulon Baptist Church,2022-08,6250.0,-3437.0,-0.3548054093114483
-Zebulon Baptist Church,2022-09,7996.0,1746.0,0.27936
-Zebulon Baptist Church,2022-10,5241.0,-2755.0,-0.3445472736368184
-Zebulon Baptist Church,2022-11,6044.0,803.0,0.15321503529860714
-Zebulon Baptist Church,2022-12,3105.0,-2939.0,-0.48626737260092656
-Zebulon Baptist Church,2023-01,4623.0,1518.0,0.4888888888888889
-Zebulon Baptist Church,2023-02,4105.0,-518.0,-0.11204845338524767
-Zebulon Baptist Church,2023-03,3752.0,-353.0,-0.08599269183922047
-Zebulon Baptist Church,2023-04,4790.0,1038.0,0.27665245202558636
-Zebulon Baptist Church,2023-05,4029.0,-761.0,-0.15887265135699374
-Zebulon Baptist Church,2023-06,3969.0,-60.0,-0.014892032762472078
-Zebulon Baptist Church,2023-07,4982.0,1013.0,0.25522801713277904
-Zebulon Baptist Church,2023-08,6567.0,1585.0,0.31814532316338817
-Zebulon Baptist Church,2023-09,3103.0,-3464.0,-0.5274859144205878
-Zebulon Baptist Church,2023-10,3169.0,66.0,0.021269738962294553
-Zebulon Baptist Church,2023-11,5496.0,2327.0,0.7343010413379615
-Zebulon Baptist Church,2023-12,3536.0,-1960.0,-0.35662299854439594
-Zebulon Baptist Church,2024-01,2986.0,-550.0,-0.15554298642533937
-Zebulon Baptist Church,2024-02,4617.0,1631.0,0.5462156731413262
-Zebulon Baptist Church,2024-03,5113.0,496.0,0.10742906649339398
-Zebulon Baptist Church,2024-04,4431.0,-682.0,-0.1333854879718365
-Zebulon Baptist Church,2024-05,5512.0,1081.0,0.2439629880388174
-Zebulon Baptist Church,2024-06,5317.0,-195.0,-0.03537735849056604
-Zebulon Baptist Church,2024-07,4392.0,-925.0,-0.17397028399473388
-Zebulon Baptist Church,2024-08,7388.0,2996.0,0.6821493624772313
-Zebulon Baptist Church,2024-09,4434.0,-2954.0,-0.39983757444504603
-Zebulon Baptist Church,2024-10,5825.0,1391.0,0.3137122237257555
-Zebulon Baptist Church,2024-11,8501.0,2676.0,0.4593991416309013
-Zebulon Baptist Church,2024-12,3843.0,-4658.0,-0.5479355369956476
-Zebulon Baptist Church,2025-01,5816.0,1973.0,0.5134009888108249
-Zebulon Baptist Church,2025-02,6785.0,969.0,0.16660935350756534
-Zebulon Baptist Church,2025-03,5841.0,-944.0,-0.1391304347826087
-Zebulon Baptist Church,2025-04,9127.0,3286.0,0.5625749015579524
-Zebulon Baptist Church,2025-05,6092.0,-3035.0,-0.3325298564698148
-Zebulon Baptist Church,2025-06,7787.0,1695.0,0.2782337491792515
+Voice of Hope SDA Church,2025-05,474.0,-2805.0,-0.855
+Voice of Hope SDA Church,2025-06,1294.48,820.48,1.731
+Zebulon Baptist Church,2022-07,9687.0,0.0,0.0
+Zebulon Baptist Church,2022-08,6250.0,-3437.0,-0.355
+Zebulon Baptist Church,2022-09,7996.0,1746.0,0.279
+Zebulon Baptist Church,2022-10,5241.0,-2755.0,-0.345
+Zebulon Baptist Church,2022-11,6044.0,803.0,0.153
+Zebulon Baptist Church,2022-12,3105.0,-2939.0,-0.486
+Zebulon Baptist Church,2023-01,4623.0,1518.0,0.489
+Zebulon Baptist Church,2023-02,4105.0,-518.0,-0.112
+Zebulon Baptist Church,2023-03,3752.0,-353.0,-0.086
+Zebulon Baptist Church,2023-04,4790.0,1038.0,0.277
+Zebulon Baptist Church,2023-05,4029.0,-761.0,-0.159
+Zebulon Baptist Church,2023-06,3969.0,-60.0,-0.015
+Zebulon Baptist Church,2023-07,4982.0,1013.0,0.255
+Zebulon Baptist Church,2023-08,6567.0,1585.0,0.318
+Zebulon Baptist Church,2023-09,3103.0,-3464.0,-0.527
+Zebulon Baptist Church,2023-10,3169.0,66.0,0.021
+Zebulon Baptist Church,2023-11,5496.0,2327.0,0.734
+Zebulon Baptist Church,2023-12,3536.0,-1960.0,-0.357
+Zebulon Baptist Church,2024-01,2986.0,-550.0,-0.156
+Zebulon Baptist Church,2024-02,4617.0,1631.0,0.546
+Zebulon Baptist Church,2024-03,5113.0,496.0,0.107
+Zebulon Baptist Church,2024-04,4431.0,-682.0,-0.133
+Zebulon Baptist Church,2024-05,5512.0,1081.0,0.244
+Zebulon Baptist Church,2024-06,5317.0,-195.0,-0.035
+Zebulon Baptist Church,2024-07,4392.0,-925.0,-0.174
+Zebulon Baptist Church,2024-08,7388.0,2996.0,0.682
+Zebulon Baptist Church,2024-09,4434.0,-2954.0,-0.4
+Zebulon Baptist Church,2024-10,5825.0,1391.0,0.314
+Zebulon Baptist Church,2024-11,8501.0,2676.0,0.459
+Zebulon Baptist Church,2024-12,3843.0,-4658.0,-0.548
+Zebulon Baptist Church,2025-01,5816.0,1973.0,0.513
+Zebulon Baptist Church,2025-02,6785.0,969.0,0.167
+Zebulon Baptist Church,2025-03,5841.0,-944.0,-0.139
+Zebulon Baptist Church,2025-04,9127.0,3286.0,0.563
+Zebulon Baptist Church,2025-05,6092.0,-3035.0,-0.333
+Zebulon Baptist Church,2025-06,7787.0,1695.0,0.278

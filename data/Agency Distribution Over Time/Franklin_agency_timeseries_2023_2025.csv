@@ -1,613 +1,300 @@
 Agency,Time,dist_volume,delta,pct_change
-Connections for Special Parents (CSP),2022-07,0.0,0.0,
-Connections for Special Parents (CSP),2022-08,0.0,0.0,0.0
-Connections for Special Parents (CSP),2022-09,0.0,0.0,0.0
-Connections for Special Parents (CSP),2022-10,0.0,0.0,0.0
-Connections for Special Parents (CSP),2022-11,0.0,0.0,0.0
-Connections for Special Parents (CSP),2022-12,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-01,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-02,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-03,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-04,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-05,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-06,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-07,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-08,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-09,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-10,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-11,0.0,0.0,0.0
-Connections for Special Parents (CSP),2023-12,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-01,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-02,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-03,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-04,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-05,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-06,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-07,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-08,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-09,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-10,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-11,0.0,0.0,0.0
-Connections for Special Parents (CSP),2024-12,0.0,0.0,0.0
-Connections for Special Parents (CSP),2025-01,0.0,0.0,0.0
-Connections for Special Parents (CSP),2025-02,0.0,0.0,0.0
-Connections for Special Parents (CSP),2025-03,0.0,0.0,0.0
-Connections for Special Parents (CSP),2025-04,0.0,0.0,0.0
+Connections for Special Parents (CSP),2022-07 to 2025-04,0.0,0.0,0.0
 Connections for Special Parents (CSP),2025-05,2423.0,2423.0,inf
-Connections for Special Parents (CSP),2025-06,1964.08,-458.9200000000001,-0.1894015683037557
-Decal Grant Franklin Head Start,2022-07,0.0,0.0,
-Decal Grant Franklin Head Start,2022-08,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2022-09,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2022-10,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2022-11,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2022-12,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-01,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-02,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-03,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-04,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-05,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-06,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-07,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-08,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-09,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-10,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-11,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2023-12,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-01,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-02,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-03,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-04,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-05,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-06,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-07,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-08,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-09,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-10,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2024-11,0.0,0.0,0.0
+Connections for Special Parents (CSP),2025-06,1964.08,-458.9200000000001,-0.189
+Decal Grant Franklin Head Start,2022-07 to 2024-11,0.0,0.0,0.0
 Decal Grant Franklin Head Start,2024-12,1661.0,1661.0,inf
 Decal Grant Franklin Head Start,2025-01,0.0,-1661.0,-1.0
-Decal Grant Franklin Head Start,2025-02,0.0,0.0,0.0
-Decal Grant Franklin Head Start,2025-03,0.0,0.0,0.0
+Decal Grant Franklin Head Start,2025-02 to 2025-03,0.0,0.0,0.0
 Decal Grant Franklin Head Start,2025-04,8752.0,8752.0,inf
 Decal Grant Franklin Head Start,2025-05,0.0,-8752.0,-1.0
 Decal Grant Franklin Head Start,2025-06,0.0,0.0,0.0
-F2K 360 Franklin,2022-07,0.0,0.0,
+F2K 360 Franklin,2022-07,0.0,0.0,0.0
 F2K 360 Franklin,2022-08,2625.0,2625.0,inf
 F2K 360 Franklin,2022-09,0.0,-2625.0,-1.0
-F2K 360 Franklin,2022-10,0.0,0.0,0.0
-F2K 360 Franklin,2022-11,0.0,0.0,0.0
-F2K 360 Franklin,2022-12,0.0,0.0,0.0
-F2K 360 Franklin,2023-01,0.0,0.0,0.0
-F2K 360 Franklin,2023-02,0.0,0.0,0.0
-F2K 360 Franklin,2023-03,0.0,0.0,0.0
-F2K 360 Franklin,2023-04,0.0,0.0,0.0
-F2K 360 Franklin,2023-05,0.0,0.0,0.0
-F2K 360 Franklin,2023-06,0.0,0.0,0.0
-F2K 360 Franklin,2023-07,0.0,0.0,0.0
-F2K 360 Franklin,2023-08,0.0,0.0,0.0
-F2K 360 Franklin,2023-09,0.0,0.0,0.0
-F2K 360 Franklin,2023-10,0.0,0.0,0.0
-F2K 360 Franklin,2023-11,0.0,0.0,0.0
-F2K 360 Franklin,2023-12,0.0,0.0,0.0
-F2K 360 Franklin,2024-01,0.0,0.0,0.0
-F2K 360 Franklin,2024-02,0.0,0.0,0.0
-F2K 360 Franklin,2024-03,0.0,0.0,0.0
-F2K 360 Franklin,2024-04,0.0,0.0,0.0
-F2K 360 Franklin,2024-05,0.0,0.0,0.0
-F2K 360 Franklin,2024-06,0.0,0.0,0.0
-F2K 360 Franklin,2024-07,0.0,0.0,0.0
-F2K 360 Franklin,2024-08,0.0,0.0,0.0
-F2K 360 Franklin,2024-09,0.0,0.0,0.0
-F2K 360 Franklin,2024-10,0.0,0.0,0.0
-F2K 360 Franklin,2024-11,0.0,0.0,0.0
-F2K 360 Franklin,2024-12,0.0,0.0,0.0
-F2K 360 Franklin,2025-01,0.0,0.0,0.0
-F2K 360 Franklin,2025-02,0.0,0.0,0.0
-F2K 360 Franklin,2025-03,0.0,0.0,0.0
-F2K 360 Franklin,2025-04,0.0,0.0,0.0
-F2K 360 Franklin,2025-05,0.0,0.0,0.0
-F2K 360 Franklin,2025-06,0.0,0.0,0.0
-Food to Kids Franklin County,2022-07,0.0,0.0,
-Food to Kids Franklin County,2022-08,0.0,0.0,0.0
-Food to Kids Franklin County,2022-09,0.0,0.0,0.0
+F2K 360 Franklin,2022-10 to 2025-06,0.0,0.0,0.0
+Food to Kids Franklin County,2022-07 to 2022-09,0.0,0.0,0.0
 Food to Kids Franklin County,2022-10,468.0,468.0,inf
-Food to Kids Franklin County,2022-11,624.0,156.0,0.3333333333333333
+Food to Kids Franklin County,2022-11,624.0,156.0,0.333
 Food to Kids Franklin County,2022-12,780.0,156.0,0.25
 Food to Kids Franklin County,2023-01,468.0,-312.0,-0.4
-Food to Kids Franklin County,2023-02,624.0,156.0,0.3333333333333333
+Food to Kids Franklin County,2023-02,624.0,156.0,0.333
 Food to Kids Franklin County,2023-03,624.0,0.0,0.0
 Food to Kids Franklin County,2023-04,936.0,312.0,0.5
 Food to Kids Franklin County,2023-05,468.0,-468.0,-0.5
-Food to Kids Franklin County,2023-06,624.0,156.0,0.3333333333333333
+Food to Kids Franklin County,2023-06,624.0,156.0,0.333
 Food to Kids Franklin County,2023-07,0.0,-624.0,-1.0
-Food to Kids Franklin County,2023-08,0.0,0.0,0.0
-Food to Kids Franklin County,2023-09,0.0,0.0,0.0
-Food to Kids Franklin County,2023-10,0.0,0.0,0.0
-Food to Kids Franklin County,2023-11,0.0,0.0,0.0
-Food to Kids Franklin County,2023-12,0.0,0.0,0.0
-Food to Kids Franklin County,2024-01,0.0,0.0,0.0
-Food to Kids Franklin County,2024-02,0.0,0.0,0.0
-Food to Kids Franklin County,2024-03,0.0,0.0,0.0
-Food to Kids Franklin County,2024-04,0.0,0.0,0.0
-Food to Kids Franklin County,2024-05,0.0,0.0,0.0
-Food to Kids Franklin County,2024-06,0.0,0.0,0.0
-Food to Kids Franklin County,2024-07,0.0,0.0,0.0
-Food to Kids Franklin County,2024-08,0.0,0.0,0.0
-Food to Kids Franklin County,2024-09,0.0,0.0,0.0
-Food to Kids Franklin County,2024-10,0.0,0.0,0.0
-Food to Kids Franklin County,2024-11,0.0,0.0,0.0
-Food to Kids Franklin County,2024-12,0.0,0.0,0.0
-Food to Kids Franklin County,2025-01,0.0,0.0,0.0
-Food to Kids Franklin County,2025-02,0.0,0.0,0.0
-Food to Kids Franklin County,2025-03,0.0,0.0,0.0
-Food to Kids Franklin County,2025-04,0.0,0.0,0.0
-Food to Kids Franklin County,2025-05,0.0,0.0,0.0
-Food to Kids Franklin County,2025-06,0.0,0.0,0.0
-Franklin County MedLink Georgia,2022-07,0.0,0.0,
-Franklin County MedLink Georgia,2022-08,0.0,0.0,0.0
-Franklin County MedLink Georgia,2022-09,0.0,0.0,0.0
-Franklin County MedLink Georgia,2022-10,0.0,0.0,0.0
-Franklin County MedLink Georgia,2022-11,0.0,0.0,0.0
-Franklin County MedLink Georgia,2022-12,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-01,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-02,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-03,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-04,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-05,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-06,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-07,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-08,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-09,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-10,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-11,0.0,0.0,0.0
-Franklin County MedLink Georgia,2023-12,0.0,0.0,0.0
-Franklin County MedLink Georgia,2024-01,0.0,0.0,0.0
-Franklin County MedLink Georgia,2024-02,0.0,0.0,0.0
-Franklin County MedLink Georgia,2024-03,0.0,0.0,0.0
-Franklin County MedLink Georgia,2024-04,0.0,0.0,0.0
+Food to Kids Franklin County,2023-08 to 2025-06,0.0,0.0,0.0
+Franklin County MedLink Georgia,2022-07 to 2024-04,0.0,0.0,0.0
 Franklin County MedLink Georgia,2024-05,8758.0,8758.0,inf
 Franklin County MedLink Georgia,2024-06,0.0,-8758.0,-1.0
-Franklin County MedLink Georgia,2024-07,0.0,0.0,0.0
-Franklin County MedLink Georgia,2024-08,0.0,0.0,0.0
-Franklin County MedLink Georgia,2024-09,0.0,0.0,0.0
-Franklin County MedLink Georgia,2024-10,0.0,0.0,0.0
-Franklin County MedLink Georgia,2024-11,0.0,0.0,0.0
-Franklin County MedLink Georgia,2024-12,0.0,0.0,0.0
-Franklin County MedLink Georgia,2025-01,0.0,0.0,0.0
-Franklin County MedLink Georgia,2025-02,0.0,0.0,0.0
-Franklin County MedLink Georgia,2025-03,0.0,0.0,0.0
-Franklin County MedLink Georgia,2025-04,0.0,0.0,0.0
-Franklin County MedLink Georgia,2025-05,0.0,0.0,0.0
-Franklin County MedLink Georgia,2025-06,0.0,0.0,0.0
-Franklin Springs Baptist Church,2022-07,0.0,0.0,
-Franklin Springs Baptist Church,2022-08,0.0,0.0,0.0
-Franklin Springs Baptist Church,2022-09,0.0,0.0,0.0
-Franklin Springs Baptist Church,2022-10,0.0,0.0,0.0
-Franklin Springs Baptist Church,2022-11,0.0,0.0,0.0
-Franklin Springs Baptist Church,2022-12,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-01,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-02,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-03,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-04,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-05,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-06,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-07,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-08,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-09,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-10,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-11,0.0,0.0,0.0
-Franklin Springs Baptist Church,2023-12,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-01,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-02,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-03,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-04,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-05,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-06,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-07,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-08,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-09,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-10,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-11,0.0,0.0,0.0
-Franklin Springs Baptist Church,2024-12,0.0,0.0,0.0
-Franklin Springs Baptist Church,2025-01,0.0,0.0,0.0
-Franklin Springs Baptist Church,2025-02,0.0,0.0,0.0
-Franklin Springs Baptist Church,2025-03,0.0,0.0,0.0
-Franklin Springs Baptist Church,2025-04,0.0,0.0,0.0
+Franklin County MedLink Georgia,2024-07 to 2025-06,0.0,0.0,0.0
+Franklin Springs Baptist Church,2022-07 to 2025-04,0.0,0.0,0.0
 Franklin Springs Baptist Church,2025-05,2500.0,2500.0,inf
 Franklin Springs Baptist Church,2025-06,0.0,-2500.0,-1.0
-Franklin: Step of Faith Senior Staples Program,2022-07,606.0,0.0,
+Franklin: Step of Faith Senior Staples Program,2022-07,606.0,0.0,0.0
 Franklin: Step of Faith Senior Staples Program,2022-08,0.0,-606.0,-1.0
 Franklin: Step of Faith Senior Staples Program,2022-09,0.0,0.0,0.0
 Franklin: Step of Faith Senior Staples Program,2022-10,551.0,551.0,inf
-Franklin: Step of Faith Senior Staples Program,2022-11,1637.0,1086.0,1.970961887477314
+Franklin: Step of Faith Senior Staples Program,2022-11,1637.0,1086.0,1.971
 Franklin: Step of Faith Senior Staples Program,2022-12,0.0,-1637.0,-1.0
 Franklin: Step of Faith Senior Staples Program,2023-01,531.0,531.0,inf
-Franklin: Step of Faith Senior Staples Program,2023-02,463.0,-68.0,-0.128060263653484
+Franklin: Step of Faith Senior Staples Program,2023-02,463.0,-68.0,-0.128
 Franklin: Step of Faith Senior Staples Program,2023-03,0.0,-463.0,-1.0
-Franklin: Step of Faith Senior Staples Program,2023-04,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2023-05,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2023-06,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2023-07,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2023-08,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2023-09,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2023-10,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2023-11,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2023-12,0.0,0.0,0.0
+Franklin: Step of Faith Senior Staples Program,2023-04 to 2023-12,0.0,0.0,0.0
 Franklin: Step of Faith Senior Staples Program,2024-01,57.0,57.0,inf
 Franklin: Step of Faith Senior Staples Program,2024-02,0.0,-57.0,-1.0
-Franklin: Step of Faith Senior Staples Program,2024-03,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2024-04,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2024-05,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2024-06,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2024-07,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2024-08,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2024-09,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2024-10,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2024-11,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2024-12,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2025-01,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2025-02,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2025-03,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2025-04,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2025-05,0.0,0.0,0.0
-Franklin: Step of Faith Senior Staples Program,2025-06,0.0,0.0,0.0
-Lavonia Church of God,2022-07,17206.0,0.0,
-Lavonia Church of God,2022-08,9132.0,-8074.0,-0.4692549110775311
-Lavonia Church of God,2022-09,11568.0,2436.0,0.266754270696452
-Lavonia Church of God,2022-10,13541.0,1973.0,0.1705567081604426
-Lavonia Church of God,2022-11,8948.0,-4593.0,-0.33919208330256256
-Lavonia Church of God,2022-12,12276.0,3328.0,0.3719266875279392
-Lavonia Church of God,2023-01,13940.0,1664.0,0.13554903877484523
-Lavonia Church of God,2023-02,11323.0,-2617.0,-0.18773314203730274
-Lavonia Church of God,2023-03,8782.0,-2541.0,-0.2244104919191027
-Lavonia Church of God,2023-04,7992.0,-790.0,-0.08995672967433387
-Lavonia Church of God,2023-05,9104.0,1112.0,0.13913913913913914
-Lavonia Church of God,2023-06,11885.0,2781.0,0.3054701230228471
-Lavonia Church of God,2023-07,13350.0,1465.0,0.12326461926798485
-Lavonia Church of God,2023-08,10464.0,-2886.0,-0.21617977528089888
-Lavonia Church of God,2023-09,16113.0,5649.0,0.5398509174311926
-Lavonia Church of God,2023-10,14599.0,-1514.0,-0.09396139762924346
-Lavonia Church of God,2023-11,11087.0,-3512.0,-0.24056442222070004
-Lavonia Church of God,2023-12,11930.0,843.0,0.07603499594119238
-Lavonia Church of God,2024-01,11784.0,-146.0,-0.012238055322715843
-Lavonia Church of God,2024-02,11929.0,145.0,0.012304820095044128
-Lavonia Church of God,2024-03,11837.0,-92.0,-0.007712297761757063
-Lavonia Church of God,2024-04,12684.0,847.0,0.07155529272619751
-Lavonia Church of God,2024-05,13051.0,367.0,0.02893409019236834
-Lavonia Church of God,2024-06,14329.0,1278.0,0.09792353076392614
-Lavonia Church of God,2024-07,12555.0,-1774.0,-0.12380487124014238
-Lavonia Church of God,2024-08,11365.0,-1190.0,-0.09478295499800876
-Lavonia Church of God,2024-09,12025.0,660.0,0.05807303123625165
-Lavonia Church of God,2024-10,12459.0,434.0,0.036091476091476095
-Lavonia Church of God,2024-11,12791.0,332.0,0.026647403483425636
-Lavonia Church of God,2024-12,12393.0,-398.0,-0.031115628176061293
+Franklin: Step of Faith Senior Staples Program,2024-03 to 2025-06,0.0,0.0,0.0
+Lavonia Church of God,2022-07,17206.0,0.0,0.0
+Lavonia Church of God,2022-08,9132.0,-8074.0,-0.469
+Lavonia Church of God,2022-09,11568.0,2436.0,0.267
+Lavonia Church of God,2022-10,13541.0,1973.0,0.171
+Lavonia Church of God,2022-11,8948.0,-4593.0,-0.339
+Lavonia Church of God,2022-12,12276.0,3328.0,0.372
+Lavonia Church of God,2023-01,13940.0,1664.0,0.136
+Lavonia Church of God,2023-02,11323.0,-2617.0,-0.188
+Lavonia Church of God,2023-03,8782.0,-2541.0,-0.224
+Lavonia Church of God,2023-04,7992.0,-790.0,-0.09
+Lavonia Church of God,2023-05,9104.0,1112.0,0.139
+Lavonia Church of God,2023-06,11885.0,2781.0,0.305
+Lavonia Church of God,2023-07,13350.0,1465.0,0.123
+Lavonia Church of God,2023-08,10464.0,-2886.0,-0.216
+Lavonia Church of God,2023-09,16113.0,5649.0,0.54
+Lavonia Church of God,2023-10,14599.0,-1514.0,-0.094
+Lavonia Church of God,2023-11,11087.0,-3512.0,-0.241
+Lavonia Church of God,2023-12,11930.0,843.0,0.076
+Lavonia Church of God,2024-01,11784.0,-146.0,-0.012
+Lavonia Church of God,2024-02,11929.0,145.0,0.012
+Lavonia Church of God,2024-03,11837.0,-92.0,-0.008
+Lavonia Church of God,2024-04,12684.0,847.0,0.072
+Lavonia Church of God,2024-05,13051.0,367.0,0.029
+Lavonia Church of God,2024-06,14329.0,1278.0,0.098
+Lavonia Church of God,2024-07,12555.0,-1774.0,-0.124
+Lavonia Church of God,2024-08,11365.0,-1190.0,-0.095
+Lavonia Church of God,2024-09,12025.0,660.0,0.058
+Lavonia Church of God,2024-10,12459.0,434.0,0.036
+Lavonia Church of God,2024-11,12791.0,332.0,0.027
+Lavonia Church of God,2024-12,12393.0,-398.0,-0.031
 Lavonia Church of God,2025-01,0.0,-12393.0,-1.0
 Lavonia Church of God,2025-02,13015.0,13015.0,inf
-Lavonia Church of God,2025-03,12985.0,-30.0,-0.002305032654629274
-Lavonia Church of God,2025-04,12746.0,-239.0,-0.018405852907200617
-Lavonia Church of God,2025-05,12017.0,-729.0,-0.05719441393378315
-Lavonia Church of God,2025-06,11384.0,-633.0,-0.05267537654988766
-Lavonia Presbyterian Church,2022-07,0.0,0.0,
-Lavonia Presbyterian Church,2022-08,0.0,0.0,0.0
-Lavonia Presbyterian Church,2022-09,0.0,0.0,0.0
-Lavonia Presbyterian Church,2022-10,0.0,0.0,0.0
-Lavonia Presbyterian Church,2022-11,0.0,0.0,0.0
-Lavonia Presbyterian Church,2022-12,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-01,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-02,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-03,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-04,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-05,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-06,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-07,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-08,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-09,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-10,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-11,0.0,0.0,0.0
-Lavonia Presbyterian Church,2023-12,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-01,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-02,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-03,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-04,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-05,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-06,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-07,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-08,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-09,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-10,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-11,0.0,0.0,0.0
-Lavonia Presbyterian Church,2024-12,0.0,0.0,0.0
-Lavonia Presbyterian Church,2025-01,0.0,0.0,0.0
-Lavonia Presbyterian Church,2025-02,0.0,0.0,0.0
-Lavonia Presbyterian Church,2025-03,0.0,0.0,0.0
-Lavonia Presbyterian Church,2025-04,0.0,0.0,0.0
-Lavonia Presbyterian Church,2025-05,0.0,0.0,0.0
-Lavonia Presbyterian Church,2025-06,0.0,0.0,0.0
-New Beginnings Ministry,2022-07,3152.0,0.0,
-New Beginnings Ministry,2022-08,4647.0,1495.0,0.4743020304568528
-New Beginnings Ministry,2022-09,4826.0,179.0,0.03851947493006241
-New Beginnings Ministry,2022-10,1519.0,-3307.0,-0.6852465810194778
-New Beginnings Ministry,2022-11,4998.0,3479.0,2.2903225806451615
-New Beginnings Ministry,2022-12,3580.0,-1418.0,-0.28371348539415764
-New Beginnings Ministry,2023-01,3918.0,338.0,0.09441340782122905
-New Beginnings Ministry,2023-02,2719.0,-1199.0,-0.3060234813680449
-New Beginnings Ministry,2023-03,5176.0,2457.0,0.903641044501655
-New Beginnings Ministry,2023-04,3096.0,-2080.0,-0.401854714064915
-New Beginnings Ministry,2023-05,3066.0,-30.0,-0.009689922480620155
-New Beginnings Ministry,2023-06,3240.0,174.0,0.05675146771037182
-New Beginnings Ministry,2023-07,1139.0,-2101.0,-0.6484567901234568
-New Beginnings Ministry,2023-08,2592.0,1453.0,1.2756804214223003
-New Beginnings Ministry,2023-09,4956.0,2364.0,0.9120370370370371
-New Beginnings Ministry,2023-10,3275.0,-1681.0,-0.33918482647296205
-New Beginnings Ministry,2023-11,7341.0,4066.0,1.241526717557252
-New Beginnings Ministry,2023-12,3751.0,-3590.0,-0.4890341915270399
-New Beginnings Ministry,2024-01,3200.0,-551.0,-0.14689416155691815
-New Beginnings Ministry,2024-02,1526.0,-1674.0,-0.523125
-New Beginnings Ministry,2024-03,5855.0,4329.0,2.8368283093053734
-New Beginnings Ministry,2024-04,9297.0,3442.0,0.5878736122971819
-New Beginnings Ministry,2024-05,9330.0,33.0,0.0035495321071313327
-New Beginnings Ministry,2024-06,2832.0,-6498.0,-0.6964630225080386
-New Beginnings Ministry,2024-07,8189.0,5357.0,1.89159604519774
+Lavonia Church of God,2025-03,12985.0,-30.0,-0.002
+Lavonia Church of God,2025-04,12746.0,-239.0,-0.018
+Lavonia Church of God,2025-05,12017.0,-729.0,-0.057
+Lavonia Church of God,2025-06,11384.0,-633.0,-0.053
+Lavonia Presbyterian Church,2022-07 to 2025-06,0.0,0.0,0.0
+New Beginnings Ministry,2022-07,3152.0,0.0,0.0
+New Beginnings Ministry,2022-08,4647.0,1495.0,0.474
+New Beginnings Ministry,2022-09,4826.0,179.0,0.039
+New Beginnings Ministry,2022-10,1519.0,-3307.0,-0.685
+New Beginnings Ministry,2022-11,4998.0,3479.0,2.29
+New Beginnings Ministry,2022-12,3580.0,-1418.0,-0.284
+New Beginnings Ministry,2023-01,3918.0,338.0,0.094
+New Beginnings Ministry,2023-02,2719.0,-1199.0,-0.306
+New Beginnings Ministry,2023-03,5176.0,2457.0,0.904
+New Beginnings Ministry,2023-04,3096.0,-2080.0,-0.402
+New Beginnings Ministry,2023-05,3066.0,-30.0,-0.01
+New Beginnings Ministry,2023-06,3240.0,174.0,0.057
+New Beginnings Ministry,2023-07,1139.0,-2101.0,-0.648
+New Beginnings Ministry,2023-08,2592.0,1453.0,1.276
+New Beginnings Ministry,2023-09,4956.0,2364.0,0.912
+New Beginnings Ministry,2023-10,3275.0,-1681.0,-0.339
+New Beginnings Ministry,2023-11,7341.0,4066.0,1.242
+New Beginnings Ministry,2023-12,3751.0,-3590.0,-0.489
+New Beginnings Ministry,2024-01,3200.0,-551.0,-0.147
+New Beginnings Ministry,2024-02,1526.0,-1674.0,-0.523
+New Beginnings Ministry,2024-03,5855.0,4329.0,2.837
+New Beginnings Ministry,2024-04,9297.0,3442.0,0.588
+New Beginnings Ministry,2024-05,9330.0,33.0,0.004
+New Beginnings Ministry,2024-06,2832.0,-6498.0,-0.696
+New Beginnings Ministry,2024-07,8189.0,5357.0,1.892
 New Beginnings Ministry,2024-08,0.0,-8189.0,-1.0
 New Beginnings Ministry,2024-09,3649.0,3649.0,inf
 New Beginnings Ministry,2024-10,0.0,-3649.0,-1.0
 New Beginnings Ministry,2024-11,7890.0,7890.0,inf
-New Beginnings Ministry,2024-12,3119.0,-4771.0,-0.6046894803548796
-New Beginnings Ministry,2025-01,6054.0,2935.0,0.9410067329272203
-New Beginnings Ministry,2025-02,6085.0,31.0,0.005120581433762802
-New Beginnings Ministry,2025-03,3685.0,-2400.0,-0.3944124897288414
-New Beginnings Ministry,2025-04,2605.0,-1080.0,-0.2930800542740841
-New Beginnings Ministry,2025-05,3227.0,622.0,0.23877159309021112
-New Beginnings Ministry,2025-06,3310.0,83.0,0.025720483421134182
-Oasis Community Outreach,2022-07,0.0,0.0,
-Oasis Community Outreach,2022-08,0.0,0.0,0.0
+New Beginnings Ministry,2024-12,3119.0,-4771.0,-0.605
+New Beginnings Ministry,2025-01,6054.0,2935.0,0.941
+New Beginnings Ministry,2025-02,6085.0,31.0,0.005
+New Beginnings Ministry,2025-03,3685.0,-2400.0,-0.394
+New Beginnings Ministry,2025-04,2605.0,-1080.0,-0.293
+New Beginnings Ministry,2025-05,3227.0,622.0,0.239
+New Beginnings Ministry,2025-06,3310.0,83.0,0.026
+Oasis Community Outreach,2022-07 to 2022-08,0.0,0.0,0.0
 Oasis Community Outreach,2022-09,1295.0,1295.0,inf
-Oasis Community Outreach,2022-10,1728.0,433.0,0.33436293436293435
+Oasis Community Outreach,2022-10,1728.0,433.0,0.334
 Oasis Community Outreach,2022-11,0.0,-1728.0,-1.0
 Oasis Community Outreach,2022-12,5379.0,5379.0,inf
 Oasis Community Outreach,2023-01,0.0,-5379.0,-1.0
-Oasis Community Outreach,2023-02,0.0,0.0,0.0
-Oasis Community Outreach,2023-03,0.0,0.0,0.0
-Oasis Community Outreach,2023-04,0.0,0.0,0.0
-Oasis Community Outreach,2023-05,0.0,0.0,0.0
-Oasis Community Outreach,2023-06,0.0,0.0,0.0
-Oasis Community Outreach,2023-07,0.0,0.0,0.0
-Oasis Community Outreach,2023-08,0.0,0.0,0.0
-Oasis Community Outreach,2023-09,0.0,0.0,0.0
-Oasis Community Outreach,2023-10,0.0,0.0,0.0
-Oasis Community Outreach,2023-11,0.0,0.0,0.0
-Oasis Community Outreach,2023-12,0.0,0.0,0.0
-Oasis Community Outreach,2024-01,0.0,0.0,0.0
-Oasis Community Outreach,2024-02,0.0,0.0,0.0
-Oasis Community Outreach,2024-03,0.0,0.0,0.0
-Oasis Community Outreach,2024-04,0.0,0.0,0.0
-Oasis Community Outreach,2024-05,0.0,0.0,0.0
-Oasis Community Outreach,2024-06,0.0,0.0,0.0
-Oasis Community Outreach,2024-07,0.0,0.0,0.0
-Oasis Community Outreach,2024-08,0.0,0.0,0.0
-Oasis Community Outreach,2024-09,0.0,0.0,0.0
-Oasis Community Outreach,2024-10,0.0,0.0,0.0
-Oasis Community Outreach,2024-11,0.0,0.0,0.0
-Oasis Community Outreach,2024-12,0.0,0.0,0.0
-Oasis Community Outreach,2025-01,0.0,0.0,0.0
-Oasis Community Outreach,2025-02,0.0,0.0,0.0
-Oasis Community Outreach,2025-03,0.0,0.0,0.0
-Oasis Community Outreach,2025-04,0.0,0.0,0.0
-Oasis Community Outreach,2025-05,0.0,0.0,0.0
-Oasis Community Outreach,2025-06,0.0,0.0,0.0
-Rainbow Pantry,2022-07,10317.0,0.0,
-Rainbow Pantry,2022-08,8433.0,-1884.0,-0.18261122419307937
-Rainbow Pantry,2022-09,6050.0,-2383.0,-0.2825803391438397
-Rainbow Pantry,2022-10,5549.0,-501.0,-0.0828099173553719
-Rainbow Pantry,2022-11,5797.0,248.0,0.0446927374301676
-Rainbow Pantry,2022-12,4839.0,-958.0,-0.16525789201311022
-Rainbow Pantry,2023-01,13486.0,8647.0,1.7869394502996487
-Rainbow Pantry,2023-02,2748.0,-10738.0,-0.7962331306540116
-Rainbow Pantry,2023-03,8503.0,5755.0,2.094250363901019
-Rainbow Pantry,2023-04,7649.0,-854.0,-0.10043514053863342
-Rainbow Pantry,2023-05,5693.0,-1956.0,-0.25571970192181986
-Rainbow Pantry,2023-06,7759.0,2066.0,0.36290180923941684
-Rainbow Pantry,2023-07,4202.0,-3557.0,-0.45843536538213686
-Rainbow Pantry,2023-08,8595.0,4393.0,1.0454545454545454
-Rainbow Pantry,2023-09,19012.0,10417.0,1.2119837114601513
-Rainbow Pantry,2023-10,5324.0,-13688.0,-0.719966337050284
-Rainbow Pantry,2023-11,12665.0,7341.0,1.3788504883546207
-Rainbow Pantry,2023-12,4476.0,-8189.0,-0.6465850769838136
-Rainbow Pantry,2024-01,3838.0,-638.0,-0.14253798033958892
-Rainbow Pantry,2024-02,8299.0,4461.0,1.162324127149557
-Rainbow Pantry,2024-03,16964.0,8665.0,1.0441016989998795
-Rainbow Pantry,2024-04,7278.0,-9686.0,-0.5709738269276114
-Rainbow Pantry,2024-05,7337.0,59.0,0.008106622698543555
-Rainbow Pantry,2024-06,13319.7,5982.700000000001,0.8154150197628459
-Rainbow Pantry,2024-07,11043.0,-2276.7000000000007,-0.1709272731367824
-Rainbow Pantry,2024-08,12288.0,1245.0,0.11274110296115186
-Rainbow Pantry,2024-09,13486.0,1198.0,0.09749348958333333
-Rainbow Pantry,2024-10,15666.0,2180.0,0.1616491176034406
-Rainbow Pantry,2024-11,19478.0,3812.0,0.24332950338312268
-Rainbow Pantry,2024-12,16047.0,-3431.0,-0.17614744840332683
-Rainbow Pantry,2025-01,17100.0,1053.0,0.06561974200785194
-Rainbow Pantry,2025-02,17457.0,357.0,0.02087719298245614
-Rainbow Pantry,2025-03,19980.0,2523.0,0.14452655095377212
-Rainbow Pantry,2025-04,15085.0,-4895.0,-0.244994994994995
-Rainbow Pantry,2025-05,19146.0,4061.0,0.2692078223400729
-Rainbow Pantry,2025-06,17922.0,-1224.0,-0.06392980256972736
-Royston Housing Authority,2022-07,640.0,0.0,
-Royston Housing Authority,2022-08,109.0,-531.0,-0.8296875
-Royston Housing Authority,2022-09,314.0,205.0,1.8807339449541285
-Royston Housing Authority,2022-10,722.0,408.0,1.2993630573248407
-Royston Housing Authority,2022-11,4085.0,3363.0,4.657894736842105
-Royston Housing Authority,2022-12,284.0,-3801.0,-0.9304773561811506
-Royston Housing Authority,2023-01,726.0,442.0,1.556338028169014
-Royston Housing Authority,2023-02,421.0,-305.0,-0.4201101928374656
-Royston Housing Authority,2023-03,1194.0,773.0,1.836104513064133
-Royston Housing Authority,2023-04,869.0,-325.0,-0.2721943048576214
-Royston Housing Authority,2023-05,1176.0,307.0,0.3532796317606444
-Royston Housing Authority,2023-06,544.0,-632.0,-0.5374149659863946
-Royston Housing Authority,2023-07,599.0,55.0,0.10110294117647059
-Royston Housing Authority,2023-08,760.0,161.0,0.2687813021702838
-Royston Housing Authority,2023-09,742.0,-18.0,-0.02368421052631579
-Royston Housing Authority,2023-10,834.0,92.0,0.12398921832884097
-Royston Housing Authority,2023-11,1855.0,1021.0,1.224220623501199
-Royston Housing Authority,2023-12,245.0,-1610.0,-0.8679245283018868
-Royston Housing Authority,2024-01,1892.0,1647.0,6.722448979591837
-Royston Housing Authority,2024-02,871.0,-1021.0,-0.5396405919661733
-Royston Housing Authority,2024-03,2881.0,2010.0,2.3076923076923075
-Royston Housing Authority,2024-04,3352.0,471.0,0.16348490107601527
-Royston Housing Authority,2024-05,1818.0,-1534.0,-0.45763723150357993
-Royston Housing Authority,2024-06,1886.0,68.0,0.0374037403740374
-Royston Housing Authority,2024-07,2331.0,445.0,0.235949098621421
-Royston Housing Authority,2024-08,1781.0,-550.0,-0.23595023595023595
-Royston Housing Authority,2024-09,1183.0,-598.0,-0.3357664233576642
-Royston Housing Authority,2024-10,6251.0,5068.0,4.284023668639053
-Royston Housing Authority,2024-11,4287.0,-1964.0,-0.3141897296432571
-Royston Housing Authority,2024-12,769.0,-3518.0,-0.8206204805225099
+Oasis Community Outreach,2023-02 to 2025-06,0.0,0.0,0.0
+Rainbow Pantry,2022-07,10317.0,0.0,0.0
+Rainbow Pantry,2022-08,8433.0,-1884.0,-0.183
+Rainbow Pantry,2022-09,6050.0,-2383.0,-0.283
+Rainbow Pantry,2022-10,5549.0,-501.0,-0.083
+Rainbow Pantry,2022-11,5797.0,248.0,0.045
+Rainbow Pantry,2022-12,4839.0,-958.0,-0.165
+Rainbow Pantry,2023-01,13486.0,8647.0,1.787
+Rainbow Pantry,2023-02,2748.0,-10738.0,-0.796
+Rainbow Pantry,2023-03,8503.0,5755.0,2.094
+Rainbow Pantry,2023-04,7649.0,-854.0,-0.1
+Rainbow Pantry,2023-05,5693.0,-1956.0,-0.256
+Rainbow Pantry,2023-06,7759.0,2066.0,0.363
+Rainbow Pantry,2023-07,4202.0,-3557.0,-0.458
+Rainbow Pantry,2023-08,8595.0,4393.0,1.045
+Rainbow Pantry,2023-09,19012.0,10417.0,1.212
+Rainbow Pantry,2023-10,5324.0,-13688.0,-0.72
+Rainbow Pantry,2023-11,12665.0,7341.0,1.379
+Rainbow Pantry,2023-12,4476.0,-8189.0,-0.647
+Rainbow Pantry,2024-01,3838.0,-638.0,-0.143
+Rainbow Pantry,2024-02,8299.0,4461.0,1.162
+Rainbow Pantry,2024-03,16964.0,8665.0,1.044
+Rainbow Pantry,2024-04,7278.0,-9686.0,-0.571
+Rainbow Pantry,2024-05,7337.0,59.0,0.008
+Rainbow Pantry,2024-06,13319.7,5982.700000000001,0.815
+Rainbow Pantry,2024-07,11043.0,-2276.7000000000007,-0.171
+Rainbow Pantry,2024-08,12288.0,1245.0,0.113
+Rainbow Pantry,2024-09,13486.0,1198.0,0.097
+Rainbow Pantry,2024-10,15666.0,2180.0,0.162
+Rainbow Pantry,2024-11,19478.0,3812.0,0.243
+Rainbow Pantry,2024-12,16047.0,-3431.0,-0.176
+Rainbow Pantry,2025-01,17100.0,1053.0,0.066
+Rainbow Pantry,2025-02,17457.0,357.0,0.021
+Rainbow Pantry,2025-03,19980.0,2523.0,0.145
+Rainbow Pantry,2025-04,15085.0,-4895.0,-0.245
+Rainbow Pantry,2025-05,19146.0,4061.0,0.269
+Rainbow Pantry,2025-06,17922.0,-1224.0,-0.064
+Royston Housing Authority,2022-07,640.0,0.0,0.0
+Royston Housing Authority,2022-08,109.0,-531.0,-0.83
+Royston Housing Authority,2022-09,314.0,205.0,1.881
+Royston Housing Authority,2022-10,722.0,408.0,1.299
+Royston Housing Authority,2022-11,4085.0,3363.0,4.658
+Royston Housing Authority,2022-12,284.0,-3801.0,-0.93
+Royston Housing Authority,2023-01,726.0,442.0,1.556
+Royston Housing Authority,2023-02,421.0,-305.0,-0.42
+Royston Housing Authority,2023-03,1194.0,773.0,1.836
+Royston Housing Authority,2023-04,869.0,-325.0,-0.272
+Royston Housing Authority,2023-05,1176.0,307.0,0.353
+Royston Housing Authority,2023-06,544.0,-632.0,-0.537
+Royston Housing Authority,2023-07,599.0,55.0,0.101
+Royston Housing Authority,2023-08,760.0,161.0,0.269
+Royston Housing Authority,2023-09,742.0,-18.0,-0.024
+Royston Housing Authority,2023-10,834.0,92.0,0.124
+Royston Housing Authority,2023-11,1855.0,1021.0,1.224
+Royston Housing Authority,2023-12,245.0,-1610.0,-0.868
+Royston Housing Authority,2024-01,1892.0,1647.0,6.722
+Royston Housing Authority,2024-02,871.0,-1021.0,-0.54
+Royston Housing Authority,2024-03,2881.0,2010.0,2.308
+Royston Housing Authority,2024-04,3352.0,471.0,0.163
+Royston Housing Authority,2024-05,1818.0,-1534.0,-0.458
+Royston Housing Authority,2024-06,1886.0,68.0,0.037
+Royston Housing Authority,2024-07,2331.0,445.0,0.236
+Royston Housing Authority,2024-08,1781.0,-550.0,-0.236
+Royston Housing Authority,2024-09,1183.0,-598.0,-0.336
+Royston Housing Authority,2024-10,6251.0,5068.0,4.284
+Royston Housing Authority,2024-11,4287.0,-1964.0,-0.314
+Royston Housing Authority,2024-12,769.0,-3518.0,-0.821
 Royston Housing Authority,2025-01,0.0,-769.0,-1.0
-Royston Housing Authority,2025-02,0.0,0.0,0.0
-Royston Housing Authority,2025-03,0.0,0.0,0.0
-Royston Housing Authority,2025-04,0.0,0.0,0.0
-Royston Housing Authority,2025-05,0.0,0.0,0.0
-Royston Housing Authority,2025-06,0.0,0.0,0.0
-"Step of Faith Outreach, INC",2022-07,1203.0,0.0,
-"Step of Faith Outreach, INC",2022-08,176.0,-1027.0,-0.8536990856192851
-"Step of Faith Outreach, INC",2022-09,2019.0,1843.0,10.471590909090908
-"Step of Faith Outreach, INC",2022-10,347.0,-1672.0,-0.828132738979693
-"Step of Faith Outreach, INC",2022-11,2231.0,1884.0,5.4293948126801155
-"Step of Faith Outreach, INC",2022-12,6290.0,4059.0,1.819363514119229
+Royston Housing Authority,2025-02 to 2025-06,0.0,0.0,0.0
+"Step of Faith Outreach, INC",2022-07,1203.0,0.0,0.0
+"Step of Faith Outreach, INC",2022-08,176.0,-1027.0,-0.854
+"Step of Faith Outreach, INC",2022-09,2019.0,1843.0,10.472
+"Step of Faith Outreach, INC",2022-10,347.0,-1672.0,-0.828
+"Step of Faith Outreach, INC",2022-11,2231.0,1884.0,5.429
+"Step of Faith Outreach, INC",2022-12,6290.0,4059.0,1.819
 "Step of Faith Outreach, INC",2023-01,0.0,-6290.0,-1.0
-"Step of Faith Outreach, INC",2023-02,0.0,0.0,0.0
-"Step of Faith Outreach, INC",2023-03,0.0,0.0,0.0
-"Step of Faith Outreach, INC",2023-04,0.0,0.0,0.0
+"Step of Faith Outreach, INC",2023-02 to 2023-04,0.0,0.0,0.0
 "Step of Faith Outreach, INC",2023-05,132.0,132.0,inf
-"Step of Faith Outreach, INC",2023-06,1416.0,1284.0,9.727272727272727
-"Step of Faith Outreach, INC",2023-07,2842.0,1426.0,1.0070621468926553
-"Step of Faith Outreach, INC",2023-08,69.0,-2773.0,-0.9757213230119635
-"Step of Faith Outreach, INC",2023-09,4277.0,4208.0,60.98550724637681
+"Step of Faith Outreach, INC",2023-06,1416.0,1284.0,9.727
+"Step of Faith Outreach, INC",2023-07,2842.0,1426.0,1.007
+"Step of Faith Outreach, INC",2023-08,69.0,-2773.0,-0.976
+"Step of Faith Outreach, INC",2023-09,4277.0,4208.0,60.986
 "Step of Faith Outreach, INC",2023-10,0.0,-4277.0,-1.0
 "Step of Faith Outreach, INC",2023-11,3921.0,3921.0,inf
 "Step of Faith Outreach, INC",2023-12,0.0,-3921.0,-1.0
 "Step of Faith Outreach, INC",2024-01,724.0,724.0,inf
-"Step of Faith Outreach, INC",2024-02,896.0,172.0,0.23756906077348067
-"Step of Faith Outreach, INC",2024-03,874.0,-22.0,-0.024553571428571428
-"Step of Faith Outreach, INC",2024-04,949.0,75.0,0.08581235697940504
-"Step of Faith Outreach, INC",2024-05,5817.0,4868.0,5.129610115911486
+"Step of Faith Outreach, INC",2024-02,896.0,172.0,0.238
+"Step of Faith Outreach, INC",2024-03,874.0,-22.0,-0.025
+"Step of Faith Outreach, INC",2024-04,949.0,75.0,0.086
+"Step of Faith Outreach, INC",2024-05,5817.0,4868.0,5.13
 "Step of Faith Outreach, INC",2024-06,0.0,-5817.0,-1.0
 "Step of Faith Outreach, INC",2024-07,1649.0,1649.0,inf
-"Step of Faith Outreach, INC",2024-08,929.0,-720.0,-0.4366282595512432
-"Step of Faith Outreach, INC",2024-09,1009.0,80.0,0.0861141011840689
-"Step of Faith Outreach, INC",2024-10,1736.0,727.0,0.7205153617443013
-"Step of Faith Outreach, INC",2024-11,1075.0,-661.0,-0.3807603686635945
-"Step of Faith Outreach, INC",2024-12,1158.0,83.0,0.07720930232558139
-"Step of Faith Outreach, INC",2025-01,349.0,-809.0,-0.6986183074265976
-"Step of Faith Outreach, INC",2025-02,1400.0,1051.0,3.011461318051576
+"Step of Faith Outreach, INC",2024-08,929.0,-720.0,-0.437
+"Step of Faith Outreach, INC",2024-09,1009.0,80.0,0.086
+"Step of Faith Outreach, INC",2024-10,1736.0,727.0,0.721
+"Step of Faith Outreach, INC",2024-11,1075.0,-661.0,-0.381
+"Step of Faith Outreach, INC",2024-12,1158.0,83.0,0.077
+"Step of Faith Outreach, INC",2025-01,349.0,-809.0,-0.699
+"Step of Faith Outreach, INC",2025-02,1400.0,1051.0,3.011
 "Step of Faith Outreach, INC",2025-03,5684.0,4284.0,3.06
-"Step of Faith Outreach, INC",2025-04,2237.0,-3447.0,-0.606439127375088
-"Step of Faith Outreach, INC",2025-05,8337.0,6100.0,2.7268663388466696
-"Step of Faith Outreach, INC",2025-06,4835.0,-3502.0,-0.42005517572268203
-The Grace Foundation: Family Transformation ,2022-07,0.0,0.0,
-The Grace Foundation: Family Transformation ,2022-08,0.0,0.0,0.0
-The Grace Foundation: Family Transformation ,2022-09,0.0,0.0,0.0
-The Grace Foundation: Family Transformation ,2022-10,0.0,0.0,0.0
-The Grace Foundation: Family Transformation ,2022-11,0.0,0.0,0.0
-The Grace Foundation: Family Transformation ,2022-12,0.0,0.0,0.0
+"Step of Faith Outreach, INC",2025-04,2237.0,-3447.0,-0.606
+"Step of Faith Outreach, INC",2025-05,8337.0,6100.0,2.727
+"Step of Faith Outreach, INC",2025-06,4835.0,-3502.0,-0.42
+The Grace Foundation: Family Transformation ,2022-07 to 2022-12,0.0,0.0,0.0
 The Grace Foundation: Family Transformation ,2023-01,1081.0,1081.0,inf
 The Grace Foundation: Family Transformation ,2023-02,0.0,-1081.0,-1.0
 The Grace Foundation: Family Transformation ,2023-03,1458.0,1458.0,inf
-The Grace Foundation: Family Transformation ,2023-04,507.0,-951.0,-0.6522633744855967
-The Grace Foundation: Family Transformation ,2023-05,396.0,-111.0,-0.21893491124260356
-The Grace Foundation: Family Transformation ,2023-06,1909.0,1513.0,3.8207070707070705
-The Grace Foundation: Family Transformation ,2023-07,1535.0,-374.0,-0.1959140911471975
-The Grace Foundation: Family Transformation ,2023-08,717.0,-818.0,-0.532899022801303
-The Grace Foundation: Family Transformation ,2023-09,1217.0,500.0,0.697350069735007
-The Grace Foundation: Family Transformation ,2023-10,1973.0,756.0,0.6211996713229252
-The Grace Foundation: Family Transformation ,2023-11,939.0,-1034.0,-0.5240750126710593
+The Grace Foundation: Family Transformation ,2023-04,507.0,-951.0,-0.652
+The Grace Foundation: Family Transformation ,2023-05,396.0,-111.0,-0.219
+The Grace Foundation: Family Transformation ,2023-06,1909.0,1513.0,3.821
+The Grace Foundation: Family Transformation ,2023-07,1535.0,-374.0,-0.196
+The Grace Foundation: Family Transformation ,2023-08,717.0,-818.0,-0.533
+The Grace Foundation: Family Transformation ,2023-09,1217.0,500.0,0.697
+The Grace Foundation: Family Transformation ,2023-10,1973.0,756.0,0.621
+The Grace Foundation: Family Transformation ,2023-11,939.0,-1034.0,-0.524
 The Grace Foundation: Family Transformation ,2023-12,0.0,-939.0,-1.0
 The Grace Foundation: Family Transformation ,2024-01,29798.0,29798.0,inf
-The Grace Foundation: Family Transformation ,2024-02,12717.0,-17081.0,-0.5732263910329553
-The Grace Foundation: Family Transformation ,2024-03,1923.0,-10794.0,-0.8487850908233073
-The Grace Foundation: Family Transformation ,2024-04,12320.0,10397.0,5.40665626625065
-The Grace Foundation: Family Transformation ,2024-05,1638.0,-10682.0,-0.8670454545454546
-The Grace Foundation: Family Transformation ,2024-06,3131.0,1493.0,0.9114774114774115
-The Grace Foundation: Family Transformation ,2024-07,21037.0,17906.0,5.718939635899074
-The Grace Foundation: Family Transformation ,2024-08,9154.0,-11883.0,-0.5648619099681513
-The Grace Foundation: Family Transformation ,2024-09,9187.0,33.0,0.003604981428883548
-The Grace Foundation: Family Transformation ,2024-10,2363.0,-6824.0,-0.7427887231958202
-The Grace Foundation: Family Transformation ,2024-11,6367.0,4004.0,1.6944561997460854
-The Grace Foundation: Family Transformation ,2024-12,716.0,-5651.0,-0.8875451547039422
-The Grace Foundation: Family Transformation ,2025-01,2203.0,1487.0,2.0768156424581004
-The Grace Foundation: Family Transformation ,2025-02,6683.0,4480.0,2.033590558329551
-The Grace Foundation: Family Transformation ,2025-03,1983.0,-4700.0,-0.703276971420021
-The Grace Foundation: Family Transformation ,2025-04,7574.0,5591.0,2.8194654563792234
-The Grace Foundation: Family Transformation ,2025-05,5477.0,-2097.0,-0.2768682334301558
+The Grace Foundation: Family Transformation ,2024-02,12717.0,-17081.0,-0.573
+The Grace Foundation: Family Transformation ,2024-03,1923.0,-10794.0,-0.849
+The Grace Foundation: Family Transformation ,2024-04,12320.0,10397.0,5.407
+The Grace Foundation: Family Transformation ,2024-05,1638.0,-10682.0,-0.867
+The Grace Foundation: Family Transformation ,2024-06,3131.0,1493.0,0.911
+The Grace Foundation: Family Transformation ,2024-07,21037.0,17906.0,5.719
+The Grace Foundation: Family Transformation ,2024-08,9154.0,-11883.0,-0.565
+The Grace Foundation: Family Transformation ,2024-09,9187.0,33.0,0.004
+The Grace Foundation: Family Transformation ,2024-10,2363.0,-6824.0,-0.743
+The Grace Foundation: Family Transformation ,2024-11,6367.0,4004.0,1.694
+The Grace Foundation: Family Transformation ,2024-12,716.0,-5651.0,-0.888
+The Grace Foundation: Family Transformation ,2025-01,2203.0,1487.0,2.077
+The Grace Foundation: Family Transformation ,2025-02,6683.0,4480.0,2.034
+The Grace Foundation: Family Transformation ,2025-03,1983.0,-4700.0,-0.703
+The Grace Foundation: Family Transformation ,2025-04,7574.0,5591.0,2.819
+The Grace Foundation: Family Transformation ,2025-05,5477.0,-2097.0,-0.277
 The Grace Foundation: Family Transformation ,2025-06,0.0,-5477.0,-1.0
-Three Angels ,2022-07,0.0,0.0,
-Three Angels ,2022-08,0.0,0.0,0.0
-Three Angels ,2022-09,0.0,0.0,0.0
-Three Angels ,2022-10,0.0,0.0,0.0
-Three Angels ,2022-11,0.0,0.0,0.0
-Three Angels ,2022-12,0.0,0.0,0.0
-Three Angels ,2023-01,0.0,0.0,0.0
-Three Angels ,2023-02,0.0,0.0,0.0
-Three Angels ,2023-03,0.0,0.0,0.0
-Three Angels ,2023-04,0.0,0.0,0.0
-Three Angels ,2023-05,0.0,0.0,0.0
-Three Angels ,2023-06,0.0,0.0,0.0
-Three Angels ,2023-07,0.0,0.0,0.0
-Three Angels ,2023-08,0.0,0.0,0.0
-Three Angels ,2023-09,0.0,0.0,0.0
-Three Angels ,2023-10,0.0,0.0,0.0
-Three Angels ,2023-11,0.0,0.0,0.0
-Three Angels ,2023-12,0.0,0.0,0.0
-Three Angels ,2024-01,0.0,0.0,0.0
-Three Angels ,2024-02,0.0,0.0,0.0
-Three Angels ,2024-03,0.0,0.0,0.0
-Three Angels ,2024-04,0.0,0.0,0.0
-Three Angels ,2024-05,0.0,0.0,0.0
-Three Angels ,2024-06,0.0,0.0,0.0
-Three Angels ,2024-07,0.0,0.0,0.0
-Three Angels ,2024-08,0.0,0.0,0.0
-Three Angels ,2024-09,0.0,0.0,0.0
-Three Angels ,2024-10,0.0,0.0,0.0
-Three Angels ,2024-11,0.0,0.0,0.0
-Three Angels ,2024-12,0.0,0.0,0.0
-Three Angels ,2025-01,0.0,0.0,0.0
-Three Angels ,2025-02,0.0,0.0,0.0
-Three Angels ,2025-03,0.0,0.0,0.0
+Three Angels ,2022-07 to 2025-03,0.0,0.0,0.0
 Three Angels ,2025-04,1197.0,1197.0,inf
-Three Angels ,2025-05,946.0,-251.0,-0.2096908939014202
-Three Angels ,2025-06,1106.0,160.0,0.16913319238900634
-World Outreach Ministries (d/b/a Ignited Church),2022-07,3369.0,0.0,
-World Outreach Ministries (d/b/a Ignited Church),2022-08,3847.0,478.0,0.14188186405461561
-World Outreach Ministries (d/b/a Ignited Church),2022-09,542.0,-3305.0,-0.8591109955809721
-World Outreach Ministries (d/b/a Ignited Church),2022-10,3461.0,2919.0,5.385608856088561
-World Outreach Ministries (d/b/a Ignited Church),2022-11,4456.0,995.0,0.2874891649812193
-World Outreach Ministries (d/b/a Ignited Church),2022-12,284.0,-4172.0,-0.9362657091561939
-World Outreach Ministries (d/b/a Ignited Church),2023-01,1390.0,1106.0,3.8943661971830985
-World Outreach Ministries (d/b/a Ignited Church),2023-02,689.0,-701.0,-0.50431654676259
-World Outreach Ministries (d/b/a Ignited Church),2023-03,1124.0,435.0,0.6313497822931785
-World Outreach Ministries (d/b/a Ignited Church),2023-04,1306.0,182.0,0.1619217081850534
-World Outreach Ministries (d/b/a Ignited Church),2023-05,382.0,-924.0,-0.7075038284839203
-World Outreach Ministries (d/b/a Ignited Church),2023-06,724.0,342.0,0.8952879581151832
-World Outreach Ministries (d/b/a Ignited Church),2023-07,635.0,-89.0,-0.12292817679558012
-World Outreach Ministries (d/b/a Ignited Church),2023-08,1261.0,626.0,0.9858267716535433
-World Outreach Ministries (d/b/a Ignited Church),2023-09,1148.0,-113.0,-0.08961141950832673
-World Outreach Ministries (d/b/a Ignited Church),2023-10,750.0,-398.0,-0.34668989547038326
-World Outreach Ministries (d/b/a Ignited Church),2023-11,538.0,-212.0,-0.2826666666666667
+Three Angels ,2025-05,946.0,-251.0,-0.21
+Three Angels ,2025-06,1106.0,160.0,0.169
+World Outreach Ministries (d/b/a Ignited Church),2022-07,3369.0,0.0,0.0
+World Outreach Ministries (d/b/a Ignited Church),2022-08,3847.0,478.0,0.142
+World Outreach Ministries (d/b/a Ignited Church),2022-09,542.0,-3305.0,-0.859
+World Outreach Ministries (d/b/a Ignited Church),2022-10,3461.0,2919.0,5.386
+World Outreach Ministries (d/b/a Ignited Church),2022-11,4456.0,995.0,0.287
+World Outreach Ministries (d/b/a Ignited Church),2022-12,284.0,-4172.0,-0.936
+World Outreach Ministries (d/b/a Ignited Church),2023-01,1390.0,1106.0,3.894
+World Outreach Ministries (d/b/a Ignited Church),2023-02,689.0,-701.0,-0.504
+World Outreach Ministries (d/b/a Ignited Church),2023-03,1124.0,435.0,0.631
+World Outreach Ministries (d/b/a Ignited Church),2023-04,1306.0,182.0,0.162
+World Outreach Ministries (d/b/a Ignited Church),2023-05,382.0,-924.0,-0.708
+World Outreach Ministries (d/b/a Ignited Church),2023-06,724.0,342.0,0.895
+World Outreach Ministries (d/b/a Ignited Church),2023-07,635.0,-89.0,-0.123
+World Outreach Ministries (d/b/a Ignited Church),2023-08,1261.0,626.0,0.986
+World Outreach Ministries (d/b/a Ignited Church),2023-09,1148.0,-113.0,-0.09
+World Outreach Ministries (d/b/a Ignited Church),2023-10,750.0,-398.0,-0.347
+World Outreach Ministries (d/b/a Ignited Church),2023-11,538.0,-212.0,-0.283
 World Outreach Ministries (d/b/a Ignited Church),2023-12,0.0,-538.0,-1.0
 World Outreach Ministries (d/b/a Ignited Church),2024-01,932.0,932.0,inf
-World Outreach Ministries (d/b/a Ignited Church),2024-02,491.0,-441.0,-0.47317596566523606
-World Outreach Ministries (d/b/a Ignited Church),2024-03,758.0,267.0,0.5437881873727087
-World Outreach Ministries (d/b/a Ignited Church),2024-04,390.0,-368.0,-0.48548812664907653
-World Outreach Ministries (d/b/a Ignited Church),2024-05,1391.0,1001.0,2.566666666666667
-World Outreach Ministries (d/b/a Ignited Church),2024-06,73.0,-1318.0,-0.9475197699496765
-World Outreach Ministries (d/b/a Ignited Church),2024-07,671.0,598.0,8.191780821917808
-World Outreach Ministries (d/b/a Ignited Church),2024-08,467.0,-204.0,-0.30402384500745155
-World Outreach Ministries (d/b/a Ignited Church),2024-09,426.0,-41.0,-0.08779443254817987
-World Outreach Ministries (d/b/a Ignited Church),2024-10,1070.0,644.0,1.511737089201878
-World Outreach Ministries (d/b/a Ignited Church),2024-11,329.0,-741.0,-0.6925233644859813
-World Outreach Ministries (d/b/a Ignited Church),2024-12,385.0,56.0,0.1702127659574468
-World Outreach Ministries (d/b/a Ignited Church),2025-01,351.0,-34.0,-0.08831168831168831
-World Outreach Ministries (d/b/a Ignited Church),2025-02,485.0,134.0,0.3817663817663818
-World Outreach Ministries (d/b/a Ignited Church),2025-03,449.0,-36.0,-0.07422680412371134
-World Outreach Ministries (d/b/a Ignited Church),2025-04,1085.0,636.0,1.4164810690423162
-World Outreach Ministries (d/b/a Ignited Church),2025-05,469.0,-616.0,-0.567741935483871
-World Outreach Ministries (d/b/a Ignited Church),2025-06,907.0,438.0,0.9339019189765458
+World Outreach Ministries (d/b/a Ignited Church),2024-02,491.0,-441.0,-0.473
+World Outreach Ministries (d/b/a Ignited Church),2024-03,758.0,267.0,0.544
+World Outreach Ministries (d/b/a Ignited Church),2024-04,390.0,-368.0,-0.485
+World Outreach Ministries (d/b/a Ignited Church),2024-05,1391.0,1001.0,2.567
+World Outreach Ministries (d/b/a Ignited Church),2024-06,73.0,-1318.0,-0.948
+World Outreach Ministries (d/b/a Ignited Church),2024-07,671.0,598.0,8.192
+World Outreach Ministries (d/b/a Ignited Church),2024-08,467.0,-204.0,-0.304
+World Outreach Ministries (d/b/a Ignited Church),2024-09,426.0,-41.0,-0.088
+World Outreach Ministries (d/b/a Ignited Church),2024-10,1070.0,644.0,1.512
+World Outreach Ministries (d/b/a Ignited Church),2024-11,329.0,-741.0,-0.693
+World Outreach Ministries (d/b/a Ignited Church),2024-12,385.0,56.0,0.17
+World Outreach Ministries (d/b/a Ignited Church),2025-01,351.0,-34.0,-0.088
+World Outreach Ministries (d/b/a Ignited Church),2025-02,485.0,134.0,0.382
+World Outreach Ministries (d/b/a Ignited Church),2025-03,449.0,-36.0,-0.074
+World Outreach Ministries (d/b/a Ignited Church),2025-04,1085.0,636.0,1.416
+World Outreach Ministries (d/b/a Ignited Church),2025-05,469.0,-616.0,-0.568
+World Outreach Ministries (d/b/a Ignited Church),2025-06,907.0,438.0,0.934
