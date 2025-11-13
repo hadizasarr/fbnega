@@ -1,20 +1,16 @@
+import pandas as pd
 import os
 import re
 from pathlib import Path
 from collections import defaultdict
 
-import numpy as np
-import pandas as pd
-
-try:
-    from sklearn.ensemble import IsolationForest
-    SKLEARN_OK = True
-except Exception:
-    SKLEARN_OK = False
-
-
-# ---------- NEW: helper to compress zero runs (unchanged from before) ----------
 def _compress_zero_runs(long_full: pd.DataFrame) -> pd.DataFrame:
+    """
+    For each Agency, collapse consecutive months where dist_volume == 0,
+    delta == 0, and pct_change == 0 into a single row whose Time is
+    'YYYY-MM to YYYY-MM'. Single zero months remain as-is.
+    Assumes Time is 'YYYY-MM'.
+    """
     df = long_full.copy()
     df["_Period"] = pd.PeriodIndex(df["Time"], freq="M")
 
@@ -33,8 +29,10 @@ def _compress_zero_runs(long_full: pd.DataFrame) -> pd.DataFrame:
         n = len(g)
         while i < n:
             if is_zero_row(i):
+                # start a zero run
                 start = i
                 end = i
+                # extend while next is the next calendar month AND also zero row
                 while (
                     end + 1 < n
                     and is_zero_row(end + 1)
@@ -42,7 +40,7 @@ def _compress_zero_runs(long_full: pd.DataFrame) -> pd.DataFrame:
                 ):
                     end += 1
 
-                if end > start:
+                if end > start:  # compress run of length >= 2
                     out_rows.append(
                         {
                             "Agency": agency,
@@ -53,6 +51,7 @@ def _compress_zero_runs(long_full: pd.DataFrame) -> pd.DataFrame:
                         }
                     )
                 else:
+                    # single zero month, keep as-is
                     out_rows.append(
                         {
                             "Agency": agency,
@@ -64,6 +63,7 @@ def _compress_zero_runs(long_full: pd.DataFrame) -> pd.DataFrame:
                     )
                 i = end + 1
             else:
+                # nonzero row, keep
                 out_rows.append(
                     {
                         "Agency": agency,
@@ -79,109 +79,11 @@ def _compress_zero_runs(long_full: pd.DataFrame) -> pd.DataFrame:
     return out[["Agency", "Time", "dist_volume", "delta", "pct_change"]]
 
 
-# ---------- NEW: anomaly helpers ----------
-def _robust_z(series: pd.Series) -> pd.Series:
-    """Median/MAD z-score (scaled). If MAD==0, returns 0."""
-    med = series.median()
-    mad = (series - med).abs().median()
-    if mad == 0 or np.isnan(mad):
-        return pd.Series(np.zeros(len(series)), index=series.index, dtype=float)
-    return 0.6745 * (series - med) / mad
-
-def _seasonal_expected_by_month(df_agency: pd.DataFrame) -> pd.Series:
-    """Expected value = median dist by month-of-year over history."""
-    months = pd.PeriodIndex(df_agency["Time"], freq="M").month
-    by_m = df_agency.assign(_m=months).groupby("_m")["dist_volume"].median()
-    return months.map(by_m).astype(float)
-
-def _yoy_change(series: pd.Series) -> pd.Series:
-    """YoY % change vs t-12, handling div-by-zero."""
-    prev = series.shift(12)
-    yoy = (series - prev) / prev
-    yoy.loc[(prev == 0) & (series == 0)] = 0.0
-    return yoy
-
-def _run_isoforest(df_agency: pd.DataFrame) -> tuple[pd.Series, pd.Series]:
-    """Return (iso_label, iso_score). If sklearn unavailable or too few rows, zeros."""
-    n = len(df_agency)
-    if not SKLEARN_OK or n < 12:
-        return pd.Series(np.zeros(n, dtype=int), index=df_agency.index), pd.Series(np.zeros(n), index=df_agency.index)
-
-    feats = df_agency[["dist_volume", "delta", "pct_change", "residual", "robust_z", "yoy_pct_change"]].fillna(0.0)
-    try:
-        iso = IsolationForest(random_state=0, contamination="auto")
-        iso.fit(feats)
-        labels = iso.predict(feats)  # -1 anomaly, 1 normal
-        scores = iso.decision_function(feats)  # lower is more anomalous
-        return pd.Series(labels, index=df_agency.index), pd.Series(scores, index=df_agency.index)
-    except Exception:
-        return pd.Series(np.zeros(n, dtype=int), index=df_agency.index), pd.Series(np.zeros(n), index=df_agency.index)
-
-def _detect_anomalies(long_full: pd.DataFrame, county: str,
-                      z_thresh: float = 3.5,
-                      yoy_thresh: float = 1.0) -> pd.DataFrame:
-    """
-    long_full: monthly, per agency (UNCOMPRESSED). Columns: Agency, Time, dist_volume, delta, pct_change
-    Returns only anomalous rows with reason codes.
-    """
-    df = long_full.copy()
-    df = df.sort_values(["Agency", "Time"]).reset_index(drop=True)
-
-    # Seasonality baseline & residuals per agency
-    df["expected_seasonal"] = df.groupby("Agency", group_keys=False).apply(_seasonal_expected_by_month)
-    df["residual"] = df["dist_volume"] - df["expected_seasonal"]
-
-    # Robust z of residuals per agency
-    df["robust_z"] = df.groupby("Agency")["residual"].transform(_robust_z)
-
-    # YoY % change (series is continuous monthly due to earlier reindex)
-    df["yoy_pct_change"] = df.groupby("Agency")["dist_volume"].transform(_yoy_change)
-
-    # Isolation Forest per agency
-    iso_labels = []
-    iso_scores = []
-    for agency, g in df.groupby("Agency"):
-        labels, scores = _run_isoforest(g)
-        iso_labels.append(labels)
-        iso_scores.append(scores)
-    df["iso_label"] = pd.concat(iso_labels).sort_index()
-    df["iso_score"] = pd.concat(iso_scores).sort_index()
-
-    # Rule flags
-    df["flag_z"] = df["robust_z"].abs() >= z_thresh
-    df["flag_iso"] = df["iso_label"].eq(-1)
-    df["flag_yoy"] = df["yoy_pct_change"].abs() >= yoy_thresh
-
-    # Build reason codes
-    def reasons(row):
-        r = []
-        if row["flag_z"]:
-            r.append(f"ROBUST_Z={row['robust_z']:.2f}")
-        if row["flag_yoy"]:
-            r.append(f"YOY={row['yoy_pct_change']:.2f}")
-        if row["flag_iso"]:
-            r.append("ISOFOREST")
-        return "; ".join(r)
-
-    df["reasons"] = df.apply(reasons, axis=1)
-    df["County"] = county
-
-    anomalies = df[(df["flag_z"]) | (df["flag_yoy"]) | (df["flag_iso"])].copy()
-    keep_cols = [
-        "County", "Agency", "Time",
-        "dist_volume", "delta", "pct_change",
-        "expected_seasonal", "residual", "robust_z",
-        "yoy_pct_change", "iso_label", "iso_score", "reasons"
-    ]
-    return anomalies[keep_cols].reset_index(drop=True)
-
-
 def monthly_agencies_time():
     """
     Reads FY 2023–2025 county CSVs and writes, for each county, a long time series:
-    Agency, Time (YYYY-MM or compressed 'YYYY-MM to YYYY-MM' for zero-runs),
+    Agency, Time (YYYY-MM or 'YYYY-MM to YYYY-MM' for compressed zero runs),
     dist_volume, delta, pct_change
-    Also writes anomalies.csv across all counties with reason codes.
     """
     input_dirs = [
         "../data/FY 2023 Split by County",
@@ -191,11 +93,11 @@ def monthly_agencies_time():
 
     out_dir = Path("../data/Agency Distribution Over Time")
     out_dir.mkdir(parents=True, exist_ok=True)
+    # clean the output folder to only contain most recent run
     for p in out_dir.glob("*.csv"):
         p.unlink()
 
     by_county_parts = defaultdict(list)
-    all_anomalies = []  # NEW: collect anomalies across counties
 
     def county_from_filename(filename: str) -> str:
         stem = Path(filename).stem
@@ -222,7 +124,9 @@ def monthly_agencies_time():
                 print(f"Failed to load {filename}: {e}")
                 continue
 
+            # Clean columns
             df.columns = df.columns.str.strip()
+
             agency_col = "Agency Name"
             weight_col = "Weight"
             date_col   = "Pickup Delivery Date"
@@ -233,6 +137,7 @@ def monthly_agencies_time():
                 print(f"Missing columns {missing} in {filename}; skipping.")
                 continue
 
+            # Parse date -> month; try explicit format, then fallback
             dt = pd.to_datetime(df[date_col], format="%m/%d/%Y %I:%M:%S %p", errors="coerce")
             if dt.isna().all():
                 dt = pd.to_datetime(df[date_col], errors="coerce")
@@ -240,6 +145,7 @@ def monthly_agencies_time():
             df = df.dropna(subset=[date_col])
             df["Month"] = df[date_col].dt.to_period("M").astype(str)
 
+            # Per-file aggregation (Month, Agency, Weight)
             part = (
                 df.groupby(["Month", agency_col], as_index=False)[weight_col]
                   .sum()
@@ -247,17 +153,21 @@ def monthly_agencies_time():
             )
             by_county_parts[county].append(part)
 
-    # Build per-county long outputs, detect anomalies on UNCOMPRESSED, then write compressed CSVs
+    # Build per-county long outputs with deltas
     for county, parts in by_county_parts.items():
         long_df = pd.concat(parts, ignore_index=True)
+
+        # Combine again across files
         long_df = long_df.groupby(["Month", "Agency"], as_index=False)["dist_volume"].sum()
 
+        # Ensure all months present per agency; fill missing with 0
         months_sorted = sorted(long_df["Month"].unique())
         wide = (
             long_df.pivot(index="Agency", columns="Month", values="dist_volume")
                   .reindex(columns=months_sorted)
                   .fillna(0.0)
         )
+        # Ensure stacked column becomes 'Time'
         wide.columns.name = "Time"
         long_full = (
             wide.stack()
@@ -267,43 +177,23 @@ def monthly_agencies_time():
         if "Time" not in long_full.columns:
             long_full = long_full.rename(columns={"Month": "Time", "level_1": "Time"})
 
+        # Compute delta and pct_change per agency
         long_full = long_full.sort_values(["Agency", "Time"])
         long_full["delta"] = long_full.groupby("Agency")["dist_volume"].diff().fillna(0.0)
 
         prev = long_full.groupby("Agency")["dist_volume"].shift(1)
         pct = (long_full["dist_volume"] - prev) / prev
         pct.loc[prev.eq(0) & long_full["dist_volume"].eq(0)] = 0.0
-        long_full["pct_change"] = pct.fillna(0.0).round(3)
+        long_full["pct_change"] = pct.fillna(0.0).round(3)  # 3 decimals
 
         long_full = long_full[["Agency", "Time", "dist_volume", "delta", "pct_change"]]
 
-        # --- NEW: anomaly detection on the monthly (uncompressed) table ---
-        anomalies = _detect_anomalies(long_full, county)
-        if len(anomalies):
-            all_anomalies.append(anomalies)
-
-        # --- Write compressed per-county CSV (same as before) ---
+        # >>> NEW: compress consecutive zero runs
         compressed = _compress_zero_runs(long_full)
-        out_path = out_dir / f"{county.replace(' ', '_')}_agency_timeseries_2023_2025.csv"
+
+        out_path = out_dir / f"{county.replace(' ', '_')}_agency_timeseries.csv"
         compressed.to_csv(out_path, index=False)
         print(f"[OK] Wrote {out_path} (rows={len(compressed)})")
-
-    # --- Write anomalies.csv across all counties ---
-    if all_anomalies:
-        anomalies_df = pd.concat(all_anomalies, ignore_index=True).sort_values(["County", "Agency", "Time"])
-        anomalies_df.to_csv(out_dir / "anomalies.csv", index=False)
-        print(f"[OK] Wrote {out_dir/'anomalies.csv'} (rows={len(anomalies_df)})")
-    else:
-        # Still write an empty file with headers for consistency
-        pd.DataFrame(
-            columns=[
-                "County","Agency","Time","dist_volume","delta","pct_change",
-                "expected_seasonal","residual","robust_z","yoy_pct_change",
-                "iso_label","iso_score","reasons"
-            ]
-        ).to_csv(out_dir / "anomalies.csv", index=False)
-        print(f"[OK] Wrote {out_dir/'anomalies.csv'} (rows=0)")
-
 
 if __name__ == "__main__":
     monthly_agencies_time()
