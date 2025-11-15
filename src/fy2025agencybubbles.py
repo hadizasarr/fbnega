@@ -1,14 +1,16 @@
-# fy2025_agency_category_heatmaps.py
+# fy2023_2025_agency_foodtype_heatmaps.py
 #
 # Inputs:
+#   ../data/Sorted Food/Sorted_FY2023 Split By County/*.csv
+#   ../data/Sorted Food/Sorted_FY2024 Split By County/*.csv
 #   ../data/Sorted Food/Sorted_FY2025 Split By County/*.csv
 #
-# Outputs (per county, into ../data/Agency Insights/FY2025_Heatmaps/):
-#   <County>_FY2025_agency_category_heatmap.png
+# Outputs (per county, into ../data/Agency Insights/FY2023_2025_Heatmaps/):
+#   <County>_FY2023_2025_agency_category_heatmap.png
 #
-# Rows    = agencies (top N by FY2025 volume)
+# Rows    = agencies (top N by FY2023–25 volume)
 # Columns = food types (top K, rest grouped as "Other")
-# Cell    = share of that agency's FY2025 volume in that food type (0–1)
+# Cell    = share of that agency's FY2023–25 volume in that food type (0–1)
 #
 # Color scale: low share = cool (navy/blue), high share = warm (yellow/orange/red)
 
@@ -18,15 +20,20 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 
-IN_DIR   = Path("../data/Sorted Food/Sorted_FY2025 Split By County")
-OUT_DIR  = Path("../data/Agency Insights/FY2025_Heatmaps")
+YEAR_DIRS = [
+    Path("../data/Sorted Food/Sorted_FY2023 Split By County"),
+    Path("../data/Sorted Food/Sorted_FY2024 Split By County"),
+    Path("../data/Sorted Food/Sorted_FY2025 Split By County"),
+]
 
-MIN_TOTAL_WEIGHT = 500.0   # ignore tiny agencies
+OUT_DIR  = Path("../data/Agency Insights/FY2023_2025_Heatmaps")
+
+MIN_TOTAL_WEIGHT = 500.0   # ignore tiny agencies (3-year total)
 MAX_AGENCIES     = 25      # max agencies per county to show
 TOP_K_CATS       = 9       # number of named food types; 10th will be "Other"
 
 
-# ---------- helpers to detect columns ----------
+# ---------- helpers to detect columns on a raw CSV ----------
 def _pick_cols(df: pd.DataFrame):
     cols = [c.strip() for c in df.columns]
     df.columns = cols
@@ -80,16 +87,54 @@ def _extract_food_type(cat_series: pd.Series) -> pd.Series:
     return pd.Series(vals, index=cat_series.index, name="FoodType")
 
 
+# ---------- load all counties across years ----------
+def _load_all_years() -> dict[str, pd.DataFrame]:
+    """
+    Returns dict: county_name -> DataFrame with columns [Agency, FoodCategory, Weight]
+    aggregated across FY2023–FY2025.
+    """
+    county_parts: dict[str, list[pd.DataFrame]] = {}
+
+    for year_dir in YEAR_DIRS:
+        if not year_dir.exists():
+            print(f"[WARN] Missing directory: {year_dir}")
+            continue
+
+        for f in year_dir.glob("*_Sorted_FY*.csv"):
+            county = f.stem.split("_")[0].title()
+            try:
+                raw = pd.read_csv(f)
+            except Exception as e:
+                print(f"[WARN] Failed to read {f}: {e}")
+                continue
+
+            try:
+                agency_col, cat_col, weight_col = _pick_cols(raw)
+            except Exception as e:
+                print(f"[WARN] {f}: {e}")
+                continue
+
+            df = raw[[agency_col, cat_col, weight_col]].copy()
+            df.columns = ["Agency", "FoodCategory", "Weight"]
+
+            county_parts.setdefault(county, []).append(df)
+
+    county_to_df: dict[str, pd.DataFrame] = {}
+    for county, parts in county_parts.items():
+        county_to_df[county] = pd.concat(parts, ignore_index=True)
+
+    return county_to_df
+
+
 # ---------- core: one county ----------
-def _plot_county_heatmap(county: str, df: pd.DataFrame,
-                         agency_col: str, cat_col: str, weight_col: str):
+def _plot_county_heatmap(county: str, df: pd.DataFrame):
     # build FoodType
     df = df.copy()
-    df["FoodType"] = _extract_food_type(df[cat_col])
+    df["FoodType"] = _extract_food_type(df["FoodCategory"])
 
     # total by agency & filter small ones
     total_by_agency = (
-        df.groupby(agency_col, as_index=True)[weight_col]
+        df.groupby("Agency", as_index=True)["Weight"]
           .sum()
           .rename("total_weight")
     )
@@ -104,13 +149,13 @@ def _plot_county_heatmap(county: str, df: pd.DataFrame,
                        .head(MAX_AGENCIES)
                        .index.tolist()
     )
-    df = df[df[agency_col].isin(top_agencies)]
+    df = df[df["Agency"].isin(top_agencies)]
 
     # aggregate by Agency × FoodType
     agg = (
-        df.groupby([agency_col, "FoodType"], as_index=False)[weight_col]
+        df.groupby(["Agency", "FoodType"], as_index=False)["Weight"]
           .sum()
-          .rename(columns={weight_col: "lbs"})
+          .rename(columns={"Weight": "lbs"})
     )
 
     # pick top K food types overall, rest = "Other"
@@ -122,20 +167,17 @@ def _plot_county_heatmap(county: str, df: pd.DataFrame,
 
     # recompute with collapsed categories
     agg2 = (
-        agg.groupby([agency_col, "FoodTypeCollapsed"], as_index=False)["lbs"]
+        agg.groupby(["Agency", "FoodTypeCollapsed"], as_index=False)["lbs"]
            .sum()
     )
 
     # pivot to agency × category
-    pivot = agg2.pivot(index=agency_col, columns="FoodTypeCollapsed", values="lbs").fillna(0.0)
+    pivot = agg2.pivot(index="Agency", columns="FoodTypeCollapsed", values="lbs").fillna(0.0)
 
     # compute shares per agency
     totals = pivot.sum(axis=1)
-    # avoid division by zero, though totals should all be >= MIN_TOTAL_WEIGHT
     totals_safe = totals.replace(0, np.nan)
     shares = pivot.div(totals_safe, axis=0).fillna(0.0)
-
-    # clamp numerically so we are cleanly in [0, 1]
     shares = shares.clip(lower=0.0, upper=1.0)
 
     # order agencies by total volume
@@ -175,40 +217,37 @@ def _plot_county_heatmap(county: str, df: pd.DataFrame,
     ax.set_yticks(np.arange(len(shares.index)))
     ax.set_yticklabels(shares.index)
 
-    ax.set_xlabel("Food Type (share of agency volume)")
+    ax.set_xlabel("Food Type (share of agency volume, FY2023–2025)")
     ax.set_ylabel("Agency")
-    ax.set_title(f"FY2025 Agency × Food Type Mix — {county} County")
+    ax.set_title(f"FY2023–2025 Agency × Food Type Mix — {county} County")
 
     # colorbar
     cbar = fig.colorbar(im, ax=ax)
-    cbar.set_label("Share of agency's FY2025 pounds")
+    cbar.set_label("Share of agency's FY2023–2025 pounds")
 
     plt.tight_layout()
-    out_png = OUT_DIR / f"{county}_FY2025_agency_category_heatmap.png"
+    out_png = OUT_DIR / f"{county}_FY2023_2025_agency_category_heatmap.png"
     fig.savefig(out_png, dpi=220, bbox_inches="tight")
     plt.close(fig)
     print(f"[OK] {county}: wrote {out_png.name}")
 
 
 def main():
-    print("[HEATMAP] Building FY2025 agency × food-type heatmaps")
+    print("[HEATMAP] Building FY2023–2025 agency × food-type heatmaps")
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     # clear previous outputs from this task
-    for p in OUT_DIR.glob("*_FY2025_agency_category_heatmap.png"):
+    for p in OUT_DIR.glob("*_FY2023_2025_agency_category_heatmap.png"):
         p.unlink()
 
-    files = sorted(IN_DIR.glob("*_Sorted_FY2025.csv"))
-    if not files:
-        print(f"[WARN] No FY2025 sorted food files found in {IN_DIR}")
+    county_to_df = _load_all_years()
+    if not county_to_df:
+        print("[WARN] No county data found across FY2023–2025.")
         return
 
-    for f in files:
-        county = f.stem.split("_")[0].title()
+    for county in sorted(county_to_df.keys()):
         try:
-            df = pd.read_csv(f)
-            agency_col, cat_col, weight_col = _pick_cols(df)
-            _plot_county_heatmap(county, df, agency_col, cat_col, weight_col)
+            _plot_county_heatmap(county, county_to_df[county])
         except Exception as e:
             print(f"[WARN] {county}: failed — {e}")
 

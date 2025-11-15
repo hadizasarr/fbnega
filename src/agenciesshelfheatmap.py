@@ -1,14 +1,16 @@
-# fy2025_agency_shelflife_heatmaps.py
+# fy2023_2025_agency_shelflife_heatmaps.py
 #
 # Inputs:
+#   ../data/Sorted Food/Sorted_FY2023 Split By County/*.csv
+#   ../data/Sorted Food/Sorted_FY2024 Split By County/*.csv
 #   ../data/Sorted Food/Sorted_FY2025 Split By County/*.csv
 #
-# Outputs (per county, into ../data/Agency Insights/FY2025_Heatmaps_ShelfLife/):
-#   <County>_FY2025_agency_shelflife_heatmap.png
+# Outputs (per county, into ../data/Agency Insights/FY2023_2025_Heatmaps_ShelfLife/):
+#   <County>_FY2023_2025_agency_shelflife_heatmap.png
 #
-# Rows    = agencies (top N by FY2025 volume)
+# Rows    = agencies (top N by FY2023–25 volume)
 # Columns = shelf types (Dry, Frozen, Cooled, etc.)
-# Cell    = share of that agency's FY2025 volume in that shelf type (0–1)
+# Cell    = share of that agency's FY2023–25 volume in that shelf type (0–1)
 #
 # Color scale: low share = cool (navy/blue), high share = warm (yellow/orange/red)
 
@@ -18,14 +20,19 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 
-IN_DIR   = Path("../data/Sorted Food/Sorted_FY2025 Split By County")
-OUT_DIR  = Path("../data/Agency Insights/FY2025_Heatmaps_ShelfLife")
+YEAR_DIRS = [
+    Path("../data/Sorted Food/Sorted_FY2023 Split By County"),
+    Path("../data/Sorted Food/Sorted_FY2024 Split By County"),
+    Path("../data/Sorted Food/Sorted_FY2025 Split By County"),
+]
 
-MIN_TOTAL_WEIGHT = 500.0   # ignore tiny agencies
+OUT_DIR  = Path("../data/Agency Insights/FY2023_2025_Heatmaps_ShelfLife")
+
+MIN_TOTAL_WEIGHT = 500.0   # ignore tiny agencies (3-year total)
 MAX_AGENCIES     = 25      # max agencies per county to show
 
 
-# ---------- helpers to detect columns ----------
+# ---------- helpers to detect columns on a raw CSV ----------
 def _pick_cols(df: pd.DataFrame):
     cols = [c.strip() for c in df.columns]
     df.columns = cols
@@ -76,16 +83,54 @@ def _extract_shelf_type(cat_series: pd.Series) -> pd.Series:
     return pd.Series(vals, index=cat_series.index, name="ShelfType")
 
 
+# ---------- load all counties across years ----------
+def _load_all_years() -> dict[str, pd.DataFrame]:
+    """
+    Returns dict: county_name -> DataFrame with columns [Agency, FoodCategory, Weight]
+    aggregated across FY2023–FY2025.
+    """
+    county_parts: dict[str, list[pd.DataFrame]] = {}
+
+    for year_dir in YEAR_DIRS:
+        if not year_dir.exists():
+            print(f"[WARN] Missing directory: {year_dir}")
+            continue
+
+        for f in year_dir.glob("*_Sorted_FY*.csv"):
+            county = f.stem.split("_")[0].title()
+            try:
+                raw = pd.read_csv(f)
+            except Exception as e:
+                print(f"[WARN] Failed to read {f}: {e}")
+                continue
+
+            try:
+                agency_col, cat_col, weight_col = _pick_cols(raw)
+            except Exception as e:
+                print(f"[WARN] {f}: {e}")
+                continue
+
+            df = raw[[agency_col, cat_col, weight_col]].copy()
+            df.columns = ["Agency", "FoodCategory", "Weight"]
+
+            county_parts.setdefault(county, []).append(df)
+
+    county_to_df: dict[str, pd.DataFrame] = {}
+    for county, parts in county_parts.items():
+        county_to_df[county] = pd.concat(parts, ignore_index=True)
+
+    return county_to_df
+
+
 # ---------- core: one county ----------
-def _plot_county_heatmap(county: str, df: pd.DataFrame,
-                         agency_col: str, cat_col: str, weight_col: str):
-    # build ShelfType from Food Category prefix
+def _plot_county_heatmap(county: str, df: pd.DataFrame):
+    # build ShelfType from FoodCategory prefix
     df = df.copy()
-    df["ShelfType"] = _extract_shelf_type(df[cat_col])
+    df["ShelfType"] = _extract_shelf_type(df["FoodCategory"])
 
     # total by agency & filter small ones
     total_by_agency = (
-        df.groupby(agency_col, as_index=True)[weight_col]
+        df.groupby("Agency", as_index=True)["Weight"]
           .sum()
           .rename("total_weight")
     )
@@ -100,17 +145,17 @@ def _plot_county_heatmap(county: str, df: pd.DataFrame,
                        .head(MAX_AGENCIES)
                        .index.tolist()
     )
-    df = df[df[agency_col].isin(top_agencies)]
+    df = df[df["Agency"].isin(top_agencies)]
 
     # aggregate by Agency × ShelfType
     agg = (
-        df.groupby([agency_col, "ShelfType"], as_index=False)[weight_col]
+        df.groupby(["Agency", "ShelfType"], as_index=False)["Weight"]
           .sum()
-          .rename(columns={weight_col: "lbs"})
+          .rename(columns={"Weight": "lbs"})
     )
 
     # pivot to agency × shelf type
-    pivot = agg.pivot(index=agency_col, columns="ShelfType", values="lbs").fillna(0.0)
+    pivot = agg.pivot(index="Agency", columns="ShelfType", values="lbs").fillna(0.0)
 
     # compute shares per agency
     totals = pivot.sum(axis=1)
@@ -121,19 +166,17 @@ def _plot_county_heatmap(county: str, df: pd.DataFrame,
     # order agencies by total volume
     shares = shares.loc[totals.sort_values(ascending=False).index]
 
-    # order columns: keep a nice custom order if possible, else alphabetical
+    # order columns: custom order if possible, else alphabetical
     col_names = list(shares.columns)
     preferred = ["Dry", "Cooled", "Frozen", "Non-Food", "Unsorted", "Other"]
-    ordered_cols = []
+    ordered_cols: list[str] = []
 
-    # bring preferred ones (that actually exist) to the front in that order
     for p in preferred:
         matches = [c for c in col_names if c.startswith(p)]
         for m in matches:
             if m not in ordered_cols:
                 ordered_cols.append(m)
 
-    # add any remaining shelf types alphabetically
     for c in sorted(col_names):
         if c not in ordered_cols:
             ordered_cols.append(c)
@@ -141,7 +184,6 @@ def _plot_county_heatmap(county: str, df: pd.DataFrame,
     shares = shares[ordered_cols]
 
     # ------------- plotting -------------
-    # custom cool→warm colormap: navy → blue → lavender → yellow → orange → red
     colors = [
         "#0b1f4b",  # deep navy
         "#1f5fbf",  # medium blue
@@ -168,40 +210,37 @@ def _plot_county_heatmap(county: str, df: pd.DataFrame,
     ax.set_yticks(np.arange(len(shares.index)))
     ax.set_yticklabels(shares.index)
 
-    ax.set_xlabel("Shelf Type (share of agency volume)")
+    ax.set_xlabel("Shelf Type (share of agency volume, FY2023–2025)")
     ax.set_ylabel("Agency")
-    ax.set_title(f"FY2025 Agency × Shelf Type Mix — {county} County")
+    ax.set_title(f"FY2023–2025 Agency × Shelf Type Mix — {county} County")
 
     # colorbar
     cbar = fig.colorbar(im, ax=ax)
-    cbar.set_label("Share of agency's FY2025 pounds")
+    cbar.set_label("Share of agency's FY2023–2025 pounds")
 
     plt.tight_layout()
-    out_png = OUT_DIR / f"{county}_FY2025_agency_shelflife_heatmap.png"
+    out_png = OUT_DIR / f"{county}_FY2023_2025_agency_shelflife_heatmap.png"
     fig.savefig(out_png, dpi=220, bbox_inches="tight")
     plt.close(fig)
     print(f"[OK] {county}: wrote {out_png.name}")
 
 
 def main():
-    print("[HEATMAP-SHELF] Building FY2025 agency × shelf-type heatmaps")
+    print("[HEATMAP-SHELF] Building FY2023–2025 agency × shelf-type heatmaps")
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     # clear previous outputs from this task
-    for p in OUT_DIR.glob("*_FY2025_agency_shelflife_heatmap.png"):
+    for p in OUT_DIR.glob("*_FY2023_2025_agency_shelflife_heatmap.png"):
         p.unlink()
 
-    files = sorted(IN_DIR.glob("*_Sorted_FY2025.csv"))
-    if not files:
-        print(f"[WARN] No FY2025 sorted food files found in {IN_DIR}")
+    county_to_df = _load_all_years()
+    if not county_to_df:
+        print("[WARN] No county data found across FY2023–2025.")
         return
 
-    for f in files:
-        county = f.stem.split("_")[0].title()
+    for county in sorted(county_to_df.keys()):
         try:
-            df = pd.read_csv(f)
-            agency_col, cat_col, weight_col = _pick_cols(df)
-            _plot_county_heatmap(county, df, agency_col, cat_col, weight_col)
+            _plot_county_heatmap(county, county_to_df[county])
         except Exception as e:
             print(f"[WARN] {county}: failed — {e}")
 
