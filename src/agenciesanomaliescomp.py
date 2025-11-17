@@ -117,7 +117,7 @@ def declining_agency_watchlist():
         "Trend (% per month)",
         "Recent month-to-month swing (abs. %)",
         "Recent months with food (%)",
-        "Same months last year (context)",
+       # "Same months last year (context)",
         "Explanation",
     ]
 
@@ -229,7 +229,7 @@ def declining_agency_watchlist():
                 "Trend (% per month)": round(slope_norm, 4),
                 "Recent month-to-month swing (abs. %)": round(mom_recent, 3),
                 "Recent months with food (%)": round(nz_recent, 3),
-                "Same months last year (context)": last_year_info,
+                # redundant info "Same months last year (context)": last_year_info,
                 "Explanation": explanation,
             })
             total_flagged += 1
