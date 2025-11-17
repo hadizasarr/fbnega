@@ -1,1 +1,1 @@
-County,Agency,median_prev,median_recent,median_change_pct,slope_per_month,slope_normalized,mom_vol_prev,mom_vol_recent,nonzero_share_prev,nonzero_share_recent,last_year_median,last_year_total,last_year_nonzero_share,last_year_info,flags,explanations
+Agency,Recent typical month (lb),Recent vs earlier change (%),Trend (% per month),Recent month-to-month swing (abs. %),Recent months with food (%),Same months last year (context),Explanation
