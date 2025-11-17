@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
+import numpy as np
 
 def plot_all_counties():
     # Load CSV
@@ -33,7 +34,10 @@ def plot_all_counties():
 
         # Plot
         plt.figure(figsize=(10, 6))
-        plt.plot(county_df["Month"], county_df["Weight"], marker="o", label="Weight")
+        plt.plot(county_df["Month"], county_df["Weight"], label="Weight")
+        plt.scatter(county_df["Month"], county_df["Weight"], s=county_df['Num. of Unique Agencies'],
+                    label="Number of Unique Agencies",
+                    c='purple')
 
         # display the number of unique partner agencies involved in the pickup / deliveries 
         # for each month next to the weight value for each month
