@@ -3,7 +3,7 @@
 # Outputs (per county): ../data/Agency Insights/<County>_declining_agency_watchlist.csv
 #
 # Flags agencies that are steadily trending down and/or more inconsistent lately.
-# Explanations are plain-English and include a "same months last year" snapshot.
+# Output columns are simplified and client-friendly.
 
 from pathlib import Path
 import numpy as np
@@ -33,6 +33,7 @@ def _expand_time_col(df: pd.DataFrame) -> pd.DataFrame:
         else:
             rows.append({"Agency": r["Agency"], "Time": t, "dist_volume": float(r["dist_volume"])})
     return pd.DataFrame(rows)
+
 
 def load_from_agency_timeseries(folder: str = "../data/Agency Distribution Over Time") -> pd.DataFrame:
     """Reads *_agency_timeseries*.csv → columns: County, Agency, Time (YYYY-MM), dist_volume."""
@@ -86,9 +87,10 @@ def _linear_slope_per_month(y: np.ndarray) -> float:
 
 def declining_agency_watchlist():
     """
-    Writes one CSV per county to ../data/Agency Insights/<County>_declining_agency_watchlist.csv
+    Writes per county: ../data/Agency Insights/<County>_declining_agency_watchlist.csv
+
     Flags agencies that are steadily trending down and/or more inconsistent recently.
-    Includes a "same months last year" snapshot and plain-English explanations.
+    Output columns are simplified for client-facing use.
     """
     # ---- Load per-county timeseries CSVs as inputs ----
     df = load_from_agency_timeseries("../data/Agency Distribution Over Time")
@@ -107,15 +109,16 @@ def declining_agency_watchlist():
     total_series = 0
     total_flagged = 0
 
-    # Standard column order for outputs
+    # Final, client-friendly column order
     out_columns = [
-        "County","Agency",
-        "median_prev","median_recent","median_change_pct",
-        "slope_per_month","slope_normalized",
-        "mom_vol_prev","mom_vol_recent",
-        "nonzero_share_prev","nonzero_share_recent",
-        "last_year_median","last_year_total","last_year_nonzero_share","last_year_info",
-        "flags","explanations",
+        "Agency",
+        "Recent typical month (lb)",
+        "Recent vs earlier change (%)",
+        "Trend (% per month)",
+        "Recent month-to-month swing (abs. %)",
+        "Recent months with food (%)",
+        "Same months last year (context)",
+        "Explanation",
     ]
 
     # Process and write per county
@@ -135,19 +138,19 @@ def declining_agency_watchlist():
             if prev_win < 4:
                 continue
 
-            total_series += 1
-
             y_prev = y[:prev_win]
             y_recent = y[prev_win:]
 
             # Core signals
             med_prev = float(np.median(y_prev)) if len(y_prev) else 0.0
             med_recent = float(np.median(y_recent)) if len(y_recent) else 0.0
-            median_change_pct = (med_recent - med_prev) / med_prev if med_prev > 0 else (0.0 if med_recent == 0 else -1.0)
+            median_change_pct = (med_recent - med_prev) / med_prev if med_prev > 0 else (
+                0.0 if med_recent == 0 else -1.0
+            )
 
             slope = _linear_slope_per_month(y)
             overall_median = float(np.median(y)) if np.median(y) > 0 else 1.0
-            slope_norm = slope / overall_median
+            slope_norm = slope / overall_median   # fractional change per month
 
             prev_full = np.roll(y, 1); prev_full[0] = np.nan
             valid = (~np.isnan(prev_full)) & (prev_full > 0) & (y > 0)
@@ -169,7 +172,7 @@ def declining_agency_watchlist():
             last_year_total  = float(np.nansum(y_lastyear)) if has_lastyear else np.nan
             last_year_nzshare = float(np.mean(y_lastyear > 0)) if has_lastyear else np.nan
 
-            # Flags + plain-English messages
+            # Flags + plain-English messages (used internally only)
             flags, messages = [], []
 
             if slope_norm <= DECLINE_SLOPE_PERC:
@@ -178,10 +181,11 @@ def declining_agency_watchlist():
 
             if (median_change_pct <= RECENT_DROP_PERC) and (nz_prev >= MIN_NONZERO_SHARE) and (nz_recent >= MIN_NONZERO_SHARE):
                 flags.append("LOWER_RECENT_MEDIAN")
-                messages.append(f"Typical month now {median_change_pct:.0%} vs earlier "
-                                f"(~{med_prev:,.0f} lb → ~{med_recent:,.0f} lb).")
+                messages.append(
+                    f"Typical month now {median_change_pct:.0%} vs earlier "
+                    f"(~{med_prev:,.0f} lb → ~{med_recent:,.0f} lb)."
+                )
 
-            # Inconsistency (reader-friendly wording)
             cv_prev = _coef_of_variation(y_prev)
             cv_recent = _coef_of_variation(y_recent)
             cv_change_ok = (
@@ -198,59 +202,42 @@ def declining_agency_watchlist():
                 messages.append("Bigger swings between months in the recent period.")
 
             # De-emphasize mostly-zero patterns unless clear decline
-            if (nz_prev < MIN_NONZERO_SHARE or nz_recent < MIN_NONZERO_SHARE):
-                if "DECLINING_TREND" not in flags and "LOWER_RECENT_MEDIAN" not in flags:
-                    flags, messages = [], []
+            if (nz_prev < MIN_NONZERO_SHARE or nz_recent < MIN_NONZERO_SHARE) and ("DECLINING_TREND" not in flags):
+                flags = [f for f in flags if f in {"DECLINING_TREND"}]
+                messages = [m for m in messages if "decline" in m.lower()]
 
             if not flags:
                 continue
 
-            # Headline + last-year line
-            if "DECLINING_TREND" in flags and ("VARIABILITY_UP" in flags or "MOM_VOLATILITY_UP" in flags):
-                headline = "Declining and less consistent recently."
-            elif "DECLINING_TREND" in flags or "LOWER_RECENT_MEDIAN" in flags:
-                headline = "Declining distribution."
+            total_series += 1
+
+            # Build "last year" info string
+            if has_lastyear:
+                last_year_info = (
+                    f"Same months last year: ~{last_year_total:,.0f} lb total "
+                    f"(median ~{last_year_median:,.0f} lb; non-zero {last_year_nzshare:.0%} of months)."
+                )
             else:
-                headline = "Growing inconsistency."
+                last_year_info = "Less than 6 comparable months last year."
 
-            ly_line = ""
-            if has_lastyear and (last_year_median > 0) and (med_recent > 0):
-                ly_change = (med_recent - last_year_median) / last_year_median
-                ly_line = f" Compared to same months last year: typical month {ly_change:.0%} "\
-                          f"({last_year_median:,.0f} lb → {med_recent:,.0f} lb)."
-
-            explanation = (headline + " " + " ".join(messages) + ly_line).strip()
-            last_year_info = (
-                f"Last year (12 mo): median {last_year_median:,.0f} lb, total {last_year_total:,.0f} lb, "
-                f"non-zero {last_year_nzshare:.0%}."
-                if has_lastyear else "Not enough data for same-month last year."
-            )
+            explanation = " ".join(messages + [last_year_info]).strip()
 
             results.append({
-                "County": county,
                 "Agency": agency,
-                "median_prev": round(med_prev, 0),
-                "median_recent": round(med_recent, 0),
-                "median_change_pct": round(median_change_pct, 3),
-                "slope_per_month": round(slope, 2),
-                "slope_normalized": round(slope_norm, 4),
-                "mom_vol_prev": round(mom_prev, 2),
-                "mom_vol_recent": round(mom_recent, 2),
-                "nonzero_share_prev": round(nz_prev, 2),
-                "nonzero_share_recent": round(nz_recent, 2),
-                "last_year_median": round(last_year_median, 0) if has_lastyear else np.nan,
-                "last_year_total": round(last_year_total, 0) if has_lastyear else np.nan,
-                "last_year_nonzero_share": round(last_year_nzshare, 2) if has_lastyear else np.nan,
-                "last_year_info": last_year_info,
-                "flags": ",".join(flags),
-                "explanations": explanation
+                "Recent typical month (lb)": round(med_recent, 0),
+                "Recent vs earlier change (%)": round(median_change_pct, 3),
+                "Trend (% per month)": round(slope_norm, 4),
+                "Recent month-to-month swing (abs. %)": round(mom_recent, 3),
+                "Recent months with food (%)": round(nz_recent, 3),
+                "Same months last year (context)": last_year_info,
+                "Explanation": explanation,
             })
             total_flagged += 1
 
-        # --- safe build even if empty (no KeyError) ---
+        # Build DataFrame for this county
         if results:
             county_df = pd.DataFrame(results)[out_columns].sort_values(
-                ["Agency", "flags", "slope_normalized", "median_change_pct"]
+                ["Recent vs earlier change (%)", "Trend (% per month)"]
             )
         else:
             county_df = pd.DataFrame(columns=out_columns)
