@@ -58,7 +58,7 @@ def summary_stats():
             county_avglbs_permonth = county_df['Weight'].sum() / num_months_county
             print(f'Average weight per month {county_avglbs_permonth}, # of Months {num_months_county}')
 
-            print( len(county_df['Agency Name'].unique()))
+            print(f'Total # of Unique Agencies {len(county_df['Agency Name'].unique())}')
             avg_agencies_per_month = len(county_df['Agency Name'].unique()) / num_months_county
             print(f'Average # of Unique Agencies Per Month: {avg_agencies_per_month}')
 
