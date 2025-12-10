@@ -52,16 +52,15 @@ def summary_stats():
         # exclude counties
         for county in sorted(df.County.unique()):
             county_df = df[df['County'] == county].reset_index(drop=True)
-            if county == 'CLARKE':
-                num_months_county = len(county_df['Month'].unique())
+            num_months_county = len(county_df['Month'].unique())
 
-                print(f'********* County:{county.upper()} ***********')
-                county_avglbs_permonth = county_df['Weight'].sum() / num_months_county
-                print(f'Average weight per month {county_avglbs_permonth}, # of Months {num_months_county}')
+            print(f'********* County:{county.upper()} ***********')
+            county_avglbs_permonth = county_df['Weight'].sum() / num_months_county
+            print(f'Average weight per month {county_avglbs_permonth}, # of Months {num_months_county}')
 
-                print( len(county_df['Agency Name'].unique()))
-                avg_agencies_per_month = len(county_df['Agency Name'].unique()) / num_months_county
-                print(f'Average # of Unique Agencies Per Month: {avg_agencies_per_month}')
+            print( len(county_df['Agency Name'].unique()))
+            avg_agencies_per_month = len(county_df['Agency Name'].unique()) / num_months_county
+            print(f'Average # of Unique Agencies Per Month: {avg_agencies_per_month}')
 
 
 summary_stats()
